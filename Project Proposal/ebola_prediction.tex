@@ -68,8 +68,9 @@ Few words about abstract -- some favorite quote etc :)
 {\em{Mike, Romit : please extend this section. this section can also be combined with abstract}}
 
 \bigskip
-\IEEEPARstart{C}{urrent} Ebola outbreak in West Africa is the worst in the history. 
-
+\IEEEPARstart{C}{urrent} Ebola outbreak in West Africa is the worst in history, and shows no signs
+of abating. At the time of writing, the number of cases in Liberia continues to grow exponentially,
+while linear growth continues in Sierra Leone.
 
 
 
@@ -237,10 +238,20 @@ Simulations of the stochastic model were performed using Gillespie's first react
 \cite{chowell2004basic, legrand2007understanding} as described in previous sections modeled the spread of Ebola using the compartmental modeling procedure. Even though \cite{legrand2007understanding} modified the original SIR model to reflect the heterogeneity of infection states, the underlying assumption is still the fully mixed model, where individual has an equal chance of spreading the disease to each other. However, disease like Ebola speeds through the populations via the networks formed by physical contacts among individuals. Models that incorporate network structure avoid the random-mixing assumption by assigning each individuals a finite set of permanent contacts to whom they can transmit the infection and from whom they can get infected. Although both in network and random-mixing based compartmental models, individuals may have the same number of contacts per unit time, within a network the set of contacts in fixed, whereas in random-mixing model, it is continually changing. A network model thus capture the permeance of interactions.
 
 
+
 \bigskip 
 {\em{Mike, Romit : please extend this section. I did not read \cite{newman2002spread} completely. we can add more stuff from that paper here, or any other paper that extend SIR models to networks}}
 
-In \cite{newman2002spread}, the authors extend the concept of SIR model in network analysis. Transmissibility $T$ of a disease is defined as the average probability that an infectious individual will transmit the disease to a susceptible individual with whom they have contact. Epidemic threshold $T_c$ is the minimum transmissibility required for an outbreak to become a large-scale epidemic. The authors provided the relation between the basic reproductive number $R_0$ of an SIR network and the transmissibility $T$ as follows:
+In \cite{newman2002spread}, the authors extend the concept of SIR model in network analysis.
+They provide an exact solution to the SIR models of epidemic disease on networks of various kinds.
+This is achieved using a combination of mapping to percolation models and generating function methods.
+
+Transmissibility $T$ of a disease is defined as the average probability that an infectious
+individual will transmit the disease to a susceptible individual with whom they have contact.
+Epidemic threshold $T_c$ is the minimum transmissibility required for an outbreak to become
+a large-scale epidemic. The authors provided the relation between the basic reproductive number
+$R_0$ of an SIR network and the transmissibility $T$ as follows:
+
 
 \[
 some equation
@@ -280,6 +291,8 @@ In our search for existing literatures in the area of network based model, howev
 \subsection{Paper \cite{meltzer2014estimating}}
 \subsection{Paper \cite{myers2012information}}
 \subsection{Chapter 21 from \cite{easley2010networks}}
+
+\subsection{Paper \cite{newman2002spread}}
 
 \bigskip
 {\em{Mike, Romit : please extend this section if needed, I am not sure which of the paper we need to cite or describe}}
