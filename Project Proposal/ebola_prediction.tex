@@ -39,7 +39,7 @@
 \begin{document}
 
 \title{Predicting 2014 Ebola Outbreak in West Africa using Network Analysis}
-\author{Shafi Bashar {\em SUID: 06018208}, Mike Percy {\em  SUID: }, Romit  Singhai {\em  SUID: 06005567}
+\author{Shafi Bashar {\em SUID: 06018208}, Mike Percy {\em  SUID: 005732903}, Romit  Singhai {\em  SUID: 06005567}
 %\thanks{Paper approved by A. Yener, the Editor for Information Theory and Physical-Layer Security of the IEEE Communications Society. Manuscript received April 5, 2011; revised December 21, 2012 and June 16, 2012.}
 %\thanks{This material is based upon work supported by the National Science Foundation under Grants CCF-0830706 and CNS-091751. The work of C. Xiao was supported in part by National Science Foundation under Grants CCF-0915846 and ECCS-1231848.}
 %\thanks{S. Bashar and Z. Ding are with the Department of Electrical and Computer Engineering, Univ. of California, Davis, CA, 95616, USA. e-mail: \{shafiab, ding\}@ece.ucdavis.edu.}
@@ -68,10 +68,9 @@
 %{\em{Mike, Romit : please extend this section. this section can also be combined with abstract}}
 
 \bigskip
-\IEEEPARstart{C}{urrent} Ebola outbreak in West Africa is the worst in history, and shows no signs
+\IEEEPARstart{T}{he} current Ebola outbreak in West Africa is the worst in history, and shows no signs
 of abating. At the time of writing, the number of cases in Liberia continues to grow exponentially,
 while linear growth continues in Sierra Leone.
-
 
 
 
@@ -274,16 +273,54 @@ The authors also predicted average size of the outbreak $<s>$ and probability of
 
 
 
-\subsection{Paper \cite{meyers2005network}}
-In our search for existing literatures in the area of network based model, however, we haven't come across any relevant work the spread of Ebola. In \cite{meyers2005network}, the authors model the spread of 2002-03 outbreak of SARS in Hong Kong and Canada using network model. A contact network model attempt to characterize every interpersonal contact that can potentially lead to disease transmission in community. Each person in community is represented as a node in the network and each contact between two people is represent as edge connecting the two nodes. The number of edges emanating from a node, that is the number of contacts a person has is called the degree of the node. The degree distribution of the node is a fundamental quantity in network theory.   In \cite{meyers2005network}, the authors presented three different contact network model for SARS outbreak:
+
+
+\subsection{Assessing the international spreading risk associated with the 2014 West African Ebola outbreak \cite{gomes2014assessing} }
+
+Work by Gomes, et al. \cite{gomes2014assessing} gathered data from the Disease Outbreaks News of
+the WHO and used what they call the Global Epidemic and Mobility Model to predict the spread of the
+2014 Ebola outbreak. In this model, the world is divided into geographcal regions defining a
+subpopulation network, modeling connections among subpopulations representing traffic flows due to
+transportation infrastructure.
+
+Like \cite{legrand2007understanding}, they use the SEIHFR compartmental disease model and compare
+it with the more traditional SEIR model, while
+generating an ensemble of possible epidemic evolutions for observables such as newly generated
+cases, time of arrival of infection, and number of traveling disease carriers.
+
+For the SEIHFR model, the model parameters are $\beta_I$, transmission coefficient in the
+community, $\beta_H$, transmission coefficient in the hospital, and $\beta_F$, transmission
+coefficient during funerals. $\theta_1$ is computed so that $\theta\%$ of infectious cases
+are hospitalized.
+
+The expression for the basic reprodctive number $R_0$ is obtained using the sum of three terms
+for this model:
+
+$$
+R_0 = R_I + R_H + R_F
+$$
+
+Where $R_I$ is a term that accounts for transmissions in the community, $R_H$ accounts for
+transmissions in the hospital, and $R_F$ accounts for infections due to dead individuals.
+
+They ran Monte Carlo simulations exploring the value of $R_0$ while relying on results reported
+in \cite{legrand2007understanding} and elsewhere for the rest of the model parameters.
+For the SEIHFR model, they used a latin hypercube sampling of the parameter space defined by the
+vector $P = (R_I, R_H, R_F)$.
+
+
+
+\subsection{Network theory and SARS: predicting outbreak diversity \cite{meyers2005network}}
+
+In \cite{meyers2005network}, the authors model the spread of 2002-03 outbreak of SARS in Hong Kong and Canada using network model. A contact network model attempt to characterize every interpersonal contact that can potentially lead to disease transmission in community. Each person in community is represented as a node in the network and each contact between two people is represent as edge connecting the two nodes. The number of edges emanating from a node, that is the number of contacts a person has is called the degree of the node. The degree distribution of the node is a fundamental quantity in network theory.   In \cite{meyers2005network}, the authors presented three different contact network model for SARS outbreak:
 
 \begin{itemize}
-\item \textbf{Urban Network : }  A plausible contact network for an urban setting was generated using computer simulation based on the data for the city of Vancouver, British Columbia. $N=1000$ households were chosen at random from the Vancouver household size distribution statistics which yields approximately 2600 people. Household members were given ages based on age distribution statistics and are then assigned to schools according to school and class size distributions, assigned to occupation according to employment data, to hospitals as patients and caregivers according to the hospital employment and bed data and to other public places. 
-\item \textbf{Random Network : } The above urban networks offers high degree of realism, however is quite complex. In addition to the urban model, a random network with Poisson degree distribution in which individuals connect to others independently and uniformly at random. 
-\item \textbf{Scale-free Network: } There may be individuals in the network called ``superspreaders" with unusually large numbers of contacts or ``supershedders" who are unusually effective at excreting the virus into the environment they share with others. Neither the urban nor the random networks contains significant number of superspreaders. To incorporate the effects of superspreader in disease transmission, \cite{meyers2005network} also studies a network with truncated power law degree distribution. This type of network has a heavy tail of superspreaders. These individuals despite being few in numbers had profound effect on the outbreak patterns. 
+\item \textbf{Urban Network : }  A plausible contact network for an urban setting was generated using computer simulation based on the data for the city of Vancouver, British Columbia. $N=1000$ households were chosen at random from the Vancouver household size distribution statistics which yields approximately 2600 people. Household members were given ages based on age distribution statistics and are then assigned to schools according to school and class size distributions, assigned to occupation according to employment data, to hospitals as patients and caregivers according to the hospital employment and bed data and to other public places.
+\item \textbf{Random Network : } The above urban networks offers high degree of realism, however is quite complex. In addition to the urban model, a random network with Poisson degree distribution in which individuals connect to others independently and uniformly at random.
+\item \textbf{Scale-free Network: } There may be individuals in the network called ``superspreaders" with unusually large numbers of contacts or ``supershedders" who are unusually effective at excreting the virus into the environment they share with others. Neither the urban nor the random networks contains significant number of superspreaders. To incorporate the effects of superspreader in disease transmission, \cite{meyers2005network} also studies a network with truncated power law degree distribution. This type of network has a heavy tail of superspreaders. These individuals despite being few in numbers had profound effect on the outbreak patterns.
 \end{itemize}
- 
- \cite{meyers2005network} extended the result from \cite{newman2002spread} to calculated the fate of an outbreak based on its initial condition, probability of a patient zero with degree $k$ will start an epidemic and the probability that outbreak of size $N$ will start an epidemic. However, \cite{newman2002spread} did not capture the temporal progression of the epidemic, rather provided overall number and distribution of infected individuals. The authors predicted the probability $S$ that an outbreak with $R_0>1$ will lead to an epidemic for there three networks. $S$ is often significantly less than one and can be different for two networks with the same $R_0$. Outbreaks are consistently less likely to reach and epidemic proportions in the power law networks than in the others. $R_0$ is a valuable epidemiological quantity. However, it has its limit since $R_0$ is a function of both the transmissibility of a disease and the contact patterns that underlie the transmission. Therefore, measuring $R_0$ in a location where contact rates are unusually high will lead to an estimate that is not appropriate for the larger community.  Estimating $T$ instead of $R_0$ give us a way out of this difficulty. 
+
+ \cite{meyers2005network} extended the result from \cite{newman2002spread} to calculated the fate of an outbreak based on its initial condition, probability of a patient zero with degree $k$ will start an epidemic and the probability that outbreak of size $N$ will start an epidemic. However, \cite{newman2002spread} did not capture the temporal progression of the epidemic, rather provided overall number and distribution of infected individuals. The authors predicted the probability $S$ that an outbreak with $R_0>1$ will lead to an epidemic for there three networks. $S$ is often significantly less than one and can be different for two networks with the same $R_0$. Outbreaks are consistently less likely to reach and epidemic proportions in the power law networks than in the others. $R_0$ is a valuable epidemiological quantity. However, it has its limit since $R_0$ is a function of both the transmissibility of a disease and the contact patterns that underlie the transmission. Therefore, measuring $R_0$ in a location where contact rates are unusually high will lead to an estimate that is not appropriate for the larger community.  Estimating $T$ instead of $R_0$ give us a way out of this difficulty.
 
 
 \subsection{Paper \cite{keeling2005networks}}
@@ -307,6 +344,8 @@ In our search for existing literatures in the area of network based model, howev
 \section{Discussion Project Proposal}
 \label{sec:ProjectProposal}
 
+\subsection{Proposal}
+
 \bigskip
 {\em{Mike, Romit : please extend this section. I provided some outline and my ideas. We can add additional ideas. Please note that we may not need to do everything we listed here in the final project...but we can list our ideas here. Also some criticism of the existing papers, CDC report etc.}}
 
@@ -327,7 +366,23 @@ In our search for existing literatures in the area of network based model, howev
 \end{enumerate}
 
 \subsection{Data Set}
+
+The data set we are using \cite{cmriversdata} is an aggregation of Ebola outbreak data from
+multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone Ministry
+of Health. The data set consists of time series totals for suspected infected, confirmed infected,
+and dead on a nearly-daily basis across several countries and counties within countries.
+
+
+
+
+
+
 \bigskip
+\bigskip
+
+
+
+
 {\em{Mike, Romit : please mention about the data set we are using....we may need to collect additional data since by the time we finish our project the existing data will be quite outdated. :)  please propose here how we are planning to collect those data....Does CDC website has any way ??. Please follow the guideline presented in the course websites...also reproduced below: }}
 
 
