@@ -309,22 +309,16 @@ Transition $(i)$ & Effect & Transition Rate $(\lambda_i)$ \tabularnewline
 \end{tabular}
 \end{center}
 
-Where the model parameters are as follows:
-
-\begin{eqnarray*}
-\beta_I, \beta_H, \beta_F &=& \text{Transmission coefficient in community, hospital and funeral respectively}\\
-\theta_1 &=& \text{fraction of infectious cases hospitalized}\\
-\delta_1 &=& \text{fatality ratio of infectious}\\
-\delta_2 &=& \text{fatality ratio of hospitalized patient}\\
-&& \delta_1, \delta_2 \text{ are computed such that overall fatality ratio is $\delta$}\\
-1/\alpha &=& \text{mean duration of incubation period}\\
-1/\gamma_h &=& \text{mean duration from symptom onset to hospitalization}\\
-1/\gamma_{i} &=& \text{mean duration of infectious period for survivors}\\
-1/\gamma_{d} &=& \text{mean duration of infectious period to death}\\
-1/\gamma_{dh} &=& \text{mean duration from hospitalization to death}\\
-1/\gamma_{ih} &=& \text{mean duration from hospitalization to end of infectiousness for survivors}\\
-1/\gamma_{f} &=& \text{mean duration from death to burial}\\
-\end{eqnarray*}
+Where the model parameters are as follows: $ \beta_I, \beta_H, \beta_F$ are the transmission
+coefficients in community, hospital and funeral settings, $\theta_1$ is the fraction of infectious
+cases hospitalized, $\delta_1$ is the fatality ratio of infectious people, $\delta_2$ is the
+fatality ratio of hospitalized patients, $\delta_1$ and $\delta_2$ are computed such that overall
+fatality ratio is $\delta$, $1/\alpha$ is the mean duration of the incubation period, $1/\gamma_h$
+is the mean duration from symptom onset to hospitalization, $1/\gamma_{i}$ is the mean duration of
+the infectious period for survivors, $1/\gamma_{d}$ is the mean duration of the infectious period
+before death, $1/\gamma_{dh}$ is the mean duration from hospitalization to death, $1/\gamma_{ih}$ is
+the mean duration from hospitalization to the end of infectiousness for survivors, and
+$1/\gamma_{f}$ is the mean duration from death to burial.
 
 In order to model the effect of interventions, a two step approach is used:
 
