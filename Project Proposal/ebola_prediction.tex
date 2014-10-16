@@ -1,4 +1,4 @@
-\documentclass[12pt, journal,onecolumn]{IEEEtran}
+\documentclass[10pt, journal,onecolumn]{IEEEtran}
 \usepackage{cite}
 \usepackage{graphicx}
 \graphicspath{{figure/}}
@@ -75,29 +75,22 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Introduction}
-\label{sec:introduction}
-
+%\section{Introduction}
+%\label{sec:introduction}
+\begin{abstract}
 \bigskip
-\IEEEPARstart{T}{he} current Ebola outbreak in West Africa is the worst in history, and shows no signs
+%\IEEEPARstart{T}{he} 
+Current Ebola outbreak in West Africa is the worst in history, and shows no signs
 of abating. At the time of writing, the number of cases in Liberia continues to grow exponentially,
-while linear growth continues in Sierra Leone.
-
-
-
-Computer models are incredibly helpful in curbing an outbreak. They can help agencies like WHO to predict the resources and interventions needed
+while linear growth continues in Sierra Leone. Computer models are incredibly helpful in curbing an outbreak. They can help agencies like WHO to predict the resources and interventions needed
 to stem the outbreak. Most of the outbreak models  are compartmental models and are used  for calculating and reducing the virus effective reproductive rate.
 We discussed many model including SIR model S(Susceptible), I(Infectious) and R(Recovered). Also discussed is SEIR model where additional state modeling the incubation 
 period (applicable for Ebola) is added to the model. The SEIHFR model adds additional state related to transmission in Hospitals(H) and traditional burial (F) and assumes 
-heterogeneous setting in comparison to the homogeneous setting for the previous two models. 
-
-Apart from the compartmental models we also discussed a network model which avoids random-mixing assumption for the population by assigning each individual a finite set of permanent contacts.Another model called the Global Epidemic and Mobility Model which divides the world into geographical regions and models traffic flow due to transportation 
+heterogeneous setting in comparison to the homogeneous setting for the previous two models.  Apart from the compartmental models we also discussed a network model which avoids random-mixing assumption for the population by assigning each individual a finite set of permanent contacts. Another model called the Global Epidemic and Mobility Model which divides the world into geographical regions and models traffic flow due to transportation 
 infrastructure is also discussed. Finally  we describe a model based on contact network using Urban Network, Random Network and Scale-free network used for modeling SARS outbreak.
 
-
-
-We organize the rest of the paper as follows. In section \ref{sec:ReactionPaper}, we provide a survey of previous relevant work in the area of epidemic prediction as summarized above including the pros and cons .Finally, in Section \ref{sec:ProjectProposal}, we provide the project proposal and direction of research.
-
+In Section \ref{sec:ReactionPaper}, we provide a survey of previous relevant works in the area of epidemic prediction as summarized above including the pros and cons. In Section \ref{sec:ProjectProposal}, we provide the project proposal and direction of research.
+\end{abstract}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Reaction Paper}
 \label{sec:ReactionPaper}
