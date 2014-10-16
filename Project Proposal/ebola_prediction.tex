@@ -87,11 +87,16 @@ while linear growth continues in Sierra Leone.
 
 Computer models are incredibly helpful in curbing an outbreak. They can help agencies like WHO to predict the resources and interventions needed
 to stem the outbreak. Most of the outbreak models  are compartmental models and are used  for calculating and reducing the virus effective reproductive rate.
+We discussed many model including SIR model S(Susceptible), I(Infectious) and R(Recovered). Also discussed is SEIR model where additional state modeling the incubation 
+period (applicable for Ebola) is added to the model. The SEIHFR model adds additional state related to transmission in Hospitals(H) and traditional burial (F) and assumes 
+heterogeneous setting in comparison to the homogeneous setting for the previous two models. 
+
+Apart from the compartmental models we also discussed a network model which avoids random-mixing assumption for the population by assigning each individual a finite set of permanent contacts.Another model called the Global Epidemic and Mobility Model which divides the world into geographical regions and models traffic flow due to transportation 
+infrastructure is also discussed. Finally  we describe a model based on contact network using Urban Network, Random Network and Scale-free network used for modeling SARS outbreak.
 
 
 
-We organize the rest of the paper as follows. In section \ref{sec:ReactionPaper}, we provide a survey of previous relevant work in the area of epidemic prediction.
-Finally, in Section \ref{sec:ProjectProposal}, we provide the project proposal and direction of research.
+We organize the rest of the paper as follows. In section \ref{sec:ReactionPaper}, we provide a survey of previous relevant work in the area of epidemic prediction as summarized above including the pros and cons .Finally, in Section \ref{sec:ProjectProposal}, we provide the project proposal and direction of research.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Reaction Paper}
@@ -101,7 +106,7 @@ Finally, in Section \ref{sec:ProjectProposal}, we provide the project proposal a
 The basis of majority of research in epidemiological theory is the based on compartmental model. In a compartmental model, to model the progress of an epidemic in a large population, the individuals in the population compartmentalized according to the state of the disease. The most widely used compartmental model is the SIR model introduced in \citep{very_old_paper}. In SIR model, three compartments or disease state for an individual is used:
 
 \begin{itemize}
-\item \textbf{S (Susceptable) : } These are individuals before catching the disease. They are susceptible to infection following a contact with infectious individuals.
+\item \textbf{S (Susceptible) : } These are individuals before catching the disease. They are susceptible to infection following a contact with infectious individuals.
 \item \textbf{I (Infectious) : }These are individuals who have caught the disease. They are infectious and have some probability of infecting each of their susceptible neighbors.
 \item \textbf{R (Recovered) : }These are individuals who have experienced the full infectious period. These nodes are removed from consideration, since they no longer pose threat of future infection.
 \end{itemize}
@@ -126,7 +131,7 @@ Figure \ref{fig:SEIR_model}.
 \label{fig:SEIR_model}
 \end{figure}
 
-In SEIR model, susceptable(S) individuals in contact with the virus enter the exposed(E) state at a rate of $\beta I / N$. Here,
+In SEIR model, susceptible(S) individuals in contact with the virus enter the exposed(E) state at a rate of $\beta I / N$. Here,
 
 \begin{eqnarray*}
 \beta &=& \text{transmission rate per person per day}\\
