@@ -20,6 +20,10 @@
 \usepackage{authblk}
 \usepackage{caption}
 
+% Allow paragraph indents inside lists.
+\usepackage{enumitem}
+\setenumerate{listparindent=\parindent}
+
 %\usepackage{kbordermatrix}
 
 \hypersetup{
@@ -110,47 +114,43 @@ representation of different methods of transmission.
 
 \subsection{\textbf{The basic reproductive number of Ebola: SEIR model \citep{chowell2004basic}}}
 
-In \citep{chowell2004basic}, the authors model the effect of Ebola outbreaks in Congo 1995 and Uganda
-2000 using a compartmental model similar to the SIR model in Section \ref{SubSec:SIR}. However, a
+In \citep{chowell2004basic}, the authors model the effect of Ebola outbreaks in 1995 in Congo and in
+2000 in Uganda using a compartmental model similar to the SIR model in Section \ref{SubSec:SIR}. However, a
 distinct feature of Ebola is that individuals exposed to the virus who become infectious do so
-after a mean incubation period. In order to reflect this feature, in \citep{chowell2004basic} the
-basic SIR model is modified by adding an additional compartment ``Exposed". The modified SIR model,
-i.e. the SEIR model presented in \citep{chowell2004basic} is reproduced in
-Figure \ref{fig:SEIR_model}.
+after a mean incubation period. In order to reflect this feature, in the SIR model is extended with
+an additional ``Exposed'' compartment state. This SEIR model is reproduced in
+Figure \ref{fig:SEIR_model}:
 
 \begin{figure}[h!]
 \captionsetup{justification=centering}
-\includegraphics[scale=0.5]{seir_model_fig}
+\includegraphics[scale=0.4]{seir_model_fig}
 \centering\caption{SEIR model}
 \label{fig:SEIR_model}
 \end{figure}
 
-In the SEIR model, susceptible (S) individuals in contact with the virus enter the exposed (E) state at a rate of $\beta I / N$. Here,
-
-\begin{eqnarray*}
-\beta &=& \text{transmission rate per person per day}\\
-N &=& \text{total effective population size}\\
-\dfrac{I}{N} &=& \text{probability that contact is made with an infectious individual, assuming uniform random mixing}
-\end{eqnarray*}
-
+In the SEIR model, susceptible (S) individuals in contact with the virus enter the exposed (E) state
+at a rate of $\beta I / N$.
 The exposed (E) individuals undergo an average incubation period of $1/k$ days before progressing to
 the infectious (I) state. The exposed state is assumed to be asymptomatic as well as uninfectious.
 Infectious (I) individuals move to the R state, either recovered or dead, at a rate of $\gamma$.
+ The parameters are $\beta$, the transmission rate per person per day;
+$N$, the total effective population size; and $I/N$, the probability that contact is made with
+an infectious individual.
 
 The following set of differential equations are used to represent this model:
 
-\begin{eqnarray}
+\begin{eqnarray*}
 \label{Eq:SEIR}
 \dfrac{dS}{dt}	&=&	\dfrac{-\beta SI}{N}\nonumber\\
 \dfrac{dE}{dt}	&=&	\dfrac{\beta SI}{N}-kE\nonumber\\
 \dfrac{dI}{dt}	&=&	kE-\gamma I\nonumber\\
 \dfrac{dR}{dt}	&=&	\gamma I\nonumber\\
 C	&=&	kE\nonumber\\
- \end{eqnarray}
+ \end{eqnarray*}
 
 Here, $S$, $E$, $I$, and $R$ denote the number of susceptible, exposed, infectious and removed
 individuals at time $t$. In the equations, to simplify our notation, we have omitted the dependency
-on $t$. $C$ is not an epidemiological state, however is useful to keep track of the cumulative
+on $t$. $C$ is not an epidemiological state, however it is useful to keep track of the cumulative
 number of cases from the time of the onset of the outbreak.
 
 In order to model the effect of intervention on the spread of the disease, in the above model, the
@@ -454,7 +454,7 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
   contact networks by assuming an initial number of infected nodes. Since, in a contact network based
   model, each node can propagate the disease to only its immediate contacts, i.e. the neighboring
   nodes, the spreading of disease in a contact network based model will be different from our first
-  phase of analysis, in which a random mixing paradigm is assumed. \\
+  phase of analysis, in which a random mixing paradigm is assumed.
 
   In the case of the currently-affected African countries, such as Liberia,
   we have county-level data points, and are planning to use that county-level data in different ways.
@@ -467,7 +467,7 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
   or amount of trade between the regions.
   Within each county, we also plan to simulate disease-spread behavior using different types of
   generated contact networks, including random graphs, small world networks, and scale-free
-  networks. \\
+  networks.
 
   Thus far, the growth curve of the Ebola virus in Liberia has been exponential, while in other
   places like Guinea and Sierra Leone the growth curve is more linear \citep{cmriversdata}.
@@ -477,7 +477,7 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
   $T$ and model contact networks for Liberia or Guinea differently using different average degrees of
   nodes.
   We can also try using different types of network models for different places
-  and observe the effect of these different assumptions on the spread of the disease. \\
+  and observe the effect of these different assumptions on the spread of the disease.
 
 \item \textbf{Possibility of Ebola becoming a world-wide epidemic:} In \citep{gomes2014assessing},
   the authors use airport network data to predict the spread of Ebola to different parts of the
