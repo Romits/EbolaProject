@@ -369,6 +369,43 @@ T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left
 Here, $\left\langle k \right\rangle$ and $\left\langle k^2 \right\rangle$ are the mean degree and mean square degree of the network. Parameters for Poisson and power law networks are chosen such that all three networks share the same epidemic threshold. The authors also predicted average size of the outbreak $\left\langle s \right\rangle$ and probability of an epidemic $S$. 
 
 
+\subsection{\textbf{Contact Networks for Epidemiology \citep{meyers2005network}}}
+
+In our search for existing literature on the use of contact networks to model the spread of Ebola, we haven't come
+across any previous work that precisely does this, possibly due to the lack of detailed data in the
+locations historically affected by the disease.
+In \citep{meyers2005network}, the authors model the spread of the 2002-2003
+outbreak of SARS in Hong Kong and Canada using a network model. A contact network model attempts to
+characterize every interpersonal contact that can potentially lead to disease transmission in the
+community. Each person in the community is represented as a node in the network and each contact between
+two people is represented as an edge connecting the two nodes. The number of edges emanating from a node,
+that is the number of contacts a person has, is called the degree of the node.
+distribution of the node is a fundamental quantity in network theory. In
+\citep{meyers2005network}, the authors presented three different contact network model for SARS
+outbreak:
+
+\begin{itemize}
+\item \textbf{Urban Network:} A plausible contact network for an urban setting was generated using computer simulation based on the data for the city of Vancouver, British Columbia. $N=1000$ households were chosen at random from the Vancouver household size distribution statistics which yields approximately 2600 people. Household members were given ages based on age distribution statistics and are then assigned to schools according to school and class size distributions, assigned to occupation according to employment data, to hospitals as patients and caregivers according to the hospital employment and bed data and to other public places.
+\item \textbf{Random Network:} The above urban networks offers high degree of realism, however is quite complex. In addition to the urban model, a random network with Poisson degree distribution in which individuals connect to others independently and uniformly at random.
+\item \textbf{Scale-free Network:} There may be individuals in the network called ``superspreaders" with unusually large numbers of contacts or ``supershedders" who are unusually effective at excreting the virus into the environment they share with others. Neither the urban nor the random networks contains significant number of superspreaders. To incorporate the effects of superspreader in disease transmission, \citep{meyers2005network} also studies a network with truncated power law degree distribution. This type of network has a heavy tail of superspreaders. These individuals despite being few in numbers had profound effect on the outbreak patterns.
+\end{itemize}
+
+\textit{Discussion.} \citep{meyers2005network} extended the result from \citep{newman2002spread} to calculate the fate
+of an outbreak based on its initial condition, the probability that a patient zero with degree $k$ will
+start an epidemic, and the probability that an outbreak of size $N$ will start an epidemic. However,
+\citep{newman2002spread} did not capture the temporal progression of the epidemic, instead
+providing an overall number and distribution of the infected individuals.
+The authors predicted the probability $S$
+that an outbreak with $R_0>1$ will lead to an epidemic for their three networks. $S$ is often
+significantly less than $1$ and can be different for two networks with the same $R_0$. Outbreaks
+are consistently less likely to reach epidemic proportions in power law networks than in
+the others. $R_0$ is a valuable epidemiological quantity, however it has its limit since $R_0$ is
+a function of both the transmissibility of a disease and the contact patterns that underlie the
+transmission. Therefore, measuring $R_0$ in a location where contact rates are unusually high will
+lead to an estimate that is not appropriate for the larger community. Estimating $T$ instead of
+$R_0$ may give us a way out of this difficulty.
+
+
 \subsection{\textbf{Report assessing the international spreading risk of Ebola \citep{gomes2014assessing}}}
 
 A recent study \citep{gomes2014assessing} gathered data from the Disease Outbreaks News of
@@ -399,30 +436,11 @@ vector $P = (R_I, R_H, R_F)$.
 To make predictions, the authors ran Monte Carlo simulations exploring the value of $R_0$ while relying on results reported
 in \citep{legrand2007understanding} and elsewhere for the rest of the model parameters.
 
-
-
-\subsection{\textbf{Contact Networks for Epidemiology \citep{meyers2005network}}}
-In our search for existing literature on the use of contact networks to model the spread of Ebola, we haven't come
-across any previous work that precisely does this, possibly due to the lack of detailed data in the
-locations historically affected by the disease.
-In \citep{meyers2005network}, the authors model the spread of the 2002-2003
-outbreak of SARS in Hong Kong and Canada using a network model. A contact network model attempts to
-characterize every interpersonal contact that can potentially lead to disease transmission in the
-community. Each person in the community is represented as a node in the network and each contact between
-two people is represented as an edge connecting the two nodes. The number of edges emanating from a node,
-that is the number of contacts a person has, is called the degree of the node.
-distribution of the node is a fundamental quantity in network theory. In
-\citep{meyers2005network}, the authors presented three different contact network model for SARS
-outbreak:
-
-\begin{itemize}
-\item \textbf{Urban Network:} A plausible contact network for an urban setting was generated using computer simulation based on the data for the city of Vancouver, British Columbia. $N=1000$ households were chosen at random from the Vancouver household size distribution statistics which yields approximately 2600 people. Household members were given ages based on age distribution statistics and are then assigned to schools according to school and class size distributions, assigned to occupation according to employment data, to hospitals as patients and caregivers according to the hospital employment and bed data and to other public places.
-\item \textbf{Random Network:} The above urban networks offers high degree of realism, however is quite complex. In addition to the urban model, a random network with Poisson degree distribution in which individuals connect to others independently and uniformly at random.
-\item \textbf{Scale-free Network:} There may be individuals in the network called ``superspreaders" with unusually large numbers of contacts or ``supershedders" who are unusually effective at excreting the virus into the environment they share with others. Neither the urban nor the random networks contains significant number of superspreaders. To incorporate the effects of superspreader in disease transmission, \citep{meyers2005network} also studies a network with truncated power law degree distribution. This type of network has a heavy tail of superspreaders. These individuals despite being few in numbers had profound effect on the outbreak patterns.
-\end{itemize}
-
- \citep{meyers2005network} extended the result from \citep{newman2002spread} to calculated the fate of an outbreak based on its initial condition, probability of a patient zero with degree $k$ will start an epidemic and the probability that outbreak of size $N$ will start an epidemic. However, \citep{newman2002spread} did not capture the temporal progression of the epidemic, rather provided overall number and distribution of infected individuals. The authors predicted the probability $S$ that an outbreak with $R_0>1$ will lead to an epidemic for there three networks. $S$ is often significantly less than one and can be different for two networks with the same $R_0$. Outbreaks are consistently less likely to reach and epidemic proportions in the power law networks than in the others. $R_0$ is a valuable epidemiological quantity. However, it has its limit since $R_0$ is a function of both the transmissibility of a disease and the contact patterns that underlie the transmission. Therefore, measuring $R_0$ in a location where contact rates are unusually high will lead to an estimate that is not appropriate for the larger community.  Estimating $T$ instead of $R_0$ give us a way out of this difficulty.
-
+\textit{Discussion.} The approach used in this paper appears to be the state of the art in epidemic prediction for
+situations where the available data is very limited. Unfortunately, as previously discussed, the
+SEIHFR model has a random mixing assumption that does not reflect reality over large areas.
+It may be possible to use small world networks or other generated networks to model locality
+more effectively based on population density and geographical information.
 
 \bigskip
 
