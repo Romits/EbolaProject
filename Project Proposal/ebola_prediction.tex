@@ -15,13 +15,19 @@
 \usepackage{relsize}
 \usepackage[pdfpagelabels]{hyperref}
 \usepackage{float}
-\usepackage[square]{natbib}
+\usepackage[round]{natbib}
 \usepackage{color}
 \usepackage{authblk}
 \usepackage{caption}
 
 %\usepackage{kbordermatrix}
 
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = blue, %Colour of internal links
+  citecolor   = blue %Colour of citations
+}
 
 \floatstyle{ruled}
 \newfloat{algorithm}{tbp}{loa}
@@ -79,19 +85,37 @@
 %\label{sec:introduction}
 \begin{abstract}
 \bigskip
-%\IEEEPARstart{T}{he} 
-Current Ebola outbreak in West Africa is the worst in history, and shows no signs
+%\IEEEPARstart{T}{he}
+The current Ebola outbreak in West Africa is the worst in history, and shows no signs
 of abating. At the time of writing, the number of cases in Liberia continues to grow exponentially,
-while linear growth continues in Sierra Leone. Computer models are incredibly helpful in curbing an outbreak. They can help agencies like WHO to predict the resources and interventions needed
-to stem the outbreak. Most of the outbreak models  are compartmental models and are used  for calculating and reducing the virus effective reproductive rate.
-We discussed many model including SIR model S(Susceptible), I(Infectious) and R(Recovered). Also discussed is SEIR model where additional state modeling the incubation 
-period (applicable for Ebola) is added to the model. The SEIHFR model adds additional state related to transmission in Hospitals(H) and traditional burial (F) and assumes 
-heterogeneous setting in comparison to the homogeneous setting for the previous two models.  Apart from the compartmental models we also discussed a network model which avoids random-mixing assumption for the population by assigning each individual a finite set of permanent contacts. Another model called the Global Epidemic and Mobility Model which divides the world into geographical regions and models traffic flow due to transportation 
-infrastructure is also discussed. Finally  we describe a model based on contact network using Urban Network, Random Network and Scale-free network used for modeling SARS outbreak.
+while linear growth continues in Sierra Leone.
 
-In Section \ref{sec:ReactionPaper}, we provide a survey of previous relevant works in the area of epidemic prediction as summarized above including the pros and cons. In Section \ref{sec:ProjectProposal}, we provide the project proposal and direction of research.
+Computer models allow for predicting outbreaks and can help agencies like the World
+Health Organization (WHO) allocate the resources and interventions needed to stem an outbreak.
+Most traditional epidemiological models are compartmental models which calculate the
+effective reproductive rate of an outbreak. We discuss several models, including the traditional
+SIR (Susceptible, Infectious, Recovered) model, and an SEIR model, where an additional Exposed state
+modeling a non-infectious incubation period is added to SIR.
+An SEIHFR model adds additional infective states related to transmission in a Hospital (H)
+and transmission due to a traditional funeral (F), modeling infection vector heterogeneity.
+
+In addition to the compartmental models, we discuss a network model which avoids the random-mixing
+assumption employed by the compartmental models above. This is done by assigning each individual a
+finite set of permanent contacts. Another model that divides the world into
+geographical regions and models traffic flow due to transportation infrastructure is also discussed.
+Finally, we describe a contact network model for SARS that compares urban network, random network, and
+scale-free network models.
+
+We organize the rest of the paper as follows. In section \ref{sec:ReactionPaper}, we provide a
+survey of previous relevant work in the area of epidemic prediction as summarized above including
+the pros and cons. In Section \ref{sec:ProjectProposal} we provide the project proposal
+and the planned direction of our research.
+
 \end{abstract}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
 \section{Reaction Paper}
 \label{sec:ReactionPaper}
 \subsection{\textbf{SIR model for Epidemiology  \citep{very_old_paper}}}
@@ -344,35 +368,83 @@ In our search for existing literature on the use of contact network to model Ebo
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Discussion Project Proposal}
+\section{Discussion of Project Proposal}
 \label{sec:ProjectProposal}
 
-\subsection{Proposal}
+\subsection{Data set}
+
+The data set we are planning to use \citep{cmriversdata} is an aggregation of Ebola outbreak data
+from multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone
+Ministry of Health. The data set consists of time series totals for suspected infected, confirmed
+infected, and dead on an almost-daily basis across several countries, and counties within countries.
+To model a world-wide contact network, we will be using information from additional sources, such
+as the CIA factbook or World Trade Organization (WTO) economic trade data between countries.
+
+
+
+\subsection{Project proposal}
 
 \bigskip
 
 \begin{enumerate}
-\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using \citep{chowell2004basic} model}: In the first phase of the project, we are planning use the model proposed in \citep{chowell2004basic}  as a baseline model and estimate the model parameters  $\beta_0, \beta_1, k, q, \gamma$  and basic reproduction number $R_0$ to fit the data obtained from current Ebola outbreak. Once the parameters are obtained, we are planning to use these parameters to perform prediction of the epidemic assuming a fully mixed model. To benchmark our prediction, we are planning to use the prediction performed by CDC \citep{meltzer2014estimating}. We are interested to observe how different parameters in the model affect the spread of the disease. To this end, we are planning to try out different configurations, e.g. the effect on disease spread on  longer/shorter mean incubation period etc.
 
-\item \textbf{From fully mixed model to contact network : } \citep{newman2002spread, meyers2005network} extended the basic SIR model to network analysis. Whether this model is readily applicable to the modified compartmental model used previously in Ebola research \citep{chowell2004basic, legrand2007understanding} is not completely clear. In the second phase of our project, we will model contact networks using the basic reproduction numbers and other parameters obtained in phase one. We will then estimate the propagation of disease on these contact networks by assuming a initial number of infected nodes. Since, in contact network based model, each node can propagate the disease to only its immediate contact, i.e. the neighboring node, the spreading of disease in a contact network based model will be different from the first phase analysis where a fully mixed model will be assumed. We are planning to observe the behavior of disease spread in different types of contact networks, e.g. random network, small world network, scale-free network. The individuals within a particular county are more likely to have contacts with individuals in the same county. Therefore, we are planning to create a hierarchical networks among multiple counties. In this network, individuals in a county can be modeled as an small world network. The number of edges between different counties can be dependent different demographic parameters such as the underlying transportation networks, distance between counties etc.
+\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
+  In the first phase of the project, we are planning to use the model proposed in
+  \citep{chowell2004basic} as a baseline model, and estimate the model parameters $\beta_0, \beta_1,
+  k, q, \gamma$  and basic reproduction number $R_0$ to fit the data obtained from current Ebola
+  outbreak. Once the parameters are obtained, we are planning to use these parameters to perform
+  prediction of the epidemic assuming a fully mixed model. To benchmark our prediction, we are
+  planning to use the prediction performed by the CDC \citep{meltzer2014estimating}. We are
+  interested in observing how different parameters in the model affect the spread of the disease. To
+  this end, we are planning to try out different configurations, e.g. the effect on disease spread
+  of a longer or shorter mean incubation period, transmissibility factor, etc. \\
 
-\item \textbf{Modeling the Ebola data for network analysis : } So far, the spread of disease in Liberia is exponential whereas in other places like Guinea or Sierra Leon more linear. If we use compartmental model for analysis, then we will estimate different values of $R_0$. An alternative approach could be to calculate a single value of transmissibility $T$ for network analysis and then model the contacts networks for Liberia or Guinea differently using different different average degree of nodes for each individual to fit the data. Alternatively, we can also try to use different types of network assumptions for different places and observe the effect of different assumptions on disease spread.
+\item \textbf{From random mixing model to contact network:} \citep{newman2002spread,
+  meyers2005network} extended the basic SIR model to network analysis. Whether this model is readily
+  applicable to the modified compartmental model used previously in Ebola research
+  \citep{chowell2004basic, legrand2007understanding} is not immediately clear. In the second phase of
+  our project, we will model contact networks using the basic reproductive numbers and other
+  parameters obtained in phase 1. We will then estimate the propagation of disease on these
+  contact networks by assuming an initial number of infected nodes. Since, in a contact network based
+  model, each node can propagate the disease to only its immediate contacts, i.e. the neighboring
+  nodes, the spreading of disease in a contact network based model will be different from our first
+  phase of analysis where, a random mixing paradigm is assumed. \\
 
-\item \textbf{Will Ebola become an world-wide epidemic? :} In \cite{gomes2014assessing}, the authors use airport network data to predict the spread of Ebola to different parts of the world. In the third phase of our project, we are planning to use similar approach to predict the spread of epidemic over wider region of the world. To this end, we will make use of the estimation parameters and insight gained in phase 1 and phase 2 of our project. In order for the disease to spread, we need to consider the underlying contact networks between different regions of the world. In order to model such contact network, we can make use of different available data, e.g. trade network, transportation network, demographic information, economic exchanges between country to country or region to regions etc. Since traditional burial may increase the chance of spreading, in addition, we can make use of river flow data.
+  In the case of the currently-affected African countries, such as Liberia,
+  we have county-level data points, and are planning to use that county-level data in different ways.
+  One approach is to model individuals as nodes in a small-world network, and
+  since the individuals within a particular county are more likely to have contact with each other,
+  we may use a different probability of adding long-range links within a county than between counties.
+  Another approach is to model each county as a node in a wide-area ``internetwork''.
+  In any case, the number of edges between different counties can be dependent on different
+  demographic parameters such as the underlying transportation networks, distance between counties,
+  or amount of trade between the regions.
+  Within each county, we also plan to simulate disease-spread behavior using different types of
+  generated contact networks, including random graphs, small world networks, and scale-free
+  networks. \\
 
-%\item \textbf{Predicting the future of the Ebola epidemic: } How to predict the future of the disease.... by using $R_0$, by using $T$, by using percolation theory etc...
+  Thus far, the growth curve of the Ebola virus in Liberia has been exponential, while in other
+  places like Guinea and Sierra Leone the growth curve is more linear \citep{cmriversdata}.
+  If we use a compartmental model for analysis, then we will estimate different values of
+  $R_0$. An alternative approach could be to calculate a single value of transmissibility $T$ for
+  network analysis and then model contact networks for Liberia or Guinea differently using
+  different average degrees of nodes for each individual to fit the data.
+  We may also try using different types of network assumptions for different places
+  and observe the effect of different assumptions on the spread of the disease. \\
 
-
+\item \textbf{Possibility of Ebola becoming a world-wide epidemic:} In \citep{gomes2014assessing},
+  the authors use airport network data to predict the spread of Ebola to different parts of the
+  world. In the third phase of our project, we are planning to use a similar approach to predict the
+  spread of the epidemic over a wider region of the world. To this end, we will make use of the estimation
+  parameters and insight gained in phase 1 and phase 2 of our project. In order for the disease to
+  spread, we need to consider the underlying contact networks between different regions of the
+  world. In order to model such a contact network, we can make use of different available data, such
+  as the transportation network, trade routes and levels of trade between countries and regions, or
+  even demographic information. Since traditional funeral practices in certain regions may increase
+  the chance of spreading the diease, such as setting the dead afloat in a river, we can also make
+  use of river flow data.
 
 \end{enumerate}
-
-\subsection{Data Set}
-
-The data set we are using \citep{cmriversdata} is an aggregation of Ebola outbreak data from
-multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone Ministry
-of Health. The data set consists of time series totals for suspected infected, confirmed infected,
-and dead on a nearly-daily basis across several countries and counties within countries. To model the world-wide contact network, we will be using information from additional sources, e.g. CIA factbook or WTO economic trade data between countries etc.
-
 
 
 
