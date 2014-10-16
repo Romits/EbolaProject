@@ -56,59 +56,20 @@
 
 \begin{document}
 
-%\author{Shafi Bashar {\em SUID: 06018208}, Mike Percy {\em  SUID: 005732903}, Romit  Singhai {\em  SUID: 06005567}
-%\thanks{e-mail: \{shafiab, ding\}@ece.ucdavis.edu.}
-%\thanks{Paper approved by A. Yener, the Editor for Information Theory and Physical-Layer Security of the IEEE Communications Society. Manuscript received April 5, 2011; revised December 21, 2012 and June 16, 2012.}
-%\thanks{This material is based upon work supported by the National Science Foundation under Grants CCF-0830706 and CNS-091751. The work of C. Xiao was supported in part by National Science Foundation under Grants CCF-0915846 and ECCS-1231848.}
-%\thanks{S. Bashar and Z. Ding are with the Department of Electrical and Computer Engineering, Univ. of California, Davis, CA, 95616, USA. e-mail: \{shafiab, ding\}@ece.ucdavis.edu.}
-%\thanks{C. Xiao
-%is with the Department of Electrical and Computer Engineering, Missouri University of Science and Technology,
-%Rolla, MO, 65409, USA. e-mail: xiaoc@mst.edu.}
-%}
 \maketitle
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\begin{abstract}
-%Few words about abstract -- some favorite quote etc :)
-%
-%\em{Mike, Romit : please extend this section}
-%\end{abstract}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\begin{IEEEkeywords}
-%Wiretap channel, eavesdropping, information-theoretic security, secrecy rate, finite-alphabet input.
-%\end{IEEEkeywords}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\section{Introduction}
-%\label{sec:introduction}
 \begin{abstract}
-%\IEEEPARstart{T}{he}
-The current Ebola outbreak in West Africa is the worst in history, and shows no signs
-of abating. At the time of writing, the number of cases in Liberia continues to grow exponentially,
-while linear growth continues in Sierra Leone.
+The current Ebola outbreak in West Africa is the worst in history.
+Most traditional epidemiological models are compartmental models that have a random-mixing
+assumption. These models calculate the
+effective reproductive rate of an outbreak. We survey three of these models: the classic
+SIR (Susceptible, Infectious, Recovered) model and two extensions used in Ebola research.
 
-Computer models allow for predicting outbreaks and can help agencies like the World
-Health Organization (WHO) allocate the resources and interventions needed to stem an outbreak.
-Most traditional epidemiological models are compartmental models which calculate the
-effective reproductive rate of an outbreak. We discuss several models, including the traditional
-SIR (Susceptible, Infectious, Recovered) model, and an SEIR model, where an additional Exposed state
-modeling a non-infectious incubation period is added to SIR.
-An SEIHFR model adds additional infective states related to transmission in a Hospital (H)
-and transmission due to a traditional funeral (F), modeling infection vector heterogeneity.
-
-In addition to the compartmental models, we discuss a network model which avoids the random-mixing
-assumption employed by the compartmental models above. This is done by assigning each individual a
-finite set of permanent contacts. Another model that divides the world into
-geographical regions and models traffic flow due to transportation infrastructure is also discussed.
-Finally, we describe a contact network model for SARS that compares urban network, random network, and
-scale-free network models.
-
-We organize the rest of the paper as follows. In section \ref{sec:ReactionPaper}, we provide a
-survey of previous relevant work in the area of epidemic prediction as summarized above including
-the pros and cons. In Section \ref{sec:ProjectProposal} we provide the project proposal
-and the planned direction of our research.
+In addition to the compartmental models, we discuss a network model that avoids the random-mixing
+assumption. This is done by assigning each individual a finite set of permanent contacts.
+We also review generated contact network models for SARS, including an urban network, a random network, and
+a scale-free network model.
+We then describe a world-wide network model that represents traffic flowing across transportation networks.
 
 \end{abstract}
 
@@ -121,32 +82,30 @@ and the planned direction of our research.
 \subsection{\textbf{The epidemiological SIR model \citep{very_old_paper}}}
 \label{SubSec:SIR}
 
-The basis of the majority of research in epidemiological theory is based on the compartmental model.
-In a compartmental model, to model the progress of an epidemic in a large population, the
+The majority of research in epidemiological theory is based on the compartmental model.
+To model the progress of an epidemic in a large population, the
 individuals in the population are compartmentalized according to the state of the disease. The most
-widely used compartmental model is the SIR model introduced in \citep{very_old_paper}. In the SIR model,
-three compartments or disease states for an individual are used:
+widely used such model is the SIR model introduced in \citep{very_old_paper}:
 
 \begin{itemize}
-\item \textbf{S (Susceptible):} These are individuals who have not yet caught the disease. They are
-  susceptible to infection following a contact with infectious individuals.
-\item \textbf{I (Infectious):} These are individuals who have the disease. They are infectious and
-  have some probability of infecting each of their susceptible neighbors.
-\item \textbf{R (Recovered):} These are individuals who have experienced the full infectious period.
-  These nodes are removed from consideration, since they are no longer infectious and are also
-  considered to be immune from re-infection.
+\item \textbf{S (Susceptible):} Individuals who have not yet caught the disease from contact with an infectious
+  individual.
+\item \textbf{I (Infectious):} Individuals who have the disease. They have some probability of
+  infecting susceptible people.
+\item \textbf{R (Recovered):} Individuals who have experienced the full infectious period, and are
+  now non-infectious and immune.
 \end{itemize}
 
 The changes among these states over time are represented by a set of differential equations. In
 order to capture the dynamics of disease spread over time, a population-wide random mixing model is
-assumed. In a random mixing model, the full population mixes at random, so that each individual has a small
-and equal chance of coming into contact with any other individual. The basic reproductive number $R_0$
+assumed, meaning that each individual has a small and equal chance of coming into contact with
+any other individual in the population. The basic reproductive number $R_0$
 is defined as the average number of secondary cases generated by a primary case in a pool of mostly
 susceptible individuals, and is an estimate of epidemic growth at the start of an outbreak if
 everyone is susceptible.
 
-\textit{Discussion.} The SIR model is classic, effective, and well understood. However, it is missing important features
-of the Ebola virus: localized spreading behavior, a state representing an infected but non-infectious incubation period, and
+\textit{Discussion.} The SIR model is classic and effective, but missing important features
+of the Ebola virus: localized spreading behavior, a non-infectious incubation period, and
 representation of different methods of transmission.
 
 \subsection{\textbf{The basic reproductive number of Ebola: SEIR model \citep{chowell2004basic}}}
@@ -467,7 +426,7 @@ more effectively based on population density and geographical information.
 
 \subsection{Data set}
 
-The data set we are planning to use \citep{cmriversdata} is an aggregation of Ebola outbreak data
+The data set we plan to use \citep{cmriversdata} is an aggregation of Ebola outbreak data
 from multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone
 Ministry of Health. The data set consists of time series totals for suspected infected, confirmed
 infected, and dead on an almost-daily basis across several countries, and counties within countries.
