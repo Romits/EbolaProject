@@ -428,7 +428,7 @@ outbreak:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Discussion of Project Proposal}
+\section{Project Proposal}
 \label{sec:ProjectProposal}
 \bigskip
 
@@ -443,33 +443,33 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
 
 
 
-\subsection{Project proposal}
+\subsection{Project plan}
 
 \bigskip
 
 \begin{enumerate}
 
 \item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
-  In the first phase of the project, we are planning to use the model proposed in
+  In the first phase of the project, we are planning to use the SEIR model proposed in
   \citep{chowell2004basic} as a baseline model, and estimate the model parameters $\beta_0, \beta_1,
   k, q, \gamma$  and basic reproduction number $R_0$ to fit the data obtained from current Ebola
   outbreak. Once the parameters are obtained, we are planning to use these parameters to perform
   prediction of the epidemic assuming a fully mixed model. To benchmark our prediction, we are
   planning to use the prediction performed by the CDC \citep{meltzer2014estimating}. We are
   interested in observing how different parameters in the model affect the spread of the disease. To
-  this end, we are planning to try out different configurations, e.g. the effect on disease spread
-  of a longer or shorter mean incubation period, transmission rate, etc. \\
+  this end, we are planning to vary critical parameter values, such as mean incubation period and
+  transmission rate, in order to observe their effects on disease growth.
 
 \item \textbf{From random mixing model to contact network:} \citep{newman2002spread,
   meyers2005network} extended the basic SIR model to network analysis. Whether this model is readily
-  applicable to the modified compartmental model used previously in Ebola research
+  applicable to the modified (SEIR, SEIHFR) compartmental models used previously in Ebola research
   \citep{chowell2004basic, legrand2007understanding} is not immediately clear. In the second phase of
   our project, we will model contact networks using the basic reproductive numbers and other
   parameters obtained in phase 1. We will then estimate the propagation of disease on these
   contact networks by assuming an initial number of infected nodes. Since, in a contact network based
   model, each node can propagate the disease to only its immediate contacts, i.e. the neighboring
   nodes, the spreading of disease in a contact network based model will be different from our first
-  phase of analysis where, a random mixing paradigm is assumed. \\
+  phase of analysis, in which a random mixing paradigm is assumed. \\
 
   In the case of the currently-affected African countries, such as Liberia,
   we have county-level data points, and are planning to use that county-level data in different ways.
@@ -486,12 +486,13 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
 
   Thus far, the growth curve of the Ebola virus in Liberia has been exponential, while in other
   places like Guinea and Sierra Leone the growth curve is more linear \citep{cmriversdata}.
-  If we use a compartmental model for analysis, then we will estimate different values of
-  $R_0$. An alternative approach could be to calculate a single value of transmissibility $T$ for
-  network analysis and then model contact networks for Liberia or Guinea differently using
-  different average degrees of nodes for each individual to fit the data.
-  We may also try using different types of network assumptions for different places
-  and observe the effect of different assumptions on the spread of the disease. \\
+  When using a compartmental model for analysis, we will model different values of
+  $R_0$.
+  When modeling as a contact network, we can start by calculating a single value of transmissibility
+  $T$ and model contact networks for Liberia or Guinea differently using different average degrees of
+  nodes.
+  We can also try using different types of network models for different places
+  and observe the effect of these different assumptions on the spread of the disease. \\
 
 \item \textbf{Possibility of Ebola becoming a world-wide epidemic:} In \citep{gomes2014assessing},
   the authors use airport network data to predict the spread of Ebola to different parts of the
@@ -499,9 +500,10 @@ as the CIA factbook or World Trade Organization (WTO) economic trade data betwee
   spread of the epidemic over a wider region of the world. To this end, we will make use of the estimation
   parameters and insight gained in phase 1 and phase 2 of our project. In order for the disease to
   spread, we need to consider the underlying contact networks between different regions of the
-  world. In order to model such a contact network, we can make use of different available data, such
-  as the transportation network, trade routes and levels of trade between countries and regions, or
-  even demographic information. Since traditional funeral practices in certain regions may increase
+  world. In order to model such a contact network, we can make use of public data such
+  as transportation networks, trade routes, and levels of trade between countries and regions.
+  We may even be able to use demographic information.
+  Since traditional funeral practices in certain regions may increase
   the chance of spreading the diease, such as setting the dead afloat in a river, we can also make
   use of river flow data.
 
