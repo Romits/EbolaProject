@@ -1,0 +1,45 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,0,World,WLD,TOTAL,All commodities,1,No Quantity,0,0,20006407,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,0,0,234138,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,0,0,2403995,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,251,France,FRA,TOTAL,All commodities,1,No Quantity,0,0,5050132,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,0,0,225350,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,0,0,4806108,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,0,0,2347815,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,0,0,326255,0
+S1,1989,1989,1989,0,0,2,Export,666,Saint Pierre and Miquelon,SPM,842,USA,USA,TOTAL,All commodities,1,No Quantity,0,0,4612614,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,114516096,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,3109691,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,2439247,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,60869,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,158313,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,230,Fmr Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,9826246,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,14370519,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,502414,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,98149,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,980231,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,92216,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,239078,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,9226347,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,8287726,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,2920138,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,14950278,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,298999,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,4079562,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,118049,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,699,India,IND,TOTAL,All commodities,1,No Quantity,,,628143,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,250541,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,360420,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,450192,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,2442797,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,2766227,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,1909518,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,39768,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,810,Fmr USSR,SUN,TOTAL,All commodities,1,No Quantity,,,2794237,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,423982,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,15736,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,351283,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,813466,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,3231246,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,886,Fmr Arab Rep. of Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,26272674,0
+S1,1989,1989,1989,0,0,2,Export,720,Fmr Dem. Yemen,YMD,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,7796,0

@@ -1,0 +1,153 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,123030,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,879,"Western Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1157811,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,970139,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,1114454,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,2526221,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,753,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,1029,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,140150,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,457906,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,552144,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,4793489,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,636,"Rest of America, nes",,TOTAL,All commodities,1,No Quantity,,,10307,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,12267,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,4605,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,14954431,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,55307,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,86202,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,421697,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1824446,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,459,Peninsula Malaysia,,TOTAL,All commodities,1,No Quantity,,,56342,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,457,Sarawak,,TOTAL,All commodities,1,No Quantity,,,1656125,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,48454421,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1008841,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,279053,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,356,"India, excl. Sikkim",IND,TOTAL,All commodities,1,No Quantity,,,4296,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,3922041,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,728703,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,497620,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,15739,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,221,"Eastern Europe, nes",,TOTAL,All commodities,1,No Quantity,,,73949,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,237281,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,549458,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,79687,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,824619,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,45226,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,2098031,0
+S1,1963,1963,1963,0,0,2,Export,461,Sabah,,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,89737820,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,380035,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,,,21243872,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,886,Fmr Arab Rep. of Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,34496,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,868,Fmr Rep. of Vietnam,VNM,TOTAL,All commodities,1,No Quantity,,,130946,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,994890,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,981258,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,256374336,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,836,Fmr Zanzibar and Pemba Isd,,TOTAL,All commodities,1,No Quantity,,,9458,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,835,Fmr Tanganyika,,TOTAL,All commodities,1,No Quantity,,,11408,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,150415760,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,6771471,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,810,Fmr USSR,SUN,TOTAL,All commodities,1,No Quantity,,,136718480,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,1496034,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,4248,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,344985,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,17768372,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,191922,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,901100,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,10343255,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,34850,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,138901,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,21985776,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,720,Fmr Dem. Yemen,YMD,TOTAL,All commodities,1,No Quantity,,,1108799,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,717,Fmr Rhodesia Nyas,,TOTAL,All commodities,1,No Quantity,,,992327,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,18125244,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,40583,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,374930592,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,5454,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,37536,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,562893,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,1622338,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,,,46043,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,31097,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,2539504,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,24887218,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,2403971,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,336658,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,53780,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,590,"Fmr Panama, excl.Canal Zone",PAN,TOTAL,All commodities,1,No Quantity,,,328951,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,588,East and West Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,5368043,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,1491303,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,577,"Other Africa, nes",,TOTAL,All commodities,1,No Quantity,,,3242,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,145141,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,4032,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,8962527,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,1534,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,532,Neth. Antilles and Aruba,ANT,TOTAL,All commodities,1,No Quantity,,,5715,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,23875064,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,1620,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,28582,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,1183075,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,1917902,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,5061800,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,4795748,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,345748,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,29393,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,463238,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,461,Sabah,,TOTAL,All commodities,1,No Quantity,,,3747407,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,457,Sarawak,,TOTAL,All commodities,1,No Quantity,,,2405599,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,7223,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,18752,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,306399,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,221948,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,733983,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,564916,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,2252746,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,260628096,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,1958,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,72632952,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,70754,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,636273,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,5955490,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,2612438,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,5132856,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,356,"India, excl. Sikkim",IND,TOTAL,All commodities,1,No Quantity,,,43500668,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,85362,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,7041906,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,115385,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,288456,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1742334,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,4984,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,76646072,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,48060,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,51451060,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,4442692,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,54612,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,230,Fmr Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,32368,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,15950,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,370024,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,15122,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,3228413,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,200,Czechoslovakia,CSK,TOTAL,All commodities,1,No Quantity,,,5250964,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,14738,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,412116,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,3514,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,1707977,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,1336915,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,5447520,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,1148311,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,129,"Caribbean, nes",,TOTAL,All commodities,1,No Quantity,,,27829,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,43153640,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,277542,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,3110983,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,1155786,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,779301,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,9836594,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,29812374,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,565879,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,760109,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,35242056,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,17362142,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,29076,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,393339,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,4542,0
+S1,1963,1963,1963,0,0,2,Export,459,Peninsula Malaysia,,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,1813859072,0

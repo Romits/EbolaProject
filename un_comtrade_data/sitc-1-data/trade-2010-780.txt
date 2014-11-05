@@ -1,0 +1,133 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,10981660197,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,645,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,104851,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,124469545,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,69817,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,86134717,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,3662910,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,10680,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,10495872,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,1020,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,382821,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,373562324,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,39840463,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,12991070,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,86246,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,210906978,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,14633021,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,86,Br. Indian Ocean Terr.,IOT,TOTAL,All commodities,1,No Quantity,,,2131,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,6272251,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,176764903,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,204,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,,,5403893,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,15685,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,145755953,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,33237093,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,287362711,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,5245,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,134160,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,130380787,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,21378099,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,213615,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,3349705,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,651924,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,29200118,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,134158667,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,18711995,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,80637,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,30998,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,296,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,234,Faeroe Isds,FRO,TOTAL,All commodities,1,No Quantity,,,49,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,14797,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,246082461,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,3234,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,260,Fr. South Antarctic Terr.,ATF,TOTAL,All commodities,1,No Quantity,,,15170,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,146680854,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,9304373,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,61950742,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,4069,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,27390603,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,54033504,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,74161,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,36429322,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,268452400,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,10489584,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,336,Holy See (Vatican City State),VAT,TOTAL,All commodities,1,No Quantity,,,706,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,11788783,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,600236,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,32643670,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,7445825,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,146673,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,20619,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,18075457,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,709999617,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,205607,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,23017,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,16796289,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,59503149,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,11206357,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,140803084,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,10019522,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,357467,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,158305,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,136346958,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,67611950,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,3990456,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,765953,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,8309111,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,1101151,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,8910,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,68915255,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,108049814,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,8333857,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,54695,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,2217003,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,1129439,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,73680,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,581,United States Minor Outlying Islands,UMI,TOTAL,All commodities,1,No Quantity,,,4222260,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,330408,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,160961984,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,18796544,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,12503,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,43879946,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,195947,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,654,Saint Helena,SHN,TOTAL,All commodities,1,No Quantity,,,886,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,24031116,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,9586713,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,95664527,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,13300,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,58575494,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,674,San Marino,SMR,TOTAL,All commodities,1,No Quantity,,,31293,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,1905,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,488171,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,17933258,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,31530,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,699,India,IND,TOTAL,All commodities,1,No Quantity,,,27815112,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,6526604,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,5147395,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,126,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,773962,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,10388079,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,218795628,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,238953,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,300279062,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,41335906,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,46179,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,66941686,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,403078,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,54754,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,34,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,2305535,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,141619,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,31492813,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,4135,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,116556,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,235,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,30052,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,214407737,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,5278690045,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,22794315,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,40280114,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,734,0
+S1,2010,2010,2010,0,0,2,Export,780,Trinidad and Tobago,TTO,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,119799978,0

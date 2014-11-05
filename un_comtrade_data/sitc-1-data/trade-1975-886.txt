@@ -1,0 +1,23 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,10893979,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,3504,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,5699779,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,230,Fmr Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,17740,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,200856,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,135800,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,309279,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1636862,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,305775,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,88709,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,14674,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,222102,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,18180,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,594673,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,77320,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,720,Fmr Dem. Yemen,YMD,TOTAL,All commodities,1,No Quantity,,,1206663,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,8323,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,5475,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,810,Fmr USSR,SUN,TOTAL,All commodities,1,No Quantity,,,114994,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,76881,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,850,US Virgin Isds,VIR,TOTAL,All commodities,1,No Quantity,,,150039,0
+S1,1975,1975,1975,0,0,2,Export,886,Fmr Arab Rep. of Yemen,YEM,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,6351,0

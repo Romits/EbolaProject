@@ -1,0 +1,210 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,178311987200,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,1495689,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,8010806,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,403523328,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,6980687,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,97209960,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,349556,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,14481318,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,331460512,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,653737472,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,2081624704,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,1157217,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,33642928,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,35890848,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,48273708,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,5347749,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,2818709,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,37709,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,9382035,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,30282548,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,834570176,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,312312,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,179301,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,19344144,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,1703132,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,119878632,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,5197765,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,23156176,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,74324560,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,1069327,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,108258288,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,734478848,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,13334885,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,,,326954,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,7311907,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,123312744,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,12639511,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,129317840,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,836720128,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,166,Cocos Isds,CCK,TOTAL,All commodities,1,No Quantity,,,117061,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,84792424,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,4915237,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,40990684,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,162265824,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,184,Cook Isds,COK,TOTAL,All commodities,1,No Quantity,,,60328,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,22064408,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,151594768,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,35361624,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,75704016,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,669208896,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,30354608,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,1658911872,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,990817,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,20776812,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,36190056,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,11577008,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,2991777,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,29820512,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,4090824,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,69087680,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,234,Faeroe Isds,FRO,TOTAL,All commodities,1,No Quantity,,,1358473,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,238,Falkland Isds (Malvinas),FLK,TOTAL,All commodities,1,No Quantity,,,61897,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,1523349,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,1066443904,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,32463015936,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,13924767,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,6585818,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,39741064,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,13192297,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,17991118,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,34888462336,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,77995192,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,7518896,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,296,Kiribati,KIR,TOTAL,All commodities,1,No Quantity,,,53180,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1053762368,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,,,305238,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,784882,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,20546740,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,52507964,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,4111952,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,4519319,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,9870895,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,1051822592,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,1036320448,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,47047684,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,153997648,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,350421504,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,65745928,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,878292288,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,2657242880,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,10513145856,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,115987448,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,23695020,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,1731168768,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,27522022,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,91713392,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,59690252,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,13361245,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,367750880,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,74121320,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,4138845,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,1689718,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,249512784,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,83973848,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,15028497,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,177482912,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,118728368,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,2702906,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,31081452,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,1524948,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,251997248,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,2002967,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,47379736,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,51427128,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,48293544,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,29437104,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,401590944,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,541833088,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,2141409,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,9131858,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,27990,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,317274144,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,5356810,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,84157448,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,3167443,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,22411169792,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,20176812,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,2040294,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,10312637,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,92309,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,102194920,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,3785169,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,27884120,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,125247424,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,792323712,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,580,N. Mariana Isds,MNP,TOTAL,All commodities,1,No Quantity,,,5036,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,583,FS Micronesia,FSM,TOTAL,All commodities,1,No Quantity,,,8527,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,8118,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,585,Palau,PLW,TOTAL,All commodities,1,No Quantity,,,1439,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,108717784,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,52999120,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,826761,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,5425427,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,58952728,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,139270480,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,612,Pitcairn,PCN,TOTAL,All commodities,1,No Quantity,,,8729,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,1589744128,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,1571571840,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,1402737,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,24662920,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,232472848,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,1169799040,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,21626732,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,654,Saint Helena,SHN,TOTAL,All commodities,1,No Quantity,,,49339,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,817751,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,99024,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,1375534,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,190299,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,150148,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,1431222,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,509418080,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,70366808,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,2919720,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,13128687,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,699,India,IND,TOTAL,All commodities,1,No Quantity,,,2683449344,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,482627968,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,206496688,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,55586708,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,175013792,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,158377,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,668607808,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,24780786,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,6364899328,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,23424284,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,12924332,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,2741116160,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,2869078016,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,136249792,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,2814757,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,406734496,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,23405236,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,48359,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,24022802,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,418964928,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,383482752,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,1437531520,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,5227640,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,5343,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,798,Tuvalu,TUV,TOTAL,All commodities,1,No Quantity,,,2083,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,16389068,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,191857568,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,16781774,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,359823232,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,17591883776,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,18572350,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,622275840,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,839,Special Categories,,TOTAL,All commodities,1,No Quantity,,,169324928,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,9359100928,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,849,US Misc. Pacific Isds,,TOTAL,All commodities,1,No Quantity,,,1069023,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,22622652,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,23986208,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,30034468,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,131180288,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,876,Wallis and Futuna Isds,WLF,TOTAL,All commodities,1,No Quantity,,,41002,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,93540,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,50678476,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,891,Serbia and Montenegro,SCG,TOTAL,All commodities,1,No Quantity,,,63568744,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,4977675,0
+S1,1998,1998,1998,0,0,2,Export,58,Belgium-Luxembourg,BEL,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,10981008,0

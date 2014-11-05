@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,249496672,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,26907,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,18716,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,1064,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,90987,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,61375,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,32000,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,4226628,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,308639,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,5075329,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,10146691,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,74913,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,12261,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,7634717,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,865542,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,3329868,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,147824,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,254,French Guiana,GUF,TOTAL,All commodities,1,No Quantity,,,16000,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,19556440,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,,,69765,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,3850116,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,1906,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,64291,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,2439548,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,140439,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,848293,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,23000,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,9699752,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,620424,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,1630169,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,72102,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,257133,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,262237,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,29190,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,642758,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,12042339,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,532,Neth. Antilles and Aruba,ANT,TOTAL,All commodities,1,No Quantity,,,2229537,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,6924695,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,592,Fmr Panama-Canal-Zone,PCZ,TOTAL,All commodities,1,No Quantity,,,25277236,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,1159,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,57418,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,173546,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,66274,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,373701,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,140752,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,71456,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,587189,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,4273106,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,24382,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,299365,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,1230400,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,58613,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,838,Free Zones,,TOTAL,All commodities,1,No Quantity,,,1924229,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,113455032,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,850,US Virgin Isds,VIR,TOTAL,All commodities,1,No Quantity,,,41518,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,3635,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,2885032,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,,,5047930,0
+S1,1977,1977,1977,0,0,2,Export,590,"Fmr Panama, excl.Canal Zone",PAN,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,31096,0

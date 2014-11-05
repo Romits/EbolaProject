@@ -1,0 +1,509 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,7625236775,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,6591986,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,6529403,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,7087490,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,114959,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,82295180,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,1945126,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,476836,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,2290191,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,397910,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,5996075,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,22750,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,9582,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,983499,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,13239,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,476272082,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,724323,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,100,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,76168,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,859471,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,166300,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,1297707,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,35857845,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,234084,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,1611752781,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,110995,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,38208372,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,298589,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,23492,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,119519,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,1231,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,5815104,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,85213397,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,215152055,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,567031,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,125442018,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,65985406,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,4452,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,3000,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,132309,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,162848339,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,1245416,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,32768,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,453985,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,5186822,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,433827,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,12872,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,19435837,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,470288,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,19486391,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,1580041,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,40778,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,1070412,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,43800,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,6486686,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,28790638,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,699,India,IND,TOTAL,All commodities,1,No Quantity,,,958105415,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,276305515,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,60623216,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,19424799,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,24636057,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,493763,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,1750007,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,3177246767,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,29144148,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,10492749,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,150115,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,3134230,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,34774593,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,1692531,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,48203,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,206913,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,205484,0
+S1,2010,2010,2010,0,0,2,Export,104,Myanmar,MMR,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,111312,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,434473748,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,20124,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,6610,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,2453079,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,2401729,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,38095,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,4677805,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,10185,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,435837,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,17727614,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,50622370,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,13340,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,394112,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,152865,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,6971164,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,31582,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,302451,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,3203821,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,1230349,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,606374,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,476570,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,2112292,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,38220,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,4071,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,168982,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,14667086,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,5141226,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,2795883,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,2504,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,6510,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,236841,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,192117,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,33547,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,16807,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,7559549,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,65737,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,2404,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,574935,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,2039723,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,3014039,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,13363,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,6990500,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,3806,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,13977674,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,210759059,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,574,Norfolk Isds,NFK,TOTAL,All commodities,1,No Quantity,,,54079,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,2977087,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,40510,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,7794889,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,50407,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,1596448,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,699,India,IND,TOTAL,All commodities,1,No Quantity,,,22523169,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,4419268,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,10048721,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,1710048,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,302208,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,91635,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,2304,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,142834,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,4069688,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,8827799,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,3524735,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,176324,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,2151640,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,55712,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,12557,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,67293,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,104620,0
+S1,2010,2010,2010,0,0,2,Export,204,Benin,BEN,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,1536821,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,5056733584,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,150457698,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,13309,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,44904,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,98022,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,3176962,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,79446,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,1161836,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,51,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,8025357,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,6770465,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,1060532,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,6170802,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,220012,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,227,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,52455705,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,15650,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,526782,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,321667,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,239725,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,68848809,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,31793,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,5975,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,993293,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,14730798,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,817582,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,11162785,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,363713,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,2039050,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,31679800,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,639001,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,5891274,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,161351930,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,39984,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,23219,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,134740,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,2286549,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,256068,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,214126,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,2282126,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,1704,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,209809,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,658072,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,1887,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,55310163,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,4889893,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,12614,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,22799870,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,65451473,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,11680763,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,2075729,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,123216,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,138850,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,97307743,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,8521736,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1669899,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,30741,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,59568,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,594678,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,2646,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,927709,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,63006,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,28005841,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,675647,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,607349,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,12476506,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,10830208,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,7575527,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,13417615,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,19515477,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,40944947,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,836940,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,26374018,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,36206967,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,2056861,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,2227663,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,5908751,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,230133,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,1210788,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,426,Lesotho,LSO,TOTAL,All commodities,1,No Quantity,,,10747,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,173693,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,139950,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,225234,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,197766,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,1103,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,24319,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,4322075,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,53801819,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,6139795,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,10819,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,266701,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,2088036,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,178318,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,18686230,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,745160,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1112174,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,229,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,111499,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,1405376,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,9761512,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,15449112,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,1779447,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,520,Nauru,NRU,TOTAL,All commodities,1,No Quantity,,,19454,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,2802196,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,338908278,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,76,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,1511514,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,8545,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,874537,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,20105749,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,14509079,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,227919577,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,40693,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,314,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,608051,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,3927886,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,14753277,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,4974663,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,7732,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,2076126,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,957403,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,56950699,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,132891624,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,221,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,674,San Marino,SMR,TOTAL,All commodities,1,No Quantity,,,24010,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,22688678,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,180970,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,1525,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,3462544,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,704526,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,699,India,IND,TOTAL,All commodities,1,No Quantity,,,106933152,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,8181682,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,118927,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,4255573,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,77542,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,164706929,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,30822328,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,9362084,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,25661987,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,237487811,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,144726,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,34584653,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,21604353,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,1253381,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,14125071,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,163266,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,1121,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,157339585,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,15280,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,10642549,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,798,Tuvalu,TUV,TOTAL,All commodities,1,No Quantity,,,10293,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,657286060,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,2806953,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,228514626,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,507208809,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,420205129,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,38483402,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,253927275,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,353321,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,402508,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,28749,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,772637,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,57004968,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,59136276,0
+S1,2010,2010,2010,0,0,2,Export,404,Kenya,KEN,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,19304745,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,36440413733,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,9668146,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,5499816,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,41961890,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,24774221,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,197145098,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,9097849,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,227106512,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,3407183423,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,107280787,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,17268362,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,52207418,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,5662645853,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,17144273,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,932718562,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1624754664,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,154077597,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,327892011,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,15403950090,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,3316,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,45435,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,51510995,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,28534290,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,30340,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,116314249,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,35402542,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,24141,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,4736748,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,35859134,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,5598159,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,1229423797,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,590667157,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,40735767,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,1965060,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,699,India,IND,TOTAL,All commodities,1,No Quantity,,,503895741,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,81006600,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,809,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,20871761,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,3364062307,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,21294939,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,6596653,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,15732760,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,130352086,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,129472895,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,192930694,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,304715428,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,390251927,0
+S1,2010,2010,2010,0,0,2,Export,434,Libya,LBY,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,916001430,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,11352917730,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,1168572,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,1287856,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,157646442,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,6461008,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,156729,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,4593569,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,531246,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,2072989,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,166406785,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,8911406,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,16210128,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,706775,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,29639,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,21388424,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,8642,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,109658,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,2227922,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,44265721,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,31605,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,35363751,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,4925657,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,1928162,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,3309452,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,7456,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,53316,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,82844,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,195192,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,81412726,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,424953,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,11372,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,831800,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,32696,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,448277,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,118994,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,30736823,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,151934,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,858855,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,693499,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,333513,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,444444,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,128724,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,269112,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,54284,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,253173,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,1511630,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,484929832,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,2261302,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,881413,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,3562128,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,393933,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,1477110789,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,5355216,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,49382557,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,63232,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,1349739,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,48680,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,327689,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,4372408,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,1310985,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,2914778,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,15265811,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,2294520028,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,352801,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1520203182,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,2139026,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,69695093,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,1159232,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,405930353,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,936337,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,5391181,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,140915313,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,161153446,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,395095,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,436249233,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,10459,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,1079569,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,125921568,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,1345797,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,16447,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,99441,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,16812,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,1338084,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,689765,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,182569,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,2721733,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,718569,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,86656431,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,1794,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,733485,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,25333494,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,474751,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,17948896,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,397179957,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,1648715,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,148977,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,99759,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,5594686,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,3103015,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,285420,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,2288562,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,1941960,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,80879,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,6971,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,26777918,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,7570047,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,5926,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,66022904,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,9307379,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,33322385,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,38243,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,30353,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,82347,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,542604001,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,7872728,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,2830679,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,7017,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,864123,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,699,India,IND,TOTAL,All commodities,1,No Quantity,,,12043917,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,308782,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,372287,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,1364413,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,209276,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,783300,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,2033786,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,358878,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,234559061,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,78574670,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,38632,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,3236283,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,747908,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,455161,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,244370,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,264913,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,178109,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,90244130,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,34276520,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,629200212,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,418037,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,165311,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,63491993,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,357121,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,388584550,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,125181112,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,2179788,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,838,Free Zones,,TOTAL,All commodities,1,No Quantity,,,6047019,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,399552222,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,319265,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,5796384,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,4489125,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,85442014,0
+S1,2010,2010,2010,0,0,2,Export,760,Syria,SYR,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,119025996,0

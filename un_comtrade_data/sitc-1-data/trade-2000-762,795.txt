@@ -1,0 +1,95 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,38042356,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,891,Serbia and Montenegro,SCG,TOTAL,All commodities,1,No Quantity,,,161185,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,5951027,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,13432635,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,73143,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,164885696,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,60671,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,185996240,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,61373456,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,415785,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,29114264,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,91871872,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,221313,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,2023331,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,1994232,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,699,India,IND,TOTAL,All commodities,1,No Quantity,,,437415,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,4407746,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,1029300928,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,11073787,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,828540,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,564120,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,2796,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,202732,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,2663004,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,9493,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,117630,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,4854351,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,23195742,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,10266,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,5300449,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,401345664,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,338127,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,148897,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,241958784,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,381878,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,384430,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1775267,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,3489437,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,14808943,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,241563,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,268288,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,5769,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,3382768,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,201771,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,48489388,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,7611559,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,15412,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,12960,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,283843,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,12440,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,19481610,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,28841,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,1504683,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,5699489,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,37063652,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,38023476,0
+S1,2000,2000,2000,0,0,2,Export,795,Turkmenistan,TKM,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,2505545216,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,97764000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,592000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,4449000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,131000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,1888000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,4736000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,49613000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,178000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,39000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,178000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,9882000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,258770000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,644000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,717000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,120000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,178209000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,22000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,14281000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,2662000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,5654000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,19540000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,998000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,5943000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,365000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,147000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,208000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,1876000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,243000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,23000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,520000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,37000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,1736000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,172000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,5117000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,302000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,422000,0
+S1,2000,2000,2000,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,668178000,0

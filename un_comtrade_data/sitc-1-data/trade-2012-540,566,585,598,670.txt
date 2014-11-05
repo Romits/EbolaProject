@@ -1,0 +1,379 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,1291668866,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,731855,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,122560139,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,1874,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,54439993,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,14548,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,27263,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,42583,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,26121,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,2566,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,406029,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,36376,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,36725,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,135855133,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,107,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,175,Mayotte,MYT,TOTAL,All commodities,1,No Quantity,,,84859,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,499,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,1507,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,243171,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,494,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,237425162,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,1141511,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,17808,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,499827,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,16061,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,296,Kiribati,KIR,TOTAL,All commodities,1,No Quantity,,,485,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,226203,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,336,Holy See (Vatican City State),VAT,TOTAL,All commodities,1,No Quantity,,,706,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,2997446,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,1160,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,37946,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,156311,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,5689,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,30518448,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,905,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,202354600,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,1706,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,1012,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,178,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,156767959,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,886,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,116,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,85099,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,650,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,24057,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,152241751,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,520,Nauru,NRU,TOTAL,All commodities,1,No Quantity,,,978,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,5231603,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,2191067,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,3259369,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,112739,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,583,FS Micronesia,FSM,TOTAL,All commodities,1,No Quantity,,,1954,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,12863,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,112216,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,1800,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,1434,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,14079,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,613,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,2406,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,96752,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,699,India,IND,TOTAL,All commodities,1,No Quantity,,,19902224,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,113648,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,2372336,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,38929456,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,49132974,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,23209,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,9162,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,18722,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,170,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,65,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,906692,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,62059268,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,876,Wallis and Futuna Isds,WLF,TOTAL,All commodities,1,No Quantity,,,7677808,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,397885,0
+S1,2012,2012,2012,0,0,2,Export,540,New Caledonia,NCL,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,49846,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,143151182808,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,9,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,10,Antarctica,ATA,TOTAL,All commodities,1,No Quantity,,,1435,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,1350406528,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,96801952,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,55553659,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,471833641,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,165722669,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,3184903591,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,3525316,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,33708058,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,23792641,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,497657353,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,1590627,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,3809192412,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,1049738015,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,17934270,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,1122695,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,6131831,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,1131879877,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,74,Bouvet Island,BVT,TOTAL,All commodities,1,No Quantity,,,52224063,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,10791458476,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,79368,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,13771,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,546223,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,1094075,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,950294497,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,2175253184,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,23373,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,12004798,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,133499,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,22051785,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,5577612,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,8038724047,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,166,Cocos Isds,CCK,TOTAL,All commodities,1,No Quantity,,,553799,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,885426,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,26091987,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,159,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,55544865,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,60,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,9814328,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,1620266,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,202882537,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,24477170,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,589150,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,786906,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,217096,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,2837631,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,665342,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,5958705873,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,15747441,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,19680,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,1530612,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,2144153199,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,1310011135,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,1886894,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1562115947,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,1827384,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,84767768,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,1291,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,4811757,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,1508138265,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,1973980710,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,13157212,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,8796790526,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,2618896405,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,868,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,699557349,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,93210,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,47603184,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,16028,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,18850944,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,238759,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,567493538,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,253073,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,10104753,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,7735867,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,48091,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,102074138,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,3838196,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,32053923,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,638920,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,1125598,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,233467142,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,1,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,2975876,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,191,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,4975774,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,9957569051,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,1381933,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,16384,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,32316836,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,4374093,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,198089602,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,574,Norfolk Isds,NFK,TOTAL,All commodities,1,No Quantity,,,1704187,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,240339411,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,581,United States Minor Outlying Islands,UMI,TOTAL,All commodities,1,No Quantity,,,263295,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,439075628,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,31625036,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,536863396,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,7954,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,849219656,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,1365682,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,97025464,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,1087357160,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,511695,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,626,Timor-Leste,TLS,TOTAL,All commodities,1,No Quantity,,,350445,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,3671844,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,243492717,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,4187097,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,102941,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,397556,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,954355,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,5606461,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,977517666,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,6,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,5060029,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,699,India,IND,TOTAL,All commodities,1,No Quantity,,,15895243806,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,1490529435,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,1935963,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,103866824,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,246007,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,4730797696,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,185715918,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,7801977095,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,729,Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,33053217,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,67238011,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,963133692,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,72965343,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,825303,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,113234464,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,46257301,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,772,Tokelau,TKL,TOTAL,All commodities,1,No Quantity,,,1220,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,92523106,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,3693639,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,526120930,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,504630,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,4367241,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,6591458,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,9042007481,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,8886275,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,277606528,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,24139338084,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,6090390,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,521137283,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,105,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,15565,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,296463,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,24572,0
+S1,2012,2012,2012,0,0,2,Export,566,Nigeria,NGA,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,286880587,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,8999371,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,220,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,3077,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,6730,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,11752,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,278941,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,278213,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,150,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,7420199,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,1400,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,36235,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,249335,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,580,N. Mariana Isds,MNP,TOTAL,All commodities,1,No Quantity,,,54883,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,583,FS Micronesia,FSM,TOTAL,All commodities,1,No Quantity,,,92135,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,16575,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,171109,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,16029,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,26357,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,2250,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,2762,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,21667,0
+S1,2012,2012,2012,0,0,2,Export,585,Palau,PLW,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,309352,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,4506109142,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,974553,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,47335899,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,1620077134,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,389,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,32987606,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,334706,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,9310703,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,765918,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,9450,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,7980,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,495301,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,1173303,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,564453,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,302113039,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,178395,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,150895,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,908608,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,2050003,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,57045,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,1279657,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,273941,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,5558614,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,319689,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,1477946,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,920640,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,312535505,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,73223,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,256832,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,24350,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,15843461,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,38317096,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,92746,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,235990,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,60693225,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,528202645,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,3544,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,4545626,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,117763676,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,299547,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,12751988,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,72288,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,58757297,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,453724,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,599,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,18673697,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,208549556,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,60175948,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,970681,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,502204,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,8872813,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,109211,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,12023,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,583,FS Micronesia,FSM,TOTAL,All commodities,1,No Quantity,,,46960,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,86343,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,121495,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,5290,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,154366869,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,1801433,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,1427001,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,626,Timor-Leste,TLS,TOTAL,All commodities,1,No Quantity,,,11542,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,261514,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,5518788,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,37584,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,20024,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,699,India,IND,TOTAL,All commodities,1,No Quantity,,,204138034,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,253899412,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,8851878,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,2277491,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,47611,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,113035175,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,90547,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,2346473,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,22191696,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,27145802,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,28855,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,492500,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,252,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,249737,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,304033,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,146985085,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,48092,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,81251281,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,876,Wallis and Futuna Isds,WLF,TOTAL,All commodities,1,No Quantity,,,11446,0
+S1,2012,2012,2012,0,0,2,Export,598,Papua New Guinea,PNG,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,893536,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,43042465,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,5342202,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,2516,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,6175233,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,18519,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,246,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,447489,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,80637,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,21711,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,2792,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,3286272,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,38125,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,49159,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,185,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,1486456,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,91,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,50607,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,449879,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,76866,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,1962,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,74074,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,220,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,651198,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,12404,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,38345,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,172551,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,46010,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,304864,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,1354,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,33998,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,2700049,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,60918,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,11012186,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,101,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,16387,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,80101,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,794097,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,403,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,281279,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,6752074,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,31698,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,49308,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,773836,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,1445187,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,24725,0
+S1,2012,2012,2012,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,154150,0

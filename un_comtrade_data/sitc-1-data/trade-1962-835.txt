@@ -1,0 +1,60 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,0,World,WLD,TOTAL,All commodities,1,No Quantity,0,0,146024000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,0,0,8000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,0,0,101000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,0,0,3404000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,0,0,131000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,0,0,49000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,0,0,5473000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,0,0,2179000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,0,0,2877000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,129,"Caribbean, nes",,TOTAL,All commodities,1,No Quantity,0,0,7000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,0,0,1997000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,200,Czechoslovakia,CSK,TOTAL,All commodities,1,No Quantity,0,0,321000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,0,0,1950000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,0,0,59000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,251,France,FRA,TOTAL,All commodities,1,No Quantity,0,0,2048000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,0,0,12115000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,0,0,471000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,0,0,10461000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,356,"India, excl. Sikkim",IND,TOTAL,All commodities,1,No Quantity,0,0,10111000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,0,0,8000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,0,0,84000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,0,0,996000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,0,0,333000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,0,0,3374000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,0,0,5879000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,0,0,102000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,0,0,15000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,0,0,13000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,459,Peninsula Malaysia,,TOTAL,All commodities,1,No Quantity,0,0,533000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,0,0,104000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,0,0,1160000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,0,0,232000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,0,0,8458000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,0,0,917000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,0,0,51000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,577,"Other Africa, nes",,TOTAL,All commodities,1,No Quantity,0,0,14000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,0,0,388000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,588,East and West Pakistan,PAK,TOTAL,All commodities,1,No Quantity,0,0,42000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,616,Poland,POL,TOTAL,All commodities,1,No Quantity,0,0,3000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,636,"Rest of America, nes",,TOTAL,All commodities,1,No Quantity,0,0,9000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,0,0,4000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,0,0,22000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,0,0,181000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,0,0,166000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,0,0,2557000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,717,Fmr Rhodesia Nyas,,TOTAL,All commodities,1,No Quantity,0,0,1275000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,720,Fmr Dem. Yemen,YMD,TOTAL,All commodities,1,No Quantity,0,0,397000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,0,0,964000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,0,0,217000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,0,0,661000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,0,0,63000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,0,0,161000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,0,0,69000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,0,0,157000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,0,0,48585000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,836,Fmr Zanzibar and Pemba Isd,,TOTAL,All commodities,1,No Quantity,0,0,1259000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,0,0,12027000,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,0,0,32847,0
+S1,1962,1962,1962,0,0,2,Export,835,Fmr Tanganyika,,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,0,0,748000,0
