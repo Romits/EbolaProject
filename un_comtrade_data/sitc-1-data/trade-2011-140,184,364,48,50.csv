@@ -1,0 +1,551 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,22561916650,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,28455,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,63330558,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,12647,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,1194974,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,451794,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,109371045,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,117473,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,4060014,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,3633564,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,16984838,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,22839243,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,35984,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,22739,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,738802,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,3779,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,234205,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,153885,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,397037924,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,478810,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,9308,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,336031,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,89849,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,373051,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,7043105,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,6200757,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,101047,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,87347,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,95819,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,1218876,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,419398,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,9915,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,10355464,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,42469103,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,647659,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,168391,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,275,State of Palestine,PSE,TOTAL,All commodities,1,No Quantity,,,211305,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,45829289,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,83537,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,433066,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,4367346,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,1301168,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,29514,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,4423282,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,463699,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,93476918,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,9581986,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,44198306,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,175125,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,158889859,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,22780480,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,5021,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,57822836,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,3688951,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,22174850,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,4083577,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,162244045,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,7880979,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,593435,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,2143901,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,16375332,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,76875,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,1862,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,798,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,81716608,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,191949,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,141796,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,876140,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,823116,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,534156,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,90917887,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,268106,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,98497332,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,31051257,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,768209124,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,1081578,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,42167,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,141842047,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,186742,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,33209628,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,1366030,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,10391692,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,68364024,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,96189,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,1295144,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,102433190,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,403601,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,264143,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,4071400,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,778246318,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,440921,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,6260223,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,1643084562,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,155332,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,430420,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,699,India,IND,TOTAL,All commodities,1,No Quantity,,,492941320,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,40479561,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,1399950,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,47872,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,798,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,30109677,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,113984,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,32755786,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,11124441,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,1385083,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,4856685,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,13903993,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,69138165,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,22522495,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,419537,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,599476377,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,14504930,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,24353102,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,1847401,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,94965655,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,41522135,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,4682279,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,410562,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,301091618,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,1515822,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,44654,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,10881590,0
+S1,2011,2011,2011,0,0,2,Export,48,Bahrain,BHR,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,15524835160,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,24313744243,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,3612691,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,127775,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,5424718,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,35680,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,2963933,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,1470,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,10032410,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,295051314,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,59017282,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,4123601,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,7748,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,794293762,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,26579,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,49184,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,413377,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,214,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,153506084,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,383354,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,226666,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,135347,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,70650,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,3223743,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,8534857,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,45572,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,3132736,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,3079112,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,1308845,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,1024426020,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,18413,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,41109,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,43142004,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,188917,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,20887455,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,382895518,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,7666511,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,68645,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,2404694,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,2155676,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,1435447,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,4561288,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,1914540,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,3745736,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,53044265,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,2172977,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,384861425,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,5772,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,617816,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,207608,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,822673,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,5660,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,2288802,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,35176,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,2995158,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,234,Faeroe Isds,FRO,TOTAL,All commodities,1,No Quantity,,,109982,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,128231,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,47508686,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,1560386004,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,74755,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,3978794,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,215531,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,658207,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,275,State of Palestine,PSE,TOTAL,All commodities,1,No Quantity,,,199,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,3781864787,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,3881616,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,296,Kiribati,KIR,TOTAL,All commodities,1,No Quantity,,,144852,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,36108333,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,,,1934,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,15128,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,13736,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,522661,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,955237,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,15811,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,118782,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,628914,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,223917430,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,5180253,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,85060,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,29964904,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,93788910,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,248242,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,175602965,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,392219,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,990280315,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,7956553,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,199303,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,543741720,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,294847,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,4898363,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,8232943,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,58855,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,201358170,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,13916645,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,801353,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,24255,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,4299738,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,426,Lesotho,LSO,TOTAL,All commodities,1,No Quantity,,,540,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,1652544,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,1686562,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,2103869,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,4341063,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,47211,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,536378,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,89762,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,52692730,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,1527731,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,305182,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,332208,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,717672,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,3095328,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,102907553,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,43231002,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,381226,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,134991,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,1530,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,4544093,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,1984238,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,2008572,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,68012,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,1346679,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,835760174,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,3595798,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,6438,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,132974,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,27314204,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,437863,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,211528,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,13482549,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,23962631,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,94305532,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,111398,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,85788547,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,11466333,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,2894630,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,546495,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,6920674,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,11672536,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,293379987,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,62491046,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,1578804,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,626,Timor-Leste,TLS,TOTAL,All commodities,1,No Quantity,,,904507,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,11913035,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,14443035,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,131656013,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,115256,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,28598,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,124415377,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,2185015,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,317066,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,182068,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,1318111,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,699,India,IND,TOTAL,All commodities,1,No Quantity,,,470533817,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,149582087,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,58570544,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,55097355,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,9673970,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,2016609,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,65226254,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,8632,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,1072977032,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,47663724,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,586117,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,3822642,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,387651201,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,126309631,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,27907245,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,195275,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,43785774,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,2644359,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,772,Tokelau,TKL,TOTAL,All commodities,1,No Quantity,,,417959,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,4819,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,135008,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,154410795,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,3876633,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,655405871,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,15136594,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,21743244,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,20802,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,15609625,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,2306383453,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,1044770,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,5106780029,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,102666,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,4526392,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,3603134,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,2607820,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,3808,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,2183166,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,218581,0
+S1,2011,2011,2011,0,0,2,Export,50,Bangladesh,BGD,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,471988670,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,101427362,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,6865,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,1533358,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,51342,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,98033,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,10144800,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,28364,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,186170,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,8745281,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,871508,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,177853,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,36738,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,467,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,186695,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,6958,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,26057264,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,53138,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,6658978,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,2109776,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,125614,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,1595838,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,31279,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,172432,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1059418,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,195294,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,15486924,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,30346,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,71896,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,1865286,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,57330,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,84300,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,3508,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,213695,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,1170617,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,3282439,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,393630,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,26235,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,14900,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,140911,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,63286,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,734290,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,699,India,IND,TOTAL,All commodities,1,No Quantity,,,499351,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,56434,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,17721,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,193327,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,4313082,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,2788630,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,16704,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,810927,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,334913,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,6936,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,653670,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,2787349,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,669363,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,716373,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,3756,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,10844,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,224689,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,2976332,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,838,Free Zones,,TOTAL,All commodities,1,No Quantity,,,36457,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,535645,0
+S1,2011,2011,2011,0,0,2,Export,140,Central African Rep.,CAF,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,1805,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,3124692,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,48310,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,3950,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,5176,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,458176,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,7663,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,30384,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,84528,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,1836638,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,23902,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,25311,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,38702,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,3950,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,136789,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,5514,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,18044,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,17004,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,122005,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,18822,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,3950,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,16257,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,189037,0
+S1,2011,2011,2011,0,0,2,Export,184,Cook Isds,COK,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,30579,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,130532900374,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,1883050904,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,1241060,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,9837039,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,3730545,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,434990471,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,3531174,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,66212182,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,14588759,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,11477482,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,24040183,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,104870845,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,316254006,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,454721,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,17173935,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,2068221,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,6070841,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,58675293,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,5524030,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,302400,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,5475245,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,40332191,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,3154020,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,97041890,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,682104,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,5287384105,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,827099,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,8592201,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,32055,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,6881019,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,5758582,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,1855584,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,1178675,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,1680741,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,15520492,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,182239,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,171920,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,6491093,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,737951,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,56959,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,44134,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,635207,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,62454348,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,48218901,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,8040438,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,62142324,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,47750,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,393873367,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,4902538,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,14782795,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,216250,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,4102464,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,261021,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,29155,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,255659939,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,4043557,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,1138058082,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,4646790449,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,378280,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,259440326,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,11988046,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,2230852,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,548161949,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,74431223,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,8753981,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,37988257,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,1122814545,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,112838809,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,40487309,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,75162233,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,73500,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,1129170,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,1691123,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,4792346,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,1327435,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,47906,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,133992213,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,80970,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,923110,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,132869,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,366448,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,329565,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,14749668,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,61361311101,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,86925,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,866655,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,499,Montenegro,MNE,TOTAL,All commodities,1,No Quantity,,,3064945,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,10081356,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,10560093,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,64482900,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,24477,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,635467,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,238031657,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,3049822,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,1282869,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,25486031,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,24645938064,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,577,"Other Africa, nes",,TOTAL,All commodities,1,No Quantity,,,4224067657,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,2518830,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,576636453,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,269347,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,268006,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,172225606,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,17095605,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,5257411,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,76790280,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,33572557,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,375739696,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,267438,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,592576,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,74145152,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,6214032,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,1364812,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,121024,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,402504,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,699,India,IND,TOTAL,All commodities,1,No Quantity,,,2593536706,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,1207184858,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,3050545,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,180395977,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,25824060,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,2638430,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,32767163,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,1454552,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,156885345,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,85554700,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,388,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,27029117,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,20645793,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,475742508,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,180284804,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,95652237,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,5537520,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,436587,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,4269593854,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,6422965,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,1405384204,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,477491573,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,4714368,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,59381592,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,2951462,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,28658198,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,37377270,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,29991456,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,838,Free Zones,,TOTAL,All commodities,1,No Quantity,,,146714119,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,765551,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,856780,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,295804,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,72261239,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,64794259,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,22779497,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,109577,0
+S1,2011,2011,2011,0,0,2,Export,364,Iran,IRN,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,9328538864,0

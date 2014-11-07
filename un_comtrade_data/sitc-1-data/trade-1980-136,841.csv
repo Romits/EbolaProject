@@ -1,0 +1,204 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,0,World,WLD,TOTAL,All commodities,1,No Quantity,0,0,2620089,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,0,0,775,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,0,0,120,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,0,0,3818,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,0,0,9281,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,0,0,1000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,0,0,285,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,0,0,494,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,0,0,1400,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,0,0,2648,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,0,0,1000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,0,0,6340,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,156,China,CHN,TOTAL,All commodities,1,No Quantity,0,0,50,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,0,0,4329,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,0,0,56,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,251,France,FRA,TOTAL,All commodities,1,No Quantity,0,0,6949,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,0,0,880748,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,0,0,1000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,0,0,4000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,0,0,58565,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,0,0,50000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,0,0,164,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,0,0,24880,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,0,0,2250,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,0,0,187436,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,0,0,285696,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,0,0,6000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,0,0,21000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,582,Fmr Pacific Isds,PCI,TOTAL,All commodities,1,No Quantity,0,0,421,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,0,0,5334,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,0,0,8400,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,0,0,2275,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,0,0,322000,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,0,0,721143,0
+S1,1980,1980,1980,0,0,2,Export,136,Cayman Isds,CYM,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,0,0,230,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,0,World,WLD,TOTAL,All commodities,1,No Quantity,0,0,216916388556,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,0,0,11298287,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,0,0,6891214,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,0,0,541810799,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,0,0,110897282,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,0,0,2580793847,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,0,0,4087596059,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,0,0,438430590,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,0,0,395325134,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,0,0,194955000,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,0,0,292178829,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,0,0,136359202,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,0,0,6486630939,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,0,0,135573884,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,0,0,169024872,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,0,0,4334367898,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,0,0,58353086,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,86,Br. Indian Ocean Terr.,IOT,TOTAL,All commodities,1,No Quantity,0,0,95369,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,0,0,3649693,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,0,0,70055931,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,0,0,160793256,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,0,0,28976444,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,0,0,2888657,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,0,0,25915765,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,0,0,89694385,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,0,0,33809966115,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,0,0,55863562,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,0,0,717689,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,0,0,61613913,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,0,0,1925716,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,0,0,1351658619,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,156,China,CHN,TOTAL,All commodities,1,No Quantity,0,0,3754353831,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,0,0,1730192260,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,0,0,203416,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,178,Congo,COG,TOTAL,All commodities,1,No Quantity,0,0,21787008,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,0,0,153271922,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,0,0,497342349,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,0,0,118858,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,0,0,69267045,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,200,Czechoslovakia,CSK,TOTAL,All commodities,1,No Quantity,0,0,185210996,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,0,0,14903720,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,0,0,831042620,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,0,0,794096887,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,0,0,855119785,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,0,0,270699438,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,0,0,51729,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,230,Fmr Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,0,0,71906779,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,238,Falkland Isds (Malvinas),FLK,TOTAL,All commodities,1,No Quantity,0,0,53792,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,0,0,22514535,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,0,0,504147470,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,251,France,FRA,TOTAL,All commodities,1,No Quantity,0,0,7418456711,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,254,French Guiana,GUF,TOTAL,All commodities,1,No Quantity,0,0,14473661,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,0,0,11634378,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,0,0,48025518,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,0,0,4492286,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,278,Fmr Dem. Rep. of Germany,DDR,TOTAL,All commodities,1,No Quantity,0,0,478277424,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,0,0,10662517515,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,0,0,126608872,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,0,0,4042885,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,0,0,838404297,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,0,0,3488924,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,0,0,66795715,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,0,0,550190588,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,0,0,33885766,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,0,0,96140117,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,0,0,310420634,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,0,0,374678556,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,0,0,2682457468,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,0,0,79951425,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,0,0,78739376,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,0,0,1392851367,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,0,0,23061143,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,0,0,721404048,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,0,0,834963655,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,0,0,1494801260,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,0,0,5467419187,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,0,0,184674351,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,0,0,304578121,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,0,0,20671842253,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,0,0,283213286,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,0,0,129149833,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,0,0,4421248741,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,0,0,873196904,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,0,0,433480,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,0,0,291478559,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,0,0,110764221,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,0,0,503955234,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,0,0,2433607,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,0,0,7396429,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,0,0,3669718,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,0,0,1290957230,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,0,0,952387,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,0,0,6706305,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,0,0,25918251,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,0,0,20071596,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,0,0,21733732,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,0,0,14912164811,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,0,0,4216590459,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,0,0,63507,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,0,0,289735048,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,0,0,69143678,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,0,0,86607231,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,0,0,11696715,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,0,0,8549454415,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,532,Neth. Antilles and Aruba,ANT,TOTAL,All commodities,1,No Quantity,0,0,447231552,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,0,0,70926133,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,0,0,593619203,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,0,0,249421582,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,562,Niger,NER,TOTAL,All commodities,1,No Quantity,0,0,11309469,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,0,0,1142946310,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,0,0,836482746,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,582,Fmr Pacific Isds,PCI,TOTAL,All commodities,1,No Quantity,0,0,48795887,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,0,0,601604696,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,0,0,697667247,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,0,0,37665626,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,0,0,108487592,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,604,Peru,PER,TOTAL,All commodities,1,No Quantity,0,0,1169192464,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,0,0,1986671039,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,616,Poland,POL,TOTAL,All commodities,1,No Quantity,0,0,713679293,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,0,0,909519427,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,0,0,22554629,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,0,0,125895037,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,0,0,1572615,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,0,0,721966202,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,0,0,5352082,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,654,Saint Helena,SHN,TOTAL,All commodities,1,No Quantity,0,0,101269,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,658,"Saint Kitts, Nevis and Anguilla",KNA,TOTAL,All commodities,1,No Quantity,0,0,152220173,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,0,0,162347,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,0,0,5419713799,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,0,0,41048578,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,0,0,3146985,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,0,0,20803647,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,699,India,IND,TOTAL,All commodities,1,No Quantity,0,0,1684014795,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,0,0,2971750897,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,0,0,1147991,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,0,0,55830653,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,0,0,2446203894,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,0,0,18780865,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,720,Fmr Dem. Yemen,YMD,TOTAL,All commodities,1,No Quantity,0,0,6192231,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,0,0,3287247071,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,732,Western Sahara,ESH,TOTAL,All commodities,1,No Quantity,0,0,22873,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,0,0,141226038,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,0,0,136440738,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,0,0,1743936730,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,0,0,3214801167,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,0,0,239160904,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,0,0,1089979454,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,0,0,19143183,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,0,0,679102595,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,0,0,995167180,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,0,0,167939645,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,0,0,483680513,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,0,0,3481260,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,0,0,11601217,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,810,Fmr USSR,SUN,TOTAL,All commodities,1,No Quantity,0,0,1512787164,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,0,0,1751875706,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,0,0,11448969327,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,0,0,61720067,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,839,Special Categories,,TOTAL,All commodities,1,No Quantity,0,0,3274411214,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,0,0,20292569,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,0,0,182631123,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,0,0,4567922746,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,879,"Western Asia, nes",,TOTAL,All commodities,1,No Quantity,0,0,1081480,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,0,0,3908874,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,886,Fmr Arab Rep. of Yemen,YEM,TOTAL,All commodities,1,No Quantity,0,0,56374751,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,0,0,755007447,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,0,0,98548345,0
+S1,1980,1980,1980,0,0,2,Export,841,USA (before 1981),USA,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,0,0,1115648866,0

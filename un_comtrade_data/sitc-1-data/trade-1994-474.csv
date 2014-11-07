@@ -1,0 +1,46 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,218477376,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,20172,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,10468382,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,5345,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,108534,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,45611,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,4494,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,37905,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,37163,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,8990,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,278404,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,433549,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,96550176,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,254,French Guiana,GUF,TOTAL,All commodities,1,No Quantity,,,5998281,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,21328,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,787414,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,2562,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,220001,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,,,93297112,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,103022,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,662982,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,13305,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,7471,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,14385,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,8617,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,422541,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,330340,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,134945,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,38201,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,633,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,52187,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,216816,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,1739,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,2348732,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,5133,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,84006,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,35048,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,9236,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,38511,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,410168,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,26972,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,2725563,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,2400645,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,47334,0
+S1,1994,1994,1994,0,0,2,Export,474,Martinique,MTQ,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,13428,0

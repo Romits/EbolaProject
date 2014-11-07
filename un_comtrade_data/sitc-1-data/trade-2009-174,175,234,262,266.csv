@@ -1,0 +1,292 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,12587676,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,22029,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,23422,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,8517,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,276803,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,175,Mayotte,MYT,TOTAL,All commodities,1,No Quantity,,,3406,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,5480233,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,442223,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,162643,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,92777,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,18404,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,18338,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,1420,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,333717,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,2095,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,412902,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,5650,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,774738,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,46844,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,21293,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,72531,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,426,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,699,India,IND,TOTAL,All commodities,1,No Quantity,,,93687,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,3013236,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,340680,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,83928,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,81267,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,189236,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,568,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,23422,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,23422,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,47257,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,427979,0
+S1,2009,2009,2009,0,0,2,Export,174,Comoros,COM,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,42585,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,6780235,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,121,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,99105,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,1069423,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,134181,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,3552685,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,4673,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,31653,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,17967,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,282092,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,76889,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,965007,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,1465,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,197316,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,25115,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,12683,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,699,India,IND,TOTAL,All commodities,1,No Quantity,,,146694,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,69824,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,45,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,34881,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,52489,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,5860,0
+S1,2009,2009,2009,0,0,2,Export,175,Mayotte,MYT,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,68,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,761743826,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,8596,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,9311,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,40925,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,135495,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,2578184,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,57339,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,1182002,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,7221648,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,316425,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,17950816,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,31024,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,282067,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,83814464,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,55664,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,2630813,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,7609509,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,82264959,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,105210,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,65790833,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,209310,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1838063,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,,,3691198,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,54496,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,579862,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,10772080,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,67736,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,767617,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,16433,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,24366299,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,10188961,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,310874,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,3296,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,88604,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,409187,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,3919204,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,678683,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,99894,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,95685,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,10010790,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,86457,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,2244420,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,9193121,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,1591668,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,31156442,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,62358846,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,247272,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,22676965,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,439372,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,19590602,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,1854680,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,72452,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,30661658,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,49479,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,520292,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,488318,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,31323028,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,6949972,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,2119054,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,6664150,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,1313970,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,131897715,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,57260425,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,59470,0
+S1,2009,2009,2009,0,0,2,Export,234,Faeroe Isds,FRO,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,670441,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,363708835,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,1251937,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,31526150,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,27130,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,9125,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,1660,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,7468,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,2460,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,28593,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,7627,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,128555010,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,73029488,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,8298,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,78411,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,59411,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,39453,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,21567,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,12642,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,923864,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,5532,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,7153547,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,194479,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,8298,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,60,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,2766,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,5910,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,261049,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,496224,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,553,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,319,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,15190274,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,251085,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,5533,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,22882962,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,2855483,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,13864,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,699,India,IND,TOTAL,All commodities,1,No Quantity,,,498383,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,1027,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,43157044,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,5341,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,31847,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,627654,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,45964,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,3600432,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,18462,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,179541,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,9455,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,4500,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,18079,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,2839,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,1374226,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,12298477,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,14646,0
+S1,2009,2009,2009,0,0,2,Export,262,Djibouti,DJI,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,16902685,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,5355977813,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,16107,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,12117,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,749,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,3039377,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,64463,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,1029,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,63847,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,168886,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,7230,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,1697,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,10045699,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,55637,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,5082,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,922,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,16965551,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,801703,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,7221,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,4037352,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,13987,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,2527263,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,427924379,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,4610,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,82440456,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,2335967,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,327646,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,25115013,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,789201,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,146252,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,4935,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,15699150,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,7667,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,1250,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,244948321,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,12068,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,13958384,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,28307525,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,1074455,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,8520587,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,18374516,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,68724,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,34250678,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,277,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,50185078,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,169103,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,42,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,59707682,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,196171,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,36222993,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,1731823,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,5443263,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,4028,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,99879,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,414,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,79356,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,86109675,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,56409,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,706365,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,159835,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,6931792,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,212,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,19446,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,2,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,215312005,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,452196,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,12911937,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,5366287,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,891865,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1501146,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,13492078,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,7179,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,509,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,71995,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,159306710,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,63392,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,10978,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,1993863,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,2679971,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,31023869,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,58291,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,1212,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,452558,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,4609306,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,1112562,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,128275,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,146865,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,21228,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,2511302,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,3220478,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,5971523,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,203223,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,699,India,IND,TOTAL,All commodities,1,No Quantity,,,43341591,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,24001188,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,3344654,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,60141283,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,171,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,282138568,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,16668,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,9794,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,307730,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,61805,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,1134695,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,155771,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,4592050,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,1733510,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,5383296,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,53374,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,2827826,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,350906,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,112423751,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,66892,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,3160351522,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,41716,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,4699,0
+S1,2009,2009,2009,0,0,2,Export,266,Gabon,GAB,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,2,0

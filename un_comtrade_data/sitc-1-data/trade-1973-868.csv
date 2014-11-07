@@ -1,0 +1,43 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,57996552,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,67852,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,273011,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,4854,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,15000,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,471929,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,5894,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,3062905,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,2073,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,9263482,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,554,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,9778,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,1229154,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,11770,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,2920,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,15269463,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,356,"India, excl. Sikkim",IND,TOTAL,All commodities,1,No Quantity,,,1313,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,1880026,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,25000,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,813625,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,14013602,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,28800,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,283653,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,1745,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,1308,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,,,3199,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,60197,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,224931,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,37424,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,104079,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,33600,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,,,54318,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,6727770,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,4406,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,579847,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,505,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,23407,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,735036,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,274223,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,2155758,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,209367,0
+S1,1973,1973,1973,0,0,2,Export,868,Fmr Rep. of Vietnam,VNM,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,28772,0

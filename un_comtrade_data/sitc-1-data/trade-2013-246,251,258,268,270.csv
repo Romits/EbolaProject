@@ -1,0 +1,684 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,73879821776,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,2152424,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,2533478,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,277033906,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,5304,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,538600,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,3638661,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,183599,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,69470612,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,106373578,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,627947962,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,399705955,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,19299869,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,11290792,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,98355034,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,13800446,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,394833,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,2398363069,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,210082,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,134206,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,4881093,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,3347047,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,137800,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,621902826,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,5977291,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,13443,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,4547352,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,387719,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,54185236,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,2634586,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,321734,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,139898875,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,211024,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,7651814,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,912505967,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,403179,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,,,9890,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,91991,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,6711688,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,1778509,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,281522425,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,3587292119,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,169769110,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,175,Mayotte,MYT,TOTAL,All commodities,1,No Quantity,,,8818195,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,5912916,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,1796884,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,10350939,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,25238897,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,6146846,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,217936997,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,313233907,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,417263,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,1357019379,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,7240,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,20185478,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,28290779,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,6497194,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,124203,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,14280875,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,327497,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,2305272670,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,TOTAL,All commodities,1,No Quantity,,,6058007,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,TOTAL,All commodities,1,No Quantity,,,643,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,174587,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,2384214294,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,671152,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,TOTAL,All commodities,1,No Quantity,,,2282666,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,390458,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,11931342,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,11837691,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,1349880,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,TOTAL,All commodities,1,No Quantity,,,992353,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,6900249066,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,43565559,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,42715550,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,153026418,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,,,2242804,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,121,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,469891,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,4655791,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,1788861,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,25908334,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,164787,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,TOTAL,All commodities,1,No Quantity,,,82395,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,4274296,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,539462584,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,273809485,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,36143332,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,170981340,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,69477854,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,66577029,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,130477168,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,208380236,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1705712250,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,6115333,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,457922,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,1165706624,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,208503837,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,191559553,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,32218380,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,11352394,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,1034664313,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,34604241,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,3975435,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,764914,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,113227206,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,426,Lesotho,LSO,TOTAL,All commodities,1,No Quantity,,,586,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,663011960,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,2520912,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,19288382,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,464748801,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,27073538,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,1728379,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,1227314,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,2393139,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,289295868,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,388107,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,3388094,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,3810274,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,20753155,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,1099075,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,453272466,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,250942949,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,21339843,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,8845481,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,TOTAL,All commodities,1,No Quantity,,,421501,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,116227029,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,34602113,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,25194120,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,2827563,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,2232405,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,4475787646,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,921511,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,450715,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,TOTAL,All commodities,1,No Quantity,,,727604,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,3965831,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,33713,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,89964921,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,815330,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,1234933,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,38516926,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,577,"Other Africa, nes",,TOTAL,All commodities,1,No Quantity,,,48463,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,2109204836,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,TOTAL,All commodities,1,No Quantity,,,1407,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,16550709,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,46523925,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,12174124,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,1102826,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,4308566,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,113445681,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,183209693,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,1782944082,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,146896474,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,66,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,TOTAL,All commodities,1,No Quantity,,,15351,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,33548827,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,199603910,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,7015564419,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,270676,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,1170934,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,66454,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,22322,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,9367526,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,321024,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,674,San Marino,SMR,TOTAL,All commodities,1,No Quantity,,,3640914,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,464598828,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,8416650,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,28260759,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,810449,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,2216391,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,699,India,IND,TOTAL,All commodities,1,No Quantity,,,611827038,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,302621595,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,128346404,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,117187967,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,77759046,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,201247,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,471751029,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,6342076,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,992006873,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,728,South Sudan,SSD,TOTAL,All commodities,1,No Quantity,,,421707,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,729,Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,6981316,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,18551036,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,13283,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,8513420863,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,572357506,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,8949989,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,4051426,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,209150450,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,36338469,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,2358379,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,230387800,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,67252313,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,884399677,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,11585082,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,9262,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,3903888,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,435190983,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,3772757,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,339325357,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,3647471189,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,35499042,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,352788520,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,4513781387,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,1038492,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,68714247,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,27834383,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,64233577,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,30206,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,8253911,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,32663878,0
+S1,2013,2013,2013,0,0,2,Export,246,Finland,FIN,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,2094997989,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,565178752902,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,32625837,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,49186365,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,10,Antarctica,ATA,TOTAL,All commodities,1,No Quantity,,,4118721,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,7846003261,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,1208491,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,272031185,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,612822642,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,97450279,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,353694510,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,1644220055,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,3680256871,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,4767243824,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,49255975,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,184107067,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,50,Bangladesh,BGD,TOTAL,All commodities,1,No Quantity,,,177122445,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,50210831,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,26417221,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,43543629594,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,60,Bermuda,BMU,TOTAL,All commodities,1,No Quantity,,,5562186,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,64,Bhutan,BTN,TOTAL,All commodities,1,No Quantity,,,638592,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,48497601,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,93349448,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,72,Botswana,BWA,TOTAL,All commodities,1,No Quantity,,,11534997,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,74,Bouvet Island,BVT,TOTAL,All commodities,1,No Quantity,,,947,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,6302378540,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,2418811,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,TOTAL,All commodities,1,No Quantity,,,38477,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,90,Solomon Isds,SLB,TOTAL,All commodities,1,No Quantity,,,186476,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,38959496,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,14062273,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,911097008,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,76148110,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,18461252,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,246633741,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,82125452,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,939930027,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,3897597868,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,12486531,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,,,33152245,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,35543237,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,111405740,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,159624398,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,1010368149,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,19588884121,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,162,Christmas Isds,CXR,TOTAL,All commodities,1,No Quantity,,,57800,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,166,Cocos Isds,CCK,TOTAL,All commodities,1,No Quantity,,,406450,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,1401166190,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,39461591,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,175,Mayotte,MYT,TOTAL,All commodities,1,No Quantity,,,288816999,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,771916864,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,299791833,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,184,Cook Isds,COK,TOTAL,All commodities,1,No Quantity,,,149954,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,56568887,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,443927208,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,326029022,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,456488839,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,4506443874,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,357631335,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,3257210438,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,3731091,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,117946292,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,126823584,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,222,El Salvador,SLV,TOTAL,All commodities,1,No Quantity,,,40937227,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,TOTAL,All commodities,1,No Quantity,,,156070236,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,238470880,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,232,Eritrea,ERI,TOTAL,All commodities,1,No Quantity,,,3295509,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,401513931,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,TOTAL,All commodities,1,No Quantity,,,1188648,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,238,Falkland Isds (Malvinas),FLK,TOTAL,All commodities,1,No Quantity,,,266,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,239,South Georgia and the South Sandwich Islands,SGS,TOTAL,All commodities,1,No Quantity,,,44395,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,401671862,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,2014949144,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,609853299,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,TOTAL,All commodities,1,No Quantity,,,6490292,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,85456630,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,967448352,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,268,Georgia,GEO,TOTAL,All commodities,1,No Quantity,,,207371819,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,14509724,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,275,State of Palestine,PSE,TOTAL,All commodities,1,No Quantity,,,14881166,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,93023746866,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,412956582,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,520796034,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,296,Kiribati,KIR,TOTAL,All commodities,1,No Quantity,,,28634,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,2953880372,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,304,Greenland,GRL,TOTAL,All commodities,1,No Quantity,,,3331517,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,2798498,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,316,Guam,GUM,TOTAL,All commodities,1,No Quantity,,,16201002,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,98923057,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,173031018,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,10084151,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,54060306,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,336,Holy See (Vatican City State),VAT,TOTAL,All commodities,1,No Quantity,,,758259,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,340,Honduras,HND,TOTAL,All commodities,1,No Quantity,,,20887524,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,6393012591,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,3806146239,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,71321463,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,2135302759,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,655841589,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,665055691,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,3213986488,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,1606209843,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,39474315379,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,1361729956,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,22518397,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,9038384986,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,899241117,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,507110212,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,210690049,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,1432930,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,5635785737,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,1140259505,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,25489418,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,35668339,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,1705247545,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,426,Lesotho,LSO,TOTAL,All commodities,1,No Quantity,,,376833,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,377721279,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,28525320,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,1065402803,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,671131079,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,2750135343,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,158604669,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,393792351,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,62117335,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,3439086197,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,54967021,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,407461331,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,804739238,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,293927660,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,434488839,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,3254567655,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,2199121092,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,42195110,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,80081638,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,499,Montenegro,MNE,TOTAL,All commodities,1,No Quantity,,,26452288,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,96088,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,5124982356,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,80148787,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,519625085,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,516,Namibia,NAM,TOTAL,All commodities,1,No Quantity,,,248581690,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,520,Nauru,NRU,TOTAL,All commodities,1,No Quantity,,,9950,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,9252003,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,23260673427,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,9698663,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,533,Aruba,ABW,TOTAL,All commodities,1,No Quantity,,,42315731,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,534,Saint Maarten,SXM,TOTAL,All commodities,1,No Quantity,,,34827628,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,535,Bonaire,BES,TOTAL,All commodities,1,No Quantity,,,230255,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,994881027,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,10594032,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,588736649,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,558,Nicaragua,NIC,TOTAL,All commodities,1,No Quantity,,,13717785,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,227614449,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,2021570819,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,577,"Other Africa, nes",,TOTAL,All commodities,1,No Quantity,,,5444828,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,1967774043,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,TOTAL,All commodities,1,No Quantity,,,2954615,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,581,United States Minor Outlying Islands,UMI,TOTAL,All commodities,1,No Quantity,,,45424,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,583,FS Micronesia,FSM,TOTAL,All commodities,1,No Quantity,,,162287,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,584,Marshall Isds,MHL,TOTAL,All commodities,1,No Quantity,,,8367433,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,585,Palau,PLW,TOTAL,All commodities,1,No Quantity,,,55469,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,516876054,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,1084989028,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,18755534,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,78750149,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,272846292,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,1939323268,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,8920919391,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,5285842033,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,7504531,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,626,Timor-Leste,TLS,TOTAL,All commodities,1,No Quantity,,,241847,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,978988555,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,4431054242,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,10208770769,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,18228830,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,654,Saint Helena,SHN,TOTAL,All commodities,1,No Quantity,,,62732,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,1658012,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,564588,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,6524381,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,38417102,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,5372959,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,674,San Marino,SMR,TOTAL,All commodities,1,No Quantity,,,26916859,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,722685,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,4536368284,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,938066235,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,388431235,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,90809591,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,39864909,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,699,India,IND,TOTAL,All commodities,1,No Quantity,,,3605458598,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,7196282599,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,2793677826,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,924709240,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,1019586001,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,16978302,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,2372616242,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,27509837,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,37930445574,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,728,South Sudan,SSD,TOTAL,All commodities,1,No Quantity,,,17328779,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,729,Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,107714303,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,55915297,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,748,Swaziland,SWZ,TOTAL,All commodities,1,No Quantity,,,2572968,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,6170279482,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,17138380885,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,212101551,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,15419971,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,3179662445,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,528693425,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,772,Tokelau,TKL,TOTAL,All commodities,1,No Quantity,,,69115,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,2500281,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,196808125,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,5253595218,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,4918357075,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,8321984671,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,164081791,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,TOTAL,All commodities,1,No Quantity,,,1980020,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,798,Tuvalu,TUV,TOTAL,All commodities,1,No Quantity,,,101,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,115149948,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,1273368674,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,58583736,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,1794140779,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,39113244807,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,111972035,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,35772335170,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,441048396,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,275333127,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,156072940,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,633290500,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,TOTAL,All commodities,1,No Quantity,,,17178261,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,30892,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,887,Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,343531868,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,27471368,0
+S1,2013,2013,2013,0,0,2,Export,251,France,FRA,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,769518403,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,145390749,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,16,American Samoa,ASM,TOTAL,All commodities,1,No Quantity,,,79117,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,1112,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,345678,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,71240,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,141246,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,26233,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,81,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,9199,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,333761,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,136,Cayman Isds,CYM,TOTAL,All commodities,1,No Quantity,,,4870,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,418072,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,2359578,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,6600418,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,326,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,184,Cook Isds,COK,TOTAL,All commodities,1,No Quantity,,,186674,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,294,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,446,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,451120,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,61,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,468870,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,20594252,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,1371223,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,665289,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,8225,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,39904029,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,10053,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,137223,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,1161,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,6447,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,381846,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,44483489,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,206228,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,3080,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,448,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,28641,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,192934,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,110001,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,8084,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,218805,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,181421,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,2559890,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,10450,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,1533795,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,874,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,15344,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,3080,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,1811,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,31380,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,2065,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,1448,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,609,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,274,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,699,India,IND,TOTAL,All commodities,1,No Quantity,,,64685,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,53470,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,80,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,1272077,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,15723,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,70389,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,207582,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,224210,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,776,Tonga,TON,TOTAL,All commodities,1,No Quantity,,,11965,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,11752,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,1550,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,8523,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,140004,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,18491329,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,2192,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,876,Wallis and Futuna Isds,WLF,TOTAL,All commodities,1,No Quantity,,,640998,0
+S1,2013,2013,2013,0,0,2,Export,258,French Polynesia,PYF,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,1921,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,2835955467,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,8252601,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,174736,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,1146316,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,20,Andorra,AND,TOTAL,All commodities,1,No Quantity,,,10251,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,31,Azerbaijan,AZE,TOTAL,All commodities,1,No Quantity,,,710214743,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,5944,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,509027,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,579418,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,315697450,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,61482454,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,1260862,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,70,Bosnia Herzegovina,BIH,TOTAL,All commodities,1,No Quantity,,,261714,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,441872,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,600524,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,150753841,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,112,Belarus,BLR,TOTAL,All commodities,1,No Quantity,,,40491925,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,1161779,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,9986985,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,1920184,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,148,Chad,TCD,TOTAL,All commodities,1,No Quantity,,,2905,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,3565736,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,33862452,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,6663583,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,188,Costa Rica,CRI,TOTAL,All commodities,1,No Quantity,,,120232,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,191,Croatia,HRV,TOTAL,All commodities,1,No Quantity,,,398120,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,919984,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,203,Czech Rep.,CZE,TOTAL,All commodities,1,No Quantity,,,14587101,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,1433753,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,1188678,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,2924821,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,2266548,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,233,Estonia,EST,TOTAL,All commodities,1,No Quantity,,,1938760,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,1881537,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,34007482,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,73037283,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,511313,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,14747836,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,353059,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,937620,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,405947,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,2277076,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,47190198,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,8683417,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,333969,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,2524409,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,81489045,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,3570881,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,398,Kazakhstan,KAZ,TOTAL,All commodities,1,No Quantity,,,103602991,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,2177221,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,13547208,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,155515,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,933128,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,417,Kyrgyzstan,KGZ,TOTAL,All commodities,1,No Quantity,,,8947511,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,276901,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,428,Latvia,LVA,TOTAL,All commodities,1,No Quantity,,,6618228,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,1288370,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,440,Lithuania,LTU,TOTAL,All commodities,1,No Quantity,,,21772274,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,442,Luxembourg,LUX,TOTAL,All commodities,1,No Quantity,,,16230,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,302378,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,798707,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,3044208,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1635671,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,496,Mongolia,MNG,TOTAL,All commodities,1,No Quantity,,,4602962,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,498,Rep. of Moldova,MDA,TOTAL,All commodities,1,No Quantity,,,14338814,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,73920,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,6323891,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,21250,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,22488494,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,3457918,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,431008,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,2853534,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,2910852,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,103,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,6036010,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,104593,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,7372212,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,2295517,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,634,Qatar,QAT,TOTAL,All commodities,1,No Quantity,,,14405,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,5084980,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,190242923,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,646,Rwanda,RWA,TOTAL,All commodities,1,No Quantity,,,5520,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,37547,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,137500,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,91163,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,11695,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,699,India,IND,TOTAL,All commodities,1,No Quantity,,,6364918,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,1308824,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,703,Slovakia,SVK,TOTAL,All commodities,1,No Quantity,,,6541078,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,2176443,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,79716,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,157186,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,66865834,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,729,Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,60680,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,68919,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,3266935,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,266509,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,762,Tajikistan,TJK,TOTAL,All commodities,1,No Quantity,,,7933225,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,290379,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,50490,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,68259416,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,95394,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,182349825,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,795,Turkmenistan,TKM,TOTAL,All commodities,1,No Quantity,,,14132588,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,804,Ukraine,UKR,TOTAL,All commodities,1,No Quantity,,,192767092,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,9893019,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,30114928,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,1899061,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,136484249,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,990667,0
+S1,2013,2013,2013,0,0,2,Export,268,Georgia,GEO,860,Uzbekistan,UZB,TOTAL,All commodities,1,No Quantity,,,22708371,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,106204147,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,6573,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,24,Angola,AGO,TOTAL,All commodities,1,No Quantity,,,12424,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,51,Armenia,ARM,TOTAL,All commodities,1,No Quantity,,,7178,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,56,Belgium,BEL,TOTAL,All commodities,1,No Quantity,,,60730,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,2186,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,1509,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,680387,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,204,Benin,BEN,TOTAL,All commodities,1,No Quantity,,,30937,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,12819,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,14784,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,92876,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,1899,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,66332,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,39314,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,34313461,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,22997,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,5629,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,49305,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,6701,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,1181,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,2502,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,17292,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,14106,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,5168,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,60824,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,38359026,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,665,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,89068,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,10354,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,430456,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,531,Curaçao,CUW,TOTAL,All commodities,1,No Quantity,,,16472,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,548,Vanuatu,VUT,TOTAL,All commodities,1,No Quantity,,,186270,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,33507,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,14784,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,18867,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,624,Guinea-Bissau,GNB,TOTAL,All commodities,1,No Quantity,,,3118429,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,643,Russian Federation,RUS,TOTAL,All commodities,1,No Quantity,,,12372,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,18263490,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,688,Serbia,SRB,TOTAL,All commodities,1,No Quantity,,,49553,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,113031,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,699,India,IND,TOTAL,All commodities,1,No Quantity,,,4644149,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,350513,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,704,Viet Nam,VNM,TOTAL,All commodities,1,No Quantity,,,2668060,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,710,South Africa,ZAF,TOTAL,All commodities,1,No Quantity,,,303996,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,716,Zimbabwe,ZWE,TOTAL,All commodities,1,No Quantity,,,19856,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,537910,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,729,Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,14888,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,4320,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,80661,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,92876,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,43189,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,3562,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,807,TFYR of Macedonia,MKD,TOTAL,All commodities,1,No Quantity,,,6873,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,11166,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,1075290,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,11506,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,79707,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,4616,0
+S1,2013,2013,2013,0,0,2,Export,270,Gambia,GMB,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,5549,0

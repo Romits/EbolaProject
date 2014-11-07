@@ -1,0 +1,22 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,16842086,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,465719,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,352686,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,1203,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,92,Br. Virgin Isds,VGB,TOTAL,All commodities,1,No Quantity,,,14574,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,16218,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,71350,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,308,Grenada,GRD,TOTAL,All commodities,1,No Quantity,,,15123,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,,,142371,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,4407,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,79369,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,740,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,229189,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,532,Neth. Antilles and Aruba,ANT,TOTAL,All commodities,1,No Quantity,,,181811,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,65856,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,47163,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,2698092,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,6296124,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,6053524,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,850,US Virgin Isds,VIR,TOTAL,All commodities,1,No Quantity,,,52662,0
+S1,1979,1979,1979,0,0,2,Export,658,"Saint Kitts, Nevis and Anguilla",KNA,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,53905,0

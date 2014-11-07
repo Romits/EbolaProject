@@ -1,0 +1,27 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,3409670400,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,45941988,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,210211264,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,8830369,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,37136288,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,22196410,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,868179,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,2020,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,290448480,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,20987448,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,292,Gibraltar,GIB,TOTAL,All commodities,1,No Quantity,,,12481770,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,82623440,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,124699,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,676439,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,206181552,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,18124920,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,7012979,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,87846248,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,1128507,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,40542348,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,144277504,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,9136489,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,837,Bunkers,,TOTAL,All commodities,1,No Quantity,,,4632059,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,2094625664,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,,,62172720,0
+S1,1991,1991,1991,0,0,2,Export,24,Angola,AGO,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,1460557,0

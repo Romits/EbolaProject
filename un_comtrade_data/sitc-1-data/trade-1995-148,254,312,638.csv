@@ -1,0 +1,133 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,133056696,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,940,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,5019011,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,166434,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,1998,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,158197,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,5354,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,96353960,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,302878,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,964831,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,,,13305414,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,5994,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,4179837,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,599,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,,,7126965,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,566207,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,15985,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,45962,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,,,9990,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,82089,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,2622714,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,317835,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,1198,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,2997,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,40110,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,96852,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,1657904,0
+S1,1995,1995,1995,0,0,2,Export,254,French Guiana,GUF,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,4443,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,161860960,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,28,Antigua and Barbuda,ATG,TOTAL,All commodities,1,No Quantity,,,72192,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,604,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,881513,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,7050505,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,2772,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,4365821,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,34041,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,2716,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,708924,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,184925,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,192,Cuba,CUB,TOTAL,All commodities,1,No Quantity,,,344590,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,1544,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,212,Dominica,DMA,TOTAL,All commodities,1,No Quantity,,,309670,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,40648,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,624473,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,106560624,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,254,French Guiana,GUF,TOTAL,All commodities,1,No Quantity,,,3462378,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,488575,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,60432,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,320,Guatemala,GTM,TOTAL,All commodities,1,No Quantity,,,5372,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,705050,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,547,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,301692,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,564040,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,7292445,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,3350,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,1761,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,15517,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,,,17048920,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,78900,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,262648,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,500,Montserrat,MSR,TOTAL,All commodities,1,No Quantity,,,5070,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,4884,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,530,Neth. Antilles,ANT,TOTAL,All commodities,1,No Quantity,,,175876,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,3963,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,2058,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,,,37447,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,659,Saint Kitts and Nevis,KNA,TOTAL,All commodities,1,No Quantity,,,15989,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,660,Anguilla,AIA,TOTAL,All commodities,1,No Quantity,,,157906,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,662,Saint Lucia,LCA,TOTAL,All commodities,1,No Quantity,,,47522,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,670,Saint Vincent and the Grenadines,VCT,TOTAL,All commodities,1,No Quantity,,,90649,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,6043,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,705,Slovenia,SVN,TOTAL,All commodities,1,No Quantity,,,2002,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,12086,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,154163,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,4431,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,409243,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,31054,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,3597594,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,5518351,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,2719,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,71702,0
+S1,1995,1995,1995,0,0,2,Export,312,Guadeloupe,GLP,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,33028,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,208689936,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,34850,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,10380171,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,7347,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,174,Comoros,COM,TOTAL,All commodities,1,No Quantity,,,9851343,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,162291,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,231,Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,311918,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,5035,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,148918624,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,254,French Guiana,GUF,TOTAL,All commodities,1,No Quantity,,,56078,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,258,French Polynesia,PYF,TOTAL,All commodities,1,No Quantity,,,23785,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,8979,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,139759,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,276,Germany,DEU,TOTAL,All commodities,1,No Quantity,,,1328632,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,312,Guadeloupe,GLP,TOTAL,All commodities,1,No Quantity,,,341939,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,23531,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,88498,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,376,Israel,ISR,TOTAL,All commodities,1,No Quantity,,,2221,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,1022292,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,49406,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,12731058,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,8021,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,2416,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,6639726,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,15105,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,161121,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,1574157,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,,,1143726,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,2013,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,4061876,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,220596,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,9062,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,508,Mozambique,MOZ,TOTAL,All commodities,1,No Quantity,,,503,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,625527,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,540,New Caledonia,NCL,TOTAL,All commodities,1,No Quantity,,,444086,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,11574,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,5671,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,666,Saint Pierre and Miquelon,SPM,TOTAL,All commodities,1,No Quantity,,,5979,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,6853,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,1180029,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,699,India,IND,TOTAL,All commodities,1,No Quantity,,,85831,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,13464,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,439867,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,167077,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,498582,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,5659,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,1409,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,4184019,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,1261839,0
+S1,1995,1995,1995,0,0,2,Export,638,Réunion,REU,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,426393,0

@@ -1,0 +1,7 @@
+This data is from the UN Comtrade open API at http://comtrade.un.org/data/doc/api/
+
+There are export numbers from each country in the database to other countries.
+
+Unfortunately, for many third world or war-torn countries, detailed export data
+is not available. While many countries have data available for 2013, for example
+Liberia's latest detailed export data is from 1984.

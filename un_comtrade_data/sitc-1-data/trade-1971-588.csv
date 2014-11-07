@@ -1,0 +1,142 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,666019712,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,4,Afghanistan,AFG,TOTAL,All commodities,1,No Quantity,,,5576646,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,8,Albania,ALB,TOTAL,All commodities,1,No Quantity,,,1531,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,12,Algeria,DZA,TOTAL,All commodities,1,No Quantity,,,347984,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,32,Argentina,ARG,TOTAL,All commodities,1,No Quantity,,,6283327,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,36,Australia,AUS,TOTAL,All commodities,1,No Quantity,,,8764673,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,40,Austria,AUT,TOTAL,All commodities,1,No Quantity,,,605644,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,44,Bahamas,BHS,TOTAL,All commodities,1,No Quantity,,,1679,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,48,Bahrain,BHR,TOTAL,All commodities,1,No Quantity,,,4508334,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,52,Barbados,BRB,TOTAL,All commodities,1,No Quantity,,,90856,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,58,Belgium-Luxembourg,BEL,TOTAL,All commodities,1,No Quantity,,,18803600,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,68,Bolivia (Plurinational State of),BOL,TOTAL,All commodities,1,No Quantity,,,14233,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,76,Brazil,BRA,TOTAL,All commodities,1,No Quantity,,,14298,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,84,Belize,BLZ,TOTAL,All commodities,1,No Quantity,,,1464,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,96,Brunei Darussalam,BRN,TOTAL,All commodities,1,No Quantity,,,22746,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,100,Bulgaria,BGR,TOTAL,All commodities,1,No Quantity,,,6840250,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,104,Myanmar,MMR,TOTAL,All commodities,1,No Quantity,,,2022861,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,108,Burundi,BDI,TOTAL,All commodities,1,No Quantity,,,37079,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,116,Cambodia,KHM,TOTAL,All commodities,1,No Quantity,,,263900,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,120,Cameroon,CMR,TOTAL,All commodities,1,No Quantity,,,378590,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,124,Canada,CAN,TOTAL,All commodities,1,No Quantity,,,7360997,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,140,Central African Rep.,CAF,TOTAL,All commodities,1,No Quantity,,,8562,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,144,Sri Lanka,LKA,TOTAL,All commodities,1,No Quantity,,,13240350,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,152,Chile,CHL,TOTAL,All commodities,1,No Quantity,,,1633645,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,156,China,CHN,TOTAL,All commodities,1,No Quantity,,,30155828,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,170,Colombia,COL,TOTAL,All commodities,1,No Quantity,,,14884,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,178,Congo,COG,TOTAL,All commodities,1,No Quantity,,,110157,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,180,Dem. Rep. of the Congo,COD,TOTAL,All commodities,1,No Quantity,,,48069,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,196,Cyprus,CYP,TOTAL,All commodities,1,No Quantity,,,1318735,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,200,Czechoslovakia,CSK,TOTAL,All commodities,1,No Quantity,,,11530835,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,208,Denmark,DNK,TOTAL,All commodities,1,No Quantity,,,1281136,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,214,Dominican Rep.,DOM,TOTAL,All commodities,1,No Quantity,,,133187,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,218,Ecuador,ECU,TOTAL,All commodities,1,No Quantity,,,13536,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,221,"Eastern Europe, nes",,TOTAL,All commodities,1,No Quantity,,,4129,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,230,Fmr Ethiopia,ETH,TOTAL,All commodities,1,No Quantity,,,425181,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,242,Fiji,FJI,TOTAL,All commodities,1,No Quantity,,,588135,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,246,Finland,FIN,TOTAL,All commodities,1,No Quantity,,,175663,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,251,France,FRA,TOTAL,All commodities,1,No Quantity,,,13884409,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,262,Djibouti,DJI,TOTAL,All commodities,1,No Quantity,,,120854,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,266,Gabon,GAB,TOTAL,All commodities,1,No Quantity,,,208878,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,12800,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,278,Fmr Dem. Rep. of Germany,DDR,TOTAL,All commodities,1,No Quantity,,,10743,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,280,Fmr Fed. Rep. of Germany,DEU,TOTAL,All commodities,1,No Quantity,,,21811160,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,288,Ghana,GHA,TOTAL,All commodities,1,No Quantity,,,443878,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,300,Greece,GRC,TOTAL,All commodities,1,No Quantity,,,1329820,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,34829,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,328,Guyana,GUY,TOTAL,All commodities,1,No Quantity,,,76717,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,332,Haiti,HTI,TOTAL,All commodities,1,No Quantity,,,62694,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,344,"China, Hong Kong SAR",HKG,TOTAL,All commodities,1,No Quantity,,,57685244,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,348,Hungary,HUN,TOTAL,All commodities,1,No Quantity,,,7164934,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,352,Iceland,ISL,TOTAL,All commodities,1,No Quantity,,,45443,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,360,Indonesia,IDN,TOTAL,All commodities,1,No Quantity,,,4888027,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,364,Iran,IRN,TOTAL,All commodities,1,No Quantity,,,7213900,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,368,Iraq,IRQ,TOTAL,All commodities,1,No Quantity,,,11574779,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,372,Ireland,IRL,TOTAL,All commodities,1,No Quantity,,,400996,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,381,Italy,ITA,TOTAL,All commodities,1,No Quantity,,,18619510,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,384,Côte d'Ivoire,CIV,TOTAL,All commodities,1,No Quantity,,,411076,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,388,Jamaica,JAM,TOTAL,All commodities,1,No Quantity,,,35335,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,392,Japan,JPN,TOTAL,All commodities,1,No Quantity,,,55444416,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,400,Jordan,JOR,TOTAL,All commodities,1,No Quantity,,,1146771,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,404,Kenya,KEN,TOTAL,All commodities,1,No Quantity,,,3894785,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,813275,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,410,Rep. of Korea,KOR,TOTAL,All commodities,1,No Quantity,,,516498,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,414,Kuwait,KWT,TOTAL,All commodities,1,No Quantity,,,11865034,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,418,Lao People's Dem. Rep.,LAO,TOTAL,All commodities,1,No Quantity,,,12403,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,422,Lebanon,LBN,TOTAL,All commodities,1,No Quantity,,,1154108,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,430,Liberia,LBR,TOTAL,All commodities,1,No Quantity,,,87087,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,434,Libya,LBY,TOTAL,All commodities,1,No Quantity,,,1120556,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,446,"China, Macao SAR",MAC,TOTAL,All commodities,1,No Quantity,,,49311,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,450,Madagascar,MDG,TOTAL,All commodities,1,No Quantity,,,292500,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,454,Malawi,MWI,TOTAL,All commodities,1,No Quantity,,,209280,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,458,Malaysia,MYS,TOTAL,All commodities,1,No Quantity,,,3035681,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,462,Maldives,MDV,TOTAL,All commodities,1,No Quantity,,,26578,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,466,Mali,MLI,TOTAL,All commodities,1,No Quantity,,,4453,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,470,Malta,MLT,TOTAL,All commodities,1,No Quantity,,,252874,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,474,Martinique,MTQ,TOTAL,All commodities,1,No Quantity,,,60690,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,478,Mauritania,MRT,TOTAL,All commodities,1,No Quantity,,,4111,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,480,Mauritius,MUS,TOTAL,All commodities,1,No Quantity,,,607114,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,484,Mexico,MEX,TOTAL,All commodities,1,No Quantity,,,64180,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,490,"Other Asia, nes",,TOTAL,All commodities,1,No Quantity,,,4468198,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,504,Morocco,MAR,TOTAL,All commodities,1,No Quantity,,,702284,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,512,Oman,OMN,TOTAL,All commodities,1,No Quantity,,,2761033,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,520,Nauru,NRU,TOTAL,All commodities,1,No Quantity,,,206951,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,524,Nepal,NPL,TOTAL,All commodities,1,No Quantity,,,28857,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,9972518,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,532,Neth. Antilles and Aruba,ANT,TOTAL,All commodities,1,No Quantity,,,10315,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,554,New Zealand,NZL,TOTAL,All commodities,1,No Quantity,,,3238047,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,562,Niger,NER,TOTAL,All commodities,1,No Quantity,,,16128,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,566,Nigeria,NGA,TOTAL,All commodities,1,No Quantity,,,3852764,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,568,"Other Europe, nes",,TOTAL,All commodities,1,No Quantity,,,35537,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,579,Norway,NOR,TOTAL,All commodities,1,No Quantity,,,607829,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,582,Fmr Pacific Isds,PCI,TOTAL,All commodities,1,No Quantity,,,4945,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,590,"Fmr Panama, excl.Canal Zone",PAN,TOTAL,All commodities,1,No Quantity,,,372750,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,598,Papua New Guinea,PNG,TOTAL,All commodities,1,No Quantity,,,388758,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,600,Paraguay,PRY,TOTAL,All commodities,1,No Quantity,,,692,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,604,Peru,PER,TOTAL,All commodities,1,No Quantity,,,1334423,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,608,Philippines,PHL,TOTAL,All commodities,1,No Quantity,,,146432,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,616,Poland,POL,TOTAL,All commodities,1,No Quantity,,,20517464,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,3995334,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,636,"Rest of America, nes",,TOTAL,All commodities,1,No Quantity,,,363733,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,638,Réunion,REU,TOTAL,All commodities,1,No Quantity,,,3568,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,642,Romania,ROU,TOTAL,All commodities,1,No Quantity,,,4422829,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,678,Sao Tome and Principe,STP,TOTAL,All commodities,1,No Quantity,,,4889,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,682,Saudi Arabia,SAU,TOTAL,All commodities,1,No Quantity,,,11190213,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,91565,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,690,Seychelles,SYC,TOTAL,All commodities,1,No Quantity,,,58572,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,694,Sierra Leone,SLE,TOTAL,All commodities,1,No Quantity,,,61690,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,698,Sikkim,,TOTAL,All commodities,1,No Quantity,,,7983,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,17292540,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,706,Somalia,SOM,TOTAL,All commodities,1,No Quantity,,,711533,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,711,So. African Customs Union,ZAF,TOTAL,All commodities,1,No Quantity,,,294317,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,720,Fmr Dem. Yemen,YMD,TOTAL,All commodities,1,No Quantity,,,2885127,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,724,Spain,ESP,TOTAL,All commodities,1,No Quantity,,,4059072,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,736,Fmr Sudan,SDN,TOTAL,All commodities,1,No Quantity,,,687350,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,740,Suriname,SUR,TOTAL,All commodities,1,No Quantity,,,1787,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,752,Sweden,SWE,TOTAL,All commodities,1,No Quantity,,,3565431,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,757,Switzerland,CHE,TOTAL,All commodities,1,No Quantity,,,3648061,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,760,Syria,SYR,TOTAL,All commodities,1,No Quantity,,,1254989,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,764,Thailand,THA,TOTAL,All commodities,1,No Quantity,,,1453765,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,768,Togo,TGO,TOTAL,All commodities,1,No Quantity,,,17465,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,780,Trinidad and Tobago,TTO,TOTAL,All commodities,1,No Quantity,,,57995,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,784,United Arab Emirates,ARE,TOTAL,All commodities,1,No Quantity,,,10036358,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,788,Tunisia,TUN,TOTAL,All commodities,1,No Quantity,,,130851,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,792,Turkey,TUR,TOTAL,All commodities,1,No Quantity,,,2412500,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,800,Uganda,UGA,TOTAL,All commodities,1,No Quantity,,,451325,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,810,Fmr USSR,SUN,TOTAL,All commodities,1,No Quantity,,,36536464,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,818,Egypt,EGY,TOTAL,All commodities,1,No Quantity,,,2647294,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,826,United Kingdom,GBR,TOTAL,All commodities,1,No Quantity,,,65036116,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,834,United Rep. of Tanzania,TZA,TOTAL,All commodities,1,No Quantity,,,1236886,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,841,USA (before 1981),USA,TOTAL,All commodities,1,No Quantity,,,67078904,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,850,US Virgin Isds,VIR,TOTAL,All commodities,1,No Quantity,,,81628,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,854,Burkina Faso,BFA,TOTAL,All commodities,1,No Quantity,,,3113,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,858,Uruguay,URY,TOTAL,All commodities,1,No Quantity,,,286082,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,862,Venezuela,VEN,TOTAL,All commodities,1,No Quantity,,,103541,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,868,Fmr Rep. of Vietnam,VNM,TOTAL,All commodities,1,No Quantity,,,781950,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,879,"Western Asia, nes",,TOTAL,All commodities,1,No Quantity,,,1095093,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,882,Samoa,WSM,TOTAL,All commodities,1,No Quantity,,,13214,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,886,Fmr Arab Rep. of Yemen,YEM,TOTAL,All commodities,1,No Quantity,,,16770,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,890,Fmr Yugoslavia,YUG,TOTAL,All commodities,1,No Quantity,,,8067520,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,894,Zambia,ZMB,TOTAL,All commodities,1,No Quantity,,,15676483,0
+S1,1971,1971,1971,0,0,2,Export,588,East and West Pakistan,PAK,899,"Areas, nes",,TOTAL,All commodities,1,No Quantity,,,211435,0

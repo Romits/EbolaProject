@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Netweight (kg),Trade Value (US$),Flag
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,TOTAL,All commodities,1,No Quantity,,,23244874,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,132,Cabo Verde,CPV,TOTAL,All commodities,1,No Quantity,,,1592,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,270,Gambia,GMB,TOTAL,All commodities,1,No Quantity,,,8176,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,324,Guinea,GIN,TOTAL,All commodities,1,No Quantity,,,380,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,408,Dem. People's Rep. of Korea,PRK,TOTAL,All commodities,1,No Quantity,,,47840,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,528,Netherlands,NLD,TOTAL,All commodities,1,No Quantity,,,58233,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,586,Pakistan,PAK,TOTAL,All commodities,1,No Quantity,,,1141,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,591,Panama,PAN,TOTAL,All commodities,1,No Quantity,,,49769,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,620,Portugal,PRT,TOTAL,All commodities,1,No Quantity,,,121206,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,686,Senegal,SEN,TOTAL,All commodities,1,No Quantity,,,4421,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,699,India,IND,TOTAL,All commodities,1,No Quantity,,,20134580,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,702,Singapore,SGP,TOTAL,All commodities,1,No Quantity,,,2812782,0
+S1,2005,2005,2005,0,0,2,Export,624,Guinea-Bissau,GNB,842,USA,USA,TOTAL,All commodities,1,No Quantity,,,4753,0
