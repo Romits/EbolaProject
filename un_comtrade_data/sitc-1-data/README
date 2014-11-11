@@ -5,3 +5,13 @@ There are export numbers from each country in the database to other countries.
 Unfortunately, for many third world or war-torn countries, detailed export data
 is not available. While many countries have data available for 2013, for example
 Liberia's latest detailed export data is from 1984.
+
+Steps taken to make this data more useful:
+- Attempt to remap exports to non-existent countries to their modern versions.
+- Removal of irrelevant export data from countries that don't exist.
+- Renaming of countries to names matching the CIA world factbook.
+- Reweighting of dollar amounts for countries that have not reported detailed
+  export data in a long time in order to make it sum up to export totals from
+  the CIA world factbook numbers for 2013.
+
+You can find the fruits of the above labors in: trade-simpler-1982-2013-reweighted.tsv
