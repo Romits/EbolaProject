@@ -6,7 +6,7 @@ use warnings;
 while (<>) {
   s/Isds/Islands/g;
   s/Russian Federation/Russia/g;
-  s/USA/United States/g;
+  s/842	USA	USA/842	United States	USA/g;
   s/Viet Nam/Vietnam/g;
   s/State of Palestine/West Bank/g;
   s/United Rep\. of Tanzania/Tanzania/;

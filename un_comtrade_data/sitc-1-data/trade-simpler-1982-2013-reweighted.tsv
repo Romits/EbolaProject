@@ -28,7 +28,7 @@
 1982	706	Somalia	SOM	818	Egypt	EGY	19219
 1982	706	Somalia	SOM	826	United Kingdom	GBR	762430
 1982	706	Somalia	SOM	834	Tanzania	TZA	43074
-1982	706	Somalia	SOM	842	United States	United States	1687869
+1982	706	Somalia	SOM	842	United States	USA	1687869
 1984	430	Liberia	LBR	120	Cameroon	CMR	222772
 1984	430	Liberia	LBR	124	Canada	CAN	4152
 1984	430	Liberia	LBR	204	Benin	BEN	83634
@@ -75,7 +75,7 @@
 1984	430	Liberia	LBR	792	Turkey	TUR	2739257
 1984	430	Liberia	LBR	818	Egypt	EGY	67936
 1984	430	Liberia	LBR	826	United Kingdom	GBR	14304744
-1984	430	Liberia	LBR	842	United States	United States	188665096
+1984	430	Liberia	LBR	842	United States	USA	188665096
 1984	430	Liberia	LBR	705	Slovenia	SVN	6736189
 1989	666	Saint Pierre and Miquelon	SPM	124	Canada	CAN	797990
 1989	666	Saint Pierre and Miquelon	SPM	251	France	FRA	1676359
@@ -84,7 +84,7 @@
 1989	666	Saint Pierre and Miquelon	SPM	56	Belgium	BEL	77720
 1989	666	Saint Pierre and Miquelon	SPM	724	Spain	ESP	779342
 1989	666	Saint Pierre and Miquelon	SPM	826	United Kingdom	GBR	108298
-1989	666	Saint Pierre and Miquelon	SPM	842	United States	United States	1531127
+1989	666	Saint Pierre and Miquelon	SPM	842	United States	USA	1531127
 1991	24	Angola	AGO	120	Cameroon	CMR	183789938
 1991	24	Angola	AGO	124	Canada	CAN	772932148
 1991	24	Angola	AGO	152	Chile	CHL	461982599
@@ -106,7 +106,7 @@
 1991	24	Angola	AGO	76	Brazil	BRA	4375209601
 1991	24	Angola	AGO	826	United Kingdom	GBR	3002904358
 1991	24	Angola	AGO	834	Tanzania	TZA	190161334
-1991	24	Angola	AGO	842	United States	United States	43596266642
+1991	24	Angola	AGO	842	United States	USA	43596266642
 1991	24	Angola	AGO	705	Slovenia	SVN	1294025240
 1997	332	Haiti	HTI	124	Canada	CAN	5849520
 1997	332	Haiti	HTI	136	Cayman Islands	CYM	90915
@@ -140,7 +140,7 @@
 1997	332	Haiti	HTI	796	Turks and Caicos Islands	TCA	326286
 1997	332	Haiti	HTI	818	Egypt	EGY	14555
 1997	332	Haiti	HTI	826	United Kingdom	GBR	3671205
-1997	332	Haiti	HTI	842	United States	United States	760120786
+1997	332	Haiti	HTI	842	United States	USA	760120786
 2000	762	Tajikistan	TJK	100	Bulgaria	BGR	299375
 2000	762	Tajikistan	TJK	112	Belarus	BLR	3021602
 2000	762	Tajikistan	TJK	124	Canada	CAN	64400
@@ -175,7 +175,7 @@
 2000	762	Tajikistan	TJK	804	Ukraine	UKR	3286166
 2000	762	Tajikistan	TJK	818	Egypt	EGY	228012
 2000	762	Tajikistan	TJK	826	United Kingdom	GBR	7743725
-2000	762	Tajikistan	TJK	842	United States	United States	1030408
+2000	762	Tajikistan	TJK	842	United States	USA	1030408
 2000	762	Tajikistan	TJK	860	Uzbekistan	UZB	170163537
 2000	795	Turkmenistan	TKM	112	Belarus	BLR	1970506
 2000	795	Turkmenistan	TKM	124	Canada	CAN	89971
@@ -228,7 +228,7 @@
 2000	795	Turkmenistan	TKM	796	Turks and Caicos Islands	TCA	421192
 2000	795	Turkmenistan	TKM	804	Ukraine	UKR	1144676304
 2000	795	Turkmenistan	TKM	818	Egypt	EGY	507776
-2000	795	Turkmenistan	TKM	842	United States	United States	93252594
+2000	795	Turkmenistan	TKM	842	United States	USA	93252594
 2000	795	Turkmenistan	TKM	860	Uzbekistan	UZB	41313465
 2000	795	Turkmenistan	TKM	688	Serbia	SRB	1118985
 2000	795	Turkmenistan	TKM	92	Br. Virgin Islands	VGB	86361
@@ -248,7 +248,7 @@
 2002	694	Sierra Leone	SLE	752	Sweden	SWE	2463299
 2002	694	Sierra Leone	SLE	76	Brazil	BRA	22749733
 2002	694	Sierra Leone	SLE	826	United Kingdom	GBR	21476020
-2002	694	Sierra Leone	SLE	842	United States	United States	628092790
+2002	694	Sierra Leone	SLE	842	United States	USA	628092790
 2003	232	Eritrea	ERI	144	Sri Lanka	LKA	10701409
 2003	232	Eritrea	ERI	156	China	CHN	3670895
 2003	232	Eritrea	ERI	251	France	FRA	12974123
@@ -281,7 +281,7 @@
 2003	232	Eritrea	ERI	792	Turkey	TUR	4724001
 2003	232	Eritrea	ERI	800	Uganda	UGA	2970484
 2003	232	Eritrea	ERI	826	United Kingdom	GBR	13147113
-2003	232	Eritrea	ERI	842	United States	United States	6270729
+2003	232	Eritrea	ERI	842	United States	USA	6270729
 2003	232	Eritrea	ERI	887	Yemen	YEM	10093415
 2005	624	Guinea-Bissau	GNB	132	Cabo Verde	CPV	10108
 2005	624	Guinea-Bissau	GNB	270	Gambia, The	GMB	51915
@@ -294,7 +294,7 @@
 2005	624	Guinea-Bissau	GNB	686	Senegal	SEN	28072
 2005	624	Guinea-Bissau	GNB	699	India	IND	127850300
 2005	624	Guinea-Bissau	GNB	702	Singapore	SGP	17860567
-2005	624	Guinea-Bissau	GNB	842	United States	United States	30180
+2005	624	Guinea-Bissau	GNB	842	United States	USA	30180
 2006	192	Cuba	CUB	100	Bulgaria	BGR	1505950
 2006	192	Cuba	CUB	112	Belarus	BLR	472879
 2006	192	Cuba	CUB	124	Canada	CAN	112861459
@@ -399,7 +399,7 @@
 2006	192	Cuba	CUB	800	Uganda	UGA	20406
 2006	192	Cuba	CUB	804	Ukraine	UKR	4941903
 2006	192	Cuba	CUB	826	United Kingdom	GBR	66427174
-2006	192	Cuba	CUB	842	United States	United States	2085576
+2006	192	Cuba	CUB	842	United States	USA	2085576
 2006	192	Cuba	CUB	84	Belize	BLZ	1649167
 2006	192	Cuba	CUB	858	Uruguay	URY	5102059
 2006	192	Cuba	CUB	862	Venezuela	VEN	2171597487
@@ -445,7 +445,7 @@
 2006	20	Andorra	AND	760	Syria	SYR	1452
 2006	20	Andorra	AND	804	Ukraine	UKR	7555
 2006	20	Andorra	AND	826	United Kingdom	GBR	1149211
-2006	20	Andorra	AND	842	United States	United States	37574
+2006	20	Andorra	AND	842	United States	USA	37574
 2006	20	Andorra	AND	854	Burkina Faso	BFA	514
 2006	20	Andorra	AND	8	Albania	ALB	179
 2007	748	Swaziland	SWZ	156	China	CHN	5539
@@ -476,7 +476,7 @@
 2007	748	Swaziland	SWZ	818	Egypt	EGY	536181
 2007	748	Swaziland	SWZ	826	United Kingdom	GBR	1876562
 2007	748	Swaziland	SWZ	834	Tanzania	TZA	7737
-2007	748	Swaziland	SWZ	842	United States	United States	1635836
+2007	748	Swaziland	SWZ	842	United States	USA	1635836
 2007	748	Swaziland	SWZ	894	Zambia	ZMB	2095223
 2008	324	Guinea	GIN	100	Bulgaria	BGR	1382
 2008	324	Guinea	GIN	120	Cameroon	CMR	3393638
@@ -547,7 +547,7 @@
 2008	324	Guinea	GIN	818	Egypt	EGY	1668028
 2008	324	Guinea	GIN	826	United Kingdom	GBR	353125
 2008	324	Guinea	GIN	834	Tanzania	TZA	38354
-2008	324	Guinea	GIN	842	United States	United States	129523863
+2008	324	Guinea	GIN	842	United States	USA	129523863
 2008	324	Guinea	GIN	854	Burkina Faso	BFA	4751
 2008	324	Guinea	GIN	8	Albania	ALB	1027421
 2008	660	Anguilla	AIA	124	Canada	CAN	95165
@@ -572,7 +572,7 @@
 2008	660	Anguilla	AIA	780	Trinidad and Tobago	TTO	31970
 2008	660	Anguilla	AIA	796	Turks and Caicos Islands	TCA	55027
 2008	660	Anguilla	AIA	826	United Kingdom	GBR	361421
-2008	660	Anguilla	AIA	842	United States	United States	3321492
+2008	660	Anguilla	AIA	842	United States	USA	3321492
 2008	660	Anguilla	AIA	92	Br. Virgin Islands	VGB	82934
 2008	662	Saint Lucia	LCA	124	Canada	CAN	714636
 2008	662	Saint Lucia	LCA	136	Cayman Islands	CYM	10309
@@ -651,7 +651,7 @@
 2008	662	Saint Lucia	LCA	796	Turks and Caicos Islands	TCA	6764
 2008	662	Saint Lucia	LCA	818	Egypt	EGY	6350
 2008	662	Saint Lucia	LCA	826	United Kingdom	GBR	31317835
-2008	662	Saint Lucia	LCA	842	United States	United States	70487952
+2008	662	Saint Lucia	LCA	842	United States	USA	70487952
 2008	662	Saint Lucia	LCA	84	Belize	BLZ	698982
 2008	662	Saint Lucia	LCA	862	Venezuela	VEN	187994
 2008	662	Saint Lucia	LCA	92	Br. Virgin Islands	VGB	802256
@@ -728,7 +728,7 @@
 2008	690	Seychelles	SYC	804	Ukraine	UKR	396082
 2008	690	Seychelles	SYC	826	United Kingdom	GBR	95483822
 2008	690	Seychelles	SYC	834	Tanzania	TZA	223161
-2008	690	Seychelles	SYC	842	United States	United States	3799247
+2008	690	Seychelles	SYC	842	United States	USA	3799247
 2008	690	Seychelles	SYC	858	Uruguay	URY	41460
 2008	784	United Arab Emirates	ARE	100	Bulgaria	BGR	60061781
 2008	784	United Arab Emirates	ARE	104	Burma	MMR	74451514
@@ -900,7 +900,7 @@
 2008	784	United Arab Emirates	ARE	818	Egypt	EGY	2179514585
 2008	784	United Arab Emirates	ARE	826	United Kingdom	GBR	1545619672
 2008	784	United Arab Emirates	ARE	834	Tanzania	TZA	1431433303
-2008	784	United Arab Emirates	ARE	842	United States	United States	5378542426
+2008	784	United Arab Emirates	ARE	842	United States	USA	5378542426
 2008	784	United Arab Emirates	ARE	84	Belize	BLZ	368862
 2008	784	United Arab Emirates	ARE	854	Burkina Faso	BFA	24120849
 2008	784	United Arab Emirates	ARE	858	Uruguay	URY	8112316
@@ -940,7 +940,7 @@
 2009	174	Comoros	COM	818	Egypt	EGY	36665
 2009	174	Comoros	COM	826	United Kingdom	GBR	36665
 2009	174	Comoros	COM	834	Tanzania	TZA	73978
-2009	174	Comoros	COM	842	United States	United States	669978
+2009	174	Comoros	COM	842	United States	USA	669978
 2009	174	Comoros	COM	887	Yemen	YEM	66664
 2009	234	Faroe Islands	FRO	112	Belarus	BLR	1296788
 2009	234	Faroe Islands	FRO	124	Canada	CAN	7922958
@@ -1001,7 +1001,7 @@
 2009	234	Faroe Islands	FRO	804	Ukraine	UKR	7311320
 2009	234	Faroe Islands	FRO	818	Egypt	EGY	1441572
 2009	234	Faroe Islands	FRO	826	United Kingdom	GBR	144706603
-2009	234	Faroe Islands	FRO	842	United States	United States	62821115
+2009	234	Faroe Islands	FRO	842	United States	USA	62821115
 2009	234	Faroe Islands	FRO	84	Belize	BLZ	62907
 2009	234	Faroe Islands	FRO	858	Uruguay	URY	65245
 2009	262	Djibouti	DJI	120	Cameroon	CMR	7103
@@ -1053,7 +1053,7 @@
 2009	262	Djibouti	DJI	804	Ukraine	UKR	1178
 2009	262	Djibouti	DJI	826	United Kingdom	GBR	4733
 2009	262	Djibouti	DJI	834	Tanzania	TZA	743
-2009	262	Djibouti	DJI	842	United States	United States	359796
+2009	262	Djibouti	DJI	842	United States	USA	359796
 2009	262	Djibouti	DJI	887	Yemen	YEM	3219959
 2009	262	Djibouti	DJI	894	Zambia	ZMB	3834
 2009	266	Gabon	GAB	108	Burundi	BDI	1683
@@ -1162,7 +1162,7 @@
 2009	266	Gabon	GAB	818	Egypt	EGY	640744
 2009	266	Gabon	GAB	826	United Kingdom	GBR	205282633
 2009	266	Gabon	GAB	834	Tanzania	TZA	122142
-2009	266	Gabon	GAB	842	United States	United States	5770713721
+2009	266	Gabon	GAB	842	United States	USA	5770713721
 2009	266	Gabon	GAB	854	Burkina Faso	BFA	76172
 2009	266	Gabon	GAB	862	Venezuela	VEN	8580
 2009	266	Gabon	GAB	894	Zambia	ZMB	3
@@ -1182,7 +1182,7 @@
 2009	368	Iraq	IRQ	792	Turkey	TUR	6394813667
 2009	368	Iraq	IRQ	818	Egypt	EGY	1579019117
 2009	368	Iraq	IRQ	826	United Kingdom	GBR	13443838
-2009	368	Iraq	IRQ	842	United States	United States	10327556
+2009	368	Iraq	IRQ	842	United States	USA	10327556
 2009	414	Kuwait	KWT	100	Bulgaria	BGR	6213765
 2009	414	Kuwait	KWT	104	Burma	MMR	7616498
 2009	414	Kuwait	KWT	108	Burundi	BDI	111013
@@ -1317,7 +1317,7 @@
 2009	414	Kuwait	KWT	818	Egypt	EGY	1799236614
 2009	414	Kuwait	KWT	826	United Kingdom	GBR	1379960645
 2009	414	Kuwait	KWT	834	Tanzania	TZA	70760148
-2009	414	Kuwait	KWT	842	United States	United States	4007563099
+2009	414	Kuwait	KWT	842	United States	USA	4007563099
 2009	414	Kuwait	KWT	854	Burkina Faso	BFA	140802
 2009	414	Kuwait	KWT	860	Uzbekistan	UZB	7742
 2009	414	Kuwait	KWT	862	Venezuela	VEN	443632
@@ -1350,7 +1350,7 @@
 2009	426	Lesotho	LSO	757	Switzerland	CHE	12668
 2009	426	Lesotho	LSO	818	Egypt	EGY	1602204
 2009	426	Lesotho	LSO	826	United Kingdom	GBR	1062113
-2009	426	Lesotho	LSO	842	United States	United States	300380248
+2009	426	Lesotho	LSO	842	United States	USA	300380248
 2010	104	Burma	MMR	100	Bulgaria	BGR	7111433
 2010	104	Burma	MMR	120	Cameroon	CMR	26981
 2010	104	Burma	MMR	124	Canada	CAN	11364
@@ -1417,7 +1417,7 @@
 2010	104	Burma	MMR	804	Ukraine	UKR	178038
 2010	104	Burma	MMR	818	Egypt	EGY	3717242
 2010	104	Burma	MMR	826	United Kingdom	GBR	41243178
-2010	104	Burma	MMR	842	United States	United States	2007366
+2010	104	Burma	MMR	842	United States	USA	2007366
 2010	104	Burma	MMR	858	Uruguay	URY	57169
 2010	104	Burma	MMR	862	Venezuela	VEN	245401
 2010	104	Burma	MMR	887	Yemen	YEM	243707
@@ -1485,7 +1485,7 @@
 2010	204	Benin	BEN	800	Uganda	UGA	142747
 2010	204	Benin	BEN	826	United Kingdom	GBR	32174
 2010	204	Benin	BEN	834	Tanzania	TZA	172420
-2010	204	Benin	BEN	842	United States	United States	268061
+2010	204	Benin	BEN	842	United States	USA	268061
 2010	204	Benin	BEN	854	Burkina Faso	BFA	3937705
 2010	204	Benin	BEN	8	Albania	ALB	51562
 2010	404	Kenya	KEN	100	Bulgaria	BGR	315614
@@ -1641,7 +1641,7 @@
 2010	404	Kenya	KEN	818	Egypt	EGY	300855622
 2010	404	Kenya	KEN	826	United Kingdom	GBR	667776171
 2010	404	Kenya	KEN	834	Tanzania	TZA	553229690
-2010	404	Kenya	KEN	842	United States	United States	334313167
+2010	404	Kenya	KEN	842	United States	USA	334313167
 2010	404	Kenya	KEN	854	Burkina Faso	BFA	465172
 2010	404	Kenya	KEN	858	Uruguay	URY	529930
 2010	404	Kenya	KEN	860	Uzbekistan	UZB	37850
@@ -1695,7 +1695,7 @@
 2010	434	Libya	LBY	792	Turkey	TUR	203570278
 2010	434	Libya	LBY	818	Egypt	EGY	321519626
 2010	434	Libya	LBY	826	United Kingdom	GBR	411773222
-2010	434	Libya	LBY	842	United States	United States	966516331
+2010	434	Libya	LBY	842	United States	USA	966516331
 2010	760	Syria	SYR	100	Bulgaria	BGR	8493228
 2010	760	Syria	SYR	112	Belarus	BLR	1182983
 2010	760	Syria	SYR	120	Cameroon	CMR	463082
@@ -1836,7 +1836,7 @@
 2010	760	Syria	SYR	818	Egypt	EGY	93325432
 2010	760	Syria	SYR	826	United Kingdom	GBR	30064451
 2010	760	Syria	SYR	834	Tanzania	TZA	523514
-2010	760	Syria	SYR	842	United States	United States	95959511
+2010	760	Syria	SYR	842	United States	USA	95959511
 2010	760	Syria	SYR	854	Burkina Faso	BFA	76677
 2010	760	Syria	SYR	860	Uzbekistan	UZB	1392103
 2010	760	Syria	SYR	862	Venezuela	VEN	1078142
@@ -1963,7 +1963,7 @@
 2010	780	Trinidad and Tobago	TTO	800	Uganda	UGA	281
 2010	780	Trinidad and Tobago	TTO	818	Egypt	EGY	35951
 2010	780	Trinidad and Tobago	TTO	826	United Kingdom	GBR	256495784
-2010	780	Trinidad and Tobago	TTO	842	United States	United States	6314892183
+2010	780	Trinidad and Tobago	TTO	842	United States	USA	6314892183
 2010	780	Trinidad and Tobago	TTO	84	Belize	BLZ	17505469
 2010	780	Trinidad and Tobago	TTO	858	Uruguay	URY	27268818
 2010	780	Trinidad and Tobago	TTO	862	Venezuela	VEN	48187064
@@ -2027,7 +2027,7 @@
 2011	140	Central African Republic	CAF	804	Ukraine	UKR	14856
 2011	140	Central African Republic	CAF	818	Egypt	EGY	307822
 2011	140	Central African Republic	CAF	826	United Kingdom	GBR	4077553
-2011	140	Central African Republic	CAF	842	United States	United States	733829
+2011	140	Central African Republic	CAF	842	United States	USA	733829
 2011	140	Central African Republic	CAF	887	Yemen	YEM	2472
 2011	184	Cook Islands	COK	152	Chile	CHL	8650
 2011	184	Cook Islands	COK	156	China	CHN	765706
@@ -2048,7 +2048,7 @@
 2011	184	Cook Islands	COK	710	South Africa	ZAF	31455
 2011	184	Cook Islands	COK	776	Tonga	TON	6601
 2011	184	Cook Islands	COK	826	United Kingdom	GBR	27168
-2011	184	Cook Islands	COK	842	United States	United States	315919
+2011	184	Cook Islands	COK	842	United States	USA	315919
 2011	184	Cook Islands	COK	882	Samoa	WSM	51103
 2011	184	Cook Islands	COK	90	Solomon Islands	SLB	6601
 2011	364	Iran	IRN	100	Bulgaria	BGR	12057284
@@ -2188,7 +2188,7 @@
 2011	364	Iran	IRN	818	Egypt	EGY	56917984
 2011	364	Iran	IRN	826	United Kingdom	GBR	74234914
 2011	364	Iran	IRN	834	Tanzania	TZA	59565965
-2011	364	Iran	IRN	842	United States	United States	1520459
+2011	364	Iran	IRN	842	United States	USA	1520459
 2011	364	Iran	IRN	854	Burkina Faso	BFA	1701648
 2011	364	Iran	IRN	858	Uruguay	URY	587495
 2011	364	Iran	IRN	860	Uzbekistan	UZB	143517888
@@ -2311,7 +2311,7 @@
 2011	48	Bahrain	BHR	818	Egypt	EGY	282883567
 2011	48	Bahrain	BHR	826	United Kingdom	GBR	123686081
 2011	48	Bahrain	BHR	834	Tanzania	TZA	13947566
-2011	48	Bahrain	BHR	842	United States	United States	896891314
+2011	48	Bahrain	BHR	842	United States	USA	896891314
 2011	48	Bahrain	BHR	854	Burkina Faso	BFA	4515328
 2011	48	Bahrain	BHR	862	Venezuela	VEN	133015
 2011	48	Bahrain	BHR	887	Yemen	YEM	32414065
@@ -2488,7 +2488,7 @@
 2011	50	Bangladesh	BGD	818	Egypt	EGY	17668306
 2011	50	Bangladesh	BGD	826	United Kingdom	GBR	2610561798
 2011	50	Bangladesh	BGD	834	Tanzania	TZA	1182559
-2011	50	Bangladesh	BGD	842	United States	United States	5780289846
+2011	50	Bangladesh	BGD	842	United States	USA	5780289846
 2011	50	Bangladesh	BGD	84	Belize	BLZ	433912
 2011	50	Bangladesh	BGD	854	Burkina Faso	BFA	116206
 2011	50	Bangladesh	BGD	858	Uruguay	URY	5123357
@@ -2627,7 +2627,7 @@
 2011	524	Nepal	NPL	818	Egypt	EGY	19635
 2011	524	Nepal	NPL	826	United Kingdom	GBR	23173435
 2011	524	Nepal	NPL	834	Tanzania	TZA	52993
-2011	524	Nepal	NPL	842	United States	United States	82188133
+2011	524	Nepal	NPL	842	United States	USA	82188133
 2011	524	Nepal	NPL	858	Uruguay	URY	195
 2011	524	Nepal	NPL	860	Uzbekistan	UZB	134
 2011	524	Nepal	NPL	862	Venezuela	VEN	67931
@@ -2677,7 +2677,7 @@
 2011	548	Vanuatu	VUT	792	Turkey	TUR	1480
 2011	548	Vanuatu	VUT	804	Ukraine	UKR	130973
 2011	548	Vanuatu	VUT	826	United Kingdom	GBR	538695
-2011	548	Vanuatu	VUT	842	United States	United States	1101502
+2011	548	Vanuatu	VUT	842	United States	USA	1101502
 2011	548	Vanuatu	VUT	876	Wallis and Futuna Islands	WLF	164762
 2011	548	Vanuatu	VUT	882	Samoa	WSM	2117
 2011	548	Vanuatu	VUT	90	Solomon Islands	SLB	702458
@@ -2816,7 +2816,7 @@
 2011	634	Qatar	QAT	818	Egypt	EGY	31398774
 2011	634	Qatar	QAT	826	United Kingdom	GBR	920675045
 2011	634	Qatar	QAT	834	Tanzania	TZA	1123073
-2011	634	Qatar	QAT	842	United States	United States	120157358
+2011	634	Qatar	QAT	842	United States	USA	120157358
 2011	634	Qatar	QAT	854	Burkina Faso	BFA	36130
 2011	634	Qatar	QAT	858	Uruguay	URY	28290
 2011	634	Qatar	QAT	862	Venezuela	VEN	48307
@@ -2851,7 +2851,7 @@
 2011	64	Bhutan	BTN	757	Switzerland	CHE	1346
 2011	64	Bhutan	BTN	764	Thailand	THA	160194
 2011	64	Bhutan	BTN	826	United Kingdom	GBR	890299
-2011	64	Bhutan	BTN	842	United States	United States	162102
+2011	64	Bhutan	BTN	842	United States	USA	162102
 2011	659	Saint Kitts and Nevis	KNA	124	Canada	CAN	38885
 2011	659	Saint Kitts and Nevis	KNA	136	Cayman Islands	CYM	5768
 2011	659	Saint Kitts and Nevis	KNA	212	Dominica	DMA	1281109
@@ -2888,7 +2888,7 @@
 2011	659	Saint Kitts and Nevis	KNA	699	India	IND	1193
 2011	659	Saint Kitts and Nevis	KNA	780	Trinidad and Tobago	TTO	1510812
 2011	659	Saint Kitts and Nevis	KNA	826	United Kingdom	GBR	133789
-2011	659	Saint Kitts and Nevis	KNA	842	United States	United States	46849999
+2011	659	Saint Kitts and Nevis	KNA	842	United States	USA	46849999
 2011	659	Saint Kitts and Nevis	KNA	84	Belize	BLZ	37595
 2011	659	Saint Kitts and Nevis	KNA	862	Venezuela	VEN	794
 2011	659	Saint Kitts and Nevis	KNA	8	Albania	ALB	829
@@ -2977,7 +2977,7 @@
 2011	740	Suriname	SUR	800	Uganda	UGA	1273
 2011	740	Suriname	SUR	818	Egypt	EGY	29447
 2011	740	Suriname	SUR	826	United Kingdom	GBR	527922
-2011	740	Suriname	SUR	842	United States	United States	281334590
+2011	740	Suriname	SUR	842	United States	USA	281334590
 2011	740	Suriname	SUR	858	Uruguay	URY	25856
 2011	740	Suriname	SUR	862	Venezuela	VEN	3144822
 2011	740	Suriname	SUR	8	Albania	ALB	9163
@@ -3086,7 +3086,7 @@
 2011	862	Venezuela	VEN	804	Ukraine	UKR	8735
 2011	862	Venezuela	VEN	818	Egypt	EGY	593745891
 2011	862	Venezuela	VEN	826	United Kingdom	GBR	209140236
-2011	862	Venezuela	VEN	842	United States	United States	13096718815
+2011	862	Venezuela	VEN	842	United States	USA	13096718815
 2011	862	Venezuela	VEN	858	Uruguay	URY	256579410
 2011	862	Venezuela	VEN	8	Albania	ALB	15803
 2011	862	Venezuela	VEN	92	Br. Virgin Islands	VGB	646050
@@ -3133,7 +3133,7 @@
 2012	108	Burundi	BDI	818	Egypt	EGY	50833
 2012	108	Burundi	BDI	826	United Kingdom	GBR	6620089
 2012	108	Burundi	BDI	834	Tanzania	TZA	15331352
-2012	108	Burundi	BDI	842	United States	United States	1762039
+2012	108	Burundi	BDI	842	United States	USA	1762039
 2012	108	Burundi	BDI	854	Burkina Faso	BFA	4221
 2012	120	Cameroon	CMR	100	Bulgaria	BGR	335320
 2012	120	Cameroon	CMR	108	Burundi	BDI	21949
@@ -3245,7 +3245,7 @@
 2012	120	Cameroon	CMR	818	Egypt	EGY	5614449
 2012	120	Cameroon	CMR	826	United Kingdom	GBR	115194339
 2012	120	Cameroon	CMR	834	Tanzania	TZA	377618
-2012	120	Cameroon	CMR	842	United States	United States	251396733
+2012	120	Cameroon	CMR	842	United States	USA	251396733
 2012	120	Cameroon	CMR	854	Burkina Faso	BFA	6411989
 2012	120	Cameroon	CMR	862	Venezuela	VEN	4461
 2012	120	Cameroon	CMR	894	Zambia	ZMB	116274
@@ -3297,7 +3297,7 @@
 2012	212	Dominica	DMA	784	United Arab Emirates	ARE	11494
 2012	212	Dominica	DMA	796	Turks and Caicos Islands	TCA	1539
 2012	212	Dominica	DMA	826	United Kingdom	GBR	388457
-2012	212	Dominica	DMA	842	United States	United States	1779356
+2012	212	Dominica	DMA	842	United States	USA	1779356
 2012	212	Dominica	DMA	84	Belize	BLZ	90076
 2012	212	Dominica	DMA	86	Br. Indian Ocean Terr.	IOT	1269
 2012	212	Dominica	DMA	92	Br. Virgin Islands	VGB	227999
@@ -3438,7 +3438,7 @@
 2012	214	Dominican Republic	DOM	818	Egypt	EGY	1514
 2012	214	Dominican Republic	DOM	826	United Kingdom	GBR	92950363
 2012	214	Dominican Republic	DOM	834	Tanzania	TZA	304504
-2012	214	Dominican Republic	DOM	842	United States	United States	5454157062
+2012	214	Dominican Republic	DOM	842	United States	USA	5454157062
 2012	214	Dominican Republic	DOM	84	Belize	BLZ	2669641
 2012	214	Dominican Republic	DOM	854	Burkina Faso	BFA	557672
 2012	214	Dominican Republic	DOM	858	Uruguay	URY	1886793
@@ -3585,7 +3585,7 @@
 2012	231	Ethiopia	ETH	818	Egypt	EGY	52498105
 2012	231	Ethiopia	ETH	826	United Kingdom	GBR	57233983
 2012	231	Ethiopia	ETH	834	Tanzania	TZA	955555
-2012	231	Ethiopia	ETH	842	United States	United States	137501379
+2012	231	Ethiopia	ETH	842	United States	USA	137501379
 2012	231	Ethiopia	ETH	854	Burkina Faso	BFA	435507
 2012	231	Ethiopia	ETH	887	Yemen	YEM	28177221
 2012	231	Ethiopia	ETH	894	Zambia	ZMB	281799
@@ -3603,7 +3603,7 @@
 2012	296	Kiribati	KIR	704	Vietnam	VNM	552258
 2012	296	Kiribati	KIR	757	Switzerland	CHE	711
 2012	296	Kiribati	KIR	798	Tuvalu	TUV	65770
-2012	296	Kiribati	KIR	842	United States	United States	29080
+2012	296	Kiribati	KIR	842	United States	USA	29080
 2012	340	Honduras	HND	100	Bulgaria	BGR	6470669
 2012	340	Honduras	HND	120	Cameroon	CMR	55420
 2012	340	Honduras	HND	124	Canada	CAN	46470305
@@ -3706,7 +3706,7 @@
 2012	340	Honduras	HND	804	Ukraine	UKR	119913
 2012	340	Honduras	HND	818	Egypt	EGY	217520
 2012	340	Honduras	HND	826	United Kingdom	GBR	138144148
-2012	340	Honduras	HND	842	United States	United States	3448143677
+2012	340	Honduras	HND	842	United States	USA	3448143677
 2012	340	Honduras	HND	84	Belize	BLZ	14607575
 2012	340	Honduras	HND	858	Uruguay	URY	313982
 2012	340	Honduras	HND	860	Uzbekistan	UZB	645
@@ -3895,7 +3895,7 @@
 2012	344	Hong Kong	HKG	818	Egypt	EGY	373867538
 2012	344	Hong Kong	HKG	826	United Kingdom	GBR	7512122712
 2012	344	Hong Kong	HKG	834	Tanzania	TZA	28903121
-2012	344	Hong Kong	HKG	842	United States	United States	46147070620
+2012	344	Hong Kong	HKG	842	United States	USA	46147070620
 2012	344	Hong Kong	HKG	84	Belize	BLZ	1532716
 2012	344	Hong Kong	HKG	854	Burkina Faso	BFA	13603948
 2012	344	Hong Kong	HKG	858	Uruguay	URY	121315493
@@ -4041,7 +4041,7 @@
 2012	384	Cote d'Ivoire	CIV	818	Egypt	EGY	5417390
 2012	384	Cote d'Ivoire	CIV	826	United Kingdom	GBR	330809781
 2012	384	Cote d'Ivoire	CIV	834	Tanzania	TZA	671950
-2012	384	Cote d'Ivoire	CIV	842	United States	United States	1126615811
+2012	384	Cote d'Ivoire	CIV	842	United States	USA	1126615811
 2012	384	Cote d'Ivoire	CIV	84	Belize	BLZ	141315
 2012	384	Cote d'Ivoire	CIV	854	Burkina Faso	BFA	487799679
 2012	384	Cote d'Ivoire	CIV	858	Uruguay	URY	200220
@@ -4099,7 +4099,7 @@
 2012	446	Macau	MAC	784	United Arab Emirates	ARE	226186
 2012	446	Macau	MAC	804	Ukraine	UKR	8092
 2012	446	Macau	MAC	826	United Kingdom	GBR	6795019
-2012	446	Macau	MAC	842	United States	United States	82106247
+2012	446	Macau	MAC	842	United States	USA	82106247
 2012	446	Macau	MAC	90	Solomon Islands	SLB	15250
 2012	462	Maldives	MDV	124	Canada	CAN	524727
 2012	462	Maldives	MDV	144	Sri Lanka	LKA	20736089
@@ -4135,7 +4135,7 @@
 2012	462	Maldives	MDV	764	Thailand	THA	78819547
 2012	462	Maldives	MDV	784	United Arab Emirates	ARE	925184
 2012	462	Maldives	MDV	826	United Kingdom	GBR	21338726
-2012	462	Maldives	MDV	842	United States	United States	8787501
+2012	462	Maldives	MDV	842	United States	USA	8787501
 2012	466	Mali	MLI	100	Bulgaria	BGR	19011
 2012	466	Mali	MLI	108	Burundi	BDI	3117
 2012	466	Mali	MLI	120	Cameroon	CMR	155180
@@ -4228,7 +4228,7 @@
 2012	466	Mali	MLI	818	Egypt	EGY	1011614
 2012	466	Mali	MLI	826	United Kingdom	GBR	4101702
 2012	466	Mali	MLI	834	Tanzania	TZA	71876
-2012	466	Mali	MLI	842	United States	United States	22645676
+2012	466	Mali	MLI	842	United States	USA	22645676
 2012	466	Mali	MLI	84	Belize	BLZ	316631
 2012	466	Mali	MLI	854	Burkina Faso	BFA	266350632
 2012	466	Mali	MLI	862	Venezuela	VEN	24046
@@ -4392,7 +4392,7 @@
 2012	504	Morocco	MAR	818	Egypt	EGY	110493111
 2012	504	Morocco	MAR	826	United Kingdom	GBR	474799775
 2012	504	Morocco	MAR	834	Tanzania	TZA	1019540
-2012	504	Morocco	MAR	842	United States	United States	739352831
+2012	504	Morocco	MAR	842	United States	USA	739352831
 2012	504	Morocco	MAR	854	Burkina Faso	BFA	22993879
 2012	504	Morocco	MAR	858	Uruguay	URY	10933696
 2012	504	Morocco	MAR	862	Venezuela	VEN	20294347
@@ -4434,7 +4434,7 @@
 2012	533	Aruba	ABW	780	Trinidad and Tobago	TTO	2834943
 2012	533	Aruba	ABW	792	Turkey	TUR	11751
 2012	533	Aruba	ABW	826	United Kingdom	GBR	171639
-2012	533	Aruba	ABW	842	United States	United States	263691855
+2012	533	Aruba	ABW	842	United States	USA	263691855
 2012	533	Aruba	ABW	862	Venezuela	VEN	695724454
 2012	540	New Caledonia	NCL	116	Cambodia	KHM	30291
 2012	540	New Caledonia	NCL	120	Cameroon	CMR	2975
@@ -4501,7 +4501,7 @@
 2012	540	New Caledonia	NCL	788	Tunisia	TUN	197
 2012	540	New Caledonia	NCL	804	Ukraine	UKR	75
 2012	540	New Caledonia	NCL	826	United Kingdom	GBR	1051445
-2012	540	New Caledonia	NCL	842	United States	United States	71967012
+2012	540	New Caledonia	NCL	842	United States	USA	71967012
 2012	540	New Caledonia	NCL	876	Wallis and Futuna Islands	WLF	8903567
 2012	540	New Caledonia	NCL	882	Samoa	WSM	461407
 2012	540	New Caledonia	NCL	90	Solomon Islands	SLB	31615
@@ -4641,7 +4641,7 @@
 2012	566	Nigeria	NGA	818	Egypt	EGY	4337732
 2012	566	Nigeria	NGA	826	United Kingdom	GBR	5950399599
 2012	566	Nigeria	NGA	834	Tanzania	TZA	5847914
-2012	566	Nigeria	NGA	842	United States	United States	15885709888
+2012	566	Nigeria	NGA	842	United States	USA	15885709888
 2012	566	Nigeria	NGA	84	Belize	BLZ	52230
 2012	566	Nigeria	NGA	854	Burkina Faso	BFA	4007987
 2012	566	Nigeria	NGA	858	Uruguay	URY	342952058
@@ -4668,7 +4668,7 @@
 2012	585	Palau	PLW	757	Switzerland	CHE	3162
 2012	585	Palau	PLW	804	Ukraine	UKR	3882
 2012	585	Palau	PLW	826	United Kingdom	GBR	30457
-2012	585	Palau	PLW	842	United States	United States	434858
+2012	585	Palau	PLW	842	United States	USA	434858
 2012	598	Papua New Guinea	PNG	100	Bulgaria	BGR	920309
 2012	598	Papua New Guinea	PNG	104	Burma	MMR	11354
 2012	598	Papua New Guinea	PNG	120	Cameroon	CMR	9588
@@ -4748,7 +4748,7 @@
 2012	598	Papua New Guinea	PNG	818	Egypt	EGY	365319
 2012	598	Papua New Guinea	PNG	826	United Kingdom	GBR	176613923
 2012	598	Papua New Guinea	PNG	834	Tanzania	TZA	57786
-2012	598	Papua New Guinea	PNG	842	United States	United States	97629684
+2012	598	Papua New Guinea	PNG	842	United States	USA	97629684
 2012	598	Papua New Guinea	PNG	876	Wallis and Futuna Islands	WLF	13753
 2012	598	Papua New Guinea	PNG	882	Samoa	WSM	1073652
 2012	598	Papua New Guinea	PNG	90	Solomon Islands	SLB	11187528
@@ -4791,7 +4791,7 @@
 2012	670	Saint Vincent and the Grenadines	VCT	784	United Arab Emirates	ARE	33812
 2012	670	Saint Vincent and the Grenadines	VCT	796	Turks and Caicos Islands	TCA	52596
 2012	670	Saint Vincent and the Grenadines	VCT	826	United Kingdom	GBR	825452
-2012	670	Saint Vincent and the Grenadines	VCT	842	United States	United States	1541584
+2012	670	Saint Vincent and the Grenadines	VCT	842	United States	USA	1541584
 2012	670	Saint Vincent and the Grenadines	VCT	84	Belize	BLZ	262
 2012	670	Saint Vincent and the Grenadines	VCT	862	Venezuela	VEN	26374
 2012	670	Saint Vincent and the Grenadines	VCT	92	Br. Virgin Islands	VGB	477337
@@ -4925,7 +4925,7 @@
 2012	686	Senegal	SEN	818	Egypt	EGY	518996
 2012	686	Senegal	SEN	826	United Kingdom	GBR	41490689
 2012	686	Senegal	SEN	834	Tanzania	TZA	974278
-2012	686	Senegal	SEN	842	United States	United States	13869487
+2012	686	Senegal	SEN	842	United States	USA	13869487
 2012	686	Senegal	SEN	854	Burkina Faso	BFA	82885362
 2012	686	Senegal	SEN	858	Uruguay	URY	17743
 2012	686	Senegal	SEN	862	Venezuela	VEN	94454
@@ -5060,7 +5060,7 @@
 2012	704	Vietnam	VNM	818	Egypt	EGY	345240933
 2012	704	Vietnam	VNM	826	United Kingdom	GBR	3518614031
 2012	704	Vietnam	VNM	834	Tanzania	TZA	43238864
-2012	704	Vietnam	VNM	842	United States	United States	22827399889
+2012	704	Vietnam	VNM	842	United States	USA	22827399889
 2012	704	Vietnam	VNM	84	Belize	BLZ	73934209
 2012	704	Vietnam	VNM	854	Burkina Faso	BFA	1135108
 2012	704	Vietnam	VNM	858	Uruguay	URY	26796024
@@ -5198,7 +5198,7 @@
 2012	729	Sudan	SDN	818	Egypt	EGY	321476273
 2012	729	Sudan	SDN	826	United Kingdom	GBR	50139429
 2012	729	Sudan	SDN	834	Tanzania	TZA	23
-2012	729	Sudan	SDN	842	United States	United States	16466305
+2012	729	Sudan	SDN	842	United States	USA	16466305
 2012	729	Sudan	SDN	854	Burkina Faso	BFA	5
 2012	729	Sudan	SDN	858	Uruguay	URY	5
 2012	729	Sudan	SDN	862	Venezuela	VEN	272068
@@ -5311,7 +5311,7 @@
 2012	72	Botswana	BWA	818	Egypt	EGY	1821500
 2012	72	Botswana	BWA	826	United Kingdom	GBR	4661449721
 2012	72	Botswana	BWA	834	Tanzania	TZA	10998460
-2012	72	Botswana	BWA	842	United States	United States	91800764
+2012	72	Botswana	BWA	842	United States	USA	91800764
 2012	72	Botswana	BWA	854	Burkina Faso	BFA	276100
 2012	72	Botswana	BWA	876	Wallis and Futuna Islands	WLF	2795
 2012	72	Botswana	BWA	894	Zambia	ZMB	61946101
@@ -5353,14 +5353,14 @@
 2012	776	Tonga	TON	784	United Arab Emirates	ARE	34
 2012	776	Tonga	TON	788	Tunisia	TUN	6
 2012	776	Tonga	TON	826	United Kingdom	GBR	358
-2012	776	Tonga	TON	842	United States	United States	1259611
+2012	776	Tonga	TON	842	United States	USA	1259611
 2012	776	Tonga	TON	882	Samoa	WSM	344284
 2012	776	Tonga	TON	90	Solomon Islands	SLB	140
 2012	796	Turks and Caicos Islands	TCA	214	Dominican Republic	DOM	12434
 2012	796	Turks and Caicos Islands	TCA	332	Haiti	HTI	26297
 2012	796	Turks and Caicos Islands	TCA	531	Curaçao	CUW	223
 2012	796	Turks and Caicos Islands	TCA	804	Ukraine	UKR	805
-2012	796	Turks and Caicos Islands	TCA	842	United States	United States	24730238
+2012	796	Turks and Caicos Islands	TCA	842	United States	USA	24730238
 2013	100	Bulgaria	BGR	104	Burma	MMR	88585
 2013	100	Bulgaria	BGR	108	Burundi	BDI	140029
 2013	100	Bulgaria	BGR	112	Belarus	BLR	38706185
@@ -5546,7 +5546,7 @@
 2013	100	Bulgaria	BGR	818	Egypt	EGY	227264006
 2013	100	Bulgaria	BGR	826	United Kingdom	GBR	597589007
 2013	100	Bulgaria	BGR	834	Tanzania	TZA	5375169
-2013	100	Bulgaria	BGR	842	United States	United States	387526389
+2013	100	Bulgaria	BGR	842	United States	USA	387526389
 2013	100	Bulgaria	BGR	84	Belize	BLZ	3104385
 2013	100	Bulgaria	BGR	854	Burkina Faso	BFA	62083
 2013	100	Bulgaria	BGR	858	Uruguay	URY	959932
@@ -5701,7 +5701,7 @@
 2013	112	Belarus	BLR	818	Egypt	EGY	40528114
 2013	112	Belarus	BLR	826	United Kingdom	GBR	1177785004
 2013	112	Belarus	BLR	834	Tanzania	TZA	384285
-2013	112	Belarus	BLR	842	United States	United States	101873951
+2013	112	Belarus	BLR	842	United States	USA	101873951
 2013	112	Belarus	BLR	84	Belize	BLZ	958564
 2013	112	Belarus	BLR	854	Burkina Faso	BFA	326450
 2013	112	Belarus	BLR	858	Uruguay	URY	19532126
@@ -5848,7 +5848,7 @@
 2013	116	Cambodia	KHM	818	Egypt	EGY	537308
 2013	116	Cambodia	KHM	826	United Kingdom	GBR	529443350
 2013	116	Cambodia	KHM	834	Tanzania	TZA	207538
-2013	116	Cambodia	KHM	842	United States	United States	1601201883
+2013	116	Cambodia	KHM	842	United States	USA	1601201883
 2013	116	Cambodia	KHM	84	Belize	BLZ	18453
 2013	116	Cambodia	KHM	854	Burkina Faso	BFA	165742
 2013	116	Cambodia	KHM	858	Uruguay	URY	1463041
@@ -6055,7 +6055,7 @@
 2013	124	Canada	CAN	818	Egypt	EGY	507900415
 2013	124	Canada	CAN	826	United Kingdom	GBR	6093021060
 2013	124	Canada	CAN	834	Tanzania	TZA	80589503
-2013	124	Canada	CAN	842	United States	United States	358068522965
+2013	124	Canada	CAN	842	United States	USA	358068522965
 2013	124	Canada	CAN	84	Belize	BLZ	8654962
 2013	124	Canada	CAN	854	Burkina Faso	BFA	52795011
 2013	124	Canada	CAN	858	Uruguay	URY	50620595
@@ -6181,7 +6181,7 @@
 2013	12	Algeria	DZA	818	Egypt	EGY	666179669
 2013	12	Algeria	DZA	826	United Kingdom	GBR	7448027533
 2013	12	Algeria	DZA	834	Tanzania	TZA	151277
-2013	12	Algeria	DZA	842	United States	United States	5522751747
+2013	12	Algeria	DZA	842	United States	USA	5522751747
 2013	12	Algeria	DZA	854	Burkina Faso	BFA	187932
 2013	12	Algeria	DZA	858	Uruguay	URY	1303676
 2013	12	Algeria	DZA	862	Venezuela	VEN	24268671
@@ -6211,7 +6211,7 @@
 2013	132	Cabo Verde	CPV	784	United Arab Emirates	ARE	132838
 2013	132	Cabo Verde	CPV	818	Egypt	EGY	33122
 2013	132	Cabo Verde	CPV	826	United Kingdom	GBR	12120
-2013	132	Cabo Verde	CPV	842	United States	United States	1721014
+2013	132	Cabo Verde	CPV	842	United States	USA	1721014
 2013	144	Sri Lanka	LKA	100	Bulgaria	BGR	2069209
 2013	144	Sri Lanka	LKA	104	Burma	MMR	1257121
 2013	144	Sri Lanka	LKA	112	Belarus	BLR	5949409
@@ -6390,7 +6390,7 @@
 2013	144	Sri Lanka	LKA	818	Egypt	EGY	46589373
 2013	144	Sri Lanka	LKA	826	United Kingdom	GBR	1127973283
 2013	144	Sri Lanka	LKA	834	Tanzania	TZA	15639614
-2013	144	Sri Lanka	LKA	842	United States	United States	2614717643
+2013	144	Sri Lanka	LKA	842	United States	USA	2614717643
 2013	144	Sri Lanka	LKA	84	Belize	BLZ	351817
 2013	144	Sri Lanka	LKA	854	Burkina Faso	BFA	1916532
 2013	144	Sri Lanka	LKA	858	Uruguay	URY	2489038
@@ -6567,7 +6567,7 @@
 2013	152	Chile	CHL	818	Egypt	EGY	17585761
 2013	152	Chile	CHL	826	United Kingdom	GBR	744843540
 2013	152	Chile	CHL	834	Tanzania	TZA	2266424
-2013	152	Chile	CHL	842	United States	United States	10181035362
+2013	152	Chile	CHL	842	United States	USA	10181035362
 2013	152	Chile	CHL	84	Belize	BLZ	1142576
 2013	152	Chile	CHL	854	Burkina Faso	BFA	337101
 2013	152	Chile	CHL	858	Uruguay	URY	218624611
@@ -6774,7 +6774,7 @@
 2013	156	China	CHN	818	Egypt	EGY	8530279907
 2013	156	China	CHN	826	United Kingdom	GBR	51963112676
 2013	156	China	CHN	834	Tanzania	TZA	3203648527
-2013	156	China	CHN	842	United States	United States	376460657531
+2013	156	China	CHN	842	United States	USA	376460657531
 2013	156	China	CHN	84	Belize	BLZ	124817170
 2013	156	China	CHN	854	Burkina Faso	BFA	105459460
 2013	156	China	CHN	858	Uruguay	URY	2370204045
@@ -6948,7 +6948,7 @@
 2013	170	Colombia	COL	818	Egypt	EGY	3425268
 2013	170	Colombia	COL	826	United Kingdom	GBR	1177896402
 2013	170	Colombia	COL	834	Tanzania	TZA	2285687
-2013	170	Colombia	COL	842	United States	United States	17936340945
+2013	170	Colombia	COL	842	United States	USA	17936340945
 2013	170	Colombia	COL	84	Belize	BLZ	1901154
 2013	170	Colombia	COL	858	Uruguay	URY	24519334
 2013	170	Colombia	COL	860	Uzbekistan	UZB	42774
@@ -7052,7 +7052,7 @@
 2013	178	Congo, Republic of the	COG	818	Egypt	EGY	171261
 2013	178	Congo, Republic of the	COG	826	United Kingdom	GBR	386606381
 2013	178	Congo, Republic of the	COG	834	Tanzania	TZA	857839
-2013	178	Congo, Republic of the	COG	842	United States	United States	511567466
+2013	178	Congo, Republic of the	COG	842	United States	USA	511567466
 2013	178	Congo, Republic of the	COG	854	Burkina Faso	BFA	36355
 2013	178	Congo, Republic of the	COG	858	Uruguay	URY	37665
 2013	178	Congo, Republic of the	COG	862	Venezuela	VEN	20052
@@ -7204,7 +7204,7 @@
 2013	188	Costa Rica	CRI	818	Egypt	EGY	2545123
 2013	188	Costa Rica	CRI	826	United Kingdom	GBR	237223088
 2013	188	Costa Rica	CRI	834	Tanzania	TZA	23374
-2013	188	Costa Rica	CRI	842	United States	United States	4471862349
+2013	188	Costa Rica	CRI	842	United States	USA	4471862349
 2013	188	Costa Rica	CRI	84	Belize	BLZ	13462614
 2013	188	Costa Rica	CRI	854	Burkina Faso	BFA	15398
 2013	188	Costa Rica	CRI	858	Uruguay	URY	1419173
@@ -7382,7 +7382,7 @@
 2013	191	Croatia	HRV	818	Egypt	EGY	67294435
 2013	191	Croatia	HRV	826	United Kingdom	GBR	234689139
 2013	191	Croatia	HRV	834	Tanzania	TZA	10389901
-2013	191	Croatia	HRV	842	United States	United States	345355278
+2013	191	Croatia	HRV	842	United States	USA	345355278
 2013	191	Croatia	HRV	84	Belize	BLZ	1935353
 2013	191	Croatia	HRV	854	Burkina Faso	BFA	16240
 2013	191	Croatia	HRV	858	Uruguay	URY	77397
@@ -7563,7 +7563,7 @@
 2013	196	Cyprus	CYP	818	Egypt	EGY	68064425
 2013	196	Cyprus	CYP	826	United Kingdom	GBR	323126784
 2013	196	Cyprus	CYP	834	Tanzania	TZA	4556253
-2013	196	Cyprus	CYP	842	United States	United States	107208399
+2013	196	Cyprus	CYP	842	United States	USA	107208399
 2013	196	Cyprus	CYP	84	Belize	BLZ	495
 2013	196	Cyprus	CYP	854	Burkina Faso	BFA	13489
 2013	196	Cyprus	CYP	858	Uruguay	URY	145946
@@ -7767,7 +7767,7 @@
 2013	203	Czech Republic	CZE	818	Egypt	EGY	284742511
 2013	203	Czech Republic	CZE	826	United Kingdom	GBR	7839856645
 2013	203	Czech Republic	CZE	834	Tanzania	TZA	8747549
-2013	203	Czech Republic	CZE	842	United States	United States	3509253074
+2013	203	Czech Republic	CZE	842	United States	USA	3509253074
 2013	203	Czech Republic	CZE	84	Belize	BLZ	6396614
 2013	203	Czech Republic	CZE	854	Burkina Faso	BFA	3494883
 2013	203	Czech Republic	CZE	858	Uruguay	URY	8914903
@@ -7982,7 +7982,7 @@
 2013	208	Denmark	DNK	818	Egypt	EGY	219325189
 2013	208	Denmark	DNK	826	United Kingdom	GBR	9504294204
 2013	208	Denmark	DNK	834	Tanzania	TZA	11422103
-2013	208	Denmark	DNK	842	United States	United States	6131445779
+2013	208	Denmark	DNK	842	United States	USA	6131445779
 2013	208	Denmark	DNK	84	Belize	BLZ	4136687
 2013	208	Denmark	DNK	854	Burkina Faso	BFA	5378753
 2013	208	Denmark	DNK	858	Uruguay	URY	195882306
@@ -8145,7 +8145,7 @@
 2013	218	Ecuador	ECU	818	Egypt	EGY	18410483
 2013	218	Ecuador	ECU	826	United Kingdom	GBR	194246465
 2013	218	Ecuador	ECU	834	Tanzania	TZA	111169
-2013	218	Ecuador	ECU	842	United States	United States	11256888990
+2013	218	Ecuador	ECU	842	United States	USA	11256888990
 2013	218	Ecuador	ECU	84	Belize	BLZ	297950
 2013	218	Ecuador	ECU	858	Uruguay	URY	21494535
 2013	218	Ecuador	ECU	860	Uzbekistan	UZB	1737769
@@ -8261,7 +8261,7 @@
 2013	222	El Salvador	SLV	807	Macedonia	MKD	4250
 2013	222	El Salvador	SLV	818	Egypt	EGY	32702
 2013	222	El Salvador	SLV	826	United Kingdom	GBR	13840865
-2013	222	El Salvador	SLV	842	United States	United States	2347284809
+2013	222	El Salvador	SLV	842	United States	USA	2347284809
 2013	222	El Salvador	SLV	84	Belize	BLZ	10679705
 2013	222	El Salvador	SLV	858	Uruguay	URY	76665
 2013	222	El Salvador	SLV	862	Venezuela	VEN	12133271
@@ -8429,7 +8429,7 @@
 2013	233	Estonia	EST	818	Egypt	EGY	16936718
 2013	233	Estonia	EST	826	United Kingdom	GBR	281071837
 2013	233	Estonia	EST	834	Tanzania	TZA	358628
-2013	233	Estonia	EST	842	United States	United States	534271662
+2013	233	Estonia	EST	842	United States	USA	534271662
 2013	233	Estonia	EST	84	Belize	BLZ	5355
 2013	233	Estonia	EST	854	Burkina Faso	BFA	380988
 2013	233	Estonia	EST	858	Uruguay	URY	158574
@@ -8543,7 +8543,7 @@
 2013	242	Fiji	FJI	798	Tuvalu	TUV	12904384
 2013	242	Fiji	FJI	804	Ukraine	UKR	108551
 2013	242	Fiji	FJI	826	United Kingdom	GBR	72353284
-2013	242	Fiji	FJI	842	United States	United States	182007326
+2013	242	Fiji	FJI	842	United States	USA	182007326
 2013	242	Fiji	FJI	862	Venezuela	VEN	74228
 2013	242	Fiji	FJI	876	Wallis and Futuna Islands	WLF	19650778
 2013	242	Fiji	FJI	882	Samoa	WSM	28370746
@@ -8740,7 +8740,7 @@
 2013	246	Finland	FIN	818	Egypt	EGY	360914236
 2013	246	Finland	FIN	826	United Kingdom	GBR	3879534054
 2013	246	Finland	FIN	834	Tanzania	TZA	37757595
-2013	246	Finland	FIN	842	United States	United States	4800961460
+2013	246	Finland	FIN	842	United States	USA	4800961460
 2013	246	Finland	FIN	84	Belize	BLZ	6357583
 2013	246	Finland	FIN	854	Burkina Faso	BFA	1104563
 2013	246	Finland	FIN	858	Uruguay	URY	73086049
@@ -8963,7 +8963,7 @@
 2013	251	France	FRA	818	Egypt	EGY	1847457819
 2013	251	France	FRA	826	United Kingdom	GBR	40275585299
 2013	251	France	FRA	834	Tanzania	TZA	115299542
-2013	251	France	FRA	842	United States	United States	36835392809
+2013	251	France	FRA	842	United States	USA	36835392809
 2013	251	France	FRA	84	Belize	BLZ	2490691
 2013	251	France	FRA	854	Burkina Faso	BFA	454155168
 2013	251	France	FRA	858	Uruguay	URY	283515287
@@ -9040,7 +9040,7 @@
 2013	258	French Polynesia	PYF	788	Tunisia	TUN	2135
 2013	258	French Polynesia	PYF	792	Turkey	TUR	11741
 2013	258	French Polynesia	PYF	826	United Kingdom	GBR	192880
-2013	258	French Polynesia	PYF	842	United States	United States	25475073
+2013	258	French Polynesia	PYF	842	United States	USA	25475073
 2013	258	French Polynesia	PYF	858	Uruguay	URY	3019
 2013	258	French Polynesia	PYF	876	Wallis and Futuna Islands	WLF	883088
 2013	258	French Polynesia	PYF	882	Samoa	WSM	2646
@@ -9149,7 +9149,7 @@
 2013	268	Georgia	GEO	818	Egypt	EGY	9137968
 2013	268	Georgia	GEO	826	United Kingdom	GBR	27816508
 2013	268	Georgia	GEO	834	Tanzania	TZA	1754121
-2013	268	Georgia	GEO	842	United States	United States	126067553
+2013	268	Georgia	GEO	842	United States	USA	126067553
 2013	268	Georgia	GEO	858	Uruguay	URY	915057
 2013	268	Georgia	GEO	860	Uzbekistan	UZB	20975231
 2013	268	Georgia	GEO	8	Albania	ALB	161399
@@ -9209,7 +9209,7 @@
 2013	270	Gambia, The	GMB	818	Egypt	EGY	11911
 2013	270	Gambia, The	GMB	826	United Kingdom	GBR	1147083
 2013	270	Gambia, The	GMB	834	Tanzania	TZA	12274
-2013	270	Gambia, The	GMB	842	United States	United States	85028
+2013	270	Gambia, The	GMB	842	United States	USA	85028
 2013	270	Gambia, The	GMB	854	Burkina Faso	BFA	4924
 2013	270	Gambia, The	GMB	862	Venezuela	VEN	5919
 2013	275	West Bank	PSE	100	Bulgaria	BGR	18799
@@ -9271,7 +9271,7 @@
 2013	275	West Bank	PSE	818	Egypt	EGY	116688
 2013	275	West Bank	PSE	826	United Kingdom	GBR	1674135
 2013	275	West Bank	PSE	834	Tanzania	TZA	32
-2013	275	West Bank	PSE	842	United States	United States	5884483
+2013	275	West Bank	PSE	842	United States	USA	5884483
 2013	275	West Bank	PSE	887	Yemen	YEM	488326
 2013	276	Germany	DEU	100	Bulgaria	BGR	3685057970
 2013	276	Germany	DEU	104	Burma	MMR	177291417
@@ -9484,7 +9484,7 @@
 2013	276	Germany	DEU	818	Egypt	EGY	3366832547
 2013	276	Germany	DEU	826	United Kingdom	GBR	98012324271
 2013	276	Germany	DEU	834	Tanzania	TZA	203240327
-2013	276	Germany	DEU	842	United States	United States	123415142479
+2013	276	Germany	DEU	842	United States	USA	123415142479
 2013	276	Germany	DEU	84	Belize	BLZ	28023286
 2013	276	Germany	DEU	854	Burkina Faso	BFA	66885719
 2013	276	Germany	DEU	858	Uruguay	URY	497115382
@@ -9634,7 +9634,7 @@
 2013	288	Ghana	GHA	818	Egypt	EGY	5509562
 2013	288	Ghana	GHA	826	United Kingdom	GBR	369849223
 2013	288	Ghana	GHA	834	Tanzania	TZA	3411245
-2013	288	Ghana	GHA	842	United States	United States	429431344
+2013	288	Ghana	GHA	842	United States	USA	429431344
 2013	288	Ghana	GHA	854	Burkina Faso	BFA	303722952
 2013	288	Ghana	GHA	862	Venezuela	VEN	3357
 2013	288	Ghana	GHA	887	Yemen	YEM	155168
@@ -9690,7 +9690,7 @@
 2013	28	Antigua and Barbuda	ATG	780	Trinidad and Tobago	TTO	1083566
 2013	28	Antigua and Barbuda	ATG	784	United Arab Emirates	ARE	113863
 2013	28	Antigua and Barbuda	ATG	826	United Kingdom	GBR	11622432
-2013	28	Antigua and Barbuda	ATG	842	United States	United States	15202404
+2013	28	Antigua and Barbuda	ATG	842	United States	USA	15202404
 2013	28	Antigua and Barbuda	ATG	84	Belize	BLZ	10219
 2013	28	Antigua and Barbuda	ATG	858	Uruguay	URY	28434
 2013	28	Antigua and Barbuda	ATG	8	Albania	ALB	694
@@ -9878,7 +9878,7 @@
 2013	300	Greece	GRC	818	Egypt	EGY	704778434
 2013	300	Greece	GRC	826	United Kingdom	GBR	1148344476
 2013	300	Greece	GRC	834	Tanzania	TZA	862586
-2013	300	Greece	GRC	842	United States	United States	1109330295
+2013	300	Greece	GRC	842	United States	USA	1109330295
 2013	300	Greece	GRC	84	Belize	BLZ	655
 2013	300	Greece	GRC	854	Burkina Faso	BFA	2391855
 2013	300	Greece	GRC	858	Uruguay	URY	8329485
@@ -10005,7 +10005,7 @@
 2013	31	Azerbaijan	AZE	807	Macedonia	MKD	64117
 2013	31	Azerbaijan	AZE	818	Egypt	EGY	85906260
 2013	31	Azerbaijan	AZE	826	United Kingdom	GBR	712445429
-2013	31	Azerbaijan	AZE	842	United States	United States	1456130300
+2013	31	Azerbaijan	AZE	842	United States	USA	1456130300
 2013	31	Azerbaijan	AZE	860	Uzbekistan	UZB	15751133
 2013	31	Azerbaijan	AZE	887	Yemen	YEM	167363
 2013	320	Guatemala	GTM	100	Bulgaria	BGR	1688319
@@ -10141,7 +10141,7 @@
 2013	320	Guatemala	GTM	818	Egypt	EGY	5842319
 2013	320	Guatemala	GTM	826	United Kingdom	GBR	49733200
 2013	320	Guatemala	GTM	834	Tanzania	TZA	503313
-2013	320	Guatemala	GTM	842	United States	United States	3986914915
+2013	320	Guatemala	GTM	842	United States	USA	3986914915
 2013	320	Guatemala	GTM	84	Belize	BLZ	67918698
 2013	320	Guatemala	GTM	858	Uruguay	URY	902331
 2013	320	Guatemala	GTM	862	Venezuela	VEN	91938482
@@ -10236,7 +10236,7 @@
 2013	328	Guyana	GUY	804	Ukraine	UKR	48189270
 2013	328	Guyana	GUY	826	United Kingdom	GBR	210026843
 2013	328	Guyana	GUY	834	Tanzania	TZA	11433
-2013	328	Guyana	GUY	842	United States	United States	248302965
+2013	328	Guyana	GUY	842	United States	USA	248302965
 2013	328	Guyana	GUY	84	Belize	BLZ	1486509
 2013	328	Guyana	GUY	860	Uzbekistan	UZB	15287
 2013	328	Guyana	GUY	862	Venezuela	VEN	228674717
@@ -10409,7 +10409,7 @@
 2013	32	Argentina	ARG	818	Egypt	EGY	1479687278
 2013	32	Argentina	ARG	826	United Kingdom	GBR	761831767
 2013	32	Argentina	ARG	834	Tanzania	TZA	11816017
-2013	32	Argentina	ARG	842	United States	United States	5052666874
+2013	32	Argentina	ARG	842	United States	USA	5052666874
 2013	32	Argentina	ARG	84	Belize	BLZ	995388
 2013	32	Argentina	ARG	854	Burkina Faso	BFA	976847
 2013	32	Argentina	ARG	858	Uruguay	URY	2101637520
@@ -10599,7 +10599,7 @@
 2013	348	Hungary	HUN	818	Egypt	EGY	154505862
 2013	348	Hungary	HUN	826	United Kingdom	GBR	3618788954
 2013	348	Hungary	HUN	834	Tanzania	TZA	2978377
-2013	348	Hungary	HUN	842	United States	United States	2830714675
+2013	348	Hungary	HUN	842	United States	USA	2830714675
 2013	348	Hungary	HUN	84	Belize	BLZ	858385
 2013	348	Hungary	HUN	854	Burkina Faso	BFA	1762272
 2013	348	Hungary	HUN	858	Uruguay	URY	7710186
@@ -10732,7 +10732,7 @@
 2013	352	Iceland	ISL	807	Macedonia	MKD	227285
 2013	352	Iceland	ISL	818	Egypt	EGY	2503590
 2013	352	Iceland	ISL	826	United Kingdom	GBR	493797395
-2013	352	Iceland	ISL	842	United States	United States	245356783
+2013	352	Iceland	ISL	842	United States	USA	245356783
 2013	352	Iceland	ISL	858	Uruguay	URY	454231
 2013	352	Iceland	ISL	862	Venezuela	VEN	87419
 2013	352	Iceland	ISL	92	Br. Virgin Islands	VGB	187231
@@ -10934,7 +10934,7 @@
 2013	360	Indonesia	IDN	818	Egypt	EGY	1126889273
 2013	360	Indonesia	IDN	826	United Kingdom	GBR	1672072264
 2013	360	Indonesia	IDN	834	Tanzania	TZA	197107684
-2013	360	Indonesia	IDN	842	United States	United States	16099972864
+2013	360	Indonesia	IDN	842	United States	USA	16099972864
 2013	360	Indonesia	IDN	84	Belize	BLZ	1039448
 2013	360	Indonesia	IDN	854	Burkina Faso	BFA	9772466
 2013	360	Indonesia	IDN	858	Uruguay	URY	30167455
@@ -11142,7 +11142,7 @@
 2013	36	Australia	AUS	818	Egypt	EGY	537787478
 2013	36	Australia	AUS	826	United Kingdom	GBR	3654533670
 2013	36	Australia	AUS	834	Tanzania	TZA	143766301
-2013	36	Australia	AUS	842	United States	United States	9377021895
+2013	36	Australia	AUS	842	United States	USA	9377021895
 2013	36	Australia	AUS	84	Belize	BLZ	249895
 2013	36	Australia	AUS	854	Burkina Faso	BFA	9617482
 2013	36	Australia	AUS	858	Uruguay	URY	18975983
@@ -11349,7 +11349,7 @@
 2013	372	Ireland	IRL	818	Egypt	EGY	182399645
 2013	372	Ireland	IRL	826	United Kingdom	GBR	18408708855
 2013	372	Ireland	IRL	834	Tanzania	TZA	18871222
-2013	372	Ireland	IRL	842	United States	United States	24199776203
+2013	372	Ireland	IRL	842	United States	USA	24199776203
 2013	372	Ireland	IRL	84	Belize	BLZ	121352
 2013	372	Ireland	IRL	854	Burkina Faso	BFA	13274135
 2013	372	Ireland	IRL	858	Uruguay	URY	20590544
@@ -11545,7 +11545,7 @@
 2013	376	Israel	ISR	818	Egypt	EGY	115583036
 2013	376	Israel	ISR	826	United Kingdom	GBR	3715777497
 2013	376	Israel	ISR	834	Tanzania	TZA	19060967
-2013	376	Israel	ISR	842	United States	United States	16879125097
+2013	376	Israel	ISR	842	United States	USA	16879125097
 2013	376	Israel	ISR	84	Belize	BLZ	1248096
 2013	376	Israel	ISR	854	Burkina Faso	BFA	1518164
 2013	376	Israel	ISR	858	Uruguay	URY	18217971
@@ -11770,7 +11770,7 @@
 2013	381	Italy	ITA	818	Egypt	EGY	3536650773
 2013	381	Italy	ITA	826	United Kingdom	GBR	24293719462
 2013	381	Italy	ITA	834	Tanzania	TZA	85294010
-2013	381	Italy	ITA	842	United States	United States	33813689844
+2013	381	Italy	ITA	842	United States	USA	33813689844
 2013	381	Italy	ITA	84	Belize	BLZ	15472965
 2013	381	Italy	ITA	854	Burkina Faso	BFA	41413219
 2013	381	Italy	ITA	858	Uruguay	URY	215510860
@@ -11891,7 +11891,7 @@
 2013	388	Jamaica	JAM	818	Egypt	EGY	39983
 2013	388	Jamaica	JAM	826	United Kingdom	GBR	93035064
 2013	388	Jamaica	JAM	834	Tanzania	TZA	2362
-2013	388	Jamaica	JAM	842	United States	United States	868541908
+2013	388	Jamaica	JAM	842	United States	USA	868541908
 2013	388	Jamaica	JAM	84	Belize	BLZ	3585094
 2013	388	Jamaica	JAM	858	Uruguay	URY	12484
 2013	388	Jamaica	JAM	862	Venezuela	VEN	557571
@@ -12094,7 +12094,7 @@
 2013	392	Japan	JPN	818	Egypt	EGY	1260692447
 2013	392	Japan	JPN	826	United Kingdom	GBR	11292575983
 2013	392	Japan	JPN	834	Tanzania	TZA	298402377
-2013	392	Japan	JPN	842	United States	United States	140306697192
+2013	392	Japan	JPN	842	United States	USA	140306697192
 2013	392	Japan	JPN	84	Belize	BLZ	5342002
 2013	392	Japan	JPN	854	Burkina Faso	BFA	5479304
 2013	392	Japan	JPN	858	Uruguay	URY	120789850
@@ -12216,7 +12216,7 @@
 2013	398	Kazakhstan	KAZ	818	Egypt	EGY	9951654
 2013	398	Kazakhstan	KAZ	826	United Kingdom	GBR	1597307647
 2013	398	Kazakhstan	KAZ	834	Tanzania	TZA	52127
-2013	398	Kazakhstan	KAZ	842	United States	United States	419318682
+2013	398	Kazakhstan	KAZ	842	United States	USA	419318682
 2013	398	Kazakhstan	KAZ	84	Belize	BLZ	267911
 2013	398	Kazakhstan	KAZ	860	Uzbekistan	UZB	1197748888
 2013	398	Kazakhstan	KAZ	862	Venezuela	VEN	14479
@@ -12360,7 +12360,7 @@
 2013	400	Jordan	JOR	818	Egypt	EGY	147608717
 2013	400	Jordan	JOR	826	United Kingdom	GBR	36350896
 2013	400	Jordan	JOR	834	Tanzania	TZA	3232656
-2013	400	Jordan	JOR	842	United States	United States	1367330752
+2013	400	Jordan	JOR	842	United States	USA	1367330752
 2013	400	Jordan	JOR	854	Burkina Faso	BFA	43874
 2013	400	Jordan	JOR	858	Uruguay	URY	500148
 2013	400	Jordan	JOR	860	Uzbekistan	UZB	166505
@@ -12565,7 +12565,7 @@
 2013	40	Austria	AUT	818	Egypt	EGY	265841244
 2013	40	Austria	AUT	826	United Kingdom	GBR	4735634530
 2013	40	Austria	AUT	834	Tanzania	TZA	17521722
-2013	40	Austria	AUT	842	United States	United States	9172708323
+2013	40	Austria	AUT	842	United States	USA	9172708323
 2013	40	Austria	AUT	84	Belize	BLZ	4549571
 2013	40	Austria	AUT	854	Burkina Faso	BFA	2108625
 2013	40	Austria	AUT	858	Uruguay	URY	24899903
@@ -12784,7 +12784,7 @@
 2013	410	Korea, South	KOR	818	Egypt	EGY	1576201895
 2013	410	Korea, South	KOR	826	United Kingdom	GBR	4945129526
 2013	410	Korea, South	KOR	834	Tanzania	TZA	148991450
-2013	410	Korea, South	KOR	842	United States	United States	63995285582
+2013	410	Korea, South	KOR	842	United States	USA	63995285582
 2013	410	Korea, South	KOR	84	Belize	BLZ	6671460
 2013	410	Korea, South	KOR	854	Burkina Faso	BFA	28152286
 2013	410	Korea, South	KOR	858	Uruguay	URY	396399292
@@ -12880,7 +12880,7 @@
 2013	417	Kyrgyzstan	KGZ	807	Macedonia	MKD	5787942
 2013	417	Kyrgyzstan	KGZ	818	Egypt	EGY	1
 2013	417	Kyrgyzstan	KGZ	826	United Kingdom	GBR	1433532
-2013	417	Kyrgyzstan	KGZ	842	United States	United States	8133656
+2013	417	Kyrgyzstan	KGZ	842	United States	USA	8133656
 2013	417	Kyrgyzstan	KGZ	84	Belize	BLZ	308630
 2013	417	Kyrgyzstan	KGZ	860	Uzbekistan	UZB	288679019
 2013	417	Kyrgyzstan	KGZ	8	Albania	ALB	295014
@@ -13046,7 +13046,7 @@
 2013	422	Lebanon	LBN	818	Egypt	EGY	128039094
 2013	422	Lebanon	LBN	826	United Kingdom	GBR	65563478
 2013	422	Lebanon	LBN	834	Tanzania	TZA	6023403
-2013	422	Lebanon	LBN	842	United States	United States	111451019
+2013	422	Lebanon	LBN	842	United States	USA	111451019
 2013	422	Lebanon	LBN	854	Burkina Faso	BFA	9480661
 2013	422	Lebanon	LBN	858	Uruguay	URY	5470596
 2013	422	Lebanon	LBN	860	Uzbekistan	UZB	583015
@@ -13236,7 +13236,7 @@
 2013	428	Latvia	LVA	818	Egypt	EGY	43640337
 2013	428	Latvia	LVA	826	United Kingdom	GBR	460130066
 2013	428	Latvia	LVA	834	Tanzania	TZA	7772057
-2013	428	Latvia	LVA	842	United States	United States	151696967
+2013	428	Latvia	LVA	842	United States	USA	151696967
 2013	428	Latvia	LVA	84	Belize	BLZ	2785586
 2013	428	Latvia	LVA	858	Uruguay	URY	1595485
 2013	428	Latvia	LVA	860	Uzbekistan	UZB	50264356
@@ -13417,7 +13417,7 @@
 2013	440	Lithuania	LTU	818	Egypt	EGY	47531006
 2013	440	Lithuania	LTU	826	United Kingdom	GBR	1499202442
 2013	440	Lithuania	LTU	834	Tanzania	TZA	227746
-2013	440	Lithuania	LTU	842	United States	United States	851764267
+2013	440	Lithuania	LTU	842	United States	USA	851764267
 2013	440	Lithuania	LTU	84	Belize	BLZ	394770
 2013	440	Lithuania	LTU	854	Burkina Faso	BFA	973022
 2013	440	Lithuania	LTU	858	Uruguay	URY	376765
@@ -13600,7 +13600,7 @@
 2013	442	Luxembourg	LUX	818	Egypt	EGY	22773863
 2013	442	Luxembourg	LUX	826	United Kingdom	GBR	565662199
 2013	442	Luxembourg	LUX	834	Tanzania	TZA	2503834
-2013	442	Luxembourg	LUX	842	United States	United States	549931485
+2013	442	Luxembourg	LUX	842	United States	USA	549931485
 2013	442	Luxembourg	LUX	854	Burkina Faso	BFA	9905482
 2013	442	Luxembourg	LUX	858	Uruguay	URY	222746
 2013	442	Luxembourg	LUX	860	Uzbekistan	UZB	5339945
@@ -13671,7 +13671,7 @@
 2013	44	Bahamas, The	BHS	796	Turks and Caicos Islands	TCA	502649
 2013	44	Bahamas, The	BHS	818	Egypt	EGY	44398
 2013	44	Bahamas, The	BHS	826	United Kingdom	GBR	36177852
-2013	44	Bahamas, The	BHS	842	United States	United States	803997187
+2013	44	Bahamas, The	BHS	842	United States	USA	803997187
 2013	44	Bahamas, The	BHS	858	Uruguay	URY	2360844
 2013	44	Bahamas, The	BHS	862	Venezuela	VEN	16255
 2013	44	Bahamas, The	BHS	92	Br. Virgin Islands	VGB	5502
@@ -13804,7 +13804,7 @@
 2013	450	Madagascar	MDG	818	Egypt	EGY	2685655
 2013	450	Madagascar	MDG	826	United Kingdom	GBR	12262860
 2013	450	Madagascar	MDG	834	Tanzania	TZA	586835
-2013	450	Madagascar	MDG	842	United States	United States	48926431
+2013	450	Madagascar	MDG	842	United States	USA	48926431
 2013	450	Madagascar	MDG	854	Burkina Faso	BFA	6205
 2013	450	Madagascar	MDG	858	Uruguay	URY	2903
 2013	450	Madagascar	MDG	887	Yemen	YEM	47263
@@ -13917,7 +13917,7 @@
 2013	454	Malawi	MWI	818	Egypt	EGY	10188015
 2013	454	Malawi	MWI	826	United Kingdom	GBR	83540673
 2013	454	Malawi	MWI	834	Tanzania	TZA	33856817
-2013	454	Malawi	MWI	842	United States	United States	91584387
+2013	454	Malawi	MWI	842	United States	USA	91584387
 2013	454	Malawi	MWI	854	Burkina Faso	BFA	340
 2013	454	Malawi	MWI	858	Uruguay	URY	1043600
 2013	454	Malawi	MWI	882	Samoa	WSM	31422
@@ -14131,7 +14131,7 @@
 2013	458	Malaysia	MYS	818	Egypt	EGY	901982311
 2013	458	Malaysia	MYS	826	United Kingdom	GBR	2272056480
 2013	458	Malaysia	MYS	834	Tanzania	TZA	223254281
-2013	458	Malaysia	MYS	842	United States	United States	19298582589
+2013	458	Malaysia	MYS	842	United States	USA	19298582589
 2013	458	Malaysia	MYS	84	Belize	BLZ	1836871
 2013	458	Malaysia	MYS	854	Burkina Faso	BFA	2911574
 2013	458	Malaysia	MYS	858	Uruguay	URY	47569912
@@ -14297,7 +14297,7 @@
 2013	470	Malta	MLT	818	Egypt	EGY	294736602
 2013	470	Malta	MLT	826	United Kingdom	GBR	163525109
 2013	470	Malta	MLT	834	Tanzania	TZA	152
-2013	470	Malta	MLT	842	United States	United States	258346956
+2013	470	Malta	MLT	842	United States	USA	258346956
 2013	470	Malta	MLT	84	Belize	BLZ	27015
 2013	470	Malta	MLT	854	Burkina Faso	BFA	87814
 2013	470	Malta	MLT	858	Uruguay	URY	11220
@@ -14378,7 +14378,7 @@
 2013	478	Mauritania	MRT	804	Ukraine	UKR	3294646
 2013	478	Mauritania	MRT	818	Egypt	EGY	699112
 2013	478	Mauritania	MRT	826	United Kingdom	GBR	10666009
-2013	478	Mauritania	MRT	842	United States	United States	81108
+2013	478	Mauritania	MRT	842	United States	USA	81108
 2013	478	Mauritania	MRT	862	Venezuela	VEN	1082993
 2013	478	Mauritania	MRT	887	Yemen	YEM	3649
 2013	480	Mauritius	MUS	100	Bulgaria	BGR	1193418
@@ -14525,7 +14525,7 @@
 2013	480	Mauritius	MUS	818	Egypt	EGY	1141150
 2013	480	Mauritius	MUS	826	United Kingdom	GBR	473397776
 2013	480	Mauritius	MUS	834	Tanzania	TZA	5054562
-2013	480	Mauritius	MUS	842	United States	United States	286691231
+2013	480	Mauritius	MUS	842	United States	USA	286691231
 2013	480	Mauritius	MUS	84	Belize	BLZ	22150
 2013	480	Mauritius	MUS	854	Burkina Faso	BFA	7953
 2013	480	Mauritius	MUS	858	Uruguay	URY	175487
@@ -14711,7 +14711,7 @@
 2013	484	Mexico	MEX	818	Egypt	EGY	57293905
 2013	484	Mexico	MEX	826	United Kingdom	GBR	1164662880
 2013	484	Mexico	MEX	834	Tanzania	TZA	4645017
-2013	484	Mexico	MEX	842	United States	United States	293880871063
+2013	484	Mexico	MEX	842	United States	USA	293880871063
 2013	484	Mexico	MEX	84	Belize	BLZ	145374593
 2013	484	Mexico	MEX	854	Burkina Faso	BFA	16643695
 2013	484	Mexico	MEX	858	Uruguay	URY	305805940
@@ -14778,7 +14778,7 @@
 2013	496	Mongolia	MNG	795	Turkmenistan	TKM	50132
 2013	496	Mongolia	MNG	804	Ukraine	UKR	5638603
 2013	496	Mongolia	MNG	826	United Kingdom	GBR	27102184
-2013	496	Mongolia	MNG	842	United States	United States	4228488
+2013	496	Mongolia	MNG	842	United States	USA	4228488
 2013	496	Mongolia	MNG	860	Uzbekistan	UZB	530790
 2013	498	Moldova	MDA	100	Bulgaria	BGR	32665482
 2013	498	Moldova	MDA	112	Belarus	BLR	90575869
@@ -14884,7 +14884,7 @@
 2013	498	Moldova	MDA	818	Egypt	EGY	380424
 2013	498	Moldova	MDA	826	United Kingdom	GBR	105777161
 2013	498	Moldova	MDA	834	Tanzania	TZA	20846
-2013	498	Moldova	MDA	842	United States	United States	25341486
+2013	498	Moldova	MDA	842	United States	USA	25341486
 2013	498	Moldova	MDA	84	Belize	BLZ	6833096
 2013	498	Moldova	MDA	858	Uruguay	URY	28882
 2013	498	Moldova	MDA	860	Uzbekistan	UZB	7624480
@@ -14966,7 +14966,7 @@
 2013	499	Montenegro	MNE	807	Macedonia	MKD	3862531
 2013	499	Montenegro	MNE	818	Egypt	EGY	134187
 2013	499	Montenegro	MNE	826	United Kingdom	GBR	4663102
-2013	499	Montenegro	MNE	842	United States	United States	1038989
+2013	499	Montenegro	MNE	842	United States	USA	1038989
 2013	499	Montenegro	MNE	860	Uzbekistan	UZB	78828
 2013	499	Montenegro	MNE	887	Yemen	YEM	481588
 2013	499	Montenegro	MNE	8	Albania	ALB	16745831
@@ -14981,7 +14981,7 @@
 2013	500	Montserrat	MSR	660	Anguilla	AIA	146318
 2013	500	Montserrat	MSR	780	Trinidad and Tobago	TTO	105634
 2013	500	Montserrat	MSR	826	United Kingdom	GBR	4798
-2013	500	Montserrat	MSR	842	United States	United States	744605
+2013	500	Montserrat	MSR	842	United States	USA	744605
 2013	500	Montserrat	MSR	92	Br. Virgin Islands	VGB	173492
 2013	508	Mozambique	MOZ	100	Bulgaria	BGR	214
 2013	508	Mozambique	MOZ	104	Burma	MMR	81291
@@ -15096,7 +15096,7 @@
 2013	508	Mozambique	MOZ	818	Egypt	EGY	22939
 2013	508	Mozambique	MOZ	826	United Kingdom	GBR	47701858
 2013	508	Mozambique	MOZ	834	Tanzania	TZA	66797717
-2013	508	Mozambique	MOZ	842	United States	United States	139897023
+2013	508	Mozambique	MOZ	842	United States	USA	139897023
 2013	508	Mozambique	MOZ	860	Uzbekistan	UZB	449623
 2013	508	Mozambique	MOZ	894	Zambia	ZMB	3280252
 2013	512	Oman	OMN	100	Bulgaria	BGR	29783303
@@ -15240,7 +15240,7 @@
 2013	512	Oman	OMN	818	Egypt	EGY	381057489
 2013	512	Oman	OMN	826	United Kingdom	GBR	202897820
 2013	512	Oman	OMN	834	Tanzania	TZA	1143686333
-2013	512	Oman	OMN	842	United States	United States	1345730820
+2013	512	Oman	OMN	842	United States	USA	1345730820
 2013	512	Oman	OMN	84	Belize	BLZ	79421
 2013	512	Oman	OMN	858	Uruguay	URY	311853
 2013	512	Oman	OMN	862	Venezuela	VEN	28441
@@ -15400,7 +15400,7 @@
 2013	516	Namibia	NAM	818	Egypt	EGY	5335
 2013	516	Namibia	NAM	826	United Kingdom	GBR	115511829
 2013	516	Namibia	NAM	834	Tanzania	TZA	8756133
-2013	516	Namibia	NAM	842	United States	United States	184302832
+2013	516	Namibia	NAM	842	United States	USA	184302832
 2013	516	Namibia	NAM	84	Belize	BLZ	1929114
 2013	516	Namibia	NAM	858	Uruguay	URY	197277
 2013	516	Namibia	NAM	860	Uzbekistan	UZB	44
@@ -15483,7 +15483,7 @@
 2013	51	Armenia	ARM	818	Egypt	EGY	139062
 2013	51	Armenia	ARM	826	United Kingdom	GBR	20024573
 2013	51	Armenia	ARM	834	Tanzania	TZA	54132
-2013	51	Armenia	ARM	842	United States	United States	109056353
+2013	51	Armenia	ARM	842	United States	USA	109056353
 2013	51	Armenia	ARM	84	Belize	BLZ	10749794
 2013	51	Armenia	ARM	860	Uzbekistan	UZB	2655023
 2013	51	Armenia	ARM	887	Yemen	YEM	19559
@@ -15701,7 +15701,7 @@
 2013	528	Netherlands	NLD	818	Egypt	EGY	1729701740
 2013	528	Netherlands	NLD	826	United Kingdom	GBR	50237780317
 2013	528	Netherlands	NLD	834	Tanzania	TZA	186321673
-2013	528	Netherlands	NLD	842	United States	United States	23071285298
+2013	528	Netherlands	NLD	842	United States	USA	23071285298
 2013	528	Netherlands	NLD	84	Belize	BLZ	11622644
 2013	528	Netherlands	NLD	854	Burkina Faso	BFA	69612594
 2013	528	Netherlands	NLD	858	Uruguay	URY	103151995
@@ -15835,7 +15835,7 @@
 2013	52	Barbados	BRB	804	Ukraine	UKR	96792
 2013	52	Barbados	BRB	826	United Kingdom	GBR	26532502
 2013	52	Barbados	BRB	834	Tanzania	TZA	139529
-2013	52	Barbados	BRB	842	United States	United States	256985854
+2013	52	Barbados	BRB	842	United States	USA	256985854
 2013	52	Barbados	BRB	84	Belize	BLZ	5105674
 2013	52	Barbados	BRB	858	Uruguay	URY	83934
 2013	52	Barbados	BRB	862	Venezuela	VEN	833105
@@ -16033,7 +16033,7 @@
 2013	554	New Zealand	NZL	818	Egypt	EGY	296005657
 2013	554	New Zealand	NZL	826	United Kingdom	GBR	1151618999
 2013	554	New Zealand	NZL	834	Tanzania	TZA	3975057
-2013	554	New Zealand	NZL	842	United States	United States	3353815738
+2013	554	New Zealand	NZL	842	United States	USA	3353815738
 2013	554	New Zealand	NZL	84	Belize	BLZ	414478
 2013	554	New Zealand	NZL	854	Burkina Faso	BFA	1350248
 2013	554	New Zealand	NZL	858	Uruguay	URY	12527423
@@ -16154,7 +16154,7 @@
 2013	558	Nicaragua	NIC	818	Egypt	EGY	766056
 2013	558	Nicaragua	NIC	826	United Kingdom	GBR	26837989
 2013	558	Nicaragua	NIC	834	Tanzania	TZA	587
-2013	558	Nicaragua	NIC	842	United States	United States	1130650709
+2013	558	Nicaragua	NIC	842	United States	USA	1130650709
 2013	558	Nicaragua	NIC	84	Belize	BLZ	49390
 2013	558	Nicaragua	NIC	858	Uruguay	URY	1675
 2013	558	Nicaragua	NIC	862	Venezuela	VEN	225532725
@@ -16231,7 +16231,7 @@
 2013	562	Niger	NER	804	Ukraine	UKR	1276
 2013	562	Niger	NER	818	Egypt	EGY	13556
 2013	562	Niger	NER	826	United Kingdom	GBR	389592
-2013	562	Niger	NER	842	United States	United States	147752469
+2013	562	Niger	NER	842	United States	USA	147752469
 2013	562	Niger	NER	854	Burkina Faso	BFA	261698820
 2013	56	Belgium	BEL	100	Bulgaria	BGR	416736693
 2013	56	Belgium	BEL	104	Burma	MMR	20479011
@@ -16445,7 +16445,7 @@
 2013	56	Belgium	BEL	818	Egypt	EGY	1017923039
 2013	56	Belgium	BEL	826	United Kingdom	GBR	22510424568
 2013	56	Belgium	BEL	834	Tanzania	TZA	62854581
-2013	56	Belgium	BEL	842	United States	United States	15457095429
+2013	56	Belgium	BEL	842	United States	USA	15457095429
 2013	56	Belgium	BEL	84	Belize	BLZ	1665878
 2013	56	Belgium	BEL	854	Burkina Faso	BFA	61768499
 2013	56	Belgium	BEL	858	Uruguay	URY	87631091
@@ -16654,7 +16654,7 @@
 2013	579	Norway	NOR	818	Egypt	EGY	104317457
 2013	579	Norway	NOR	826	United Kingdom	GBR	37398132069
 2013	579	Norway	NOR	834	Tanzania	TZA	26064496
-2013	579	Norway	NOR	842	United States	United States	6912353970
+2013	579	Norway	NOR	842	United States	USA	6912353970
 2013	579	Norway	NOR	84	Belize	BLZ	4477949
 2013	579	Norway	NOR	854	Burkina Faso	BFA	475175
 2013	579	Norway	NOR	858	Uruguay	URY	27336392
@@ -16853,7 +16853,7 @@
 2013	586	Pakistan	PAK	818	Egypt	EGY	156308283
 2013	586	Pakistan	PAK	826	United Kingdom	GBR	1438014525
 2013	586	Pakistan	PAK	834	Tanzania	TZA	137977686
-2013	586	Pakistan	PAK	842	United States	United States	3762100714
+2013	586	Pakistan	PAK	842	United States	USA	3762100714
 2013	586	Pakistan	PAK	84	Belize	BLZ	126308
 2013	586	Pakistan	PAK	854	Burkina Faso	BFA	99990
 2013	586	Pakistan	PAK	858	Uruguay	URY	19055025
@@ -16945,7 +16945,7 @@
 2013	591	Panama	PAN	792	Turkey	TUR	181039495
 2013	591	Panama	PAN	804	Ukraine	UKR	1276198
 2013	591	Panama	PAN	826	United Kingdom	GBR	609054904
-2013	591	Panama	PAN	842	United States	United States	4170494954
+2013	591	Panama	PAN	842	United States	USA	4170494954
 2013	591	Panama	PAN	84	Belize	BLZ	1856983
 2013	591	Panama	PAN	858	Uruguay	URY	443459
 2013	591	Panama	PAN	862	Venezuela	VEN	106730561
@@ -17059,7 +17059,7 @@
 2013	600	Paraguay	PRY	804	Ukraine	UKR	198728
 2013	600	Paraguay	PRY	818	Egypt	EGY	112406619
 2013	600	Paraguay	PRY	826	United Kingdom	GBR	45023373
-2013	600	Paraguay	PRY	842	United States	United States	344756966
+2013	600	Paraguay	PRY	842	United States	USA	344756966
 2013	600	Paraguay	PRY	84	Belize	BLZ	2836204
 2013	600	Paraguay	PRY	858	Uruguay	URY	275894819
 2013	600	Paraguay	PRY	860	Uzbekistan	UZB	7279
@@ -17220,7 +17220,7 @@
 2013	604	Peru	PER	818	Egypt	EGY	6232513
 2013	604	Peru	PER	826	United Kingdom	GBR	352559241
 2013	604	Peru	PER	834	Tanzania	TZA	1237447
-2013	604	Peru	PER	842	United States	United States	6689560772
+2013	604	Peru	PER	842	United States	USA	6689560772
 2013	604	Peru	PER	84	Belize	BLZ	1403375
 2013	604	Peru	PER	854	Burkina Faso	BFA	559424
 2013	604	Peru	PER	858	Uruguay	URY	44225342
@@ -17420,7 +17420,7 @@
 2013	608	Philippines	PHL	818	Egypt	EGY	14603407
 2013	608	Philippines	PHL	826	United Kingdom	GBR	511802344
 2013	608	Philippines	PHL	834	Tanzania	TZA	723136
-2013	608	Philippines	PHL	842	United States	United States	7159886957
+2013	608	Philippines	PHL	842	United States	USA	7159886957
 2013	608	Philippines	PHL	84	Belize	BLZ	482392
 2013	608	Philippines	PHL	854	Burkina Faso	BFA	3761
 2013	608	Philippines	PHL	858	Uruguay	URY	22623094
@@ -17450,7 +17450,7 @@
 2013	60	Bermuda	BMU	784	United Arab Emirates	ARE	58
 2013	60	Bermuda	BMU	804	Ukraine	UKR	1494
 2013	60	Bermuda	BMU	826	United Kingdom	GBR	8929415
-2013	60	Bermuda	BMU	842	United States	United States	3828051
+2013	60	Bermuda	BMU	842	United States	USA	3828051
 2013	616	Poland	POL	100	Bulgaria	BGR	979036090
 2013	616	Poland	POL	104	Burma	MMR	4246305
 2013	616	Poland	POL	108	Burundi	BDI	205860
@@ -17654,7 +17654,7 @@
 2013	616	Poland	POL	818	Egypt	EGY	280799417
 2013	616	Poland	POL	826	United Kingdom	GBR	13231568236
 2013	616	Poland	POL	834	Tanzania	TZA	18725927
-2013	616	Poland	POL	842	United States	United States	4556839308
+2013	616	Poland	POL	842	United States	USA	4556839308
 2013	616	Poland	POL	84	Belize	BLZ	21623012
 2013	616	Poland	POL	854	Burkina Faso	BFA	1146921
 2013	616	Poland	POL	858	Uruguay	URY	12101467
@@ -17856,7 +17856,7 @@
 2013	620	Portugal	PRT	818	Egypt	EGY	87629774
 2013	620	Portugal	PRT	826	United Kingdom	GBR	3479740810
 2013	620	Portugal	PRT	834	Tanzania	TZA	3442802
-2013	620	Portugal	PRT	842	United States	United States	2673262453
+2013	620	Portugal	PRT	842	United States	USA	2673262453
 2013	620	Portugal	PRT	84	Belize	BLZ	372303
 2013	620	Portugal	PRT	854	Burkina Faso	BFA	10756179
 2013	620	Portugal	PRT	858	Uruguay	URY	23080549
@@ -17911,7 +17911,7 @@
 2013	626	Timor-Leste	TLS	76	Brazil	BRA	3215
 2013	626	Timor-Leste	TLS	800	Uganda	UGA	192024
 2013	626	Timor-Leste	TLS	826	United Kingdom	GBR	4288
-2013	626	Timor-Leste	TLS	842	United States	United States	4721906
+2013	626	Timor-Leste	TLS	842	United States	USA	4721906
 2013	642	Romania	ROU	100	Bulgaria	BGR	2254922694
 2013	642	Romania	ROU	104	Burma	MMR	1268109
 2013	642	Romania	ROU	108	Burundi	BDI	79894
@@ -18093,7 +18093,7 @@
 2013	642	Romania	ROU	818	Egypt	EGY	617436390
 2013	642	Romania	ROU	826	United Kingdom	GBR	2699140434
 2013	642	Romania	ROU	834	Tanzania	TZA	1387111
-2013	642	Romania	ROU	842	United States	United States	1098429703
+2013	642	Romania	ROU	842	United States	USA	1098429703
 2013	642	Romania	ROU	84	Belize	BLZ	4516
 2013	642	Romania	ROU	854	Burkina Faso	BFA	7088582
 2013	642	Romania	ROU	858	Uruguay	URY	8491135
@@ -18278,7 +18278,7 @@
 2013	643	Russia	RUS	818	Egypt	EGY	2865244053
 2013	643	Russia	RUS	826	United Kingdom	GBR	14049975628
 2013	643	Russia	RUS	834	Tanzania	TZA	114510155
-2013	643	Russia	RUS	842	United States	United States	12792535793
+2013	643	Russia	RUS	842	United States	USA	12792535793
 2013	643	Russia	RUS	84	Belize	BLZ	18619300
 2013	643	Russia	RUS	854	Burkina Faso	BFA	5991903
 2013	643	Russia	RUS	858	Uruguay	URY	91983737
@@ -18371,7 +18371,7 @@
 2013	646	Rwanda	RWA	818	Egypt	EGY	16063
 2013	646	Rwanda	RWA	826	United Kingdom	GBR	1429829
 2013	646	Rwanda	RWA	834	Tanzania	TZA	221597441
-2013	646	Rwanda	RWA	842	United States	United States	3879016
+2013	646	Rwanda	RWA	842	United States	USA	3879016
 2013	646	Rwanda	RWA	84	Belize	BLZ	3562
 2013	646	Rwanda	RWA	854	Burkina Faso	BFA	7684
 2013	646	Rwanda	RWA	860	Uzbekistan	UZB	6330
@@ -18396,7 +18396,7 @@
 2013	678	Sao Tome and Principe	STP	768	Togo	TGO	1656
 2013	678	Sao Tome and Principe	STP	76	Brazil	BRA	168558
 2013	678	Sao Tome and Principe	STP	792	Turkey	TUR	603226
-2013	678	Sao Tome and Principe	STP	842	United States	United States	114730
+2013	678	Sao Tome and Principe	STP	842	United States	USA	114730
 2013	678	Sao Tome and Principe	STP	92	Br. Virgin Islands	VGB	2915
 2013	682	Saudi Arabia	SAU	100	Bulgaria	BGR	80699183
 2013	682	Saudi Arabia	SAU	104	Burma	MMR	518138541
@@ -18543,7 +18543,7 @@
 2013	682	Saudi Arabia	SAU	818	Egypt	EGY	12736917960
 2013	682	Saudi Arabia	SAU	826	United Kingdom	GBR	5950036832
 2013	682	Saudi Arabia	SAU	834	Tanzania	TZA	1076931995
-2013	682	Saudi Arabia	SAU	842	United States	United States	10654511199
+2013	682	Saudi Arabia	SAU	842	United States	USA	10654511199
 2013	682	Saudi Arabia	SAU	858	Uruguay	URY	94815760
 2013	682	Saudi Arabia	SAU	860	Uzbekistan	UZB	16451618
 2013	682	Saudi Arabia	SAU	862	Venezuela	VEN	6997721
@@ -18705,7 +18705,7 @@
 2013	688	Serbia	SRB	818	Egypt	EGY	16186879
 2013	688	Serbia	SRB	826	United Kingdom	GBR	170165967
 2013	688	Serbia	SRB	834	Tanzania	TZA	1730041
-2013	688	Serbia	SRB	842	United States	United States	491072081
+2013	688	Serbia	SRB	842	United States	USA	491072081
 2013	688	Serbia	SRB	84	Belize	BLZ	1476526
 2013	688	Serbia	SRB	854	Burkina Faso	BFA	268167
 2013	688	Serbia	SRB	858	Uruguay	URY	1249475
@@ -18790,7 +18790,7 @@
 2013	68	Bolivia	BOL	804	Ukraine	UKR	373531
 2013	68	Bolivia	BOL	818	Egypt	EGY	2304601
 2013	68	Bolivia	BOL	826	United Kingdom	GBR	109972443
-2013	68	Bolivia	BOL	842	United States	United States	764238453
+2013	68	Bolivia	BOL	842	United States	USA	764238453
 2013	68	Bolivia	BOL	84	Belize	BLZ	15534
 2013	68	Bolivia	BOL	858	Uruguay	URY	7705515
 2013	68	Bolivia	BOL	862	Venezuela	VEN	149012332
@@ -18999,7 +18999,7 @@
 2013	699	India	IND	818	Egypt	EGY	2811749216
 2013	699	India	IND	826	United Kingdom	GBR	10230974868
 2013	699	India	IND	834	Tanzania	TZA	3554232166
-2013	699	India	IND	842	United States	United States	40682269074
+2013	699	India	IND	842	United States	USA	40682269074
 2013	699	India	IND	84	Belize	BLZ	25112184
 2013	699	India	IND	854	Burkina Faso	BFA	110263151
 2013	699	India	IND	858	Uruguay	URY	158943433
@@ -19211,7 +19211,7 @@
 2013	702	Singapore	SGP	818	Egypt	EGY	498868199
 2013	702	Singapore	SGP	826	United Kingdom	GBR	4032574923
 2013	702	Singapore	SGP	834	Tanzania	TZA	136669581
-2013	702	Singapore	SGP	842	United States	United States	25090583630
+2013	702	Singapore	SGP	842	United States	USA	25090583630
 2013	702	Singapore	SGP	84	Belize	BLZ	13742565
 2013	702	Singapore	SGP	854	Burkina Faso	BFA	1738707
 2013	702	Singapore	SGP	858	Uruguay	URY	58674386
@@ -19403,7 +19403,7 @@
 2013	703	Slovakia	SVK	818	Egypt	EGY	122503516
 2013	703	Slovakia	SVK	826	United Kingdom	GBR	3841268431
 2013	703	Slovakia	SVK	834	Tanzania	TZA	575853
-2013	703	Slovakia	SVK	842	United States	United States	1498311113
+2013	703	Slovakia	SVK	842	United States	USA	1498311113
 2013	703	Slovakia	SVK	854	Burkina Faso	BFA	57368
 2013	703	Slovakia	SVK	858	Uruguay	URY	6546830
 2013	703	Slovakia	SVK	860	Uzbekistan	UZB	17808505
@@ -19587,7 +19587,7 @@
 2013	705	Slovenia	SVN	818	Egypt	EGY	39984605
 2013	705	Slovenia	SVN	826	United Kingdom	GBR	590625485
 2013	705	Slovenia	SVN	834	Tanzania	TZA	261159
-2013	705	Slovenia	SVN	842	United States	United States	489228722
+2013	705	Slovenia	SVN	842	United States	USA	489228722
 2013	705	Slovenia	SVN	84	Belize	BLZ	373863
 2013	705	Slovenia	SVN	854	Burkina Faso	BFA	121793
 2013	705	Slovenia	SVN	858	Uruguay	URY	1132535
@@ -19715,7 +19715,7 @@
 2013	70	Bosnia and Herzegovina	BIH	818	Egypt	EGY	16849653
 2013	70	Bosnia and Herzegovina	BIH	826	United Kingdom	GBR	30990337
 2013	70	Bosnia and Herzegovina	BIH	834	Tanzania	TZA	365348
-2013	70	Bosnia and Herzegovina	BIH	842	United States	United States	17734181
+2013	70	Bosnia and Herzegovina	BIH	842	United States	USA	17734181
 2013	70	Bosnia and Herzegovina	BIH	84	Belize	BLZ	7443
 2013	70	Bosnia and Herzegovina	BIH	860	Uzbekistan	UZB	24251
 2013	70	Bosnia and Herzegovina	BIH	862	Venezuela	VEN	30144
@@ -19920,7 +19920,7 @@
 2013	710	South Africa	ZAF	818	Egypt	EGY	83255748
 2013	710	South Africa	ZAF	826	United Kingdom	GBR	3454880462
 2013	710	South Africa	ZAF	834	Tanzania	TZA	538989964
-2013	710	South Africa	ZAF	842	United States	United States	7250773602
+2013	710	South Africa	ZAF	842	United States	USA	7250773602
 2013	710	South Africa	ZAF	84	Belize	BLZ	1042068
 2013	710	South Africa	ZAF	854	Burkina Faso	BFA	35528189
 2013	710	South Africa	ZAF	858	Uruguay	URY	13138865
@@ -20008,7 +20008,7 @@
 2013	716	Zimbabwe	ZWE	818	Egypt	EGY	100415
 2013	716	Zimbabwe	ZWE	826	United Kingdom	GBR	1649428
 2013	716	Zimbabwe	ZWE	834	Tanzania	TZA	117870
-2013	716	Zimbabwe	ZWE	842	United States	United States	2269574
+2013	716	Zimbabwe	ZWE	842	United States	USA	2269574
 2013	716	Zimbabwe	ZWE	854	Burkina Faso	BFA	1056
 2013	716	Zimbabwe	ZWE	858	Uruguay	URY	9191
 2013	716	Zimbabwe	ZWE	887	Yemen	YEM	1255
@@ -20221,7 +20221,7 @@
 2013	724	Spain	ESP	818	Egypt	EGY	2181113627
 2013	724	Spain	ESP	826	United Kingdom	GBR	31359423085
 2013	724	Spain	ESP	834	Tanzania	TZA	67921301
-2013	724	Spain	ESP	842	United States	United States	17838462833
+2013	724	Spain	ESP	842	United States	USA	17838462833
 2013	724	Spain	ESP	84	Belize	BLZ	21466023
 2013	724	Spain	ESP	854	Burkina Faso	BFA	63017238
 2013	724	Spain	ESP	858	Uruguay	URY	518924209
@@ -20440,7 +20440,7 @@
 2013	752	Sweden	SWE	818	Egypt	EGY	951079693
 2013	752	Sweden	SWE	826	United Kingdom	GBR	12086238367
 2013	752	Sweden	SWE	834	Tanzania	TZA	98576868
-2013	752	Sweden	SWE	842	United States	United States	11045848724
+2013	752	Sweden	SWE	842	United States	USA	11045848724
 2013	752	Sweden	SWE	84	Belize	BLZ	796026
 2013	752	Sweden	SWE	854	Burkina Faso	BFA	32865275
 2013	752	Sweden	SWE	858	Uruguay	URY	80323560
@@ -20661,7 +20661,7 @@
 2013	757	Switzerland	CHE	818	Egypt	EGY	828391489
 2013	757	Switzerland	CHE	826	United Kingdom	GBR	12031736870
 2013	757	Switzerland	CHE	834	Tanzania	TZA	20639529
-2013	757	Switzerland	CHE	842	United States	United States	27041790374
+2013	757	Switzerland	CHE	842	United States	USA	27041790374
 2013	757	Switzerland	CHE	84	Belize	BLZ	14383233
 2013	757	Switzerland	CHE	854	Burkina Faso	BFA	7270442
 2013	757	Switzerland	CHE	858	Uruguay	URY	298072773
@@ -20881,7 +20881,7 @@
 2013	764	Thailand	THA	818	Egypt	EGY	929378389
 2013	764	Thailand	THA	826	United Kingdom	GBR	3864185494
 2013	764	Thailand	THA	834	Tanzania	TZA	132087116
-2013	764	Thailand	THA	842	United States	United States	23484979553
+2013	764	Thailand	THA	842	United States	USA	23484979553
 2013	764	Thailand	THA	84	Belize	BLZ	3115942
 2013	764	Thailand	THA	854	Burkina Faso	BFA	18986040
 2013	764	Thailand	THA	858	Uruguay	URY	57640000
@@ -20969,7 +20969,7 @@
 2013	768	Togo	TGO	804	Ukraine	UKR	72407
 2013	768	Togo	TGO	826	United Kingdom	GBR	2063867
 2013	768	Togo	TGO	834	Tanzania	TZA	493579
-2013	768	Togo	TGO	842	United States	United States	5071362
+2013	768	Togo	TGO	842	United States	USA	5071362
 2013	768	Togo	TGO	854	Burkina Faso	BFA	196698266
 2013	76	Brazil	BRA	100	Bulgaria	BGR	229613470
 2013	76	Brazil	BRA	104	Burma	MMR	13444622
@@ -21170,7 +21170,7 @@
 2013	76	Brazil	BRA	818	Egypt	EGY	2312680331
 2013	76	Brazil	BRA	826	United Kingdom	GBR	3470025064
 2013	76	Brazil	BRA	834	Tanzania	TZA	25407918
-2013	76	Brazil	BRA	842	United States	United States	26042402844
+2013	76	Brazil	BRA	842	United States	USA	26042402844
 2013	76	Brazil	BRA	84	Belize	BLZ	4963060
 2013	76	Brazil	BRA	854	Burkina Faso	BFA	5890158
 2013	76	Brazil	BRA	858	Uruguay	URY	2175890540
@@ -21330,7 +21330,7 @@
 2013	788	Tunisia	TUN	818	Egypt	EGY	71776048
 2013	788	Tunisia	TUN	826	United Kingdom	GBR	688621189
 2013	788	Tunisia	TUN	834	Tanzania	TZA	334338
-2013	788	Tunisia	TUN	842	United States	United States	424514904
+2013	788	Tunisia	TUN	842	United States	USA	424514904
 2013	788	Tunisia	TUN	84	Belize	BLZ	61407
 2013	788	Tunisia	TUN	854	Burkina Faso	BFA	22812417
 2013	788	Tunisia	TUN	858	Uruguay	URY	19624596
@@ -21538,7 +21538,7 @@
 2013	792	Turkey	TUR	818	Egypt	EGY	3676431391
 2013	792	Turkey	TUR	826	United Kingdom	GBR	10065824247
 2013	792	Turkey	TUR	834	Tanzania	TZA	161592369
-2013	792	Turkey	TUR	842	United States	United States	6467880429
+2013	792	Turkey	TUR	842	United States	USA	6467880429
 2013	792	Turkey	TUR	84	Belize	BLZ	16851112
 2013	792	Turkey	TUR	854	Burkina Faso	BFA	23531023
 2013	792	Turkey	TUR	858	Uruguay	URY	50641183
@@ -21682,7 +21682,7 @@
 2013	800	Uganda	UGA	818	Egypt	EGY	233350
 2013	800	Uganda	UGA	826	United Kingdom	GBR	65982317
 2013	800	Uganda	UGA	834	Tanzania	TZA	66603792
-2013	800	Uganda	UGA	842	United States	United States	51003942
+2013	800	Uganda	UGA	842	United States	USA	51003942
 2013	800	Uganda	UGA	84	Belize	BLZ	430
 2013	800	Uganda	UGA	854	Burkina Faso	BFA	9152
 2013	800	Uganda	UGA	860	Uzbekistan	UZB	1101380
@@ -21870,7 +21870,7 @@
 2013	804	Ukraine	UKR	818	Egypt	EGY	3069023138
 2013	804	Ukraine	UKR	826	United Kingdom	GBR	617322172
 2013	804	Ukraine	UKR	834	Tanzania	TZA	23047507
-2013	804	Ukraine	UKR	842	United States	United States	1003792958
+2013	804	Ukraine	UKR	842	United States	USA	1003792958
 2013	804	Ukraine	UKR	84	Belize	BLZ	197097280
 2013	804	Ukraine	UKR	854	Burkina Faso	BFA	11560727
 2013	804	Ukraine	UKR	858	Uruguay	URY	190488
@@ -21990,7 +21990,7 @@
 2013	807	Macedonia	MKD	818	Egypt	EGY	873621
 2013	807	Macedonia	MKD	826	United Kingdom	GBR	80105120
 2013	807	Macedonia	MKD	834	Tanzania	TZA	3960
-2013	807	Macedonia	MKD	842	United States	United States	46125006
+2013	807	Macedonia	MKD	842	United States	USA	46125006
 2013	807	Macedonia	MKD	84	Belize	BLZ	49760
 2013	807	Macedonia	MKD	860	Uzbekistan	UZB	17714
 2013	807	Macedonia	MKD	887	Yemen	YEM	133348
@@ -22156,7 +22156,7 @@
 2013	818	Egypt	EGY	807	Macedonia	MKD	780630
 2013	818	Egypt	EGY	826	United Kingdom	GBR	897095513
 2013	818	Egypt	EGY	834	Tanzania	TZA	29121875
-2013	818	Egypt	EGY	842	United States	United States	1093734315
+2013	818	Egypt	EGY	842	United States	USA	1093734315
 2013	818	Egypt	EGY	854	Burkina Faso	BFA	8504409
 2013	818	Egypt	EGY	858	Uruguay	URY	7025425
 2013	818	Egypt	EGY	860	Uzbekistan	UZB	177892
@@ -22376,7 +22376,7 @@
 2013	826	United Kingdom	GBR	807	Macedonia	MKD	1162069931
 2013	826	United Kingdom	GBR	818	Egypt	EGY	2504501864
 2013	826	United Kingdom	GBR	834	Tanzania	TZA	470826656
-2013	826	United Kingdom	GBR	842	United States	United States	109921305600
+2013	826	United Kingdom	GBR	842	United States	USA	109921305600
 2013	826	United Kingdom	GBR	84	Belize	BLZ	23736887
 2013	826	United Kingdom	GBR	854	Burkina Faso	BFA	36053295
 2013	826	United Kingdom	GBR	858	Uruguay	URY	434483550
@@ -22540,234 +22540,234 @@
 2013	834	Tanzania	TZA	804	Ukraine	UKR	29334
 2013	834	Tanzania	TZA	818	Egypt	EGY	3313660
 2013	834	Tanzania	TZA	826	United Kingdom	GBR	114508898
-2013	834	Tanzania	TZA	842	United States	United States	125738844
+2013	834	Tanzania	TZA	842	United States	USA	125738844
 2013	834	Tanzania	TZA	84	Belize	BLZ	12653
 2013	834	Tanzania	TZA	854	Burkina Faso	BFA	15036702
 2013	834	Tanzania	TZA	887	Yemen	YEM	473158
 2013	834	Tanzania	TZA	894	Zambia	ZMB	188598738
 2013	834	Tanzania	TZA	8	Albania	ALB	15932
 2013	834	Tanzania	TZA	90	Solomon Islands	SLB	569892
-2013	842	United States	United States	100	Bulgaria	BGR	324231391
-2013	842	United States	United States	104	Burma	MMR	151010551
-2013	842	United States	United States	108	Burundi	BDI	17361444
-2013	842	United States	United States	112	Belarus	BLR	98567036
-2013	842	United States	United States	116	Cambodia	KHM	250045741
-2013	842	United States	United States	120	Cameroon	CMR	343783161
-2013	842	United States	United States	124	Canada	CAN	309405662164
-2013	842	United States	United States	12	Algeria	DZA	1892547099
-2013	842	United States	United States	132	Cabo Verde	CPV	9475468
-2013	842	United States	United States	136	Cayman Islands	CYM	707067596
-2013	842	United States	United States	140	Central African Republic	CAF	4256623
-2013	842	United States	United States	144	Sri Lanka	LKA	325254703
-2013	842	United States	United States	148	Chad	TCD	42407008
-2013	842	United States	United States	152	Chile	CHL	18241497143
-2013	842	United States	United States	156	China	CHN	125976048576
-2013	842	United States	United States	162	Christmas Islands	CXR	692187
-2013	842	United States	United States	166	Cocos Islands	CCK	22997182
-2013	842	United States	United States	170	Colombia	COL	19301232197
-2013	842	United States	United States	174	Comoros	COM	3668199
-2013	842	United States	United States	178	Congo, Republic of the	COG	233647411
-2013	842	United States	United States	180	Congo, Democratic Republic of the	COD	175719755
-2013	842	United States	United States	184	Cook Islands	COK	5051019
-2013	842	United States	United States	188	Costa Rica	CRI	7493502261
-2013	842	United States	United States	191	Croatia	HRV	319956504
-2013	842	United States	United States	192	Cuba	CUB	371597590
-2013	842	United States	United States	196	Cyprus	CYP	148536234
-2013	842	United States	United States	203	Czech Republic	CZE	2016633072
-2013	842	United States	United States	204	Benin	BEN	630113387
-2013	842	United States	United States	208	Denmark	DNK	2314665802
-2013	842	United States	United States	20	Andorra	AND	5755649
-2013	842	United States	United States	212	Dominica	DMA	80582057
-2013	842	United States	United States	214	Dominican Republic	DOM	7464496263
-2013	842	United States	United States	218	Ecuador	ECU	7586488552
-2013	842	United States	United States	222	El Salvador	SLV	3273467434
-2013	842	United States	United States	226	Equatorial Guinea	GNQ	783896602
-2013	842	United States	United States	231	Ethiopia	ETH	703416480
-2013	842	United States	United States	232	Eritrea	ERI	11522562
-2013	842	United States	United States	233	Estonia	EST	304404612
-2013	842	United States	United States	234	Faroe Islands	FRO	2545211
-2013	842	United States	United States	238	Falkland Islands (Malvinas)	FLK	1287865
-2013	842	United States	United States	242	Fiji	FJI	69428866
-2013	842	United States	United States	246	Finland	FIN	2444529353
-2013	842	United States	United States	24	Angola	AGO	1504295837
-2013	842	United States	United States	251	France	FRA	35354130220
-2013	842	United States	United States	258	French Polynesia	PYF	130857428
-2013	842	United States	United States	260	Fr. South Antarctic Terr.	ATF	1814944
-2013	842	United States	United States	262	Djibouti	DJI	175984156
-2013	842	United States	United States	266	Gabon	GAB	245632908
-2013	842	United States	United States	268	Georgia	GEO	621539449
-2013	842	United States	United States	270	Gambia, The	GMB	36722533
-2013	842	United States	United States	275	West Bank	PSE	994708
-2013	842	United States	United States	276	Germany	DEU	48180861866
-2013	842	United States	United States	288	Ghana	GHA	1107350765
-2013	842	United States	United States	28	Antigua and Barbuda	ATG	150443094
-2013	842	United States	United States	292	Gibraltar	GIB	4130000157
-2013	842	United States	United States	296	Kiribati	KIR	7239081
-2013	842	United States	United States	300	Greece	GRC	764482571
-2013	842	United States	United States	304	Greenland	GRL	20793541
-2013	842	United States	United States	308	Grenada	GRD	98876591
-2013	842	United States	United States	31	Azerbaijan	AZE	392496344
-2013	842	United States	United States	320	Guatemala	GTM	5727431300
-2013	842	United States	United States	324	Guinea	GIN	82501178
-2013	842	United States	United States	328	Guyana	GUY	329661785
-2013	842	United States	United States	32	Argentina	ARG	10581801376
-2013	842	United States	United States	332	Haiti	HTI	1279421371
-2013	842	United States	United States	334	Heard Island and McDonald Islands	HMD	523104
-2013	842	United States	United States	336	Holy See (Vatican City State)	VAT	2555888
-2013	842	United States	United States	340	Honduras	HND	5474895766
-2013	842	United States	United States	344	Hong Kong	HKG	33645063303
-2013	842	United States	United States	348	Hungary	HUN	1797965189
-2013	842	United States	United States	352	Iceland	ISL	533791221
-2013	842	United States	United States	360	Indonesia	IDN	9427886808
-2013	842	United States	United States	364	Iran	IRN	324951220
-2013	842	United States	United States	368	Iraq	IRQ	2102144343
-2013	842	United States	United States	36	Australia	AUS	26750269825
-2013	842	United States	United States	372	Ireland	IRL	6868853336
-2013	842	United States	United States	376	Israel	ISR	14249554388
-2013	842	United States	United States	381	Italy	ITA	17065799926
-2013	842	United States	United States	384	Cote d'Ivoire	CIV	174740739
-2013	842	United States	United States	388	Jamaica	JAM	2063842688
-2013	842	United States	United States	392	Japan	JPN	67532673638
-2013	842	United States	United States	398	Kazakhstan	KAZ	1136584760
-2013	842	United States	United States	400	Jordan	JOR	2165139281
-2013	842	United States	United States	404	Kenya	KEN	675740381
-2013	842	United States	United States	408	Dem. People's Korea, South	PRK	6828706
-2013	842	United States	United States	40	Austria	AUT	3654626374
-2013	842	United States	United States	410	Korea, South	KOR	43085841365
-2013	842	United States	United States	414	Kuwait	KWT	2690412116
-2013	842	United States	United States	417	Kyrgyzstan	KGZ	110036852
-2013	842	United States	United States	418	Lao People's Dem. Rep.	LAO	24871898
-2013	842	United States	United States	422	Lebanon	LBN	1071184489
-2013	842	United States	United States	426	Lesotho	LSO	667574
-2013	842	United States	United States	428	Latvia	LVA	513872321
-2013	842	United States	United States	430	Liberia	LBR	179698199
-2013	842	United States	United States	434	Libya	LBY	842699277
-2013	842	United States	United States	440	Lithuania	LTU	887417522
-2013	842	United States	United States	442	Luxembourg	LUX	1929908508
-2013	842	United States	United States	446	Macau	MAC	364169237
-2013	842	United States	United States	44	Bahamas, The	BHS	3864553210
-2013	842	United States	United States	450	Madagascar	MDG	66464878
-2013	842	United States	United States	454	Malawi	MWI	56229868
-2013	842	United States	United States	458	Malaysia	MYS	13453868295
-2013	842	United States	United States	462	Maldives	MDV	29827655
-2013	842	United States	United States	466	Mali	MLI	51780918
-2013	842	United States	United States	470	Malta	MLT	556453820
-2013	842	United States	United States	478	Mauritania	MRT	254398483
-2013	842	United States	United States	480	Mauritius	MUS	43606516
-2013	842	United States	United States	484	Mexico	MEX	234525431878
-2013	842	United States	United States	48	Bahrain	BHR	1055968262
-2013	842	United States	United States	496	Mongolia	MNG	292889423
-2013	842	United States	United States	498	Moldova	MDA	47363319
-2013	842	United States	United States	499	Montenegro	MNE	22233921
-2013	842	United States	United States	4	Afghanistan	AFG	1463030593
-2013	842	United States	United States	500	Montserrat	MSR	8934488
-2013	842	United States	United States	504	Morocco	MAR	2390872912
-2013	842	United States	United States	508	Mozambique	MOZ	317831627
-2013	842	United States	United States	50	Bangladesh	BGD	738537565
-2013	842	United States	United States	512	Oman	OMN	1492176909
-2013	842	United States	United States	516	Namibia	NAM	214365830
-2013	842	United States	United States	51	Armenia	ARM	96385727
-2013	842	United States	United States	520	Nauru	NRU	786920
-2013	842	United States	United States	524	Nepal	NPL	33927556
-2013	842	United States	United States	528	Netherlands	NLD	44244540718
-2013	842	United States	United States	52	Barbados	BRB	469104648
-2013	842	United States	United States	531	Curaçao	CUW	684614618
-2013	842	United States	United States	533	Aruba	ABW	1019034335
-2013	842	United States	United States	534	Saint Maarten	SXM	861679182
-2013	842	United States	United States	540	New Caledonia	NCL	75599847
-2013	842	United States	United States	548	Vanuatu	VUT	35732612
-2013	842	United States	United States	554	New Zealand	NZL	3336722511
-2013	842	United States	United States	558	Nicaragua	NIC	1096603713
-2013	842	United States	United States	562	Niger	NER	47892900
-2013	842	United States	United States	566	Nigeria	NGA	6716343480
-2013	842	United States	United States	56	Belgium	BEL	32902653361
-2013	842	United States	United States	570	Niue	NIU	258367
-2013	842	United States	United States	574	Norfolk Islands	NFK	1795614
-2013	842	United States	United States	579	Norway	NOR	4656813202
-2013	842	United States	United States	583	FS Micronesia	FSM	43360605
-2013	842	United States	United States	584	Marshall Islands	MHL	67947378
-2013	842	United States	United States	585	Palau	PLW	18679345
-2013	842	United States	United States	586	Pakistan	PAK	1679672324
-2013	842	United States	United States	591	Panama	PAN	11176787248
-2013	842	United States	United States	598	Papua New Guinea	PNG	174999586
-2013	842	United States	United States	600	Paraguay	PRY	1991459150
-2013	842	United States	United States	604	Peru	PER	10430313119
-2013	842	United States	United States	608	Philippines	PHL	8712781768
-2013	842	United States	United States	60	Bermuda	BMU	554540979
-2013	842	United States	United States	616	Poland	POL	4041089705
-2013	842	United States	United States	620	Portugal	PRT	866485608
-2013	842	United States	United States	624	Guinea-Bissau	GNB	6667607
-2013	842	United States	United States	626	Timor-Leste	TLS	1416119
-2013	842	United States	United States	634	Qatar	QAT	5143232328
-2013	842	United States	United States	642	Romania	ROU	774930632
-2013	842	United States	United States	643	Russia	RUS	11580998798
-2013	842	United States	United States	646	Rwanda	RWA	26136190
-2013	842	United States	United States	64	Bhutan	BTN	2438988
-2013	842	United States	United States	654	Saint Helena	SHN	2973881
-2013	842	United States	United States	659	Saint Kitts and Nevis	KNA	148225173
-2013	842	United States	United States	660	Anguilla	AIA	32191731
-2013	842	United States	United States	662	Saint Lucia	LCA	687688467
-2013	842	United States	United States	666	Saint Pierre and Miquelon	SPM	271401
-2013	842	United States	United States	670	Saint Vincent and the Grenadines	VCT	96715969
-2013	842	United States	United States	674	San Marino	SMR	1873765
-2013	842	United States	United States	678	Sao Tome and Principe	STP	2072683
-2013	842	United States	United States	682	Saudi Arabia	SAU	19696895310
-2013	842	United States	United States	686	Senegal	SEN	239037257
-2013	842	United States	United States	688	Serbia	SRB	162287821
-2013	842	United States	United States	68	Bolivia	BOL	967190890
-2013	842	United States	United States	690	Seychelles	SYC	12645264
-2013	842	United States	United States	694	Sierra Leone	SLE	85587521
-2013	842	United States	United States	699	India	IND	21115406925
-2013	842	United States	United States	702	Singapore	SGP	31670629340
-2013	842	United States	United States	703	Slovakia	SVK	305145284
-2013	842	United States	United States	704	Vietnam	VNM	5196526610
-2013	842	United States	United States	705	Slovenia	SVN	283466771
-2013	842	United States	United States	706	Somalia	SOM	15607804
-2013	842	United States	United States	70	Bosnia and Herzegovina	BIH	39884931
-2013	842	United States	United States	710	South Africa	ZAF	6542597320
-2013	842	United States	United States	716	Zimbabwe	ZWE	62506874
-2013	842	United States	United States	724	Spain	ESP	10618264936
-2013	842	United States	United States	728	South Sudan	SSD	24200823
-2013	842	United States	United States	729	Sudan	SDN	91405061
-2013	842	United States	United States	72	Botswana	BWA	85129970
-2013	842	United States	United States	732	Western Sahara	ESH	161905
-2013	842	United States	United States	740	Suriname	SUR	465808250
-2013	842	United States	United States	748	Swaziland	SWZ	23788035
-2013	842	United States	United States	752	Sweden	SWE	4471048582
-2013	842	United States	United States	757	Switzerland	CHE	14714075537
-2013	842	United States	United States	760	Syria	SYR	22430672
-2013	842	United States	United States	762	Tajikistan	TJK	54568879
-2013	842	United States	United States	764	Thailand	THA	10966532969
-2013	842	United States	United States	768	Togo	TGO	991868112
-2013	842	United States	United States	76	Brazil	BRA	45762631510
-2013	842	United States	United States	772	Tokelau	TKL	373161
-2013	842	United States	United States	776	Tonga	TON	19974639
-2013	842	United States	United States	780	Trinidad and Tobago	TTO	2493966105
-2013	842	United States	United States	784	United Arab Emirates	ARE	23912886353
-2013	842	United States	United States	788	Tunisia	TUN	847789882
-2013	842	United States	United States	792	Turkey	TUR	12474482561
-2013	842	United States	United States	795	Turkmenistan	TKM	270514301
-2013	842	United States	United States	796	Turks and Caicos Islands	TCA	234183511
-2013	842	United States	United States	798	Tuvalu	TUV	581187
-2013	842	United States	United States	800	Uganda	UGA	129800948
-2013	842	United States	United States	804	Ukraine	UKR	1995775362
-2013	842	United States	United States	807	Macedonia	MKD	58715583
-2013	842	United States	United States	818	Egypt	EGY	5413181077
-2013	842	United States	United States	826	United Kingdom	GBR	47368269902
-2013	842	United States	United States	834	Tanzania	TZA	435881756
-2013	842	United States	United States	84	Belize	BLZ	250023147
-2013	842	United States	United States	854	Burkina Faso	BFA	80382342
-2013	842	United States	United States	858	Uruguay	URY	1822740918
-2013	842	United States	United States	860	Uzbekistan	UZB	332937714
-2013	842	United States	United States	862	Venezuela	VEN	13713953854
-2013	842	United States	United States	86	Br. Indian Ocean Terr.	IOT	790523
-2013	842	United States	United States	876	Wallis and Futuna Islands	WLF	661348
-2013	842	United States	United States	882	Samoa	WSM	29319126
-2013	842	United States	United States	887	Yemen	YEM	535153659
-2013	842	United States	United States	894	Zambia	ZMB	146591225
-2013	842	United States	United States	8	Albania	ALB	77175717
-2013	842	United States	United States	90	Solomon Islands	SLB	9261996
-2013	842	United States	United States	92	Br. Virgin Islands	VGB	324447148
+2013	842	United States	USA	100	Bulgaria	BGR	324231391
+2013	842	United States	USA	104	Burma	MMR	151010551
+2013	842	United States	USA	108	Burundi	BDI	17361444
+2013	842	United States	USA	112	Belarus	BLR	98567036
+2013	842	United States	USA	116	Cambodia	KHM	250045741
+2013	842	United States	USA	120	Cameroon	CMR	343783161
+2013	842	United States	USA	124	Canada	CAN	309405662164
+2013	842	United States	USA	12	Algeria	DZA	1892547099
+2013	842	United States	USA	132	Cabo Verde	CPV	9475468
+2013	842	United States	USA	136	Cayman Islands	CYM	707067596
+2013	842	United States	USA	140	Central African Republic	CAF	4256623
+2013	842	United States	USA	144	Sri Lanka	LKA	325254703
+2013	842	United States	USA	148	Chad	TCD	42407008
+2013	842	United States	USA	152	Chile	CHL	18241497143
+2013	842	United States	USA	156	China	CHN	125976048576
+2013	842	United States	USA	162	Christmas Islands	CXR	692187
+2013	842	United States	USA	166	Cocos Islands	CCK	22997182
+2013	842	United States	USA	170	Colombia	COL	19301232197
+2013	842	United States	USA	174	Comoros	COM	3668199
+2013	842	United States	USA	178	Congo, Republic of the	COG	233647411
+2013	842	United States	USA	180	Congo, Democratic Republic of the	COD	175719755
+2013	842	United States	USA	184	Cook Islands	COK	5051019
+2013	842	United States	USA	188	Costa Rica	CRI	7493502261
+2013	842	United States	USA	191	Croatia	HRV	319956504
+2013	842	United States	USA	192	Cuba	CUB	371597590
+2013	842	United States	USA	196	Cyprus	CYP	148536234
+2013	842	United States	USA	203	Czech Republic	CZE	2016633072
+2013	842	United States	USA	204	Benin	BEN	630113387
+2013	842	United States	USA	208	Denmark	DNK	2314665802
+2013	842	United States	USA	20	Andorra	AND	5755649
+2013	842	United States	USA	212	Dominica	DMA	80582057
+2013	842	United States	USA	214	Dominican Republic	DOM	7464496263
+2013	842	United States	USA	218	Ecuador	ECU	7586488552
+2013	842	United States	USA	222	El Salvador	SLV	3273467434
+2013	842	United States	USA	226	Equatorial Guinea	GNQ	783896602
+2013	842	United States	USA	231	Ethiopia	ETH	703416480
+2013	842	United States	USA	232	Eritrea	ERI	11522562
+2013	842	United States	USA	233	Estonia	EST	304404612
+2013	842	United States	USA	234	Faroe Islands	FRO	2545211
+2013	842	United States	USA	238	Falkland Islands (Malvinas)	FLK	1287865
+2013	842	United States	USA	242	Fiji	FJI	69428866
+2013	842	United States	USA	246	Finland	FIN	2444529353
+2013	842	United States	USA	24	Angola	AGO	1504295837
+2013	842	United States	USA	251	France	FRA	35354130220
+2013	842	United States	USA	258	French Polynesia	PYF	130857428
+2013	842	United States	USA	260	Fr. South Antarctic Terr.	ATF	1814944
+2013	842	United States	USA	262	Djibouti	DJI	175984156
+2013	842	United States	USA	266	Gabon	GAB	245632908
+2013	842	United States	USA	268	Georgia	GEO	621539449
+2013	842	United States	USA	270	Gambia, The	GMB	36722533
+2013	842	United States	USA	275	West Bank	PSE	994708
+2013	842	United States	USA	276	Germany	DEU	48180861866
+2013	842	United States	USA	288	Ghana	GHA	1107350765
+2013	842	United States	USA	28	Antigua and Barbuda	ATG	150443094
+2013	842	United States	USA	292	Gibraltar	GIB	4130000157
+2013	842	United States	USA	296	Kiribati	KIR	7239081
+2013	842	United States	USA	300	Greece	GRC	764482571
+2013	842	United States	USA	304	Greenland	GRL	20793541
+2013	842	United States	USA	308	Grenada	GRD	98876591
+2013	842	United States	USA	31	Azerbaijan	AZE	392496344
+2013	842	United States	USA	320	Guatemala	GTM	5727431300
+2013	842	United States	USA	324	Guinea	GIN	82501178
+2013	842	United States	USA	328	Guyana	GUY	329661785
+2013	842	United States	USA	32	Argentina	ARG	10581801376
+2013	842	United States	USA	332	Haiti	HTI	1279421371
+2013	842	United States	USA	334	Heard Island and McDonald Islands	HMD	523104
+2013	842	United States	USA	336	Holy See (Vatican City State)	VAT	2555888
+2013	842	United States	USA	340	Honduras	HND	5474895766
+2013	842	United States	USA	344	Hong Kong	HKG	33645063303
+2013	842	United States	USA	348	Hungary	HUN	1797965189
+2013	842	United States	USA	352	Iceland	ISL	533791221
+2013	842	United States	USA	360	Indonesia	IDN	9427886808
+2013	842	United States	USA	364	Iran	IRN	324951220
+2013	842	United States	USA	368	Iraq	IRQ	2102144343
+2013	842	United States	USA	36	Australia	AUS	26750269825
+2013	842	United States	USA	372	Ireland	IRL	6868853336
+2013	842	United States	USA	376	Israel	ISR	14249554388
+2013	842	United States	USA	381	Italy	ITA	17065799926
+2013	842	United States	USA	384	Cote d'Ivoire	CIV	174740739
+2013	842	United States	USA	388	Jamaica	JAM	2063842688
+2013	842	United States	USA	392	Japan	JPN	67532673638
+2013	842	United States	USA	398	Kazakhstan	KAZ	1136584760
+2013	842	United States	USA	400	Jordan	JOR	2165139281
+2013	842	United States	USA	404	Kenya	KEN	675740381
+2013	842	United States	USA	408	Dem. People's Korea, South	PRK	6828706
+2013	842	United States	USA	40	Austria	AUT	3654626374
+2013	842	United States	USA	410	Korea, South	KOR	43085841365
+2013	842	United States	USA	414	Kuwait	KWT	2690412116
+2013	842	United States	USA	417	Kyrgyzstan	KGZ	110036852
+2013	842	United States	USA	418	Lao People's Dem. Rep.	LAO	24871898
+2013	842	United States	USA	422	Lebanon	LBN	1071184489
+2013	842	United States	USA	426	Lesotho	LSO	667574
+2013	842	United States	USA	428	Latvia	LVA	513872321
+2013	842	United States	USA	430	Liberia	LBR	179698199
+2013	842	United States	USA	434	Libya	LBY	842699277
+2013	842	United States	USA	440	Lithuania	LTU	887417522
+2013	842	United States	USA	442	Luxembourg	LUX	1929908508
+2013	842	United States	USA	446	Macau	MAC	364169237
+2013	842	United States	USA	44	Bahamas, The	BHS	3864553210
+2013	842	United States	USA	450	Madagascar	MDG	66464878
+2013	842	United States	USA	454	Malawi	MWI	56229868
+2013	842	United States	USA	458	Malaysia	MYS	13453868295
+2013	842	United States	USA	462	Maldives	MDV	29827655
+2013	842	United States	USA	466	Mali	MLI	51780918
+2013	842	United States	USA	470	Malta	MLT	556453820
+2013	842	United States	USA	478	Mauritania	MRT	254398483
+2013	842	United States	USA	480	Mauritius	MUS	43606516
+2013	842	United States	USA	484	Mexico	MEX	234525431878
+2013	842	United States	USA	48	Bahrain	BHR	1055968262
+2013	842	United States	USA	496	Mongolia	MNG	292889423
+2013	842	United States	USA	498	Moldova	MDA	47363319
+2013	842	United States	USA	499	Montenegro	MNE	22233921
+2013	842	United States	USA	4	Afghanistan	AFG	1463030593
+2013	842	United States	USA	500	Montserrat	MSR	8934488
+2013	842	United States	USA	504	Morocco	MAR	2390872912
+2013	842	United States	USA	508	Mozambique	MOZ	317831627
+2013	842	United States	USA	50	Bangladesh	BGD	738537565
+2013	842	United States	USA	512	Oman	OMN	1492176909
+2013	842	United States	USA	516	Namibia	NAM	214365830
+2013	842	United States	USA	51	Armenia	ARM	96385727
+2013	842	United States	USA	520	Nauru	NRU	786920
+2013	842	United States	USA	524	Nepal	NPL	33927556
+2013	842	United States	USA	528	Netherlands	NLD	44244540718
+2013	842	United States	USA	52	Barbados	BRB	469104648
+2013	842	United States	USA	531	Curaçao	CUW	684614618
+2013	842	United States	USA	533	Aruba	ABW	1019034335
+2013	842	United States	USA	534	Saint Maarten	SXM	861679182
+2013	842	United States	USA	540	New Caledonia	NCL	75599847
+2013	842	United States	USA	548	Vanuatu	VUT	35732612
+2013	842	United States	USA	554	New Zealand	NZL	3336722511
+2013	842	United States	USA	558	Nicaragua	NIC	1096603713
+2013	842	United States	USA	562	Niger	NER	47892900
+2013	842	United States	USA	566	Nigeria	NGA	6716343480
+2013	842	United States	USA	56	Belgium	BEL	32902653361
+2013	842	United States	USA	570	Niue	NIU	258367
+2013	842	United States	USA	574	Norfolk Islands	NFK	1795614
+2013	842	United States	USA	579	Norway	NOR	4656813202
+2013	842	United States	USA	583	FS Micronesia	FSM	43360605
+2013	842	United States	USA	584	Marshall Islands	MHL	67947378
+2013	842	United States	USA	585	Palau	PLW	18679345
+2013	842	United States	USA	586	Pakistan	PAK	1679672324
+2013	842	United States	USA	591	Panama	PAN	11176787248
+2013	842	United States	USA	598	Papua New Guinea	PNG	174999586
+2013	842	United States	USA	600	Paraguay	PRY	1991459150
+2013	842	United States	USA	604	Peru	PER	10430313119
+2013	842	United States	USA	608	Philippines	PHL	8712781768
+2013	842	United States	USA	60	Bermuda	BMU	554540979
+2013	842	United States	USA	616	Poland	POL	4041089705
+2013	842	United States	USA	620	Portugal	PRT	866485608
+2013	842	United States	USA	624	Guinea-Bissau	GNB	6667607
+2013	842	United States	USA	626	Timor-Leste	TLS	1416119
+2013	842	United States	USA	634	Qatar	QAT	5143232328
+2013	842	United States	USA	642	Romania	ROU	774930632
+2013	842	United States	USA	643	Russia	RUS	11580998798
+2013	842	United States	USA	646	Rwanda	RWA	26136190
+2013	842	United States	USA	64	Bhutan	BTN	2438988
+2013	842	United States	USA	654	Saint Helena	SHN	2973881
+2013	842	United States	USA	659	Saint Kitts and Nevis	KNA	148225173
+2013	842	United States	USA	660	Anguilla	AIA	32191731
+2013	842	United States	USA	662	Saint Lucia	LCA	687688467
+2013	842	United States	USA	666	Saint Pierre and Miquelon	SPM	271401
+2013	842	United States	USA	670	Saint Vincent and the Grenadines	VCT	96715969
+2013	842	United States	USA	674	San Marino	SMR	1873765
+2013	842	United States	USA	678	Sao Tome and Principe	STP	2072683
+2013	842	United States	USA	682	Saudi Arabia	SAU	19696895310
+2013	842	United States	USA	686	Senegal	SEN	239037257
+2013	842	United States	USA	688	Serbia	SRB	162287821
+2013	842	United States	USA	68	Bolivia	BOL	967190890
+2013	842	United States	USA	690	Seychelles	SYC	12645264
+2013	842	United States	USA	694	Sierra Leone	SLE	85587521
+2013	842	United States	USA	699	India	IND	21115406925
+2013	842	United States	USA	702	Singapore	SGP	31670629340
+2013	842	United States	USA	703	Slovakia	SVK	305145284
+2013	842	United States	USA	704	Vietnam	VNM	5196526610
+2013	842	United States	USA	705	Slovenia	SVN	283466771
+2013	842	United States	USA	706	Somalia	SOM	15607804
+2013	842	United States	USA	70	Bosnia and Herzegovina	BIH	39884931
+2013	842	United States	USA	710	South Africa	ZAF	6542597320
+2013	842	United States	USA	716	Zimbabwe	ZWE	62506874
+2013	842	United States	USA	724	Spain	ESP	10618264936
+2013	842	United States	USA	728	South Sudan	SSD	24200823
+2013	842	United States	USA	729	Sudan	SDN	91405061
+2013	842	United States	USA	72	Botswana	BWA	85129970
+2013	842	United States	USA	732	Western Sahara	ESH	161905
+2013	842	United States	USA	740	Suriname	SUR	465808250
+2013	842	United States	USA	748	Swaziland	SWZ	23788035
+2013	842	United States	USA	752	Sweden	SWE	4471048582
+2013	842	United States	USA	757	Switzerland	CHE	14714075537
+2013	842	United States	USA	760	Syria	SYR	22430672
+2013	842	United States	USA	762	Tajikistan	TJK	54568879
+2013	842	United States	USA	764	Thailand	THA	10966532969
+2013	842	United States	USA	768	Togo	TGO	991868112
+2013	842	United States	USA	76	Brazil	BRA	45762631510
+2013	842	United States	USA	772	Tokelau	TKL	373161
+2013	842	United States	USA	776	Tonga	TON	19974639
+2013	842	United States	USA	780	Trinidad and Tobago	TTO	2493966105
+2013	842	United States	USA	784	United Arab Emirates	ARE	23912886353
+2013	842	United States	USA	788	Tunisia	TUN	847789882
+2013	842	United States	USA	792	Turkey	TUR	12474482561
+2013	842	United States	USA	795	Turkmenistan	TKM	270514301
+2013	842	United States	USA	796	Turks and Caicos Islands	TCA	234183511
+2013	842	United States	USA	798	Tuvalu	TUV	581187
+2013	842	United States	USA	800	Uganda	UGA	129800948
+2013	842	United States	USA	804	Ukraine	UKR	1995775362
+2013	842	United States	USA	807	Macedonia	MKD	58715583
+2013	842	United States	USA	818	Egypt	EGY	5413181077
+2013	842	United States	USA	826	United Kingdom	GBR	47368269902
+2013	842	United States	USA	834	Tanzania	TZA	435881756
+2013	842	United States	USA	84	Belize	BLZ	250023147
+2013	842	United States	USA	854	Burkina Faso	BFA	80382342
+2013	842	United States	USA	858	Uruguay	URY	1822740918
+2013	842	United States	USA	860	Uzbekistan	UZB	332937714
+2013	842	United States	USA	862	Venezuela	VEN	13713953854
+2013	842	United States	USA	86	Br. Indian Ocean Terr.	IOT	790523
+2013	842	United States	USA	876	Wallis and Futuna Islands	WLF	661348
+2013	842	United States	USA	882	Samoa	WSM	29319126
+2013	842	United States	USA	887	Yemen	YEM	535153659
+2013	842	United States	USA	894	Zambia	ZMB	146591225
+2013	842	United States	USA	8	Albania	ALB	77175717
+2013	842	United States	USA	90	Solomon Islands	SLB	9261996
+2013	842	United States	USA	92	Br. Virgin Islands	VGB	324447148
 2013	84	Belize	BLZ	100	Bulgaria	BGR	289870
 2013	84	Belize	BLZ	124	Canada	CAN	2252371
 2013	84	Belize	BLZ	136	Cayman Islands	CYM	29341
@@ -22835,7 +22835,7 @@
 2013	84	Belize	BLZ	796	Turks and Caicos Islands	TCA	467
 2013	84	Belize	BLZ	826	United Kingdom	GBR	133170082
 2013	84	Belize	BLZ	834	Tanzania	TZA	111405
-2013	84	Belize	BLZ	842	United States	United States	248331565
+2013	84	Belize	BLZ	842	United States	USA	248331565
 2013	84	Belize	BLZ	862	Venezuela	VEN	14977
 2013	84	Belize	BLZ	92	Br. Virgin Islands	VGB	13881
 2013	854	Burkina Faso	BFA	108	Burundi	BDI	4618
@@ -22922,7 +22922,7 @@
 2013	854	Burkina Faso	BFA	818	Egypt	EGY	13450241
 2013	854	Burkina Faso	BFA	826	United Kingdom	GBR	22485839
 2013	854	Burkina Faso	BFA	834	Tanzania	TZA	290750
-2013	854	Burkina Faso	BFA	842	United States	United States	11602809
+2013	854	Burkina Faso	BFA	842	United States	USA	11602809
 2013	854	Burkina Faso	BFA	858	Uruguay	URY	139999
 2013	854	Burkina Faso	BFA	894	Zambia	ZMB	13346
 2013	858	Uruguay	URY	100	Bulgaria	BGR	10944242
@@ -23077,7 +23077,7 @@
 2013	858	Uruguay	URY	807	Macedonia	MKD	84406
 2013	858	Uruguay	URY	818	Egypt	EGY	117634448
 2013	858	Uruguay	URY	826	United Kingdom	GBR	121119437
-2013	858	Uruguay	URY	842	United States	United States	496099610
+2013	858	Uruguay	URY	842	United States	USA	496099610
 2013	858	Uruguay	URY	84	Belize	BLZ	1259435
 2013	858	Uruguay	URY	860	Uzbekistan	UZB	209858
 2013	858	Uruguay	URY	862	Venezuela	VEN	624801434
@@ -23117,7 +23117,7 @@
 2013	882	Samoa	WSM	776	Tonga	TON	19768
 2013	882	Samoa	WSM	798	Tuvalu	TUV	208
 2013	882	Samoa	WSM	826	United Kingdom	GBR	50851
-2013	882	Samoa	WSM	842	United States	United States	347974
+2013	882	Samoa	WSM	842	United States	USA	347974
 2013	882	Samoa	WSM	90	Solomon Islands	SLB	12580
 2013	887	Yemen	YEM	104	Burma	MMR	928889
 2013	887	Yemen	YEM	120	Cameroon	CMR	556468
@@ -23212,7 +23212,7 @@
 2013	887	Yemen	YEM	818	Egypt	EGY	39625140
 2013	887	Yemen	YEM	826	United Kingdom	GBR	5354115
 2013	887	Yemen	YEM	834	Tanzania	TZA	3878647
-2013	887	Yemen	YEM	842	United States	United States	54965389
+2013	887	Yemen	YEM	842	United States	USA	54965389
 2013	887	Yemen	YEM	858	Uruguay	URY	97014342
 2013	887	Yemen	YEM	894	Zambia	ZMB	30674
 2013	894	Zambia	ZMB	100	Bulgaria	BGR	481457
@@ -23336,7 +23336,7 @@
 2013	894	Zambia	ZMB	818	Egypt	EGY	66747
 2013	894	Zambia	ZMB	826	United Kingdom	GBR	122304869
 2013	894	Zambia	ZMB	834	Tanzania	TZA	64188754
-2013	894	Zambia	ZMB	842	United States	United States	10708367
+2013	894	Zambia	ZMB	842	United States	USA	10708367
 2013	894	Zambia	ZMB	862	Venezuela	VEN	590
 2013	894	Zambia	ZMB	90	Solomon Islands	SLB	474867
 2013	8	Albania	ALB	100	Bulgaria	BGR	21893272
@@ -23437,7 +23437,7 @@
 2013	8	Albania	ALB	807	Macedonia	MKD	41474626
 2013	8	Albania	ALB	818	Egypt	EGY	2197864
 2013	8	Albania	ALB	826	United Kingdom	GBR	13678630
-2013	8	Albania	ALB	842	United States	United States	10643819
+2013	8	Albania	ALB	842	United States	USA	10643819
 2013	8	Albania	ALB	84	Belize	BLZ	16086
 2013	8	Albania	ALB	887	Yemen	YEM	102768
 2013	90	Solomon Islands	SLB	116	Cambodia	KHM	35458
@@ -23484,6 +23484,6 @@
 2013	90	Solomon Islands	SLB	776	Tonga	TON	687
 2013	90	Solomon Islands	SLB	792	Turkey	TUR	23218
 2013	90	Solomon Islands	SLB	826	United Kingdom	GBR	30896614
-2013	90	Solomon Islands	SLB	842	United States	United States	9718550
+2013	90	Solomon Islands	SLB	842	United States	USA	9718550
 2013	90	Solomon Islands	SLB	876	Wallis and Futuna Islands	WLF	7958
 2013	90	Solomon Islands	SLB	882	Samoa	WSM	80062
