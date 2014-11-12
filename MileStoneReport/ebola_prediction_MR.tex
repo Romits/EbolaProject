@@ -460,28 +460,52 @@ more effectively based on population density and geographical information.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Project Proposal}
+\section{Project Progress}
 \label{sec:ProjectProposal}
 
-\subsection{Data set}
+\subsection*{\textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}}
 
-The data set we plan to use \citep{cmriversdata} is an aggregation of Ebola outbreak data
-from multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone
-Ministry of Health. The data set consists of time series totals for suspected infected, confirmed
-infected, and dead on an almost-daily basis across several countries, and counties within countries.
-To model a world-wide contact network, we will be using information from additional sources, such
-as the CIA factbook or World Trade Organization (WTO) economic trade data between countries.
+In first phase of the project, to calculate the basic reproduction number of the current Ebola epidemic spread at different countries, we performed model fitting on the data we gathered from \cite{cmriversdata}. We considered the SEIR model described in \cite{chowell2004basic}. The SEIR model under consideration is a non-linear model with six parameters. The current Ebola epidemic is still spreading and depending on the preventative measures  taken, the underlying dynamics of the spread can change drastically anytime. We fitted our model to three countries in the West Africa - Guinea, Sierra Leon and Liberia. In addition, we performed model fitting for the West Africa Region by adding up the data from these three countries. Given the limited number of data available, instead of fitting all six parameters to the model, we decided to fix some of the parameters based on the studies on previous Ebola epidemic. In \cite{chowell2004basic}, the incubation time of the Ebola $1/k$ is found to be varying between 1 to 21 days, with a mean time of 6.3 days for previous Ebola spread. For ease of data fitting, we set this parameter value to the mean value of 6.3 days. We note that, the dynamics of the current epidemic may differ from previous one, and therefore fixing a value based on the prior estimate may lead to some inaccuracy. To model the effect the intervention on the spread of the epidemic, a modified transmission rate $\beta_1$ is generally used instead of the initial transmission rate $\beta_0$ at later stage of the epidemic. The transition of $\beta_0$ to $\beta_1$ depends on intervention time $\tau$ and decaying factor $q$. The choice of intervention time is a very difficult problem. To this end, we looked into different sources like Wikipedia, WHO and CDC website to learn more about the timeline of the spread. In Guinea, a 2-year-old boy fell in December 2, 2013, later diagnosed as Ebola patient. We consider this incidence as the index case for Guinea and set $t_0$ to December 2. In March 2, the Government of Guinea informed WHO regarding the possibility of Ebola epidemic and declared national heath emergency. We considered this date as the intervention date and set $\tau$ to 110. In Sierra Leon, one person fell in April 2014. In June 12, 2014 the country declared emergency and closed borders with neighboring Guinea and Liberia. We consider the first date as $t_0$ and second date as intervention time, therefore set $\tau$ to 50. In Liberia, in March 31, 2014, there were official confirmation of two person getting infected from Ebola. We set this date to $t_0$ and set $I_0$ and $C_0$ in our model as 2. The Government of Liberia shut down all schools in July 30, 2014. We consider this date as the date of intervention and set $\tau$ to 120.
+
+In order to fit the non-linear SEIR model to data, we used non-linear least square estimation. We use the reported data $(t_i, c_i)$ for $i=1,2,\ldots,n$ where $t_i$ denote the $i-th$ reporting time and $c_i$ as the cumulative number of infectious cases from the beginning of outbreak time $t_0$ to time $t_i$. The optimization problem contains a large number of local minimas. Therefore, the choice of initial parameter estimate is an important consideration to get the global optimum solution. In order to find a good initial choice of the parameters as an input to the non-linear least square solver, we first perform a Latin hypercube sampling on the  4-dimensional parameter space.  We grid up the hypercube with a number of grid points in each dimension.  We then choose the sample that minimizes the least square error as the initial input. In order to calculate the 95\% confidence interval of estimated parameter, we performed bootstrapping based on residual error.
+
+\begin{figure}[ht]
+\centering
+\subfigure[Guinea]{
+  \includegraphics[width=0.47\textwidth]{Guinea.pdf}
+  \label{fig:subfigure1}}
+\quad
+\subfigure[Sierra Leon]{
+  \includegraphics[width=0.47\textwidth]{SierraLeon.pdf}
+  \label{fig:subfigure2}}
+\subfigure[Liberia]{
+  \includegraphics[width=0.47\textwidth]{Liberia.pdf}
+  \label{fig:subfigure3}}
+\quad
+\subfigure[West Africa]{
+  \includegraphics[width=0.47\textwidth]{WestAfrica.pdf}
+  \label{fig:subfigure4}}
+
+\caption{SEIR model fit results for 2014 Ebola epidemic data}
+\label{Fig:figurePrediction}
+\end{figure}
+
+
+The estimated parameters for the SEIR model of Guinea, Sierra Leon, Liberia, as well as West Africa region is presented in Table \ref{Table:parameter}. In Figure \ref{Fig:figurePrediction}, we presented the the number of incidence at different compartments of the SEIR model, as well as the cumulative number of infectious cases over time. Our model fit was based on the last data we collected in October 21, 2014. As of today, November 11, 2014, few additional data points are available; we also plotted those data points in the graph. In addition to that, we extrapolated the graph up to December 31, 2014. We note that, the forecasting to future cases may not be appropriate as the underlying factors of the Epidemic are changing rapidly with the increase in safety measures. We observe that, the prediction of the model to the cases up to November 11 is mostly in par with the observed data for Guinea and Sierra Leon. We note that, for Guinea epidemic, we have data for the longest range of days as the initial case was in December 2. The estimated model, therefore, captures most of the dynamics of the spread in Guinea in contrast to the other cases. In case of Liberia, our prediction under-estimated the observed data. Our guess is the estimated parameters for Libera may be overfitting the model. While performing some exploratory analysis on the Liberia data, we observed some discrepancies, e.g. decrease in cumulative value from the previous data points, which may somewhat distorted the model fitting parameters. For the West Africa region plot, our prediction number is much higher that the actual data. This is understandable, as the underlying assumption behind SEIR model is random mixing.  Within a country without any movement restriction, this model is some what appropriate. However, for the aggregated model among multiple countries, this assumption is no longer valid due to stricter movement regulations between country borders. Therefore a model with random mixing assumption will over predict the infectious number of cases.
 
 
 
-\subsection{Project Progress}
-\begin{enumerate}
 
-\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
-\end{enumerate}
+\bibliographystyle{plainnat}
+\bibliography{bib_ref}
 
-\begin{table*}
-\hrule
+\begin{appendix}
+
+
+\begin{table*}[h]
+\label{Table:parameter}
+\caption{Parameter estimation for Ebola SEIR model} 
+%\hrule
 \centering
 \tiny
 \parbox{.55\linewidth}{\centering
@@ -551,8 +575,6 @@ June 12, 2014 &  & Country declared emergency\\
 }
 %\bottomrule
 \end{table*}
-
-
 %%%%%%%%%%%%
 \begin{table*}
 \centering
@@ -624,104 +646,276 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 \end{tabular}
 }
 %\bottomrule
-\hrule
+%\hrule
 \end{table*}
 
 %%%%%%%%%%%%
 
-
-
-\begin{enumerate}
-
-\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
-  In the first phase of the project, we are planning to use the SEIR model proposed in
-  \citep{chowell2004basic} as a baseline model, and estimate the model parameters $\beta_0, \beta_1,
-  k, q, \gamma$  and basic reproduction number $R_0$ to fit the data obtained from current Ebola
-  outbreak. Once the parameters are obtained, we are planning to use these parameters to perform
-  prediction of the epidemic assuming a fully mixed model. To benchmark our prediction, we are
-  planning to use the prediction performed by the CDC \citep{meltzer2014estimating}. We are
-  interested in observing how different parameters in the model affect the spread of the disease. To
-  this end, we are planning to vary critical parameter values, such as mean incubation period and
-  transmission rate, in order to observe their effects on disease growth.
-  
-  
-  As an extension to the above approach to find more accurate parameters for the compartmental  model described above we 
-  ran a simulation using mcmc approach and time series data for the various infected regions.  Initial values and the range of the parameters
-  were based on the existing literature . The simulation is currently running and we expect better values for the parameters of the model based on the data
-  for the current outbreak.
-  
-  
-
-\item \textbf{From random mixing model to contact network:} \citep{newman2002spread,
-  meyers2005network} extended the basic SIR model to network analysis. Whether this model is readily
-  applicable to the modified (SEIR, SEIHFR) compartmental models used previously in Ebola research
-  \citep{chowell2004basic, legrand2007understanding} is not immediately clear. In the second phase of
-  our project, we will model contact networks using the basic reproductive number and other
-  parameters obtained in phase 1. We will then estimate the propagation of disease on generated
-  contact networks by assuming an initial number of infected nodes. Since in a contact network based
-  model each node can propagate the disease to only its immediate neighbors, the spread of disease
-  will be different than our first phase of analysis.
-
-  We have county-level data points for Liberia and are planning to use that granularity in different ways.
-  One approach is to model individuals as nodes in a small-world network, and
-  since the individuals within a particular county are more likely to have contact with each other,
-  we may use a different probability of adding long-range links within a county than between counties.
-  The number of edges between different counties can be dependent on features taken from public data
-  such as the underlying transportation networks, distance between counties,
-  or amount of trade between the regions.
-  Within each county, we also plan to simulate disease-spread behavior using different types of
-  generated contact networks, including random graphs, small world networks, and scale-free
-  networks.
-
-  The growth curve of the Ebola virus has been very different in different countries \citep{cmriversdata}.
-  When using a compartmental model for analysis, we will use different values of $R_0$ to fit these
-  trends.
-  When modeling as a contact network, we can start by calculating a single value of transmissibility
-  $T$ and model contact networks for Liberia or Guinea differently using different average degrees of
-  nodes.
-  We can also try using different types of network models for different places
-  and observe the effect of these different assumptions on the spread of the disease.
-
-\item \textbf{Possibility of Ebola becoming a world-wide epidemic:} In \citep{gomes2014assessing},
-  the authors use airport network data to predict the spread of Ebola to different parts of the
-  world. In the third phase of our project, we plan to use a similar approach to predict the
-  spread of the epidemic over a wider region of the world. To this end, we will make use of
-  estimated parameters and insight gained from phases 1 and 2 of our project.
-  We will evaluate our predictions by predicting current numbers based on prior data points.
-  In order for the disease to
-  spread, we need to consider the underlying contact networks between different regions of the
-  world. In order to model such a contact network, we can make use of public data such
-  as transportation networks, trade routes, and levels of trade between countries and regions.
-  Since some traditional river-based funeral practices may increase the chance of spreading
-  the disease, we can also make use of river flow data.
-
-
-\end{enumerate}
-
-
-\begin{figure}[ht]
-\centering
-\subfigure[Guinea]{
-  \includegraphics[width=0.47\textwidth]{Guinea.pdf}
-  \label{fig:subfigure1}}
-\quad
-\subfigure[Sierra Leon]{
-  \includegraphics[width=0.47\textwidth]{SierraLeon.pdf}
-  \label{fig:subfigure2}}
-\subfigure[Liberia]{
-  \includegraphics[width=0.47\textwidth]{Liberia.pdf}
-  \label{fig:subfigure3}}
-\quad
-\subfigure[West Africa]{
-  \includegraphics[width=0.47\textwidth]{WestAfrica.pdf}
-  \label{fig:subfigure4}}
-
-\caption{Main figure caption}
-\label{fig:figure}
-\end{figure}
-
-\bibliographystyle{plainnat}
-\bibliography{bib_ref}
-
+\end{appendix}
 
 \end{document}
+
+
+%
+%\subsection{Data set}
+%
+%The data set we plan to use \citep{cmriversdata} is an aggregation of Ebola outbreak data
+%from multiple sources, including the WHO, the Liberia Ministry of Health, and the Sierra Leone
+%Ministry of Health. The data set consists of time series totals for suspected infected, confirmed
+%infected, and dead on an almost-daily basis across several countries, and counties within countries.
+%To model a world-wide contact network, we will be using information from additional sources, such
+%as the CIA factbook or World Trade Organization (WTO) economic trade data between countries.
+%
+%
+%
+%\subsection{Project Progress}
+%\begin{enumerate}
+%
+%\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
+%\end{enumerate}
+%
+%\begin{table*}
+%\hrule
+%\centering
+%\tiny
+%\parbox{.55\linewidth}{\centering
+%\ra{1.3}
+%\begin{tabular}{@{}crccc@{}}%\toprule
+%& \multicolumn{3}{c}{\textbf{Guinea}} &  \\
+%\cmidrule{2-4}
+%\textbf{Incidence Dependent Parameters} & \textit{Value} && \textit{Comments} \\
+%\midrule
+%Initial Case $t_0$ & December 2, 2013 &  & one person fell ill\\
+%$S_0$ & 0& & -\\
+%$E_0$ & 0& & -\\
+%$I_0$ & 1& & -\\
+%$R_0$ & 0& & -\\
+%$C_0$ & 1& &-\\
+%Intervention time & March 2, 2014 &  & Gov. of Guinea informed WHO\\
+%$\tau$ &110 & & -\\
+%\cmidrule{2-4}
+%\textbf{Estimated Parameters} & \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+%\midrule
+%Incubation Time $1/k$ &6.3 & - & based on previous works \cite{}\\
+%Infection Time $1/\gamma$ &5.4957 & [5.43, 5.545] & -\\
+%$\beta_0$ &0.2407 & [0.2374, 0.244] & -\\
+%$\beta_1$ &0.2084 & [0.2033, 0.2135] & -\\
+%$q$ &32 & [0.1, 100] & -\\
+%Fatality Rate &0.67 & - & -\\
+%$R_0$ &1.323 &[1.295, 1.341] &-\\
+%$R_1$ &1.145 & - &-\\
+%\end{tabular}
+%}
+%%\end{table*}
+%\parbox{.3\linewidth}{
+%%\begin{table*}
+%\centering
+%\ra{1.3}
+%\begin{tabular}{@{}crccc@{}}%\toprule
+%\multicolumn{3}{c}{\textbf{Sierra Leon}} &  \\
+%\cmidrule{1-3}
+%%\multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+%%\midrule
+%\textit{Value} && \textit{Comments} \\
+%\cmidrule{1-3}
+%April 23, 2014 &  & one person fell ill \cite{}\\
+%0& & -\\
+%0& & -\\
+%1& & -\\
+%0& & -\\
+%1& &-\\
+%June 12, 2014 &  & Country declared emergency\\
+%50 & & -\\
+%%\midrule
+%%\multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+%\cmidrule{1-3}
+%\textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+%\midrule
+%6.3 & - & based on previous works \cite{}\\
+%6.36 & [6.324, 6.396] & -\\
+%0.357 & [0.3525, 0.3613] & -\\
+%0.2012 & [0.1994, 0.2028] & -\\
+%34 & [1.9, 110] & -\\
+%0.38 & - & -\\
+%2.27 &[2.243, 2.298] &-\\
+%1.28 & - &-\\
+%%\bottomrule
+%\end{tabular}
+%%\caption{Caption}
+%}
+%%\bottomrule
+%\end{table*}
+%
+%
+%%%%%%%%%%%%%
+%\begin{table*}
+%\centering
+%\tiny
+%\parbox{.55\linewidth}{\centering
+%\ra{1.3}
+%\begin{tabular}{@{}crccc@{}}%\toprule
+%& \multicolumn{3}{c}{\textbf{Liberia}} &  \\
+%%\toprule
+%%& \multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+%\cmidrule{2-4}
+%\textbf{Incidenced Dependent Parameters} & \textit{Value} && \textit{Comments} \\
+%\midrule
+%Initial Case $t_0$ & March 31, 2014 &  & official confirmation two infected \cite{}\\
+%$S_0$ & 0& & -\\
+%$E_0$ & 0& & -\\
+%$I_0$ & 2& & -\\
+%$R_0$ & 0& & -\\
+%$C_0$ & 2& &-\\
+%Intervention time & July 30, 2014 &  & School shutdown\\
+%$\tau$ &120 & & -\\
+%\midrule
+%%& \multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+%%\midrule
+%\textbf{Estimated Parameters} & \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+%\midrule
+%Incubation Time $1/k$ &6.3 & - & based on previous works \cite{}\\
+%Infection Time $1/\gamma$ &10.7 & [8.9,10.7] & -\\
+%$\beta_0$ &0.169 & [0.168, 0.191] & -\\
+%$\beta_1$ &0.0001 & [0.0001, 0.1] & -\\
+%$q$ &0.0085 & [0.0072-0.0264] & -\\
+%Fatality Rate &0.67 & - & -\\
+%$R_0$ &1.808 &- &-\\
+%$R_1$ &0.001 & - &-\\
+%%\bottomrule
+%\end{tabular}
+%}
+%\parbox{.3\linewidth}{\centering
+%\ra{1.3}
+%\begin{tabular}{@{}crccc@{}}%\toprule
+%\multicolumn{3}{c}{\textbf{West Africa}} &  \\
+%\cmidrule{1-3}
+%%& \multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+%%\midrule
+% \textit{Value} && \textit{Comments} \\
+%\midrule
+%December 2, 2013 &  & one person fell ill in Guinea\\
+% 0& & -\\
+% 0& & -\\
+% 1& & -\\
+% 0& & -\\
+% 1& &-\\
+% March 2, 2014 &  & Gov. of Guinea informed WHO\\
+%110 & & -\\
+%\midrule
+%%& \multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+%%\midrule
+% \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+%\midrule
+%6.3 & - & based on previous works \cite{}\\
+%6.8 & - & -\\
+%0.2 & - & -\\
+%0 & - & -\\
+%0 & - & -\\
+% & - & -\\
+%1.36 &- &-\\
+%- & - &-\\
+%%\bottomrule
+%\end{tabular}
+%}
+%%\bottomrule
+%\hrule
+%\end{table*}
+%
+%%%%%%%%%%%%%
+%
+%
+%
+%\begin{enumerate}
+%
+%\item \textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model:}
+%  In the first phase of the project, we are planning to use the SEIR model proposed in
+%  \citep{chowell2004basic} as a baseline model, and estimate the model parameters $\beta_0, \beta_1,
+%  k, q, \gamma$  and basic reproduction number $R_0$ to fit the data obtained from current Ebola
+%  outbreak. Once the parameters are obtained, we are planning to use these parameters to perform
+%  prediction of the epidemic assuming a fully mixed model. To benchmark our prediction, we are
+%  planning to use the prediction performed by the CDC \citep{meltzer2014estimating}. We are
+%  interested in observing how different parameters in the model affect the spread of the disease. To
+%  this end, we are planning to vary critical parameter values, such as mean incubation period and
+%  transmission rate, in order to observe their effects on disease growth.
+%  
+%  
+%  As an extension to the above approach to find more accurate parameters for the compartmental  model described above we 
+%  ran a simulation using mcmc approach and time series data for the various infected regions.  Initial values and the range of the parameters
+%  were based on the existing literature . The simulation is currently running and we expect better values for the parameters of the model based on the data
+%  for the current outbreak.
+%  
+%  
+%
+%\item \textbf{From random mixing model to contact network:} \citep{newman2002spread,
+%  meyers2005network} extended the basic SIR model to network analysis. Whether this model is readily
+%  applicable to the modified (SEIR, SEIHFR) compartmental models used previously in Ebola research
+%  \citep{chowell2004basic, legrand2007understanding} is not immediately clear. In the second phase of
+%  our project, we will model contact networks using the basic reproductive number and other
+%  parameters obtained in phase 1. We will then estimate the propagation of disease on generated
+%  contact networks by assuming an initial number of infected nodes. Since in a contact network based
+%  model each node can propagate the disease to only its immediate neighbors, the spread of disease
+%  will be different than our first phase of analysis.
+%
+%  We have county-level data points for Liberia and are planning to use that granularity in different ways.
+%  One approach is to model individuals as nodes in a small-world network, and
+%  since the individuals within a particular county are more likely to have contact with each other,
+%  we may use a different probability of adding long-range links within a county than between counties.
+%  The number of edges between different counties can be dependent on features taken from public data
+%  such as the underlying transportation networks, distance between counties,
+%  or amount of trade between the regions.
+%  Within each county, we also plan to simulate disease-spread behavior using different types of
+%  generated contact networks, including random graphs, small world networks, and scale-free
+%  networks.
+%
+%  The growth curve of the Ebola virus has been very different in different countries \citep{cmriversdata}.
+%  When using a compartmental model for analysis, we will use different values of $R_0$ to fit these
+%  trends.
+%  When modeling as a contact network, we can start by calculating a single value of transmissibility
+%  $T$ and model contact networks for Liberia or Guinea differently using different average degrees of
+%  nodes.
+%  We can also try using different types of network models for different places
+%  and observe the effect of these different assumptions on the spread of the disease.
+%
+%\item \textbf{Possibility of Ebola becoming a world-wide epidemic:} In \citep{gomes2014assessing},
+%  the authors use airport network data to predict the spread of Ebola to different parts of the
+%  world. In the third phase of our project, we plan to use a similar approach to predict the
+%  spread of the epidemic over a wider region of the world. To this end, we will make use of
+%  estimated parameters and insight gained from phases 1 and 2 of our project.
+%  We will evaluate our predictions by predicting current numbers based on prior data points.
+%  In order for the disease to
+%  spread, we need to consider the underlying contact networks between different regions of the
+%  world. In order to model such a contact network, we can make use of public data such
+%  as transportation networks, trade routes, and levels of trade between countries and regions.
+%  Since some traditional river-based funeral practices may increase the chance of spreading
+%  the disease, we can also make use of river flow data.
+%
+%
+%\end{enumerate}
+%
+%
+%\begin{figure}[ht]
+%\centering
+%\subfigure[Guinea]{
+%  \includegraphics[width=0.47\textwidth]{Guinea.pdf}
+%  \label{fig:subfigure1}}
+%\quad
+%\subfigure[Sierra Leon]{
+%  \includegraphics[width=0.47\textwidth]{SierraLeon.pdf}
+%  \label{fig:subfigure2}}
+%\subfigure[Liberia]{
+%  \includegraphics[width=0.47\textwidth]{Liberia.pdf}
+%  \label{fig:subfigure3}}
+%\quad
+%\subfigure[West Africa]{
+%  \includegraphics[width=0.47\textwidth]{WestAfrica.pdf}
+%  \label{fig:subfigure4}}
+%
+%\caption{Main figure caption}
+%\label{fig:figure}
+%\end{figure}
+%
+%\bibliographystyle{plainnat}
+%\bibliography{bib_ref}
+%
+%
+%\end{document}
