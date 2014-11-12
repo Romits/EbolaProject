@@ -1,0 +1,74 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chowell et~al.(2004)Chowell, Hengartner, Castillo-Chavez, Fenimore,
+  and Hyman]{chowell2004basic}
+Gerardo Chowell, Nick~W Hengartner, Carlos Castillo-Chavez, Paul~W Fenimore,
+  and JM~Hyman.
+\newblock {The basic reproductive number of Ebola and the effects of public
+  health measures: the cases of Congo and Uganda}.
+\newblock \emph{Journal of Theoretical Biology}, 229\penalty0 (1):\penalty0
+  119--126, 2004.
+
+\bibitem[Gillespie(1976)]{gillespie1976general}
+Daniel~T Gillespie.
+\newblock {A general method for numerically simulating the stochastic time
+  evolution of coupled chemical reactions}.
+\newblock \emph{Journal of computational physics}, 22\penalty0 (4):\penalty0
+  403--434, 1976.
+
+\bibitem[Gomes et~al.(2014)Gomes, Piontti, Rossi, Chao, Longini, Halloran, and
+  Vespignani]{gomes2014assessing}
+MF~Gomes, AP~Piontti, Luca Rossi, Dennis Chao, Ira Longini, M~Elizabeth
+  Halloran, and Alessandro Vespignani.
+\newblock {Assessing the international spreading risk associated with the 2014
+  West African Ebola outbreak}.
+\newblock \emph{PLoS Currents Outbreaks}, 2014.
+
+\bibitem[Kermack and McKendrick(1932)]{very_old_paper}
+William~O Kermack and Anderson~G McKendrick.
+\newblock {Contributions to the mathematical theory of epidemics. II. The
+  problem of endemicity}.
+\newblock \emph{Proceedings of the Royal society of London. Series A},
+  138\penalty0 (834):\penalty0 55--83, 1932.
+
+\bibitem[Legrand et~al.(2007)Legrand, Grais, Boelle, Valleron, and
+  Flahault]{legrand2007understanding}
+J~Legrand, RF~Grais, PY~Boelle, AJ~Valleron, and A~Flahault.
+\newblock {Understanding the dynamics of Ebola epidemics}.
+\newblock \emph{Epidemiology and infection}, 135\penalty0 (04):\penalty0
+  610--621, 2007.
+
+\bibitem[Meltzer et~al.(2014)Meltzer, Atkins, Santibanez, Knust, Petersen,
+  Ervin, Nichol, Damon, and Washington]{meltzer2014estimating}
+Martin~I Meltzer, Charisma~Y Atkins, Scott Santibanez, Barbara Knust, Brett~W
+  Petersen, Elizabeth~D Ervin, Stuart~T Nichol, Inger~K Damon, and Michael~L
+  Washington.
+\newblock {Estimating the future number of cases in the Ebola epidemic -
+  Liberia and Sierra Leone, 2014-2015}.
+\newblock \emph{Morb Mortal Wkly Rep}, 63:\penalty0 1--14, 2014.
+
+\bibitem[Meyers et~al.(2005)Meyers, Pourbohloul, Newman, Skowronski, and
+  Brunham]{meyers2005network}
+Lauren~Ancel Meyers, Babak Pourbohloul, Mark~EJ Newman, Danuta~M Skowronski,
+  and Robert~C Brunham.
+\newblock {Network theory and SARS: predicting outbreak diversity}.
+\newblock \emph{Journal of theoretical biology}, 232\penalty0 (1):\penalty0
+  71--81, 2005.
+
+\bibitem[Newman(2002)]{newman2002spread}
+Mark~EJ Newman.
+\newblock {The spread of epidemic disease on networks}.
+\newblock \emph{Physical review E}, 66\penalty0 (1):\penalty0 016128, 2002.
+
+\bibitem[Rivers(2014)]{cmriversdata}
+Caitlin Rivers.
+\newblock {Data for the 2014 Ebola outbeak in West Africa}, 2014.
+\newblock URL \url{https://github.com/cmrivers/ebola}.
+\newblock [Online; accessed 15-October-2014].
+
+\end{thebibliography}
