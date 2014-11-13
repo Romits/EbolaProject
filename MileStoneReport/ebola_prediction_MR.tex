@@ -272,10 +272,10 @@ We are incorporating this as a local model into our worldwide simulations.
 In order to simulate how the Ebola epidemic might spread across the world, we have assembled a
 worldwide network based on international trade. Because the trade numbers are in US dollars,
 we have assumed a linear relationship between exports in dollars and travelers going abroad.
-This is a strong assumption, and we are also exploring other options.
+This is a strong assumption, and we are considering more sophisticated mappings.
 We are using this as a long-range network representing trade-based population movement and
-connecting localized subnetworks with the trade-derived edges. We are running simulations
-within this framework to predict the spread of Ebola across this worldwide network.
+connecting localized subnetworks with these trade-driven edges. We are developing a simulation
+framework to run in discrete time steps predict the spread of Ebola across this worldwide network.
 
 \subsection*{\textbf{Trade network data preparation}}
 
@@ -337,26 +337,31 @@ outbound travellers from country to country based on export numbers.
 \subsection*{\textbf{Supplementing the trade network}}
 
 Using a trade network has its flaws, even discounting errors stemming from poor approximations.
-For one, a trade ignores activity with low economic impact, such as
+For one, a trade-centric network ignores activity with low economic impact, such as
 a vegetable farmer traveling to a nearby country to sell his products at the market, or someone
 driving across the border to visit a family member. Relative to the economic impact of the industrial
 diamond or rubber trade (exports of Liberia) for example, these potentially disease-spreading behaviors
 simply are not represented equitably if at all in the model.
 
-On the other hand, economic trade data is widely accessible, and certainly it is safe to assume that
-that trade activity correlates with travel between two countries. It seems intuitive that
-such a network may be a better estimate of air travel than ground travel, however.
+On the other hand, economic trade data is widely accessible and is likely to be fairly accurate,
+and certainly it is safe to assume that that trade activity correlates with travel between two countries.
 
-Due to the above weaknesses, we plan to supplement our trade network with a generated network that
-captures local movement as well. One approach to generating such a network is the gravity law,
+Due to the above drawbacks, we plan to supplement our trade network with a generated network that
+captures local commute-related movement as well. One approach to generating such a network is the gravity law,
 noted in a survey by \cite{barthelemy2011spatial}, which claims that the number of trips from
 point A to point B is inversely proportional to the square of the distance between them.
 Such a model was used to study traffic on Korean highways in \cite{jung2008gravity}.
 
-\subsection*{\textbf{Planned simulations}}
+\subsection*{\textbf{Simulation model}}
 
-In the final phase of the project, we plan on using our worldwide network model to simulate the
-spread of Ebola and predict the spread of the disease. We will compare 
+We are currently developing a simulation framework to incorporate intra-country spreading behavior
+(using compartmental and network-based models) with inter-country links based on the above
+worldwide network models. A related approach is the GLEaM stochastic simulation model
+developed by \cite{balcan2010modeling}. Our simulation model is a stochastic, discrete time-step
+model in which each time step is one day, and for each day, each infectious individual may travel
+to another country with some probability related to the worldwide networks. Within each country,
+infectious individuals spread their disease with some probability related to the intra-country model
+being used (compartmental or network-based).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
