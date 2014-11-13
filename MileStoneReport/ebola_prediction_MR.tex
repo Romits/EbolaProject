@@ -226,7 +226,7 @@ Initial values for the various parameters were assumed as above for the prior di
 
 Due to some inherent challenges with the compartmental  models as discussed above, we are using the reproductive rate calculated using above model to simulate the spread of Ebola
 in the network. We are using the mapping between a compartmental model and a network as proposed by \citep{chowell2004basic, legrand2007understanding}.
-using the data provided  at \url http://networkdata.ics.uci.edu/data.php?id=108 to captures the permanence of many human relationships assuming the network to exist in west Africa impacted by Ebola. The undirected network  has 4846609 nodes and 42851237 edges and average degree = 17.7. It is a scale free network as the degree distribution follows power law.
+using the data provided  at \url {http://networkdata.ics.uci.edu/data.php?id=108} to captures the permanence of many human relationships assuming the network to exist in west African region impacted by Ebola. The undirected network  has 4846609 nodes and 42851237 edges and average degree = 17.7. It is a scale free network as the degree distribution follows power law.
 
 \includegraphics[width=0.80\textwidth]{degdist.png}{\centering}
 
@@ -240,7 +240,7 @@ R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
 
 We get the value of Transmissibility as 0.1210.
 
-We calculate the value of epidemic threshold $T_c$  which is defined as 
+We also calculate the value of epidemic threshold $T_c$  which is defined as 
 
 \[
 T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
@@ -249,7 +249,7 @@ T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left
 Here, $\left\langle k \right\rangle$ and $\left\langle k^2 \right\rangle$ are the mean degree and
 mean square degree of the network to be 0.0598 for the above network.  We are using these results to predict average size
 of the outbreak and to compare more directly the relationships between
-random mixing model and network model and taking into consideration that this relationship is defined between SIR model and random network.
+random mixing model and network model running a simulation. We will take into consideration that this relationship is actually defined between SIR model and random network in the paper. 
 
 
 
