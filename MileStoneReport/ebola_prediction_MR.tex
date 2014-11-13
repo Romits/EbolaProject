@@ -84,11 +84,16 @@ networks and consider approaches for predicting the extent of an Ebola outbreak.
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Introduction}
 \label{sec:Introduction}
 
 TODO: Add introduction
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Related Work}
 \label{sec:RelatedWork}
@@ -164,8 +169,14 @@ This SEIHFR compartmental model is summarized in Figure \ref{fig:SEIHFR_model}.
 \label{fig:SEIHFR_model}
 \end{figure}
 
+For our purposes, as described below, we stopped short of implementing this complicated model.
+
+\bigskip
 
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Modeling localized epidemic spread}
 \label{sec:IntraCountry}
@@ -173,6 +184,7 @@ This SEIHFR compartmental model is summarized in Figure \ref{fig:SEIHFR_model}.
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \subsection*{\textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model}}
 
@@ -210,29 +222,91 @@ Initial values for the various parameters were assumed as above for the prior di
 
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \subsection*{\textbf{Planned network-based modeling approaches}}
 
-TODO: We are looking at modeling via G(n,m) and contact networks
+TODO: We are looking at modeling via $G(n,m)$ and contact networks.
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Predicting worldwide spread}
 \label{sec:Worldwide}
 
 \subsection*{\textbf{Approach}}
-TODO: We are looking at modeling using trade data.
+In order to predict how the epidemic might spread across the world, we have assembled a
+worldwide network based on international trade. Because the trade numbers are in US dollars,
+we have assumed a linear relationship between exports in dollars and travelers going abroad.
+This is a strong assumption, and we are currently exploring options for utilizing the trade network
+in this regard.
 
-\subsection*{\textbf{Preparing data}}
+\subsection*{\textbf{Data Preparation}}
 
-TODO: Used public data from the UN and CIA...
+The trade network dataset we are using is based on data retrieved from the web service API to the
+UN Comtrade database \citep{uncomtradedata} via their web service API.
+The data queried for were country-to-country SITC-1 exports from the latest available data.
+
+Several problems with this raw dataset immediately became apparent which required working around.
+Many war-torn countries such as Liberia have not reported detailed export data
+to the UN in decades (Liberia last reported in 1984). As a result of this, the export totals
+are incorrect for the present day. In addition, this old data reports exports to countries that
+no longer exist, including East Germany and Yugoslavia. In order to make the dataset usable for
+modern-day predictions, we performed the following transformations:
+
+\begin{itemize}
+\item Manually remapped non-existent countries to their modern equivalents. \\
+      In some cases, this was easy (Germany was unified) in others, we had to do a best-effort
+      mapping (we decided to remap Yugoslavia to Slovakia simply because Slovakia has the largest
+      economy of the states formerly a part of Yugoslavia).
+\item Removal of irrelevant export data (out-edges) from countries (nodes) that no longer exist.
+\end{itemize}
+
+In order to get something as close as we believe possible to modern-day export data, we then needed
+to make the per-country exports sum up to the latest available export data. The United States
+\cite{ciatotalexports} publishes a World Factbook that contains up-to-date export totals
+for most countries in the world.
+We downloaded the above data set and, on the (admittedly strong) assumption that the export distribution
+from country-to-country in the UN Comtrade data set has remained the same between the last year a
+country has reported detailed export data and the latest totals from the CIA, we linearly renormalized
+each outgoing edge in our data set so that the total sum of exports equalled the latest CIA data.
+This also required a manual step of mapping country names in the UN data set to the names used in
+the CIA data set (due to abbreviations, alternate names such as Myanmar vs. Burma, etc).
+
+Finally, once we had a "renormalized" data set including detailed export edges and totals matching
+the latest available data, we needed to map these numbers to theoretical international travelers.
+We could not find any publicly available data on the number of international outgoing travelers per
+country (although these numbers are available for a subset of countries from disparate sources,
+such as the US department of travel). Only total air travellers are available, which includes
+domestic flights. Our current approach to do this mapping is to assume a linear relationship
+between imports to a country and international travelers to that country per year.
+
+It has currently not proven possible to find reliable data for number of outbound travelers
+per country per year, especially for Ebola-affected countries. Lacking this, we have had to
+come up with some heuristic to determine how to map dollars exported to travelers.
+One such approximation is using the United States as a model, and using the ratio of
+imports to the United States to the number of tourists visiting the United States in a year.
+Based on data from the \cite{usinboundtourists}, 69.77 million people visited the United States in 2013.
+According to our renormalized data set, total imports into the United States were
+\$$2.21$ trillion during that same period. Dividing imports by visitors, an admittedly
+simplistic measure, gives us a scaling factor of approx. $31,665$. Therefore we have applied this
+scaling factor to all edges in our network, giving us some approximation of outbound travellers
+from country to country.
 
 
 
 
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \bibliographystyle{plainnat}
 \bibliography{bib_ref}
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{appendix}
 
