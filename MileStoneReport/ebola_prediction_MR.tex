@@ -262,66 +262,86 @@ random mixing model and network model.
 \label{sec:Worldwide}
 
 \subsection*{\textbf{Approach}}
-In order to predict how the epidemic might spread across the world, we have assembled a
+In order to predict how the Ebola epidemic might spread across the world, we have assembled a
 worldwide network based on international trade. Because the trade numbers are in US dollars,
 we have assumed a linear relationship between exports in dollars and travelers going abroad.
-This is a strong assumption, and we are currently exploring options for utilizing the trade network
-in this regard.
+This is a strong assumption, and we are currently exploring various options for utilizing the
+international trade network for this purpose.
 
 \subsection*{\textbf{Data Preparation}}
 
 The trade network dataset we are using is based on data retrieved from the web service API to the
 UN Comtrade database \citep{uncomtradedata} via their web service API.
-The data queried for were country-to-country SITC-1 exports from the latest available data.
+The data queried for were country-to-country SITC-1 exports from the latest data available
+for each country.
 
 Several problems with this raw dataset immediately became apparent which required working around.
 Many war-torn countries such as Liberia have not reported detailed export data
 to the UN in decades (Liberia last reported in 1984). As a result of this, the export totals
 are incorrect for the present day. In addition, this old data reports exports to countries that
 no longer exist, including East Germany and Yugoslavia. In order to make the dataset usable for
-modern-day predictions, we performed the following transformations:
+modern-day predictions, we performed the following transformations on the data (using Perl scripts):
 
 \begin{itemize}
-\item Manually remapped non-existent countries to their modern equivalents. \\
-      In some cases, this was easy (Germany was unified) in others, we had to do a best-effort
-      mapping (we decided to remap Yugoslavia to Slovakia simply because Slovakia has the largest
-      economy of the states formerly a part of Yugoslavia).
-\item Removal of irrelevant export data (out-edges) from countries (nodes) that no longer exist.
+\item Manually remapped non-existent countries to their modern equivalents.
+      In some cases, we had to do a best-effort mapping. For example, Yugoslavia split into many
+      states, so we remapped exports to Yugoslavia be exports to modern-day Slovakia,
+      since Slovakia currently has the largest economy of the states that once comprised Yugoslavia.
+\item Removed exports from states that no longer exist, preferring export data from
+      modern equivalents.
 \end{itemize}
 
-In order to get something as close as we believe possible to modern-day export data, we then needed
-to make the per-country exports sum up to the latest available export data. The United States
-\cite{ciatotalexports} publishes a World Factbook that contains up-to-date export totals
-for most countries in the world.
-We downloaded the above data set and, on the (admittedly strong) assumption that the export distribution
+We then needed to make the per-country exports sum up to the latest available export data.
+The United States \cite{ciatotalexports} World Factbook contains up-to-date export totals
+for most countries in the world. Using the above data set, on the (admittedly strong) assumption
+that the export distribution
 from country-to-country in the UN Comtrade data set has remained the same between the last year a
 country has reported detailed export data and the latest totals from the CIA, we linearly renormalized
-each outgoing edge in our data set so that the total sum of exports equalled the latest CIA data.
-This also required a manual step of mapping country names in the UN data set to the names used in
-the CIA data set (due to abbreviations, alternate names such as Myanmar vs. Burma, etc).
+each outgoing edge in our data set so that the total sum of exports equalled the latest CIA data
+for each country.
+This required a manual step of mapping country names in the UN dataset to those used in
+the CIA dataset.
 
-Finally, once we had a "renormalized" data set including detailed export edges and totals matching
+Once we had a ``renormalized'' dataset including detailed export edges and totals matching
 the latest available data, we needed to map these numbers to theoretical international travelers.
-We could not find any publicly available data on the number of international outgoing travelers per
-country (although these numbers are available for a subset of countries from disparate sources,
-such as the US department of travel). Only total air travellers are available, which includes
-domestic flights. Our current approach to do this mapping is to assume a linear relationship
-between imports to a country and international travelers to that country per year.
+We could not find complete, or even nearly complete, publicly available data on the number of
+international outgoing travelers per country. While inbound tourism numbers are available from
+\cite{worldbankinboundtourism}, for the outbound tourism numbers from \cite{worldbankoutboundtourism},
+many countries are missing,
+especially the African nations that we care so much about from an Ebola outbreak perspective.
+Some data are available from the \cite{unwtooutboundtourism}, however they appear to be behind a paywall.
+Data for total air travellers are available from \cite{worldbankairpassengers},
+however this total includes domestic flights and so is less useful for our purposes.
 
-It has currently not proven possible to find reliable data for number of outbound travelers
-per country per year, especially for Ebola-affected countries. Lacking this, we have had to
-come up with some heuristic to determine how to map dollars exported to travelers.
-One such approximation is using the United States as a model, and using the ratio of
-imports to the United States to the number of tourists visiting the United States in a year.
+Our current approach to map outbound dollars to outbound travelers is to assume a linear relationship
+between these numbers, and also to assume that the same linear relationship holds for imports to
+inbound tourists to a country.
+We currently use the United States as a model and use the ratio of
+imports to the United States per year to the number of tourists visiting the United States per year.
 Based on data from the \cite{usinboundtourists}, 69.77 million people visited the United States in 2013.
 According to our renormalized data set, total imports into the United States were
-\$$2.21$ trillion during that same period. Dividing imports by visitors, an admittedly
-simplistic measure, gives us a scaling factor of approx. $31,665$. Therefore we have applied this
-scaling factor to all edges in our network, giving us some approximation of outbound travellers
-from country to country.
+\$$2.21$ trillion during the same period. Dividing imports by visitors (an admittedly
+simplistic approach) gives us a scaling factor of approx. $31,665$. Therefore we have applied this
+scaling factor to all edges in our international exports network, giving us some approximation of
+outbound travellers from country to country based on export numbers.
 
+\subsection*{\textbf{Weaknesses of the dataset and next steps}}
 
+Using the trade network has its flaws. For one, it ignores activity with low economic impact, such as
+a vegetable farmer traveling to a nearby country to sell his products at the market, or someone
+driving across a border to visit a family member. Relative to the economic impact of the industrial
+diamond or rubber trade (exports of Liberia, for example), these potentially disease-spreading behaviors
+simply are not represented fairly in the model.
 
+On the other hand, the trade data is publicly available, and certainly it is safe to assume that
+that trade activity correlates strongly with travel between two countries. It seems likely that
+such a measure may be a better estimate of air travel than ground travel, however.
+
+Due to the above weaknesses, we plan to supplement our trade network with a generated network that
+captures local movement as well. One approach to generating such a network is the gravity law,
+surveyed in \cite{barthelemy2011spatial}, which claims that the number of trips from point A to point B
+is inversely proportional to the square of the distance between them. By modeling the distance between
+country centers, and taking the population of different countries, we can estimate 
 
 
 
