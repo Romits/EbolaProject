@@ -224,37 +224,41 @@ Initial values for the various parameters were assumed as above for the prior di
 
 \subsection*{\textbf{Mapping the compartmental model to the network based model}}
 
-Due to some inherent challenges with the compartmental  models as discussed above, we are using the reproductive rate calculated using above model to simulate the spread of Ebola
-in the network. We are using the mapping between a compartmental model and a network as proposed by \citep{chowell2004basic, legrand2007understanding}.
-using the data provided  at \url {http://networkdata.ics.uci.edu/data.php?id=108} to captures the permanence of many human relationships assuming the network to exist in west African region impacted by Ebola. The undirected network  has 4846609 nodes and 42851237 edges and average degree = 17.7. It is a scale free network as the degree distribution follows power law.
+It is preferable to use a model that does not assume random mixing.
+One such network model we are integrating is a data set from a social networking site from
+the \cite{topcoderdata}.
+This undirected network has 4,846,609 nodes and 42,851,237 edges and average degree of $17.7$.
+It is clearly a scale-free network because the degree distribution follows a power law after a degree of
+approximately 50.
+Using this data set, we calculate transmissibility and epidemic threshold.
 
-\includegraphics[width=0.80\textwidth]{degdist.png}{\centering}
+We calculated the transmissibility $T$ of a disease which is defined as the average probability that an infectious
+individual will transmit the disease to a susceptible individual with whom they have contact. We also calculated
+the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
+a large-scale epidemic.
 
- We calculated the Transmissibility $T$ of a disease which  is defined as the average probability that an infectious
-individual will transmit the disease to a susceptible individual with whom they have contact and also calculated the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
-a large-scale epidemic. Using  relation between the basic reproductive number
-$R_0$ and the transmissibility $T$  and using  values $R_0$=2.27 and k=17.7 
+We start with the reproductive number $R_0$ calculated using the SEIR compartmental model.
+Using the relationship between the basic reproductive number
+$R_0$ and the transmissibility $T$ given in \cite{meyers2005network}:
+
 \[
 R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
 \]
 
-We get the value of Transmissibility as 0.1210.
+while using values $R_0=2.27$ and $k=17.7$ we find that transmissibility $T=0.1210$ for this network.
 
-We also calculate the value of epidemic threshold $T_c$  which is defined as 
+We also calculate the value of epidemic threshold $T_c$, which is defined by Meyers as:
 
 \[
 T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
 \]
 
-Here, $\left\langle k \right\rangle$ and $\left\langle k^2 \right\rangle$ are the mean degree and
-mean square degree of the network to be 0.0598 for the above network.  We are using these results to predict average size
-of the outbreak and to compare more directly the relationships between
-random mixing model and network model running a simulation. We will take into consideration that this relationship is actually defined between SIR model and random network in the paper. 
+for mean degree $\left\langle k \right\rangle$ and mean square degree
+$\left\langle k^2 \right\rangle$. Our calculations show that $T_c=0.0598$ for this network.
 
-
-
-
-
+We are using these results to predict average size of the outbreak and to compare the behavior of
+a random mixing compartmental model and a network model.
+We are incorporating this as a local model into our worldwide simulations.
 
 
 
