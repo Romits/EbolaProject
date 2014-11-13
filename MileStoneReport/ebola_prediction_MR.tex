@@ -226,9 +226,10 @@ Initial values for the various parameters were assumed as above for the prior di
 
 Due to some inherent challenges with the compartmental  models as discussed above, we are using the reproductive rate calculated using above model to simulate the spread of Ebola
 in the network. We are using the mapping between a compartmental model and a network as proposed by \citep{chowell2004basic, legrand2007understanding}.
-using the data provided  at \url http://networkdata.ics.uci.edu/data.php?id=108 to captures the permanence of many human relationships assuming the network to exist in west Africa impacted by Ebola. The undirected network  has 4846609 nodes and 42851237 edges and average degree = 17.7.
+using the data provided  at \url http://networkdata.ics.uci.edu/data.php?id=108 to captures the permanence of many human relationships assuming the network to exist in west Africa impacted by Ebola. The undirected network  has 4846609 nodes and 42851237 edges and average degree = 17.7. It is a scale free network as the degree distribution follows power law.
 
-\includegraphics[width=0.47\textwidth]{SierraLeon.pdf}
+\includegraphics[width=0.80\textwidth]{degdist.png}{\centering}
+
  We calculated the Transmissibility $T$ of a disease which  is defined as the average probability that an infectious
 individual will transmit the disease to a susceptible individual with whom they have contact and also calculated the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
 a large-scale epidemic. Using  relation between the basic reproductive number
@@ -248,7 +249,7 @@ T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left
 Here, $\left\langle k \right\rangle$ and $\left\langle k^2 \right\rangle$ are the mean degree and
 mean square degree of the network to be 0.0598 for the above network.  We are using these results to predict average size
 of the outbreak and to compare more directly the relationships between
-random mixing model and network model.
+random mixing model and network model and taking into consideration that this relationship is defined between SIR model and random network.
 
 
 
