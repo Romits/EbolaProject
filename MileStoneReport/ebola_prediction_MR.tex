@@ -31,7 +31,7 @@
 \hypersetup{
   colorlinks   = true, %Colours links instead of ugly boxes
   urlcolor     = blue, %Colour for external hyperlinks
-  linkcolor    = blue, %Colour of internal links
+  linkcolor    = red, %Colour of internal links
   citecolor   = red %Colour of citations
 }
 
@@ -181,46 +181,48 @@ Because of this, we do not plan to use the SEIHFR model in our work.
 
 \subsection*{\textbf{Estimating model parameters and basic reproduction number for 2014 Ebola data using a random mixing model}}
 
-In first phase of the project, to calculate the basic reproduction number of the current Ebola
-epidemic spread at different countries, we performed model fitting on the data we gathered from
+In first phase of the project, to calculate the basic reproductive number of the current Ebola
+epidemic spread in different countries, we performed model fitting on the data we gathered from
 \cite{cmriversdata}. We considered the SEIR model described in \cite{chowell2004basic}. The SEIR
 model under consideration is a non-linear model with six parameters. The current Ebola epidemic is
 still spreading and depending on the preventative measures  taken, the underlying dynamics of the
-spread can change drastically anytime. We fitted our model to three countries in the West Africa -
-Guinea, Sierra Leone and Liberia. In addition, we performed model fitting for the West Africa Region
+spread can change drastically any time.
+
+We fitted our model to three countries in West Africa:
+Guinea, Sierra Leone and Liberia. In addition, we performed model fitting for the West Africa region
 by adding up the data from these three countries. Given the limited number of data available,
 instead of fitting all six parameters to the model, we decided to fix some of the parameters based
-on the studies on previous Ebola epidemic. In \cite{chowell2004basic}, the incubation time of the
-Ebola $1/k$ is found to be varying between 1 to 21 days, with a mean time of 6.3 days for previous
-Ebola spread. For ease of data fitting, we set this parameter value to the mean value of 6.3 days.
-We note that, the dynamics of the current epidemic may differ from previous one, and therefore
-fixing a value based on the prior estimate may lead to some inaccuracy. To model the effect the
+on studies on previous Ebola epidemics. In \cite{chowell2004basic}, the incubation time of the
+Ebola virus $1/k$ is found to vary between 1 and 21 days, with a mean time of 6.3 days for previous
+Ebola outbreaks. For ease of data fitting, we set this parameter value to the mean value of 6.3 days.
+We note that the dynamics of the current epidemic may differ from previous ones, and therefore
+fixing a value based on the prior estimate may lead to some inaccuracy. To model the effect of
 intervention on the spread of the epidemic, a modified transmission rate $\beta_1$ is generally used
-instead of the initial transmission rate $\beta_0$ at later stage of the epidemic. The transition of
+instead of the initial transmission rate $\beta_0$ at later stages of the epidemic. The transition of
 $\beta_0$ to $\beta_1$ depends on intervention time $\tau$ and decaying factor $q$. The choice of
 intervention time is a very difficult problem. To this end, we looked into different sources like
 Wikipedia, WHO and CDC website to learn more about the timeline of the spread. In Guinea, a
-2-year-old boy fell in December 2, 2013, later diagnosed as Ebola patient. We consider this
-incidence as the index case for Guinea and set $t_0$ to December 2. In March 2, the Government of
-Guinea informed WHO regarding the possibility of Ebola epidemic and declared national heath
+2-year-old boy died on December 2, 2013, later diagnosed as an Ebola patient. We consider this
+incident as the index case for Guinea and set $t_0$ to December 2. On March 2, the Government of
+Guinea informed WHO regarding the possibility of an Ebola epidemic and declared a national heath
 emergency. We considered this date as the intervention date and set $\tau$ to 110. In Sierra Leone,
-one person fell in April 2014. In June 12, 2014 the country declared emergency and closed borders
-with neighboring Guinea and Liberia. We consider the first date as $t_0$ and second date as
-intervention time, therefore set $\tau$ to 50. In Liberia, in March 31, 2014, there were official
-confirmation of two person getting infected from Ebola. We set this date to $t_0$ and set $I_0$ and
-$C_0$ in our model as 2. The Government of Liberia shut down all schools in July 30, 2014. We
-consider this date as the date of intervention and set $\tau$ to 120.
+one person died on April 2014. In June 12, 2014 the country declared an emergency and closed its borders
+with neighboring Guinea and Liberia. We consider the first date as $t_0$ and second date as the
+intervention time, therefore set $\tau$ to 50. In Liberia, on March 31, 2014, there was official
+confirmation of two people infected with Ebola. We set this date to $t_0$ and set $I_0$ and
+$C_0$ in our model as 2. The government of Liberia shut down all schools on July 30, 2014. We
+consider this date as the date of intervention in Liberia and set $\tau$ to 120.
 
-In order to fit the non-linear SEIR model to data, we used non-linear least square estimation. We
-use the reported data $(t_i, c_i)$ for $i=1,2,\ldots,n$ where $t_i$ denote the $i-th$ reporting time
-and $c_i$ as the cumulative number of infectious cases from the beginning of outbreak time $t_0$ to
-time $t_i$. The optimization problem contains a large number of local minimas. Therefore, the choice
-of initial parameter estimate is an important consideration to get the global optimum solution. In
-order to find a good initial choice of the parameters as an input to the non-linear least square
+In order to fit the non-linear SEIR model to the data, we used non-linear least squares estimation. We
+use the reported data $(t_i, c_i)$ for $i=1,2,\ldots,n$ where $t_i$ denotes the $i-th$ reporting time
+and $c_i$ the cumulative number of infectious cases from the beginning of the outbreak at time $t_0$ to
+time $t_i$. The optimization problem contains a large number of local minima. Therefore, the choice
+of initial parameter estimate is an important consideration to get the globally optimal solution. In
+order to find a good initial choice of the parameters as input to the non-linear least squares
 solver, we first perform a Latin hypercube sampling on the  4-dimensional parameter space.  We grid
 up the hypercube with a number of grid points in each dimension.  We then choose the sample that
-minimizes the least square error as the initial input. In order to calculate the 95\% confidence
-interval of estimated parameter, we performed bootstrapping based on residual error.
+minimizes the least squares error as the initial input. In order to calculate the 95\% confidence
+interval of the estimated parameter, we performed bootstrapping based on residual error.
 
 \begin{figure}[ht]
 \centering
@@ -244,35 +246,37 @@ interval of estimated parameter, we performed bootstrapping based on residual er
 \end{figure}
 
 
-The estimated parameters for the SEIR model of Guinea, Sierra Leone, Liberia, as well as West Africa
-region is presented in the appendix. In Figure \ref{Fig:figurePrediction}, we presented the the
-number of incidence at different compartments of the SEIR model, as well as the cumulative number of
-infectious cases over time. Our model fit was based on the last data we collected in October 21,
-2014. As of today, November 11, 2014, few additional data points are available; we also plotted
-those data points in the graph. In addition to that, we extrapolated the graph up to December 31,
-2014. We note that, the forecasting to future cases may not be appropriate as the underlying factors
-of the Epidemic are changing rapidly with the increase in safety measures. We observe that, the
-prediction of the model to the cases up to November 11 is mostly in par with the observed data for
-Guinea and Sierra Leone. We note that, for Guinea epidemic, we have data for the longest range of
-days as the initial case was in December 2. The estimated model, therefore, captures most of the
+The estimated parameters for the SEIR model of Guinea, Sierra Leone, Liberia, and the overall West Africa 
+region is presented in the Appendix. In Figure \ref{Fig:figurePrediction}, we presented the
+number of incidents at different compartments of the SEIR model, as well as the cumulative number of
+infectious cases over time. Our model fit was based on the last data we collected on October 21,
+2014. As of today, November 11, 2014, few additional data points are available. We also plotted
+those data points on the graph. In addition to that, we extrapolated the graph up to December 31,
+2014. We note that forecasting future cases may not be accurate as the underlying factors
+of the epidemic are changing rapidly with the increase in safety measures.
+
+We observe that the
+prediction of the model to the cases up to November 11 is mostly on par with the observed data for
+Guinea and Sierra Leone. For the Guinea epidemic, we have data for the longest range of
+days as the initial case was on December 2. The estimated model, therefore, captures most of the
 dynamics of the spread in Guinea in contrast to the other cases. In case of Liberia, our prediction
-under-estimated the observed data. Our guess is the estimated parameters for Libera may be
+underestimated the observed data. Our guess is that the estimated parameters for Liberia may be
 overfitting the model. While performing some exploratory analysis on the Liberia data, we observed
 some discrepancies, e.g. decrease in cumulative value from the previous data points, which may
-somewhat distorted the model fitting parameters. For the West Africa region plot, our prediction
-number is much higher that the actual data. This is understandable, as the underlying assumption
-behind SEIR model is random mixing.  Within a country without any movement restriction, this model
-is some what appropriate. However, for the aggregated model among multiple countries, this
+somewhat distort the model fitting parameters. For the West Africa region plot, our prediction
+number is much higher than the actual data. This is understandable, as the underlying assumption
+behind the SEIR model is random mixing.  Within a country without any movement restriction, this model
+is somewhat appropriate. However, for the aggregated model among multiple countries, this
 assumption is no longer valid due to stricter movement regulations between country borders.
-Therefore a model with random mixing assumption will over predict the infectious number of cases.
+Therefore, a model with a random mixing assumption will overestimate the number of infectious cases.
 
-As an extension of the above approach, for find parameters for the model based on the current data,
-we designed and ran the simulation using mcmc approach with input as time series data for the
+As an extension of the above approach, for finding parameters for the model based on the current data,
+we designed and ran a simulation using an MCMC approach with input as time series data for the
 various infected regions. Initial values for the various parameters were assumed as above for the
-prior distribution but the range based on the literature was used to find the most appropriate
-values for the current outbreak. For example $\beta_0$  had a range [0,1],  $\beta_1$ had a range
-[0,1], infection time($1/\gamma$) had range [3.5,10.7], incubation time ($1/k$) had a range [5, 22]
-and ($\tau$)  had a range [100,150]. The simulation is currently running on a server and we will
+prior distribution, but a range based on the literature was used to find the most appropriate
+values for the current outbreak. For example $\beta_0$  had a range of $[0,1]$,  $\beta_1$ had a range of
+$[0,1]$, infection time $1/\gamma$ had a range of $[3.5,10.7]$, incubation time $1/k$ had a range of $[5,22]$,
+and $\tau$ had a range of $[100,150]$. This simulation is running and we will
 have results in the final report.
 
 
@@ -397,16 +401,15 @@ For one, a trade-centric network ignores activity with low economic impact, such
 a vegetable farmer traveling to a nearby country to sell his products at the market, or someone
 driving across the border to visit a family member. Relative to the economic impact of the industrial
 diamond or rubber trade (exports of Liberia) for example, these potentially disease-spreading behaviors
-simply are not represented equitably if at all in the model.
-
-On the other hand, economic trade data is widely accessible and is likely to be fairly accurate,
+simply are not represented equitably if at all in the model. On the other hand, economic trade data is
+widely accessible and is likely to be fairly accurate,
 and certainly it is safe to assume that that trade activity correlates with travel between two countries.
 
 Due to the above drawbacks, we plan to supplement our trade network with a generated network that
 captures local commute-related movement as well. One approach to generating such a network is the gravity law,
-noted in a survey by \cite{barthelemy2011spatial}, which claims that the number of trips from
-point A to point B is inversely proportional to the square of the distance between them.
-Such a model was used to study traffic on Korean highways in \cite{jung2008gravity}.
+used for example to study traffic on Korean highways by \cite{jung2008gravity}. The gravity law
+claims that the number of trips from point A to point B is inversely proportional to the square
+of the distance between them.
 
 \subsection*{\textbf{Simulation model}}
 
