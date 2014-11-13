@@ -153,23 +153,15 @@ Figure \ref{fig:SEIR_model}:
 \label{SubSec:SEIHFR}
 
 In \citep{legrand2007understanding}, the Ebola outbreaks in Congo in 1995 and Uganda in 2000
-are also studied. However, a major difference from
-\citep{chowell2004basic} is that \citep{legrand2007understanding} models the spreading of disease
-in heterogeneous settings. In order to gain better insight of the epidemic dynamics,
+are also studied. However, they expand on the model from
+\citep{chowell2004basic} by modeling the spreading of Ebola
+in heterogeneous settings. In order to gain more insight into the epidemic dynamics,
 the infectious phase is subdivided into three stages:
 infection in a community setting (I), infection in a hospital setting (H), and
-infection after death assuming a traditional funeral (F).
-
-This SEIHFR compartmental model is summarized in Figure \ref{fig:SEIHFR_model}.
-
-\begin{figure}[h!]
-\centering
-\includegraphics[scale=0.5]{seihfr_model_fig}
-\caption{SEIHFR model}
-\label{fig:SEIHFR_model}
-\end{figure}
-
-For our purposes, as described below, we stopped short of implementing this complicated model.
+infection after death assuming a traditional funeral (F). The resulting model is known
+as the SEIHFR model. While this model provides finer grained modeling of the behavior of Ebola,
+it is also complex and the link to a network-based model becomes tenuous.
+Because of this, we do not plan to use the SEIHFR model in our work.
 
 \bigskip
 
