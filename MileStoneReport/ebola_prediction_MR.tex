@@ -415,10 +415,11 @@ of the distance between them.
 
 We are currently developing a simulation framework to incorporate intra-country spreading behavior
 (using compartmental and network-based models) with inter-country links based on the above
-worldwide network models. A related approach is the GLEaM stochastic simulation model
+worldwide network models. A related but distinct approach is the GLEaM stochastic simulation model
 developed by \cite{balcan2010modeling}. Our simulation model is a stochastic, discrete time-step
 model in which each time step is one day, and for each day, each infectious individual may travel
-to another country with some probability related to the worldwide networks. Within each country,
+to another country with some probability related to the number of people leaving the country
+via the worldwide networks on that day and the total population of the country. Within each country,
 infectious individuals spread their disease with some probability related to the intra-country model
 being used (compartmental or network-based).
 
