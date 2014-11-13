@@ -262,13 +262,13 @@ random mixing model and network model.
 \label{sec:Worldwide}
 
 \subsection*{\textbf{Approach}}
-In order to predict how the Ebola epidemic might spread across the world, we have assembled a
+In order to simulate how the Ebola epidemic might spread across the world, we have assembled a
 worldwide network based on international trade. Because the trade numbers are in US dollars,
 we have assumed a linear relationship between exports in dollars and travelers going abroad.
 This is a strong assumption, and we are currently exploring various options for utilizing the
 international trade network for this purpose.
 
-\subsection*{\textbf{Data Preparation}}
+\subsection*{\textbf{Trade network data preparation}}
 
 The trade network dataset we are using is based on data retrieved from the web service API to the
 UN Comtrade database \citep{uncomtradedata} via their web service API.
@@ -325,25 +325,29 @@ simplistic approach) gives us a scaling factor of approx. $31,665$. Therefore we
 scaling factor to all edges in our international exports network, giving us some approximation of
 outbound travellers from country to country based on export numbers.
 
-\subsection*{\textbf{Weaknesses of the dataset and next steps}}
+\subsection*{\textbf{Supplementing the trade network}}
 
-Using the trade network has its flaws. For one, it ignores activity with low economic impact, such as
+Using a trade network has its flaws, even discounting errors stemming from poor approximations.
+For one, a trade ignores activity with low economic impact, such as
 a vegetable farmer traveling to a nearby country to sell his products at the market, or someone
-driving across a border to visit a family member. Relative to the economic impact of the industrial
-diamond or rubber trade (exports of Liberia, for example), these potentially disease-spreading behaviors
-simply are not represented fairly in the model.
+driving across the border to visit a family member. Relative to the economic impact of the industrial
+diamond or rubber trade (exports of Liberia) for example, these potentially disease-spreading behaviors
+simply are not represented equitably if at all in the model.
 
-On the other hand, the trade data is publicly available, and certainly it is safe to assume that
-that trade activity correlates strongly with travel between two countries. It seems likely that
-such a measure may be a better estimate of air travel than ground travel, however.
+On the other hand, economic trade data is widely accessible, and certainly it is safe to assume that
+that trade activity correlates with travel between two countries. It seems intuitive that
+such a network may be a better estimate of air travel than ground travel, however.
 
 Due to the above weaknesses, we plan to supplement our trade network with a generated network that
 captures local movement as well. One approach to generating such a network is the gravity law,
-surveyed in \cite{barthelemy2011spatial}, which claims that the number of trips from point A to point B
-is inversely proportional to the square of the distance between them. By modeling the distance between
-country centers, and taking the population of different countries, we can estimate 
+noted in a survey by \cite{barthelemy2011spatial}, which claims that the number of trips from
+point A to point B is inversely proportional to the square of the distance between them.
+Such a model was used to study traffic on Korean highways in \cite{jung2008gravity}.
 
+\subsection*{\textbf{Planned simulations}}
 
+In the final phase of the project, we plan on using our worldwide network model to simulate the
+spread of Ebola and predict the spread of the disease. We will compare 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
