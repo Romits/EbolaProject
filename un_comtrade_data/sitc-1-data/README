@@ -6,12 +6,27 @@ Unfortunately, for many third world or war-torn countries, detailed export data
 is not available. While many countries have data available for 2013, for example
 Liberia's latest detailed export data is from 1984.
 
-Steps taken to make this data more useful:
-- Attempt to remap exports to non-existent countries to their modern versions.
-- Removal of irrelevant export data from countries that don't exist.
-- Renaming of countries to names matching the CIA world factbook.
-- Reweighting of dollar amounts for countries that have not reported detailed
-  export data in a long time in order to make it sum up to export totals from
-  the CIA world factbook numbers for 2013.
+We convert this data to "people" exported per year using a rough assumption of
+a linear relationship between exports and people.
 
-You can find the fruits of the above labors in: trade-simpler-1982-2013-reweighted.tsv
+The procedure we use is as follows:
+
+1. Remap old countries to new countries as needed: (remap.pl)
+    - Uses the remappings.list to convert historical countries to an
+      approximation of their modern equivalents.
+    - Removes several countries we don't have up-to-date data for in the CIA
+      world factbook and otherwise cleans up the data.
+
+2. Rename countries from UN Comtrade name to CIA World Factbook name(rename.pl)
+
+3. Increase the export dollar amounts per country to reflect growth and sum up to the 2013 total exports for that country from the CIA world factbook. Assume the percent export to each destination remains the same (reweight.pl)
+
+4. Assuming a linear relationship, convert dollars exported to people travelling long-range (convert.pl)
+    - Converts total dollars exported to number of people flown per year.
+    - According to the US Office of Travel & Tourism industries,# the number of international visitors to the US in 2013 was 69.77 million people: http://travel.trade.gov/view/m-2013-I-001/table1.html
+    - According to our trade data, recorded exports to USA for 2013 = 2,209,234,120,848.
+      So, our ratio of dollar value imported to number of visitors is 31665 to 1.
+    - Assuming this same ratio applies to all countries, we divide all the numbers# by 31665 to get number of people traveling per year from country to country. (Actually, the number is 31664.53).
+
+Based on all the above, the final tsv file with the long-range edges is computed as follows:
+$ cat trade-simpler-1982-2013.tsv | ./remap.pl | ./rename.pl | ./reweight.pl | ./convert.pl > trade-simpler-1982-2013-people.tsv
