@@ -1,0 +1,37 @@
+                                                                                      1.1
+
+  Commuters by region of residence and region of employment by Countries,
+  Countries_1 and Year
+
+             2009
+
+  Denmark
+    Denmark   2,684,946
+    Norway        3,132
+    Sweden        1,129
+
+    CROSS BORDER: 0.16%
+
+  Norway
+    Denmark         323
+    Norway    2,493,087
+    Sweden          833
+
+    CROSS BORDER: 0.05%
+
+  Sweden
+    Denmark      20,189
+    Norway       28,141
+    Sweden    4,291,088
+
+    CROSS BORDER: 1.13%
+
+  There are no statistics available on commuting between Denmark and Norway for the year 2007.
+
+  Some people may be counted twice, both as commuters in the own country and commuters to any of
+  the other countries. This means that the total employment may be overstated if you add the
+  cross-border commuters with the domestic employment.  This is because of different methods for
+  determining cross-border commuters. For futher information see document under About StatNord and
+  Publications.
+
+  Source: https://www.h2.scb.se/grs/Statistics.aspx?type=lev2&sel=5
