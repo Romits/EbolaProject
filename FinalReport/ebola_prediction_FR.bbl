@@ -1,0 +1,120 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Balcan et~al.(2010)Balcan, Gon{\c{c}}alves, Hu, Ramasco, Colizza, and
+  Vespignani]{balcan2010modeling}
+Duygu Balcan, Bruno Gon{\c{c}}alves, Hao Hu, Jos{\'e}~J Ramasco, Vittoria
+  Colizza, and Alessandro Vespignani.
+\newblock Modeling the spatial spread of infectious diseases: The global
+  epidemic and mobility computational model.
+\newblock \emph{Journal of computational science}, 1\penalty0 (3):\penalty0
+  132--145, 2010.
+
+\bibitem[Central{\ }Intelligence{\ }Agency(2013)]{ciatotalexports}
+Central{\ }Intelligence{\ }Agency.
+\newblock {The World Factbook 2013-14: Country Comparison: Exports}, 2013.
+\newblock URL
+  \url{https://www.cia.gov/library/publications/the-world-factbook/rankorder/2078rank.html}.
+\newblock [Online; accessed 6-November-2014].
+
+\bibitem[Chowell et~al.(2004)Chowell, Hengartner, Castillo-Chavez, Fenimore,
+  and Hyman]{chowell2004basic}
+Gerardo Chowell, Nick~W Hengartner, Carlos Castillo-Chavez, Paul~W Fenimore,
+  and JM~Hyman.
+\newblock {The basic reproductive number of Ebola and the effects of public
+  health measures: the cases of Congo and Uganda}.
+\newblock \emph{Journal of Theoretical Biology}, 229\penalty0 (1):\penalty0
+  119--126, 2004.
+
+\bibitem[Gomes et~al.(2014)Gomes, Piontti, Rossi, Chao, Longini, Halloran, and
+  Vespignani]{gomes2014assessing}
+MF~Gomes, AP~Piontti, Luca Rossi, Dennis Chao, Ira Longini, M~Elizabeth
+  Halloran, and Alessandro Vespignani.
+\newblock {Assessing the international spreading risk associated with the 2014
+  West African Ebola outbreak}.
+\newblock \emph{PLoS Currents Outbreaks}, 2014.
+
+\bibitem[Jung et~al.(2008)Jung, Wang, and Stanley]{jung2008gravity}
+Woo-Sung Jung, Fengzhong Wang, and H~Eugene Stanley.
+\newblock Gravity model in the korean highway.
+\newblock \emph{EPL (Europhysics Letters)}, 81\penalty0 (4):\penalty0 48005,
+  2008.
+
+\bibitem[Kermack and McKendrick(1932)]{very_old_paper}
+William~O Kermack and Anderson~G McKendrick.
+\newblock {Contributions to the mathematical theory of epidemics. II. The
+  problem of endemicity}.
+\newblock \emph{Proceedings of the Royal society of London. Series A},
+  138\penalty0 (834):\penalty0 55--83, 1932.
+
+\bibitem[Legrand et~al.(2007)Legrand, Grais, Boelle, Valleron, and
+  Flahault]{legrand2007understanding}
+J~Legrand, RF~Grais, PY~Boelle, AJ~Valleron, and A~Flahault.
+\newblock {Understanding the dynamics of Ebola epidemics}.
+\newblock \emph{Epidemiology and infection}, 135\penalty0 (04):\penalty0
+  610--621, 2007.
+
+\bibitem[Meyers et~al.(2005)Meyers, Pourbohloul, Newman, Skowronski, and
+  Brunham]{meyers2005network}
+Lauren~Ancel Meyers, Babak Pourbohloul, Mark~EJ Newman, Danuta~M Skowronski,
+  and Robert~C Brunham.
+\newblock {Network theory and SARS: predicting outbreak diversity}.
+\newblock \emph{Journal of theoretical biology}, 232\penalty0 (1):\penalty0
+  71--81, 2005.
+
+\bibitem[Rivers(2014)]{cmriversdata}
+Caitlin Rivers.
+\newblock {Data for the 2014 Ebola outbeak in West Africa}, 2014.
+\newblock URL \url{https://github.com/cmrivers/ebola}.
+\newblock [Online; accessed 15-October-2014].
+
+\bibitem[The{\ }World{\ }Bank(2014{\natexlab{a}})]{worldbankairpassengers}
+The{\ }World{\ }Bank.
+\newblock {Air transport, passengers carried}, 2014{\natexlab{a}}.
+\newblock URL \url{http://data.worldbank.org/indicator/IS.AIR.PSGR}.
+\newblock [Online; accessed 12-November-2014].
+
+\bibitem[The{\ }World{\ }Bank(2014{\natexlab{b}})]{worldbankinboundtourism}
+The{\ }World{\ }Bank.
+\newblock {International tourism, number of arrivals}, 2014{\natexlab{b}}.
+\newblock URL \url{http://data.worldbank.org/indicator/ST.INT.ARVL}.
+\newblock [Online; accessed 11-November-2014].
+
+\bibitem[The{\ }World{\ }Bank(2014{\natexlab{c}})]{worldbankoutboundtourism}
+The{\ }World{\ }Bank.
+\newblock {International tourism, number of departures}, 2014{\natexlab{c}}.
+\newblock URL \url{http://data.worldbank.org/indicator/ST.INT.DPRT}.
+\newblock [Online; accessed 12-November-2014].
+
+\bibitem[{UCI Machine Learning Repository}(2008)]{topcoderdata}
+{UCI Machine Learning Repository}.
+\newblock {Social Network from TopCoder's Epidemic Contest}, 2008.
+\newblock URL \url{http://networkdata.ics.uci.edu/data.php?id=108}.
+\newblock [Online; accessed 12-November-2014].
+
+\bibitem[United{\ }Nations(2014)]{uncomtradedata}
+United{\ }Nations.
+\newblock {United Nations Commodity Trade Statistics Database}, 2014.
+\newblock URL \url{http://comtrade.un.org/data/}.
+\newblock [Online; accessed 6-November-2014].
+
+\bibitem[UN{\ }World{\ }Tourism{\ }Organization(2014)]{unwtooutboundtourism}
+UN{\ }World{\ }Tourism{\ }Organization.
+\newblock {Outbound tourism data (calculated on the basis of arrivals data in
+  destination countries)}, 2014.
+\newblock URL
+  \url{http://statistics.unwto.org/content/outbound-tourism-data-calculated-basis-arrivals-data-destination-countries}.
+\newblock [Online; accessed 12-November-2014].
+
+\bibitem[US{\ }Office{\ }of{\ }Travel{\ }\&{\ }Tourism{\
+  }Industries(2013)]{usinboundtourists}
+US{\ }Office{\ }of{\ }Travel{\ }\&{\ }Tourism{\ }Industries.
+\newblock {2013 Monthly Tourism Statistics}, 2013.
+\newblock URL \url{http://travel.trade.gov/view/m-2013-I-001/table1.html}.
+\newblock [Online; accessed 6-November-2014].
+
+\end{thebibliography}

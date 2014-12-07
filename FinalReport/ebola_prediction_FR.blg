@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: ebola_prediction_FR.aux
+The style file: plainnat.bst
+Database file #1: bib_ref.bib
+Warning--I didn't find a database entry for ""
+You've used 16 entries,
+            2773 wiz_defined-function locations,
+            683 strings with 7982 characters,
+and the built_in function-call counts, 6775 in all, are:
+= -- 589
+> -- 408
+< -- 10
++ -- 144
+- -- 126
+* -- 525
+:= -- 1062
+add.period$ -- 57
+call.type$ -- 16
+change.case$ -- 90
+chr.to.int$ -- 14
+cite$ -- 32
+duplicate$ -- 280
+empty$ -- 559
+format.name$ -- 144
+if$ -- 1398
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 7
+newline$ -- 97
+num.names$ -- 64
+pop$ -- 204
+preamble$ -- 1
+purify$ -- 74
+quote$ -- 0
+skip$ -- 233
+stack$ -- 0
+substring$ -- 160
+swap$ -- 19
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 176
+warning$ -- 0
+while$ -- 59
+width$ -- 0
+write$ -- 223
+(There was 1 warning)
