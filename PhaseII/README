@@ -1,0 +1,47 @@
+============================================
+Running phase 2 in parallel
+============================================
+
+Requirements
+------------
+
+To run the parallel scripts, you must install GNU parallel. On Ubuntu, the command is:
+
+$ sudo apt-get install parallel
+
+Parallel runner harness
+-----------------------
+
+The main harness script is called run_diffusion_simulation.sh
+
+It takes the following command-line parameters:
+1. t_min: minimum value of T
+2. t_step: step size for values of T to run with
+3. t_max: maximum value of T
+4. iterations: number of simulation iterations per T value
+5 and after: names of graph input files in SNAP format to run with.
+
+Example
+-------
+$ ./run_diffusion_simulation.sh 0.00 0.05 0.20 10 SocialNetwork-4.8M.txt PrefAttachSynthetic-4.8M.txt
+
+This example runs for 5 T-values (step size of 0.05): 0.00, 0.05, 0.10, 0.15, and 0.20
+It runs 10 iterations per T-value.
+It only uses one input file (so will only generate one line on the graph): network.snap.txt
+
+Once it is done, it generates a graph in a .pdf file and prints the filename to stdout.
+
+Nohup helper script
+-------------------
+
+There is also a little utility script called nohup_helper.sh which simply
+executes whatever command you give it under nohup, put it into the background,
+and outputs the data to a timestamped log file. It makes running nohup less
+error prone. To use it, just prefix it to the above command.
+
+Example usage and output:
+
+$ ./nohup_helper.sh ./run_diffusion_simulation.sh 0.00 0.02 0.40 100 SocialNetwork-4.8M.txt PrefAttachSynthetic-4.8M.txt SmallWorldGraph-4.8M.txt GnmRandomGraph-4.8M.txt
++ LOGFILE=simulation-20141207.112323-4960.log
++ nohup ./run_diffusion_simulation.sh 0.00 0.02 0.40 100 SocialNetwork-4.8M.txt PrefAttachSynthetic-4.8M.txt SmallWorldGraph-4.8M.txt GnmRandomGraph-4.8M.txt
+
