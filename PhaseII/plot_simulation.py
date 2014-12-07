@@ -67,7 +67,7 @@ def plotInputFile(inputFileName, x, y):
     plt.plot(x, y, ms=4, lw=1, marker='o', label=label)
 
 def displayPlot(outputFileName):
-    plt.title("Ebola Epidemic infection simulation")
+    plt.title("Ebola epidemic infection simulation")
     plt.xlabel('Transmissibility')
     plt.ylabel('Fraction of network infected')
     #plt.legend(loc='lower right')
