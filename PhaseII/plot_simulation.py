@@ -70,14 +70,15 @@ def displayPlot(outputFileName):
     plt.title("Ebola Epidemic infection simulation")
     plt.xlabel('Transmissibility')
     plt.ylabel('Fraction of network infected')
-    plt.legend(loc='lower right')
+    #plt.legend(loc='lower right')
+    plt.legend(loc='upper left')
 
     plt.axvline(x=0.0001, ymin=0, ymax=1.0 , linewidth=1,alpha=0.2)
     plt.text(0.0001 + 0.0035, 0.10, 'Liberia')
-    plt.axvline(x=0.1751, ymin=0, ymax=1.0 , linewidth=1,alpha=0.2)
-    plt.text(0.1751 + 0.0035, 0.15, 'Guinea')
-    plt.axvline(x=0.1897, ymin=0, ymax=1.0 , linewidth=1,alpha=0.2)
-    plt.text(0.1897 + 0.0035, 0.20, 'Sierra Leone')
+    plt.axvline(x=0.1148, ymin=0, ymax=1.0 , linewidth=1,alpha=0.2)
+    plt.text(0.1148 + 0.0035, 0.15, 'Guinea')
+    plt.axvline(x=0.1243, ymin=0, ymax=1.0 , linewidth=1,alpha=0.2)
+    plt.text(0.1243 + 0.0035, 0.20, 'Sierra Leone')
 
     plt.savefig(outputFileName)
 
