@@ -102,7 +102,8 @@ def plotData(realResult, randomResult, swResult, T):
 
 def main():
     RANDOM_SEED = 23
-    SIMULATION_ITERS_PER_MODEL = 10     # How many simulations we do per model.
+    SIMULATION_ITERS_PER_MODEL = 100    # How many simulations we do per model.
+
     SYNTHETIC_NW_NODES = 10000          # How many nodes in the fake networks.
     SYNTHETIC_NW_AVG_DEGREE = 20        # Avg degree for the fake networks.
 
@@ -129,22 +130,22 @@ def main():
     T = np.linspace(0.000, 0.2500, 10)
     print T
 
-    #PAGraph = loadGraphPrintStats('SamplePAGraph.txt','Preferential Attachment')
-    tRnd = snap.TRnd()
-    tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
-    PAGraph = snap.GenPrefAttach(SYNTHETIC_NW_NODES, SYNTHETIC_NW_AVG_DEGREE, tRnd)
+    #tRnd = snap.TRnd()
+    #tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
+    #PAGraph = snap.GenPrefAttach(SYNTHETIC_NW_NODES, SYNTHETIC_NW_AVG_DEGREE, tRnd)
+    PAGraph = loadGraphPrintStats('SamplePAGraph.txt','Preferential Attachment')
     resultListRN = runSimulations(PAGraph, T, SIMULATION_ITERS_PER_MODEL)
     print resultListRN
 
-    #RndGraph = loadGraphPrintStats('SampleRndGraph.txt','Random Network')
-    tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
-    RndGraph = snap.GenRndGnm(snap.PUNGraph, SYNTHETIC_NW_NODES, SYNTHETIC_NW_NODES * SYNTHETIC_NW_AVG_DEGREE, False, tRnd)
+    #tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
+    #RndGraph = snap.GenRndGnm(snap.PUNGraph, SYNTHETIC_NW_NODES, SYNTHETIC_NW_NODES * SYNTHETIC_NW_AVG_DEGREE, False, tRnd)
+    RndGraph = loadGraphPrintStats('SampleRndGraph.txt','Random Network')
     resultListRnd = runSimulations(RndGraph, T, SIMULATION_ITERS_PER_MODEL)
     print resultListRnd
 
-    #SWGraph = loadGraphPrintStats('SampleSWGraph.txt','SmallWorld Network')
-    tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
-    SWGraph = snap.GenSmallWorld(SYNTHETIC_NW_NODES, SYNTHETIC_NW_AVG_DEGREE, 0.15, tRnd)
+    #tRnd.PutSeed(RANDOM_SEED) # Re-seed every time.
+    #SWGraph = snap.GenSmallWorld(SYNTHETIC_NW_NODES, SYNTHETIC_NW_AVG_DEGREE, 0.15, tRnd)
+    SWGraph = loadGraphPrintStats('SampleSWGraph.txt','SmallWorld Network')
     resultListSW = runSimulations(SWGraph, T, SIMULATION_ITERS_PER_MODEL)
     print resultListSW
 
