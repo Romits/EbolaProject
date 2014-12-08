@@ -331,17 +331,62 @@ In Table \ref{Tb:prediction}, we presented our estimate of the total number of p
 \begin{figure}[ht]
 \centering
 \subfigure[Network Simulation for Ebola]{
-  \includegraphics[width=0.47\textwidth]{EbolaNetworkSimulation.png}
+  \includegraphics[height=0.8\textwidth]{EbolaNetworkSpread.pdf}
   \label{fig:Network Simulation for Ebola}}
 \end{figure}
 
+
+
 \subsection*{\textbf{Problem Definition}}
-The compartmental models used in predicting spread of epidemics have a random mixing assumption which may not model the real world appropriately. In this part we made an attempt  to map the SEIR model to network based model to study the spread of Ebola in West Africa.
+Since the compartmental models used in predicting spread of epidemics have a random mixing assumption which may not model the real world appropriately. In this section we made an attempt  to map the compartmental model to network based model  using percolation theory to study  and model the spread of Ebola in West Africa.
 
 \subsection*{\textbf{Approach}}
 
-The mapping between a compartment mode and a network based model is defined in the paper by \cite{meyers2005network}. We calculated the basic reproductive number for each of the countries Liberia, Guinea and Sierra Leone and 
+The mapping between a compartment mode and a network based model is defined in the paper by \cite{meyers2005network}.The transmissibility $T$ of a disease which is defined as the average probability that an infectious
+individual will transmit the disease to an individual with whom they have contact. 
+We start with the reproductive number $R_0$ calculated using the compartmental model.
+Using the relationship between the basic reproductive number
+$R_0$ and the transmissibility $T$ given in \cite{meyers2005network}:
 
+\[
+R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
+\]
+
+
+
+We also calculate the value of epidemic threshold $T_c$, which is defined by Meyers as:
+
+\[
+T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
+\]
+
+We these numbers in modeling and analysis of our contact networks.
+
+
+
+
+\subsection*{\textbf{Data Preparation}}
+
+We calculated the basic reproductive number for each of the countries Liberia, Guinea and Sierra Leone in West Africa  using the approach described above. 
+
+We calculated the value of Transmissibility  for the various countries as follows:
+
+\begin{center}
+    \begin{tabular}{ | l | l | l | p{5cm} |}
+    \hline
+    Country & $R_0$ & Transmissibility \\ \hline
+    Liberia & 0.001 & 0.001  \\ \hline
+    Guinea & 1.145 & 0.1751 \\ \hline
+    Sierra Leone & 1.24 & 0.1897  \\ \hline
+    \end{tabular}
+\end{center}
+
+We also calculated
+the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
+a large-scale epidemic.
+
+for mean degree $\left\langle k \right\rangle$ and mean square degree
+$\left\langle k^2 \right\rangle$. Our calculations using k=5.3 show that $T_c=0.2325$ for this network.
 
 
 It is preferable to use a model that does not assume random mixing.
@@ -381,6 +426,18 @@ a random mixing compartmental model and a network model.
 We are incorporating this as a local model into our worldwide simulations.
 
 
+\subsection*{\textbf{Simulation}}
+
+
+
+\subsection*{\textbf{Results and Conclusion}}
+
+
+
+\subsection*{\textbf{Future Work}}
+
+
+\subsection*{\textbf{Contribution}}
 
 
 
