@@ -328,12 +328,6 @@ In Table \ref{Tb:prediction}, we presented our estimate of the total number of p
 
 \section{Mapping the compartmental model to the network based model}
 
-\begin{figure}[ht]
-\centering
-\subfigure[Network Simulation for Ebola]{
-  \includegraphics[height=0.8\textwidth]{EbolaNetworkSpread.pdf}
-  \label{fig:Network Simulation for Ebola}}
-\end{figure}
 
 
 
@@ -346,13 +340,13 @@ The mapping between a compartment mode and a network based model is defined in t
 individual will transmit the disease to an individual with whom they have contact. 
 We start with the reproductive number $R_0$ calculated using the compartmental model.
 Using the relationship between the basic reproductive number
-$R_0$ and the transmissibility $T$ given in \cite{meyers2005network}:
+$R_0$ and the transmissibility $T$  defined by Meyers as:
 
 \[
 R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
 \]
 
-
+We calculate the transmissibility.
 
 We also calculate the value of epidemic threshold $T_c$, which is defined by Meyers as:
 
@@ -360,7 +354,7 @@ We also calculate the value of epidemic threshold $T_c$, which is defined by Mey
 T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
 \]
 
-We these numbers in modeling and analysis of our contact networks.
+We use these numbers in modeling and analysis of our contact networks.
 
 
 
@@ -432,6 +426,13 @@ We are incorporating this as a local model into our worldwide simulations.
 
 \subsection*{\textbf{Results and Conclusion}}
 
+
+\begin{figure}[ht]
+\centering
+\subfigure[Network Simulation for Ebola]{
+  \includegraphics[height=0.8\textwidth]{EbolaNetworkSpread.pdf}
+  \label{fig:Network Simulation for Ebola}}
+\end{figure}
 
 
 \subsection*{\textbf{Future Work}}
