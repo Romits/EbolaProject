@@ -1,0 +1,2 @@
+# inputFile	T	iterations	infectedFraction
+SmallWorldGraph-4.8M.txt	0.04	200	7.06679659944e-07
