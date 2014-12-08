@@ -1,7 +1,7 @@
 function OptimizeSir
 
 % Population Size
-N = 763;
+N =763
 
 % The data we use to fit
 data = [3,6,25,73,222,294,258,237,191,125,69,27,11,4];
@@ -18,7 +18,7 @@ g0 = 0.1;
 tspan = (0:.1:14);
 
 % Define the initial conditions for S and I
-y0 = [N-1 1];
+y0 = [N-1 1 0];
 
 % Integrate the ODEs with the optimal parameter values
 [t,y] = ode45(@SIR,tspan,y0,[],[N p]);
@@ -43,7 +43,7 @@ function I = SIR0(p0)
 
 % Redeclare initial conditions and N
 N = 763;
-x0 = [N-1 1];
+x0 = [N-1 1 0];
 
 % Set up the parameter vector to be passed
 p = [N p0];
@@ -72,6 +72,7 @@ S = x(1);
 I = x(2);
 
 y = [-b*S*I/N;
-    b*S*I/N-g*I];
+    b*S*I/N-g*I
+    g*I];
 
 end
