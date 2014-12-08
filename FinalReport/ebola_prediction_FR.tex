@@ -357,75 +357,42 @@ T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left
 We use these numbers in modeling and analysis of our contact networks.
 
 
-
-
 \subsection*{\textbf{Data Preparation}}
 
-We calculated the basic reproductive number for each of the countries Liberia, Guinea and Sierra Leone in West Africa  using the approach described above. 
+For simulating a contact network for Ebola in various infected countries we used a data set from a social networking site available on
+the \cite{topcoderdata}.
+This undirected network has 4,846,609 nodes and 42,851,237 edges and average degree of $8.841$.
+It is clearly a scale-free network because the degree distribution follows a power law after a degree of
+approximately 50.
 
-We calculated the value of Transmissibility  for the various countries as follows:
+We calculated the transmissibility values for each of the countries Liberia, Guinea and Sierra Leone in West Africa  using the formula described above. 
 
 \begin{center}
     \begin{tabular}{ | l | l | l | p{5cm} |}
     \hline
     Country & $R_0$ & Transmissibility \\ \hline
     Liberia & 0.001 & 0.001  \\ \hline
-    Guinea & 1.145 & 0.1751 \\ \hline
-    Sierra Leone & 1.24 & 0.1897  \\ \hline
+    Guinea & 1.145 & 0.1148 \\ \hline
+    Sierra Leone & 1.24 & 0.1243  \\ \hline
     \end{tabular}
 \end{center}
 
-We also calculated
-the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
-a large-scale epidemic.
+We also generated three other datasets  for a preferential attachment network, random network and a small world network approximating the real network for comparison purposes.
 
-for mean degree $\left\langle k \right\rangle$ and mean square degree
-$\left\langle k^2 \right\rangle$. Our calculations using k=5.3 show that $T_c=0.2325$ for this network.
+We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and the formula described above.
 
-
-It is preferable to use a model that does not assume random mixing.
-One such network model we are integrating is a data set from a social networking site from
-the \cite{topcoderdata}.
-This undirected network has 4,846,609 nodes and 42,851,237 edges and average degree of $17.7$.
-It is clearly a scale-free network because the degree distribution follows a power law after a degree of
-approximately 50.
-Using this data set, we calculate transmissibility and epidemic threshold.
-
-We calculated the transmissibility $T$ of a disease which is defined as the average probability that an infectious
-individual will transmit the disease to a susceptible individual with whom they have contact. We also calculated
-the epidemic threshold $T_c$ which is the minimum transmissibility required for an outbreak to become
-a large-scale epidemic.
-
-We start with the reproductive number $R_0$ calculated using the SEIR compartmental model.
-Using the relationship between the basic reproductive number
-$R_0$ and the transmissibility $T$ given in \cite{meyers2005network}:
-
-\[
-R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
-\]
-
-while using values $R_0=2.27$ and $k=17.7$ we find that transmissibility $T=0.1210$ for this network.
-
-We also calculate the value of epidemic threshold $T_c$, which is defined by Meyers as:
-
-\[
-T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
-\]
-
-for mean degree $\left\langle k \right\rangle$ and mean square degree
-$\left\langle k^2 \right\rangle$. Our calculations show that $T_c=0.0598$ for this network.
-
-We are using these results to predict average size of the outbreak and to compare the behavior of
-a random mixing compartmental model and a network model.
-We are incorporating this as a local model into our worldwide simulations.
-
+These values will be used for running the simulation on the various network datasets.
 
 \subsection*{\textbf{Simulation}}
 
+Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine.
+
+We ran our simulations on  extra large EC2 instance (c3.8xlarge). Since our simulations needed to run for multiple values  of Transmissibility we developed a test harness to  run the simulations  model written in  python in parallel using 
+
+http://www.gnu.org/software/parallel/ to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations.
 
 
 \subsection*{\textbf{Results and Conclusion}}
-
 
 \begin{figure}[ht]
 \centering
@@ -433,7 +400,6 @@ We are incorporating this as a local model into our worldwide simulations.
   \includegraphics[height=0.8\textwidth]{EbolaNetworkSpread.pdf}
   \label{fig:Network Simulation for Ebola}}
 \end{figure}
-
 
 \subsection*{\textbf{Future Work}}
 
