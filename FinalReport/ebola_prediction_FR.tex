@@ -324,6 +324,7 @@ Transmissibility values for each of three infected countries Liberia, Guinea and
 \end{center}
 \label{tab:T}
 \end{table}
+\label{Tb:Transmissibility}
 
 Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine so we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for multiple values  of transmissibility so we developed a test harness written in python using \citep{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also ran another simulation to see the impact of minimum degree for patient zero for a given transmissibility value for two different networks. 
 
@@ -650,10 +651,11 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 
 \item{Mike: } 
 
-\item {Romit: } Initial project idea and research,  contribution to project proposal and milestone report specifically for mapping the compartmental model to network based model. Exploring the MCMC approach for compartmental model  and developing code.
-I worked on data collection, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs. I also wrote the part to map the compartmental model to contact network of the final  paper including results and conclusions.
+\item {Romit: } Project idea and research, introduction (Section \ref{sec:Introduction}), exploring the MCMC approach for compartmental model  and developed code.
+Data collection and analysis, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs.(Section \ref{sec:NetworkModel})
+Figures \ref{Fig:Network_Transmissibility}, \ref{Fig:Network_MinDegree}
+Tables \ref{Tb:Transmissibility}
 \end{itemize}
-
 
 
 
