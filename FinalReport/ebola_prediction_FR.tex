@@ -376,31 +376,47 @@ We calculated the transmissibility values for each of the countries Liberia, Gui
     \end{tabular}
 \end{center}
 
-We also generated three other datasets  for a preferential attachment network, random network and a small-world network with approximatley same number of nodes and average degree as the real network for comparison purposes. We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these values for  running the simulations on the  network datasets.
+We also generated three other datasets  for a preferential attachment network, random network and a small-world network with approximately same number of nodes and average degree as the real network for comparison purposes. We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these values for  running the simulations on the  network datasets.
 
 \subsection*{\textbf{Simulation}}
 
-Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine so we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for multiple values  of Transmissibility so we developed a test harness written in python using \cite{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also ran another simulation to see the impact of minimum degree for patient zero for a given Transmissibility value for two different networks. 
+Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine so we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for multiple values  of transmissibility so we developed a test harness written in python using \cite{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also ran another simulation to see the impact of minimum degree for patient zero for a given transmissibility value for two different networks. 
 
 \subsection*{\textbf{Results and Conclusion}}
 
+%\begin{figure}[ht]
+%\centering
+%\subfigure[Network Simulation for Transmissibility]{
+  %\includegraphics[height=0.6\textwidth]{EbolaNetworkSpread.pdf}
+  %\label{fig:Network Simulation for Tran}}
+%\end{figure}
+
 \begin{figure}[ht]
 \centering
-\subfigure[Network Simulation for Transmissibility]{
-  \includegraphics[height=0.6\textwidth]{EbolaNetworkSpread.pdf}
-  \label{fig:Network Simulation for Ebola}}
+\includegraphics[scale=.8]{EbolaNetworkSpread.pdf}
+\caption{Network Simulation for Transmissibility}
+\label{Fig:Network_Transmissibility}
+\end{figure}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=.8]{EbolaMinDeg.pdf}
+\caption{Network Simulation for Patient Zero Minimum Degree}
+\label{Fig:Network_Transmissibility}
 \end{figure}
 
 
-Above figure show the percentage of network infected for different values of Transmissibility for  various network types.  The real world network has a constant slope for  increasing value of Transmissibility even beyond Epidemic Threshold and higher values of transmissibility in comparison to other network types.
+
+
+Above figure show the fraction of network infected for different values of transmissibility for  various network types.  The simulation captures the overall fraction of network infected  but does not capture any temporal progression for Ebola.Above the epidemic threshold the rate at which the  fraction of the network getting infected increases for all network types and the rate is higher for other networks in comparison to power law networks which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these networks contrary to the compartmental model assumption that an outbreak will always become an epidemic when reproductive number is greater than 1.
 It is followed by a synthetic preferential attachment network following a perfect power law distribution. For Preferential attachment, Small World and Random Networks for value of T in the range of 0.35-0.40 [R in range 3.5-4] nearly the entire network gets infected but not for real network.
 
-\begin{figure}[ht]
-\centering
-\subfigure[Network Simulation for Patient Zero Minimum Degree]{
-  \includegraphics[height=0.6\textwidth]{EbolaMinDeg.pdf}
-  \label{fig:Network Simulation for Ebola}}
-\end{figure}
+%\begin{figure}[ht]
+%\centering
+%\subfigure[Network Simulation for Patient Zero Minimum Degree]{
+ % \includegraphics[height=0.6\textwidth]{EbolaMinDeg.pdf}
+  %\label{fig:Network Simulation for Ebola}}
+%\end{figure}
 
 
 
