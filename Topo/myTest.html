@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>D3: Loading GeoJSON data and generating SVG paths</title>
+    <script type="text/javascript" src="http://d3js.org/d3.v2.min.js"></script>
+      <script src="http://d3js.org/topojson.v1.min.js"></script>
+     <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script>
+    <style type="text/css">
+      /* No style rules here yet */   
+    </style>
+  </head>
+  <body>
+    <script type="text/javascript">
+
+
+      //Width and height
+      var w = 500;
+      var h = 300;
+
+      //Define map projection
+      var projection = d3.geo.mercator()
+                   .scale(500)
+                   .translate([w / 2, h / 2]);
+
+    //var projection3 = d3.geo.azimuthal();//.mode("equidistant");
+    //.origin([-98, 38]).scale([500]).translate([width/2, height/2]);
+        
+
+
+            //Define default path generator
+      var path = d3.geo.path().projection(projection);
+      var color1 =
+      [
+      "#000066",
+      "#6600CC",
+      "#3366FF",
+      "#00CC99",
+      "#FFFF66",
+      "#FF9966",
+      "#FF5050"
+      ];
+      var color2 = ["#6600FF",
+      "#89fe05",
+      "#8e82fe",
+      "#f97306",
+      "#ea4040",
+      "#1D479E",
+      "#56CCB7"
+      ];
+        
+
+var line = d3.svg.line()
+    .x(function(d) { return d.x; })
+    .y(function(d) { return d.y; })
+    .interpolate("basis");
+      //Create SVG element
+      var svg = d3.select("body")
+            .append("svg")
+            .attr("width", w)
+            .attr("height", h);
+
+
+
+
+
+      //Load in GeoJSON data
+      d3.json("countries.json", function(json) {
+          var counter = 1;
+
+          for (var j = 0; j < json.features.length; j++) 
+          {
+            var jsonState = json.features[j].properties.sov_a3;
+            var coOrd = json.features[j].geometry.coordinates;
+            if ((jsonState == "GIN")||
+             (jsonState == "SLE")||
+              (jsonState == "LBR")||
+              (jsonState == "MLI")||
+              (jsonState == "CIV")||
+              (jsonState == "GNB")||
+              (jsonState == "SEN")||
+              (jsonState == "ESP")||
+              (jsonState == "CHE")||
+              (jsonState == "US1")||
+              (jsonState == "DEU")||
+              (jsonState == "SAU")||
+              (jsonState == "ECU")||
+              (jsonState == "NL1")||
+              (jsonState == "QAT")||
+              (jsonState == "CH1")||
+              (jsonState == "FR1")||
+              (jsonState == "JPN")||
+              (jsonState == "ITA")||
+              (jsonState == "BEL")||
+              (jsonState == "NGA")||
+              (jsonState == "RUS")||
+              (jsonState == "GB1")
+            )
+            {
+              if (jsonState == "GIN")
+              {
+                json.features[j].properties.value = 1;
+                                counter=counter+1;     
+
+              }
+              else if (jsonState == "CIV")
+              {
+                json.features[j].properties.value =6;
+                                counter=counter+1;     
+
+              }
+               else if (jsonState == "SLE")
+              {
+                json.features[j].properties.value =4;
+                                counter=counter+1;     
+
+              }
+              else
+              {
+                json.features[j].properties.value = counter;
+                counter=counter+1;     
+              }
+            }
+
+          }
+
+        //Bind data and create one path per GeoJSON feature
+        svg.selectAll("path")
+           .data(json.features)
+           .enter()
+           .append("path")
+           .attr("d", path)
+            .style("fill", function(d)
+            {
+              var value = d.properties.value;
+              //if (value)
+                //document.write(value%10)
+              if (value)
+                return color1[value%7];
+              else
+                return "#ccc";
+            })
+            .style('stroke', 'white')
+            .style('stroke-width', 0.4);
+
+
+
+          
+
+      // //         Load in cities data
+      //     d3.json("locations1.geojson", function(data) {
+      //       //document.write(data.features.length);
+      //         svg.selectAll("circle")
+      //          .data(data.features)
+      //          .enter()
+      //          .append("circle")
+      //          .attr("cx", function(d) {
+      //             var coord = d.geometry.coordinates;
+      //             //document.write(coord[0]);
+      //             return projection([coord[0],coord[1]])[0];
+      //          })
+      //          .attr("cy", function(d) {
+      //             var coord = d.geometry.coordinates;
+      //             return projection([coord[0],coord[1]])[1];
+      //          })
+      //          .attr("r",1)
+      //          .style("fill", "red")
+      //          .style("opacity", 0.75);
+      //          }); 
+
+        //  d3.json("locations1.geojson", function(data) {
+         //  for 
+         // });
+
+     //var arcs = svg.append("svg:g").data(control.clean.routes).attr("id", "arcs");
+    var arcs = svg.append("svg:g")
+        .attr("id", "arcs");
+
+      //  var arcsEnter = arcs.selectAll("g")        
+        //.enter();
+
+ 
+                
+
+
+//     var dd = "M-3.7,40 L-95,37";
+
+//var sourceLocation = [-3.74922, 40.46366700000001];
+  //  var targetLocation = [-95.712891, 37.09024];
+    var links = [
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-8,12.65]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-11.779889,8.460555]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-5.283333,6.816667]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-9.429499000000002,6.428055] 
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-15.6, 11.866667] 
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-14.452362, 14.497401] 
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[37.616667, 55.75]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-3.74922, 40.46366700000001]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-0.1275,51.507222]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[8.539183, 47.368650]
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[-95.712891, 37.09024] 
+    },
+    {
+    'source':[-13.712222,9.509167],
+    'target':[13.404954, 52.520007]
+    },                
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[-5.283333,6.816667]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[-13.712222,9.509167] 
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[-11.779889,8.460555]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[13.404954, 52.520007]
+    },
+     {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[13.404954, 52.520007]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[-95.712891, 37.09024] 
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[12.496366,41.902783]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[2.352222,48.856614]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[4.883333, 52.366667]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[7.483333, 9.066667]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[-3.74922, 40.46366700000001]
+    },
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[139.6917,35.689506] 
+    },  
+    {
+    'source':[-9.429499000000002,6.428055] ,
+    'target':[4.351710, 50.85]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[-13.712222,9.509167]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[-9.429499000000002,6.428055]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[-95.712891, 37.09024]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[46.766667, 24.65] 
+    },                
+    {
+    'source':[-11.779889,8.460555],
+    'target':[-78.35,-0.15]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[37.616667, 55.75] 
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[51.516667, 25.3]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[116.383333, 39.916667] 
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[2.352222,48.856614] 
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[13.404954, 52.520007] 
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[-5.283333,6.816667]
+    },
+    {
+    'source':[-11.779889,8.460555],
+    'target':[139.6917,35.689506] 
+    }
+    ];
+ var arc = d3.geo.greatArc()
+  .precision(1);
+   var arcPaths = svg.append("svg:g")
+        .attr("id","arcs").selectAll("path")
+        .data(links)
+        .enter()
+        .append("path")
+        .style("stroke-width",.5)
+        .style("stroke", "#CCFFCC")
+  .style("fill", "none")
+  .attr("d", function(d) { return path(arc(d)); });
+
+
+     var x = projection([-11.779889, 8.460555])[0];
+     var y = projection([-11.779889, 8.460555])[1];
+    // ll = [-11.779889, 8.460555];
+   // var mydata = JSON.parse('county.json');
+    //document.write(mydata);
+    var myList1 = 
+    [
+      {"coordinates":[-13.712222,9.509167] ,"name":"Guinea",},
+      {"coordinates":[-9.429499000000002,6.428055] ,"name":"Libera"},
+      {"coordinates":[-11.779889,8.460555] ,"name":"Sierra Leone"},
+      {"coordinates":[-8,12.65] ,"name":"Mali"},
+      {"coordinates":[-5.283333,6.816667] ,"name":"Cote'divore"},
+      {"coordinates":[-15.6, 11.866667] ,"name":"Guinea-Bissau"},
+      {"coordinates":[-14.452362, 14.497401] ,"name":"Senegal"},
+      {"coordinates":[37.616667, 55.75] ,"name":"Russia"},
+      {"coordinates":[-3.74922, 40.46366700000001] ,"name":"Spain"},
+      {"coordinates":[-0.1275,51.507351] ,"name":"Great Britain"},
+      {"coordinates":[7.45, 46.95] ,"name":"Switzerland"},
+      {"coordinates":[-95.712891, 37.09024] ,"name":"United States"},
+      {"coordinates":[13.404954, 52.520007] ,"name":"Germany"},
+      {"coordinates":[-78.35,-0.15] ,"name":"Ecuador"},
+      {"coordinates":[116.383333, 39.916667] ,"name":"China"},
+      {"coordinates":[2.352222,48.856614] ,"name":"France"},
+      {"coordinates":[46.766667, 24.65] ,"name":"Saudi Arabia"},
+      {"coordinates":[12.496366,41.902783] ,"name":"Italy"},
+      {"coordinates":[139.6917,35.689506] ,"name":"Japan"},
+      {"coordinates":[4.351710, 50.85] ,"name":"Belgium"},
+      {"coordinates":[7.483333, 9.066667] ,"name":"Nigeria"},
+      {"coordinates":[51.516667, 25.3] ,"name":"Qatar"},
+      {"coordinates":[4.883333, 52.366667] ,"name":"Netherlands"}
+    ];
+    var myList = 
+    [
+      {"coordinates":[-7,13.509167] ,"name":"Guinea",},
+      {"coordinates":[-15,7.428055] ,"name":"Libera"},
+      {"coordinates":[-25.779889,10.460555] ,"name":"Sierra Leone"},
+      {"coordinates":[-0,20] ,"name":"Mali"},
+      {"coordinates":[-4.283333,6.816667] ,"name":"Cote'divore"},
+      {"coordinates":[-33, 13.5] ,"name":"Guinea-Bissau"},
+      {"coordinates":[-17, 16] ,"name":"Senegal"},
+      {"coordinates":[40, 62] ,"name":"Russia"},
+      {"coordinates":[-3.74922, 42.46366700000001] ,"name":"Spain"},
+      {"coordinates":[-6,55.507351] ,"name":"Great Britain"},
+      {"coordinates":[-95.712891, 42.09024] ,"name":"United States"},
+      {"coordinates":[5.404954, 52.520007] ,"name":"Germany"},
+      {"coordinates":[-78.35,-0.15] ,"name":"Ecuador"},
+      {"coordinates":[95.383333, 39.916667] ,"name":"China"},
+      {"coordinates":[2.352222,48.856614] ,"name":"France"},
+      {"coordinates":[40.766667, 22.65] ,"name":"Saudi Arabia"},
+      {"coordinates":[12.496366,41.902783] ,"name":"Italy"},
+      {"coordinates":[130.6917,35.689506] ,"name":"Japan"},
+      {"coordinates":[7.483333, 13] ,"name":"Nigeria"},
+      {"coordinates":[54.516667, 27.3] ,"name":"Qatar"},
+    ];    
+    var a;
+    for (i = 0; i < myList.length; i++) 
+    {
+      var text = myList[i].name;
+      var x = projection(myList[i].coordinates)[0];
+      var y = projection(myList[i].coordinates)[1];
+
+      svg.append("g")
+        .attr("class", "gpoint")
+        .append("text")
+        .attr("x", x-5) 
+        .attr("y", y+5)
+        .attr("class","text")
+        .text(text)
+        .style("font-family","Verdana")
+        .style("font-size","4px")          
+        .style("fill","black");
+
+
+
+    }
+
+
+
+    /*   d3.json("locations1.geojson", function(data) {
+              svg.append("g").append("g")
+               .data(data.features)
+               .enter()
+               .attr("class", "gpoint").append("text")
+               .attr("class", "gpoint")
+               .attr("x", function(d) {
+                  var coord = d.geometry.coordinates;
+                  document.write(coord[0]);
+                  return projection([coord[0],coord[1]])[0];
+               })
+               .attr("y", function(d) {
+                  var coord = d.geometry.coordinates;
+                  return projection([coord[0],coord[1]])[1];
+               })
+          .attr("class","text")
+          .text("Shafi")
+          .style("font-size","4px")          
+          .style("fill","gray");
+               }); */
+
+
+
+      /*     d3.json("county.json", function(data) {
+    svg.append("g").append("g").attr("class", "gpoint").append("text")
+    .attr("class", "gpoint")
+    .data(data.features)
+    .enter()
+    .attr("x", function(d) {
+            var coord = d.coordinates;
+            document.write(coord[0]);
+            return projection([coord[0],coord[1]])[0] + 2;
+            })     
+          .attr("y", function(d) {
+            var coord = d.coordinates;
+            return projection([coord[0],coord[1]])[1] + 2;
+            })     
+          .attr("class","text")
+          .text("Shafi")
+          .style("font-size","4px")          
+          .style("fill","gray");
+        });*/
+        
+  });
+      //          .data(data.features)
+      //          .enter()
+/*    d3.json("county.json", function(data) {
+    svg.append("g").append("g").attr("class", "gpoint").append("text")
+    .attr("class", "gpoint")
+    .data(data.features)
+    .enter()
+    .attr("x", function(d) {
+            var coord = d.coordinates;
+            document.write(coord[0]);
+            return projection([coord[0],coord[1]])[0] + 2;
+            })     
+          .attr("y", function(d) {
+            var coord = d.coordinates;
+            return projection([coord[0],coord[1]])[1] + 2;
+            })     
+          .attr("class","text")
+          .text("Shafi")
+          .style("font-size","4px")          
+          .style("fill","gray");
+        });*/
+
+
+
+      //          .attr("cx", function(d) {
+      //             var coord = d.geometry.coordinates;
+      //             //document.write(coord[0]);
+      //             return projection([coord[0],coord[1]])[0];
+      //          })          
+//89fe05
+//FFCCCC
+
+      //.attr('d', function(d) { 
+       // return lngLatToArc(sourceLocation, targetLocation, 15); // A bend of 5 looks nice and subtle, but this will depend on the length of your arcs and the visual look your visualization requires. Higher number equals less bend.
+      //});           
+  
+
+
+  
+
+            
+    </script>
+  </body>
+</html>
