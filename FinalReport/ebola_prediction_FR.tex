@@ -405,11 +405,21 @@ http://www.gnu.org/software/parallel/ to leverage  multiple  cores of the EC2 in
 Above figure show the percentage of network infected for different values of Transmissibility for  various network types.  The real world network has a constant slope for  increasing value of Transmissibility even beyond Epidemic Threshold and higher values of transmissibility in comparison to other network types.
 It is followed by a synthetic preferential attachment network following a perfect power law distribution. For Preferential attachment, Small World and Random Networks for value of T in the range of 0.35-0.40 [R in range 3.5-4] nearly the entire network gets infected but not for real network.
 
+
+\begin{figure}[ht]
+\centering
+\subfigure[Network Simulation for Ebola]{
+  \includegraphics[height=0.8\textwidth]{EbolaMinDeg.pdf}
+  \label{fig:Network Simulation for Ebola}}
+\end{figure}
+
+
+
 \subsection*{\textbf{Future Work}}
 
 Since the countries  severely impacted by Ebola are not technically  advanced  it will be  very interesting to infer the hidden network using the cascade diffusion model. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used in future.
 
-\subsection*{\textbf{Contribution}}
+
 
 
 
@@ -707,6 +717,14 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 %%%%%%%%%%%%
 
 \end{appendix}
+
+\subsection*{\textbf{Contribution}}
+
+Romit Singhai: Initial project idea and research,  contribution to project proposal and milestone report specifically for mapping the compartmental model to network based model. Exploring the MCMC approach for compartmental model  and developing code.I worked on data collection, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs. I also wrote the part to map the compartmental model to contact network of the final  paper including conclusion and future work.
+
+
+
+
 
 
 \end{document}
