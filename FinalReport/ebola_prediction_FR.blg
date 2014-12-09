@@ -4,45 +4,45 @@ The top-level auxiliary file: ebola_prediction_FR.aux
 The style file: plainnat.bst
 Database file #1: bib_ref.bib
 Warning--I didn't find a database entry for ""
-You've used 18 entries,
+You've used 19 entries,
             2773 wiz_defined-function locations,
-            697 strings with 8428 characters,
-and the built_in function-call counts, 7918 in all, are:
-= -- 683
-> -- 502
+            706 strings with 8644 characters,
+and the built_in function-call counts, 8442 in all, are:
+= -- 731
+> -- 532
 < -- 11
-+ -- 176
-- -- 156
-* -- 630
-:= -- 1247
-add.period$ -- 63
-call.type$ -- 18
-change.case$ -- 106
-chr.to.int$ -- 16
-cite$ -- 36
-duplicate$ -- 321
-empty$ -- 635
-format.name$ -- 176
-if$ -- 1627
++ -- 186
+- -- 165
+* -- 680
+:= -- 1326
+add.period$ -- 66
+call.type$ -- 19
+change.case$ -- 112
+chr.to.int$ -- 17
+cite$ -- 38
+duplicate$ -- 342
+empty$ -- 678
+format.name$ -- 186
+if$ -- 1735
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 9
-newline$ -- 107
-num.names$ -- 72
-pop$ -- 233
+missing$ -- 10
+newline$ -- 112
+num.names$ -- 76
+pop$ -- 243
 preamble$ -- 1
-purify$ -- 88
+purify$ -- 93
 quote$ -- 0
-skip$ -- 267
+skip$ -- 282
 stack$ -- 0
-substring$ -- 198
-swap$ -- 21
+substring$ -- 231
+swap$ -- 22
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 198
+type$ -- 209
 warning$ -- 0
-while$ -- 68
+while$ -- 73
 width$ -- 0
-write$ -- 249
+write$ -- 262
 (There was 1 warning)

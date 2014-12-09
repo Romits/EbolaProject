@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74922,
+          40.46366700000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Lokula",
+        "country": "Democratic Republic of the Congo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.653891,
+          -0.420979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Dallas, TX",
+        "country": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.80045109999999,
+          32.7801399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kindia",
+        "country": "Guinea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.85,
+          10.066667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Liberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.429499000000002,
+          6.428055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Sierra Leone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.779889,
+          8.460555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675277,
+          9.081999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Senegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.452362,
+          14.497401
+        ]
+      }
+    }
+  ]
+}
