@@ -1,13 +1,13 @@
-Afghanistan	China	485
+Afghanistan	China	49
 Afghanistan	Germany	0
 Afghanistan	India	7
-Afghanistan	Iran	4898
-Afghanistan	Pakistan	14213
+Afghanistan	Iran	493
+Afghanistan	Pakistan	1440
 Afghanistan	Saudi Arabia	0
-Afghanistan	Tajikistan	7213
-Afghanistan	Turkmenistan	4274
-Afghanistan	Uzbekistan	765
-Akrotiri	Cyprus	16
+Afghanistan	Tajikistan	721
+Afghanistan	Turkmenistan	427
+Afghanistan	Uzbekistan	77
+Akrotiri	Cyprus	2
 Albania	Afghanistan	0
 Albania	Algeria	0
 Albania	Armenia	0
@@ -42,7 +42,7 @@ Albania	Gabon	0
 Albania	Georgia	0
 Albania	Germany	8
 Albania	Ghana	0
-Albania	Greece	933
+Albania	Greece	99
 Albania	Guatemala	0
 Albania	Hong Kong	0
 Albania	Hungary	0
@@ -57,21 +57,21 @@ Albania	Japan	0
 Albania	Jordan	0
 Albania	Kazakhstan	0
 Albania	Korea, South	0
-Albania	Kosovo	490
+Albania	Kosovo	49
 Albania	Latvia	0
 Albania	Lebanon	0
 Albania	Libya	1
 Albania	Lithuania	0
 Albania	Luxembourg	0
 Albania	Macau	0
-Albania	Macedonia	795
+Albania	Macedonia	83
 Albania	Malawi	0
 Albania	Malaysia	0
 Albania	Malta	13
 Albania	Mauritania	0
 Albania	Mexico	0
 Albania	Moldova	0
-Albania	Montenegro	816
+Albania	Montenegro	84
 Albania	Morocco	0
 Albania	Nepal	0
 Albania	Netherlands	1
@@ -171,21 +171,21 @@ Algeria	Korea, South	50
 Algeria	Kuwait	1
 Algeria	Lebanon	5
 Algeria	Liberia	0
-Algeria	Libya	5702
+Algeria	Libya	572
 Algeria	Lithuania	0
 Algeria	Luxembourg	0
 Algeria	Madagascar	0
 Algeria	Malaysia	7
-Algeria	Mali	7833
+Algeria	Mali	783
 Algeria	Malta	26
-Algeria	Mauritania	2654
+Algeria	Mauritania	268
 Algeria	Mexico	4
-Algeria	Morocco	11045
+Algeria	Morocco	1189
 Algeria	Mozambique	0
 Algeria	Nepal	0
 Algeria	Netherlands	432
 Algeria	New Zealand	0
-Algeria	Niger	5482
+Algeria	Niger	549
 Algeria	Nigeria	0
 Algeria	Norway	0
 Algeria	Oman	0
@@ -217,7 +217,7 @@ Algeria	Tanzania	0
 Algeria	Thailand	13
 Algeria	Togo	0
 Algeria	Trinidad and Tobago	0
-Algeria	Tunisia	6108
+Algeria	Tunisia	744
 Algeria	Turkey	238
 Algeria	Ukraine	1
 Algeria	United Arab Emirates	4
@@ -226,7 +226,7 @@ Algeria	United States	478
 Algeria	Uruguay	0
 Algeria	Venezuela	2
 Algeria	Vietnam	0
-Algeria	Western Sahara	236
+Algeria	Western Sahara	24
 Algeria	Zimbabwe	0
 Andorra	Albania	0
 Andorra	Argentina	0
@@ -246,7 +246,7 @@ Andorra	Czech Republic	0
 Andorra	Denmark	0
 Andorra	Dominican Republic	0
 Andorra	Finland	0
-Andorra	France	41
+Andorra	France	5
 Andorra	French Polynesia	0
 Andorra	Germany	0
 Andorra	Hong Kong	0
@@ -264,7 +264,7 @@ Andorra	Russia	0
 Andorra	Senegal	0
 Andorra	Singapore	0
 Andorra	Slovenia	0
-Andorra	Spain	50
+Andorra	Spain	9
 Andorra	Sweden	0
 Andorra	Switzerland	0
 Andorra	Syria	0
@@ -276,8 +276,8 @@ Angola	Brazil	379
 Angola	Cameroon	16
 Angola	Canada	67
 Angola	Chile	40
-Angola	Congo, Democratic Republic of the	9409
-Angola	Congo, Republic of the	821
+Angola	Congo, Democratic Republic of the	943
+Angola	Congo, Republic of the	82
 Angola	Denmark	0
 Angola	France	523
 Angola	Germany	38
@@ -285,7 +285,7 @@ Angola	Gibraltar	22
 Angola	Italy	149
 Angola	Japan	0
 Angola	Morocco	1
-Angola	Namibia	5073
+Angola	Namibia	507
 Angola	Netherlands	371
 Angola	Nigeria	33
 Angola	Norway	13
@@ -296,7 +296,7 @@ Angola	Spain	73
 Angola	Tanzania	16
 Angola	United Kingdom	260
 Angola	United States	3772
-Angola	Zambia	3786
+Angola	Zambia	379
 Anguilla	Antigua and Barbuda	0
 Anguilla	Bahamas, The	0
 Anguilla	Barbados	0
@@ -396,9 +396,9 @@ Argentina	Belgium	30
 Argentina	Belize	0
 Argentina	Benin	0
 Argentina	Bhutan	0
-Argentina	Bolivia	3467
+Argentina	Bolivia	420
 Argentina	Bosnia and Herzegovina	1
-Argentina	Brazil	6195
+Argentina	Brazil	2109
 Argentina	Bulgaria	16
 Argentina	Burkina Faso	0
 Argentina	Burma	0
@@ -408,7 +408,7 @@ Argentina	Cambodia	2
 Argentina	Cameroon	5
 Argentina	Canada	36
 Argentina	Chad	0
-Argentina	Chile	24453
+Argentina	Chile	2804
 Argentina	China	562
 Argentina	Colombia	156
 Argentina	Comoros	0
@@ -500,7 +500,7 @@ Argentina	Oman	3
 Argentina	Pakistan	15
 Argentina	Panama	12
 Argentina	Papua New Guinea	0
-Argentina	Paraguay	9231
+Argentina	Paraguay	1042
 Argentina	Peru	148
 Argentina	Philippines	43
 Argentina	Poland	63
@@ -545,7 +545,7 @@ Argentina	Ukraine	8
 Argentina	United Arab Emirates	26
 Argentina	United Kingdom	66
 Argentina	United States	437
-Argentina	Uruguay	2127
+Argentina	Uruguay	376
 Argentina	Uzbekistan	2
 Argentina	Vanuatu	0
 Argentina	Venezuela	220
@@ -558,7 +558,7 @@ Armenia	Afghanistan	0
 Armenia	Argentina	0
 Armenia	Australia	0
 Armenia	Austria	0
-Armenia	Azerbaijan	1942
+Armenia	Azerbaijan	194
 Armenia	Bahrain	0
 Armenia	Belarus	1
 Armenia	Belgium	14
@@ -577,13 +577,13 @@ Armenia	Estonia	0
 Armenia	Finland	0
 Armenia	France	1
 Armenia	Gabon	0
-Armenia	Georgia	435
+Armenia	Georgia	51
 Armenia	Germany	9
 Armenia	Greece	0
 Armenia	Hong Kong	0
 Armenia	Hungary	0
 Armenia	India	0
-Armenia	Iran	95
+Armenia	Iran	18
 Armenia	Iraq	5
 Armenia	Ireland	0
 Armenia	Israel	0
@@ -627,7 +627,7 @@ Armenia	Tajikistan	0
 Armenia	Tanzania	0
 Armenia	Thailand	0
 Armenia	Trinidad and Tobago	0
-Armenia	Turkey	606
+Armenia	Turkey	61
 Armenia	Turkmenistan	2
 Armenia	Ukraine	2
 Armenia	United Arab Emirates	1
@@ -930,7 +930,7 @@ Austria	Cote d'Ivoire	1
 Austria	Croatia	130
 Austria	Cuba	1
 Austria	Cyprus	26
-Austria	Czech Republic	1797
+Austria	Czech Republic	618
 Austria	Dem. People's Korea, South	0
 Austria	Denmark	77
 Austria	Djibouti	0
@@ -954,7 +954,7 @@ Austria	French Polynesia	0
 Austria	Gabon	2
 Austria	Gambia, The	0
 Austria	Georgia	7
-Austria	Germany	6941
+Austria	Germany	4592
 Austria	Ghana	3
 Austria	Gibraltar	0
 Austria	Greece	45
@@ -968,7 +968,7 @@ Austria	Haiti	0
 Austria	Holy See (Vatican City)	0
 Austria	Honduras	3
 Austria	Hong Kong	64
-Austria	Hungary	1486
+Austria	Hungary	545
 Austria	Iceland	3
 Austria	India	74
 Austria	Indonesia	33
@@ -976,7 +976,7 @@ Austria	Iran	20
 Austria	Iraq	17
 Austria	Ireland	100
 Austria	Israel	30
-Austria	Italy	2256
+Austria	Italy	1072
 Austria	Jamaica	0
 Austria	Japan	151
 Austria	Jordan	7
@@ -992,7 +992,7 @@ Austria	Lebanon	7
 Austria	Lesotho	0
 Austria	Liberia	0
 Austria	Libya	14
-Austria	Liechtenstein	111
+Austria	Liechtenstein	11
 Austria	Lithuania	21
 Austria	Luxembourg	23
 Austria	Macau	1
@@ -1050,8 +1050,8 @@ Austria	Seychelles	0
 Austria	Sierra Leone	0
 Austria	Singapore	45
 Austria	Sint Maarten	0
-Austria	Slovakia	632
-Austria	Slovenia	1254
+Austria	Slovakia	324
+Austria	Slovenia	377
 Austria	Solomon Islands	0
 Austria	Somalia	0
 Austria	South Africa	59
@@ -1062,7 +1062,7 @@ Austria	Sudan	2
 Austria	Suriname	1
 Austria	Swaziland	0
 Austria	Sweden	164
-Austria	Switzerland	1303
+Austria	Switzerland	839
 Austria	Syria	1
 Austria	Tajikistan	1
 Austria	Tanzania	2
@@ -1093,7 +1093,7 @@ Azerbaijan	Afghanistan	26
 Azerbaijan	Algeria	0
 Azerbaijan	Angola	0
 Azerbaijan	Argentina	0
-Azerbaijan	Armenia	3909
+Azerbaijan	Armenia	391
 Azerbaijan	Aruba	0
 Azerbaijan	Australia	0
 Azerbaijan	Austria	51
@@ -1117,7 +1117,7 @@ Azerbaijan	Egypt	7
 Azerbaijan	Estonia	0
 Azerbaijan	Finland	0
 Azerbaijan	France	144
-Azerbaijan	Georgia	1746
+Azerbaijan	Georgia	234
 Azerbaijan	Germany	173
 Azerbaijan	Ghana	0
 Azerbaijan	Greece	103
@@ -1127,7 +1127,7 @@ Azerbaijan	Hungary	0
 Azerbaijan	Iceland	0
 Azerbaijan	India	140
 Azerbaijan	Indonesia	353
-Azerbaijan	Iran	2713
+Azerbaijan	Iran	279
 Azerbaijan	Iraq	45
 Azerbaijan	Ireland	4
 Azerbaijan	Israel	160
@@ -1165,7 +1165,7 @@ Azerbaijan	Poland	1
 Azerbaijan	Portugal	67
 Azerbaijan	Qatar	0
 Azerbaijan	Romania	12
-Azerbaijan	Russia	1464
+Azerbaijan	Russia	270
 Azerbaijan	Saudi Arabia	0
 Azerbaijan	Serbia	0
 Azerbaijan	Sierra Leone	0
@@ -1182,7 +1182,7 @@ Azerbaijan	Thailand	212
 Azerbaijan	Togo	0
 Azerbaijan	Trinidad and Tobago	0
 Azerbaijan	Tunisia	24
-Azerbaijan	Turkey	134
+Azerbaijan	Turkey	74
 Azerbaijan	Turkmenistan	5
 Azerbaijan	Ukraine	35
 Azerbaijan	United Arab Emirates	1
@@ -1400,7 +1400,7 @@ Bangladesh	Br. Virgin Islands	0
 Bangladesh	Brazil	15
 Bangladesh	Bulgaria	0
 Bangladesh	Burkina Faso	0
-Bangladesh	Burma	10212
+Bangladesh	Burma	1022
 Bangladesh	Burundi	0
 Bangladesh	Cabo Verde	0
 Bangladesh	Cambodia	0
@@ -1455,7 +1455,7 @@ Bangladesh	Honduras	0
 Bangladesh	Hong Kong	22
 Bangladesh	Hungary	1
 Bangladesh	Iceland	0
-Bangladesh	India	156116
+Bangladesh	India	15653
 Bangladesh	Indonesia	3
 Bangladesh	Iran	9
 Bangladesh	Iraq	0
@@ -1767,11 +1767,11 @@ Belarus	Korea, South	3
 Belarus	Kuwait	0
 Belarus	Kyrgyzstan	10
 Belarus	Laos	0
-Belarus	Latvia	483
+Belarus	Latvia	96
 Belarus	Lebanon	2
 Belarus	Liberia	0
 Belarus	Libya	0
-Belarus	Lithuania	1817
+Belarus	Lithuania	279
 Belarus	Luxembourg	0
 Belarus	Macau	0
 Belarus	Macedonia	1
@@ -1802,11 +1802,11 @@ Belarus	Papua New Guinea	0
 Belarus	Paraguay	0
 Belarus	Peru	0
 Belarus	Philippines	2
-Belarus	Poland	1080
+Belarus	Poland	179
 Belarus	Portugal	1
 Belarus	Qatar	0
 Belarus	Romania	8
-Belarus	Russia	5184
+Belarus	Russia	2031
 Belarus	Rwanda	0
 Belarus	Saudi Arabia	1
 Belarus	Senegal	1
@@ -1831,7 +1831,7 @@ Belarus	Tunisia	2
 Belarus	Turkey	17
 Belarus	Turkmenistan	32
 Belarus	Uganda	0
-Belarus	Ukraine	3387
+Belarus	Ukraine	718
 Belarus	United Arab Emirates	4
 Belarus	United Kingdom	102
 Belarus	United States	9
@@ -1918,12 +1918,12 @@ Belgium	Faroe Islands	0
 Belgium	Fiji	0
 Belgium	Finland	143
 Belgium	Fr. South Antarctic Terr.	0
-Belgium	France	8535
+Belgium	France	4504
 Belgium	French Polynesia	2
 Belgium	Gabon	13
 Belgium	Gambia, The	1
 Belgium	Georgia	7
-Belgium	Germany	5475
+Belgium	Germany	4510
 Belgium	Ghana	37
 Belgium	Gibraltar	166
 Belgium	Greece	92
@@ -1963,7 +1963,7 @@ Belgium	Lesotho	0
 Belgium	Liberia	1
 Belgium	Libya	17
 Belgium	Lithuania	65
-Belgium	Luxembourg	1487
+Belgium	Luxembourg	545
 Belgium	Macau	0
 Belgium	Macedonia	3
 Belgium	Madagascar	6
@@ -1985,7 +1985,7 @@ Belgium	Mozambique	4
 Belgium	Namibia	1
 Belgium	Nauru	0
 Belgium	Nepal	0
-Belgium	Netherlands	7038
+Belgium	Netherlands	3572
 Belgium	New Caledonia	2
 Belgium	New Zealand	15
 Belgium	Nicaragua	1
@@ -2095,7 +2095,7 @@ Belize	France	0
 Belize	Germany	0
 Belize	Greece	0
 Belize	Grenada	0
-Belize	Guatemala	168
+Belize	Guatemala	18
 Belize	Guyana	1
 Belize	Haiti	0
 Belize	Honduras	0
@@ -2111,7 +2111,7 @@ Belize	Korea, South	0
 Belize	Lebanon	0
 Belize	Lithuania	0
 Belize	Malta	0
-Belize	Mexico	176
+Belize	Mexico	19
 Belize	Netherlands	3
 Belize	Nicaragua	0
 Belize	Panama	0
@@ -2141,7 +2141,7 @@ Benin	Albania	0
 Benin	Argentina	0
 Benin	Bangladesh	1
 Benin	Belgium	1
-Benin	Burkina Faso	1847
+Benin	Burkina Faso	185
 Benin	Burundi	0
 Benin	Cameroon	1
 Benin	Canada	0
@@ -2180,8 +2180,8 @@ Benin	Morocco	1
 Benin	Mozambique	0
 Benin	Netherlands	2
 Benin	Nicaragua	0
-Benin	Niger	1329
-Benin	Nigeria	3919
+Benin	Niger	136
+Benin	Nigeria	434
 Benin	Norfolk Islands	0
 Benin	Pakistan	1
 Benin	Peru	0
@@ -2196,7 +2196,7 @@ Benin	Sweden	0
 Benin	Switzerland	0
 Benin	Tanzania	0
 Benin	Thailand	1
-Benin	Togo	3118
+Benin	Togo	314
 Benin	Tunisia	0
 Benin	Turkey	0
 Benin	Uganda	0
@@ -2228,12 +2228,12 @@ Bhutan	Bahrain	0
 Bhutan	Bangladesh	4
 Bhutan	Canada	0
 Bhutan	Chile	0
-Bhutan	China	308
+Bhutan	China	31
 Bhutan	Denmark	0
 Bhutan	France	0
 Bhutan	Germany	0
 Bhutan	Hong Kong	10
-Bhutan	India	473
+Bhutan	India	90
 Bhutan	Israel	0
 Bhutan	Italy	0
 Bhutan	Japan	0
@@ -2253,7 +2253,7 @@ Bhutan	United States	0
 Bhutan	Vietnam	0
 Bolivia	Algeria	0
 Bolivia	Angola	0
-Bolivia	Argentina	1607
+Bolivia	Argentina	364
 Bolivia	Australia	15
 Bolivia	Austria	0
 Bolivia	Bahamas, The	0
@@ -2261,10 +2261,10 @@ Bolivia	Barbados	0
 Bolivia	Belarus	0
 Bolivia	Belgium	22
 Bolivia	Belize	0
-Bolivia	Brazil	5353
+Bolivia	Brazil	863
 Bolivia	Bulgaria	0
 Bolivia	Canada	15
-Bolivia	Chile	1395
+Bolivia	Chile	152
 Bolivia	China	29
 Bolivia	Colombia	61
 Bolivia	Costa Rica	0
@@ -2307,8 +2307,8 @@ Bolivia	New Zealand	0
 Bolivia	Nicaragua	0
 Bolivia	Norway	0
 Bolivia	Panama	2
-Bolivia	Paraguay	1107
-Bolivia	Peru	1834
+Bolivia	Paraguay	113
+Bolivia	Peru	235
 Bolivia	Poland	0
 Bolivia	Portugal	1
 Bolivia	Romania	0
@@ -2357,7 +2357,7 @@ Bosnia and Herzegovina	China	1
 Bosnia and Herzegovina	Congo, Democratic Republic of the	0
 Bosnia and Herzegovina	Congo, Republic of the	0
 Bosnia and Herzegovina	Costa Rica	0
-Bosnia and Herzegovina	Croatia	2473
+Bosnia and Herzegovina	Croatia	314
 Bosnia and Herzegovina	Cuba	0
 Bosnia and Herzegovina	Cyprus	0
 Bosnia and Herzegovina	Czech Republic	9
@@ -2406,7 +2406,7 @@ Bosnia and Herzegovina	Mauritania	0
 Bosnia and Herzegovina	Mexico	0
 Bosnia and Herzegovina	Moldova	0
 Bosnia and Herzegovina	Mongolia	0
-Bosnia and Herzegovina	Montenegro	624
+Bosnia and Herzegovina	Montenegro	78
 Bosnia and Herzegovina	Morocco	1
 Bosnia and Herzegovina	Mozambique	0
 Bosnia and Herzegovina	Netherlands	7
@@ -2427,7 +2427,7 @@ Bosnia and Herzegovina	Rwanda	0
 Bosnia and Herzegovina	San Marino	0
 Bosnia and Herzegovina	Saudi Arabia	0
 Bosnia and Herzegovina	Senegal	0
-Bosnia and Herzegovina	Serbia	913
+Bosnia and Herzegovina	Serbia	134
 Bosnia and Herzegovina	Seychelles	0
 Bosnia and Herzegovina	Sierra Leone	0
 Bosnia and Herzegovina	Singapore	0
@@ -2522,7 +2522,7 @@ Botswana	Mexico	0
 Botswana	Mongolia	0
 Botswana	Morocco	0
 Botswana	Mozambique	1
-Botswana	Namibia	778
+Botswana	Namibia	89
 Botswana	Netherlands	0
 Botswana	New Zealand	0
 Botswana	Nigeria	0
@@ -2544,7 +2544,7 @@ Botswana	Sierra Leone	0
 Botswana	Singapore	0
 Botswana	Slovakia	0
 Botswana	Somalia	0
-Botswana	South Africa	1054
+Botswana	South Africa	176
 Botswana	Spain	0
 Botswana	Sri Lanka	0
 Botswana	Sudan	0
@@ -2563,7 +2563,7 @@ Botswana	United States	8
 Botswana	United States Minor Outlying Islands	0
 Botswana	Wallis and Futuna Islands	0
 Botswana	Zambia	5
-Botswana	Zimbabwe	427
+Botswana	Zimbabwe	54
 Brazil	Afghanistan	1
 Brazil	Albania	5
 Brazil	Algeria	109
@@ -2572,7 +2572,7 @@ Brazil	Andorra	0
 Brazil	Angola	116
 Brazil	Anguilla	0
 Brazil	Antigua and Barbuda	1
-Brazil	Argentina	17637
+Brazil	Argentina	3368
 Brazil	Armenia	3
 Brazil	Aruba	2
 Brazil	Australia	41
@@ -2587,7 +2587,7 @@ Brazil	Belgium	326
 Brazil	Belize	0
 Brazil	Benin	15
 Brazil	Bermuda	0
-Brazil	Bolivia	42854
+Brazil	Bolivia	4411
 Brazil	Bosnia and Herzegovina	0
 Brazil	Botswana	0
 Brazil	Br. Virgin Islands	2
@@ -2605,7 +2605,7 @@ Brazil	Chad	0
 Brazil	Chile	408
 Brazil	China	4183
 Brazil	Cocos Islands	0
-Brazil	Colombia	22715
+Brazil	Colombia	2493
 Brazil	Comoros	0
 Brazil	Congo, Democratic Republic of the	7
 Brazil	Congo, Republic of the	8
@@ -2648,7 +2648,7 @@ Brazil	Guam	0
 Brazil	Guatemala	22
 Brazil	Guinea	4
 Brazil	Guinea-Bissau	0
-Brazil	Guyana	16421
+Brazil	Guyana	1645
 Brazil	Haiti	5
 Brazil	Honduras	8
 Brazil	Hong Kong	279
@@ -2712,8 +2712,8 @@ Brazil	Pakistan	13
 Brazil	Palau	0
 Brazil	Panama	402
 Brazil	Papua New Guinea	1
-Brazil	Paraguay	17481
-Brazil	Peru	33572
+Brazil	Paraguay	1993
+Brazil	Peru	3533
 Brazil	Philippines	80
 Brazil	Pitcairn	0
 Brazil	Poland	36
@@ -2743,7 +2743,7 @@ Brazil	South Sudan	0
 Brazil	Spain	325
 Brazil	Sri Lanka	8
 Brazil	Sudan	5
-Brazil	Suriname	6470
+Brazil	Suriname	652
 Brazil	Swaziland	0
 Brazil	Sweden	41
 Brazil	Switzerland	129
@@ -2766,17 +2766,17 @@ Brazil	United Arab Emirates	225
 Brazil	United Kingdom	300
 Brazil	United States	2253
 Brazil	United States Minor Outlying Islands	0
-Brazil	Uruguay	13368
+Brazil	Uruguay	1506
 Brazil	Uzbekistan	4
 Brazil	Vanuatu	0
-Brazil	Venezuela	27265
+Brazil	Venezuela	3123
 Brazil	Vietnam	108
 Brazil	Wallis and Futuna Islands	0
 Brazil	West Bank	2
 Brazil	Yemen	42
 Brazil	Zambia	2
 Brazil	Zimbabwe	1
-Brunei	Malaysia	423
+Brunei	Malaysia	42
 Bulgaria	Afghanistan	0
 Bulgaria	Albania	7
 Bulgaria	Algeria	9
@@ -2851,7 +2851,7 @@ Bulgaria	Georgia	21
 Bulgaria	Germany	303
 Bulgaria	Ghana	1
 Bulgaria	Gibraltar	44
-Bulgaria	Greece	1980
+Bulgaria	Greece	351
 Bulgaria	Grenada	0
 Bulgaria	Guam	0
 Bulgaria	Guatemala	0
@@ -2886,7 +2886,7 @@ Bulgaria	Libya	13
 Bulgaria	Lithuania	5
 Bulgaria	Luxembourg	0
 Bulgaria	Macau	0
-Bulgaria	Macedonia	660
+Bulgaria	Macedonia	101
 Bulgaria	Madagascar	0
 Bulgaria	Malawi	0
 Bulgaria	Malaysia	5
@@ -2920,7 +2920,7 @@ Bulgaria	Philippines	4
 Bulgaria	Poland	45
 Bulgaria	Portugal	16
 Bulgaria	Qatar	1
-Bulgaria	Romania	2510
+Bulgaria	Romania	422
 Bulgaria	Russia	63
 Bulgaria	Rwanda	0
 Bulgaria	Saint Kitts and Nevis	0
@@ -2930,7 +2930,7 @@ Bulgaria	San Marino	0
 Bulgaria	Sao Tome and Principe	0
 Bulgaria	Saudi Arabia	7
 Bulgaria	Senegal	0
-Bulgaria	Serbia	1365
+Bulgaria	Serbia	178
 Bulgaria	Seychelles	0
 Bulgaria	Sierra Leone	0
 Bulgaria	Singapore	37
@@ -2956,7 +2956,7 @@ Bulgaria	Togo	0
 Bulgaria	Tonga	0
 Bulgaria	Trinidad and Tobago	0
 Bulgaria	Tunisia	21
-Bulgaria	Turkey	1074
+Bulgaria	Turkey	305
 Bulgaria	Turkmenistan	1
 Bulgaria	Turks and Caicos Islands	0
 Bulgaria	Tuvalu	0
@@ -2981,7 +2981,7 @@ Burkina Faso	Bahrain	0
 Burkina Faso	Bangladesh	2
 Burkina Faso	Barbados	0
 Burkina Faso	Belgium	1
-Burkina Faso	Benin	1967
+Burkina Faso	Benin	200
 Burkina Faso	Brazil	0
 Burkina Faso	Burundi	0
 Burkina Faso	Cameroon	1
@@ -2991,7 +2991,7 @@ Burkina Faso	China	29
 Burkina Faso	Colombia	0
 Burkina Faso	Congo, Democratic Republic of the	0
 Burkina Faso	Congo, Republic of the	0
-Burkina Faso	Cote d'Ivoire	2785
+Burkina Faso	Cote d'Ivoire	290
 Burkina Faso	Dem. People's Korea, South	0
 Burkina Faso	Denmark	5
 Burkina Faso	Egypt	1
@@ -3002,7 +3002,7 @@ Burkina Faso	France	14
 Burkina Faso	Gabon	1
 Burkina Faso	Gambia, The	0
 Burkina Faso	Germany	2
-Burkina Faso	Ghana	3074
+Burkina Faso	Ghana	318
 Burkina Faso	Greece	0
 Burkina Faso	Guatemala	0
 Burkina Faso	Guinea-Bissau	0
@@ -3022,12 +3022,12 @@ Burkina Faso	Liberia	0
 Burkina Faso	Libya	0
 Burkina Faso	Madagascar	0
 Burkina Faso	Malaysia	13
-Burkina Faso	Mali	6776
+Burkina Faso	Mali	711
 Burkina Faso	Mauritania	0
 Burkina Faso	Morocco	0
 Burkina Faso	Netherlands	3
 Burkina Faso	New Zealand	0
-Burkina Faso	Niger	3170
+Burkina Faso	Niger	323
 Burkina Faso	Nigeria	0
 Burkina Faso	Norway	0
 Burkina Faso	Pakistan	0
@@ -3050,7 +3050,7 @@ Burkina Faso	Switzerland	11
 Burkina Faso	Syria	0
 Burkina Faso	Tanzania	0
 Burkina Faso	Thailand	3
-Burkina Faso	Togo	671
+Burkina Faso	Togo	72
 Burkina Faso	Tunisia	0
 Burkina Faso	Turkey	1
 Burkina Faso	Uganda	3
@@ -3064,7 +3064,7 @@ Burma	Argentina	1
 Burma	Australia	1
 Burma	Austria	1
 Burma	Bahrain	0
-Burma	Bangladesh	2324
+Burma	Bangladesh	240
 Burma	Belgium	0
 Burma	Botswana	0
 Burma	Brazil	0
@@ -3072,7 +3072,7 @@ Burma	Bulgaria	1
 Burma	Cameroon	0
 Burma	Canada	0
 Burma	Chile	0
-Burma	China	18246
+Burma	China	1869
 Burma	Colombia	0
 Burma	Costa Rica	0
 Burma	Cote d'Ivoire	9
@@ -3085,7 +3085,7 @@ Burma	Georgia	4
 Burma	Greece	0
 Burma	Hong Kong	165
 Burma	Hungary	0
-Burma	India	12646
+Burma	India	1353
 Burma	Indonesia	4
 Burma	Iran	0
 Burma	Iraq	0
@@ -3096,7 +3096,7 @@ Burma	Japan	22
 Burma	Jordan	0
 Burma	Korea, South	13
 Burma	Kuwait	7
-Burma	Laos	2034
+Burma	Laos	203
 Burma	Lebanon	0
 Burma	Macau	0
 Burma	Malaysia	17
@@ -3120,7 +3120,7 @@ Burma	Spain	3
 Burma	Sri Lanka	0
 Burma	Sweden	0
 Burma	Switzerland	0
-Burma	Thailand	20977
+Burma	Thailand	2391
 Burma	Turkey	1
 Burma	Ukraine	0
 Burma	United Arab Emirates	3
@@ -3137,7 +3137,7 @@ Burundi	Cambodia	0
 Burundi	Cameroon	0
 Burundi	Canada	0
 Burundi	China	0
-Burundi	Congo, Democratic Republic of the	2152
+Burundi	Congo, Democratic Republic of the	215
 Burundi	Congo, Republic of the	0
 Burundi	Cote d'Ivoire	0
 Burundi	Denmark	0
@@ -3161,13 +3161,13 @@ Burundi	Mali	0
 Burundi	Morocco	0
 Burundi	Netherlands	0
 Burundi	Papua New Guinea	0
-Burundi	Rwanda	2874
+Burundi	Rwanda	288
 Burundi	Saudi Arabia	0
 Burundi	Senegal	0
 Burundi	Sierra Leone	0
 Burundi	South Africa	0
 Burundi	Switzerland	0
-Burundi	Tanzania	5372
+Burundi	Tanzania	538
 Burundi	Thailand	0
 Burundi	Turkey	0
 Burundi	Uganda	0
@@ -3271,7 +3271,7 @@ Cambodia	Jordan	0
 Cambodia	Kenya	0
 Cambodia	Korea, South	6
 Cambodia	Kuwait	0
-Cambodia	Laos	3391
+Cambodia	Laos	339
 Cambodia	Latvia	0
 Cambodia	Lebanon	0
 Cambodia	Lesotho	0
@@ -3328,7 +3328,7 @@ Cambodia	Sweden	3
 Cambodia	Switzerland	2
 Cambodia	Syria	0
 Cambodia	Tanzania	0
-Cambodia	Thailand	5007
+Cambodia	Thailand	514
 Cambodia	Timor-Leste	0
 Cambodia	Togo	0
 Cambodia	Trinidad and Tobago	0
@@ -3342,7 +3342,7 @@ Cambodia	United States	139
 Cambodia	Uruguay	0
 Cambodia	Vanuatu	0
 Cambodia	Venezuela	0
-Cambodia	Vietnam	7082
+Cambodia	Vietnam	715
 Cambodia	Yemen	0
 Cambodia	Zambia	0
 Cambodia	Zimbabwe	0
@@ -3362,12 +3362,12 @@ Cameroon	Bulgaria	0
 Cameroon	Burkina Faso	1
 Cameroon	Burundi	0
 Cameroon	Canada	0
-Cameroon	Central African Republic	4157
-Cameroon	Chad	5154
+Cameroon	Central African Republic	419
+Cameroon	Chad	524
 Cameroon	China	79
 Cameroon	Comoros	0
 Cameroon	Congo, Democratic Republic of the	12
-Cameroon	Congo, Republic of the	2288
+Cameroon	Congo, Republic of the	239
 Cameroon	Costa Rica	0
 Cameroon	Cote d'Ivoire	1
 Cameroon	Croatia	0
@@ -3379,13 +3379,13 @@ Cameroon	Denmark	0
 Cameroon	Djibouti	0
 Cameroon	Dominican Republic	0
 Cameroon	Egypt	0
-Cameroon	Equatorial Guinea	856
+Cameroon	Equatorial Guinea	96
 Cameroon	Estonia	0
 Cameroon	Ethiopia	0
 Cameroon	Finland	0
 Cameroon	Fr. South Antarctic Terr.	0
 Cameroon	France	45
-Cameroon	Gabon	1619
+Cameroon	Gabon	171
 Cameroon	Gambia, The	0
 Cameroon	Germany	4
 Cameroon	Ghana	2
@@ -3421,7 +3421,7 @@ Cameroon	Netherlands	59
 Cameroon	New Caledonia	0
 Cameroon	New Zealand	0
 Cameroon	Niger	0
-Cameroon	Nigeria	9122
+Cameroon	Nigeria	928
 Cameroon	Norway	0
 Cameroon	Oman	0
 Cameroon	Pakistan	0
@@ -3663,7 +3663,7 @@ Canada	Uganda	2
 Canada	Ukraine	18
 Canada	United Arab Emirates	98
 Canada	United Kingdom	527
-Canada	United States	65816
+Canada	United States	34464
 Canada	United States Minor Outlying Islands	1
 Canada	Uruguay	4
 Canada	Uzbekistan	0
@@ -3678,12 +3678,12 @@ Central African Republic	Austria	0
 Central African Republic	Belgium	0
 Central African Republic	Brazil	0
 Central African Republic	Bulgaria	0
-Central African Republic	Cameroon	804
+Central African Republic	Cameroon	81
 Central African Republic	Canada	0
-Central African Republic	Chad	1387
+Central African Republic	Chad	139
 Central African Republic	China	1
-Central African Republic	Congo, Democratic Republic of the	1558
-Central African Republic	Congo, Republic of the	434
+Central African Republic	Congo, Democratic Republic of the	156
+Central African Republic	Congo, Republic of the	43
 Central African Republic	Cote d'Ivoire	0
 Central African Republic	Croatia	0
 Central African Republic	Cyprus	0
@@ -3718,9 +3718,9 @@ Central African Republic	Senegal	0
 Central African Republic	Singapore	0
 Central African Republic	Slovakia	0
 Central African Republic	South Africa	1
-Central African Republic	South Sudan	941
+Central African Republic	South Sudan	94
 Central African Republic	Spain	0
-Central African Republic	Sudan	155
+Central African Republic	Sudan	16
 Central African Republic	Sweden	0
 Central African Republic	Switzerland	0
 Central African Republic	Thailand	0
@@ -3734,18 +3734,18 @@ Central African Republic	United Kingdom	0
 Central African Republic	United States	0
 Central African Republic	Vietnam	0
 Central African Republic	Yemen	0
-Chad	Cameroon	1988
-Chad	Central African Republic	2772
-Chad	Libya	1871
-Chad	Niger	2131
-Chad	Nigeria	151
-Chad	Sudan	2499
+Chad	Cameroon	199
+Chad	Central African Republic	277
+Chad	Libya	187
+Chad	Niger	213
+Chad	Nigeria	15
+Chad	Sudan	250
 Chile	Albania	0
 Chile	Algeria	0
 Chile	Angola	1
 Chile	Anguilla	0
 Chile	Antigua and Barbuda	0
-Chile	Argentina	14988
+Chile	Argentina	1584
 Chile	Armenia	0
 Chile	Aruba	0
 Chile	Australia	73
@@ -3760,7 +3760,7 @@ Chile	Belgium	126
 Chile	Belize	0
 Chile	Benin	0
 Chile	Bermuda	0
-Chile	Bolivia	2253
+Chile	Bolivia	366
 Chile	Bosnia and Herzegovina	0
 Chile	Botswana	0
 Chile	Br. Virgin Islands	0
@@ -3868,7 +3868,7 @@ Chile	Pakistan	2
 Chile	Panama	11
 Chile	Papua New Guinea	0
 Chile	Paraguay	43
-Chile	Peru	553
+Chile	Peru	216
 Chile	Philippines	14
 Chile	Poland	7
 Chile	Portugal	3
@@ -3917,7 +3917,7 @@ Chile	Vietnam	28
 Chile	Yemen	0
 Chile	Zambia	0
 Chile	Zimbabwe	0
-China	Afghanistan	5532
+China	Afghanistan	579
 China	Albania	29
 China	Algeria	532
 China	Andorra	0
@@ -3938,7 +3938,7 @@ China	Belgium	1373
 China	Belize	11
 China	Benin	264
 China	Bermuda	17
-China	Bhutan	28849
+China	Bhutan	2887
 China	Bolivia	47
 China	Bonaire	0
 China	Bosnia and Herzegovina	8
@@ -3947,7 +3947,7 @@ China	Br. Virgin Islands	1
 China	Brazil	3168
 China	Bulgaria	99
 China	Burkina Faso	9
-China	Burma	129402
+China	Burma	13523
 China	Burundi	4
 China	Cabo Verde	5
 China	Cambodia	301
@@ -4002,10 +4002,10 @@ China	Guinea-Bissau	1
 China	Guyana	14
 China	Haiti	29
 China	Honduras	71
-China	Hong Kong	35931
+China	Hong Kong	34135
 China	Hungary	502
 China	Iceland	13
-China	India	165081
+China	India	20356
 China	Indonesia	3259
 China	Iran	1239
 China	Iraq	608
@@ -4015,14 +4015,14 @@ China	Italy	2273
 China	Jamaica	55
 China	Japan	13250
 China	Jordan	303
-China	Kazakhstan	107847
+China	Kazakhstan	11781
 China	Kenya	284
 China	Kiribati	2
-China	Korea, North	81764
+China	Korea, North	8176
 China	Korea, South	8046
 China	Kuwait	236
-China	Kyrgyzstan	64734
-China	Laos	28878
+China	Kyrgyzstan	6877
+China	Laos	3025
 China	Latvia	121
 China	Lebanon	220
 China	Lesotho	8
@@ -4030,7 +4030,7 @@ China	Liberia	206
 China	Libya	250
 China	Lithuania	149
 China	Luxembourg	160
-China	Macau	461
+China	Macau	298
 China	Macedonia	6
 China	Madagascar	57
 China	Malawi	19
@@ -4043,14 +4043,14 @@ China	Mauritania	53
 China	Mauritius	57
 China	Mexico	2556
 China	Moldova	10
-China	Mongolia	280220
+China	Mongolia	28216
 China	Montenegro	8
 China	Montserrat	0
 China	Morocco	289
 China	Mozambique	106
 China	Namibia	43
 China	Nauru	0
-China	Nepal	84196
+China	Nepal	8595
 China	Netherlands	5323
 China	New Caledonia	8
 China	New Zealand	365
@@ -4059,7 +4059,7 @@ China	Niger	16
 China	Nigeria	1063
 China	Norway	242
 China	Oman	168
-China	Pakistan	27462
+China	Pakistan	3622
 China	Palau	0
 China	Panama	970
 China	Papua New Guinea	49
@@ -4070,7 +4070,7 @@ China	Poland	1110
 China	Portugal	221
 China	Qatar	151
 China	Romania	249
-China	Russia	254688
+China	Russia	29408
 China	Rwanda	12
 China	Saint Kitts and Nevis	1
 China	Saint Lucia	2
@@ -4099,7 +4099,7 @@ China	Swaziland	2
 China	Sweden	600
 China	Switzerland	311
 China	Syria	61
-China	Tajikistan	29012
+China	Tajikistan	3050
 China	Tanzania	277
 China	Thailand	2888
 China	Timor-Leste	4
@@ -4120,7 +4120,7 @@ China	Uruguay	205
 China	Uzbekistan	231
 China	Vanuatu	34
 China	Venezuela	535
-China	Vietnam	82725
+China	Vietnam	12132
 China	Wallis and Futuna Islands	0
 China	West Bank	8
 China	Western Sahara	0
@@ -4150,7 +4150,7 @@ Colombia	Bermuda	0
 Colombia	Bolivia	13
 Colombia	Bosnia and Herzegovina	0
 Colombia	Br. Virgin Islands	0
-Colombia	Brazil	12552
+Colombia	Brazil	1386
 Colombia	Bulgaria	0
 Colombia	Burundi	0
 Colombia	Cabo Verde	0
@@ -4175,7 +4175,7 @@ Colombia	Denmark	24
 Colombia	Djibouti	0
 Colombia	Dominica	0
 Colombia	Dominican Republic	33
-Colombia	Ecuador	5087
+Colombia	Ecuador	671
 Colombia	Egypt	0
 Colombia	El Salvador	8
 Colombia	Estonia	0
@@ -4245,10 +4245,10 @@ Colombia	Nigeria	1
 Colombia	Norway	3
 Colombia	Oman	0
 Colombia	Pakistan	0
-Colombia	Panama	2644
+Colombia	Panama	529
 Colombia	Papua New Guinea	0
 Colombia	Paraguay	2
-Colombia	Peru	10471
+Colombia	Peru	1152
 Colombia	Philippines	1
 Colombia	Pitcairn	0
 Colombia	Poland	1
@@ -4292,7 +4292,7 @@ Colombia	United Kingdom	102
 Colombia	United States	1552
 Colombia	Uruguay	2
 Colombia	Uzbekistan	0
-Colombia	Venezuela	16432
+Colombia	Venezuela	1829
 Colombia	Vietnam	2
 Colombia	Yemen	0
 Colombia	Zambia	0
@@ -4329,18 +4329,18 @@ Comoros	United Kingdom	0
 Comoros	United States	0
 Comoros	Vietnam	0
 Comoros	Yemen	0
-Congo, Democratic Republic of the	Angola	19549
-Congo, Democratic Republic of the	Burundi	1744
-Congo, Democratic Republic of the	Central African Republic	12907
-Congo, Democratic Republic of the	Congo, Republic of the	9080
-Congo, Democratic Republic of the	Rwanda	1633
-Congo, Democratic Republic of the	South Sudan	5275
-Congo, Democratic Republic of the	Tanzania	3539
-Congo, Democratic Republic of the	Uganda	6479
-Congo, Democratic Republic of the	Zambia	17229
+Congo, Democratic Republic of the	Angola	1955
+Congo, Democratic Republic of the	Burundi	174
+Congo, Democratic Republic of the	Central African Republic	1291
+Congo, Democratic Republic of the	Congo, Republic of the	908
+Congo, Democratic Republic of the	Rwanda	163
+Congo, Democratic Republic of the	South Sudan	528
+Congo, Democratic Republic of the	Tanzania	354
+Congo, Democratic Republic of the	Uganda	648
+Congo, Democratic Republic of the	Zambia	1723
 Congo, Republic of the	Albania	0
 Congo, Republic of the	Algeria	0
-Congo, Republic of the	Angola	289
+Congo, Republic of the	Angola	96
 Congo, Republic of the	Argentina	0
 Congo, Republic of the	Australia	68
 Congo, Republic of the	Azerbaijan	0
@@ -4352,12 +4352,12 @@ Congo, Republic of the	Brazil	0
 Congo, Republic of the	Bulgaria	0
 Congo, Republic of the	Burkina Faso	0
 Congo, Republic of the	Cabo Verde	0
-Congo, Republic of the	Cameroon	478
+Congo, Republic of the	Cameroon	64
 Congo, Republic of the	Canada	16
-Congo, Republic of the	Central African Republic	453
+Congo, Republic of the	Central African Republic	45
 Congo, Republic of the	Chad	0
 Congo, Republic of the	China	350
-Congo, Republic of the	Congo, Democratic Republic of the	1145
+Congo, Republic of the	Congo, Democratic Republic of the	115
 Congo, Republic of the	Cote d'Ivoire	8
 Congo, Republic of the	Croatia	0
 Congo, Republic of the	Cuba	4
@@ -4371,7 +4371,7 @@ Congo, Republic of the	Equatorial Guinea	0
 Congo, Republic of the	Ethiopia	0
 Congo, Republic of the	Finland	0
 Congo, Republic of the	France	45
-Congo, Republic of the	Gabon	2400
+Congo, Republic of the	Gabon	249
 Congo, Republic of the	Germany	0
 Congo, Republic of the	Ghana	0
 Congo, Republic of the	Greece	0
@@ -4563,12 +4563,12 @@ Costa Rica	Nauru	0
 Costa Rica	Netherlands	74
 Costa Rica	New Caledonia	0
 Costa Rica	New Zealand	0
-Costa Rica	Nicaragua	2296
+Costa Rica	Nicaragua	269
 Costa Rica	Nigeria	0
 Costa Rica	Norway	1
 Costa Rica	Oman	0
 Costa Rica	Pakistan	0
-Costa Rica	Panama	2556
+Costa Rica	Panama	302
 Costa Rica	Papua New Guinea	0
 Costa Rica	Paraguay	0
 Costa Rica	Peru	1
@@ -4634,7 +4634,7 @@ Cote d'Ivoire	Belize	0
 Cote d'Ivoire	Benin	15
 Cote d'Ivoire	Brazil	14
 Cote d'Ivoire	Bulgaria	0
-Cote d'Ivoire	Burkina Faso	3643
+Cote d'Ivoire	Burkina Faso	402
 Cote d'Ivoire	Burma	0
 Cote d'Ivoire	Burundi	0
 Cote d'Ivoire	Cabo Verde	0
@@ -4671,11 +4671,11 @@ Cote d'Ivoire	Gabon	4
 Cote d'Ivoire	Gambia, The	2
 Cote d'Ivoire	Georgia	0
 Cote d'Ivoire	Germany	90
-Cote d'Ivoire	Ghana	4805
+Cote d'Ivoire	Ghana	524
 Cote d'Ivoire	Gibraltar	1
 Cote d'Ivoire	Greece	3
 Cote d'Ivoire	Grenada	0
-Cote d'Ivoire	Guinea	5402
+Cote d'Ivoire	Guinea	549
 Cote d'Ivoire	Guinea-Bissau	0
 Cote d'Ivoire	Haiti	0
 Cote d'Ivoire	Hong Kong	0
@@ -4694,14 +4694,14 @@ Cote d'Ivoire	Kiribati	0
 Cote d'Ivoire	Korea, South	0
 Cote d'Ivoire	Kuwait	0
 Cote d'Ivoire	Lebanon	1
-Cote d'Ivoire	Liberia	5151
+Cote d'Ivoire	Liberia	524
 Cote d'Ivoire	Libya	0
 Cote d'Ivoire	Lithuania	2
 Cote d'Ivoire	Luxembourg	0
 Cote d'Ivoire	Madagascar	0
 Cote d'Ivoire	Malawi	0
 Cote d'Ivoire	Malaysia	38
-Cote d'Ivoire	Mali	3991
+Cote d'Ivoire	Mali	429
 Cote d'Ivoire	Malta	3
 Cote d'Ivoire	Marshall Islands	0
 Cote d'Ivoire	Mauritania	1
@@ -4779,7 +4779,7 @@ Croatia	Belize	0
 Croatia	Benin	0
 Croatia	Bermuda	0
 Croatia	Bolivia	0
-Croatia	Bosnia and Herzegovina	2053
+Croatia	Bosnia and Herzegovina	333
 Croatia	Botswana	0
 Croatia	Br. Virgin Islands	0
 Croatia	Brazil	2
@@ -4833,7 +4833,7 @@ Croatia	Guinea	0
 Croatia	Haiti	0
 Croatia	Holy See (Vatican City)	0
 Croatia	Hong Kong	1
-Croatia	Hungary	719
+Croatia	Hungary	94
 Croatia	Iceland	0
 Croatia	India	1
 Croatia	Indonesia	1
@@ -4873,7 +4873,7 @@ Croatia	Mauritius	0
 Croatia	Mexico	1
 Croatia	Moldova	0
 Croatia	Mongolia	0
-Croatia	Montenegro	51
+Croatia	Montenegro	17
 Croatia	Morocco	3
 Croatia	Mozambique	0
 Croatia	Namibia	0
@@ -4901,12 +4901,12 @@ Croatia	Samoa	0
 Croatia	San Marino	0
 Croatia	Saudi Arabia	4
 Croatia	Senegal	0
-Croatia	Serbia	683
+Croatia	Serbia	118
 Croatia	Seychelles	0
 Croatia	Sierra Leone	0
 Croatia	Singapore	0
 Croatia	Slovakia	15
-Croatia	Slovenia	1309
+Croatia	Slovenia	230
 Croatia	Solomon Islands	0
 Croatia	South Africa	3
 Croatia	South Sudan	0
@@ -5240,7 +5240,7 @@ Czech Republic	Argentina	9
 Czech Republic	Armenia	2
 Czech Republic	Aruba	0
 Czech Republic	Australia	59
-Czech Republic	Austria	2724
+Czech Republic	Austria	845
 Czech Republic	Azerbaijan	15
 Czech Republic	Bahamas, The	0
 Czech Republic	Bahrain	1
@@ -5302,7 +5302,7 @@ Czech Republic	French Polynesia	0
 Czech Republic	Gabon	0
 Czech Republic	Gambia, The	0
 Czech Republic	Georgia	7
-Czech Republic	Germany	8034
+Czech Republic	Germany	4743
 Czech Republic	Ghana	2
 Czech Republic	Gibraltar	0
 Czech Republic	Greece	24
@@ -5376,7 +5376,7 @@ Czech Republic	Papua New Guinea	0
 Czech Republic	Paraguay	0
 Czech Republic	Peru	3
 Czech Republic	Philippines	9
-Czech Republic	Poland	4461
+Czech Republic	Poland	1193
 Czech Republic	Portugal	40
 Czech Republic	Qatar	7
 Czech Republic	Romania	174
@@ -5393,7 +5393,7 @@ Czech Republic	Serbia	42
 Czech Republic	Seychelles	1
 Czech Republic	Sierra Leone	0
 Czech Republic	Singapore	18
-Czech Republic	Slovakia	2496
+Czech Republic	Slovakia	1369
 Czech Republic	Slovenia	59
 Czech Republic	Somalia	0
 Czech Republic	South Africa	44
@@ -5512,7 +5512,7 @@ Denmark	French Polynesia	0
 Denmark	Gabon	0
 Denmark	Gambia, The	0
 Denmark	Georgia	1
-Denmark	Germany	7133
+Denmark	Germany	2121
 Denmark	Ghana	3
 Denmark	Gibraltar	17
 Denmark	Greece	41
@@ -5651,7 +5651,7 @@ Denmark	West Bank	0
 Denmark	Yemen	6
 Denmark	Zambia	0
 Denmark	Zimbabwe	1
-Dhekelia	Cyprus	16
+Dhekelia	Cyprus	2
 Djibouti	Belgium	0
 Djibouti	Benin	0
 Djibouti	Brazil	1
@@ -5662,8 +5662,8 @@ Djibouti	China	0
 Djibouti	Congo, Republic of the	0
 Djibouti	Cote d'Ivoire	0
 Djibouti	Denmark	0
-Djibouti	Eritrea	192
-Djibouti	Ethiopia	528
+Djibouti	Eritrea	19
+Djibouti	Ethiopia	55
 Djibouti	France	2
 Djibouti	Gabon	0
 Djibouti	Germany	0
@@ -5689,7 +5689,7 @@ Djibouti	Portugal	0
 Djibouti	Qatar	1
 Djibouti	Saudi Arabia	0
 Djibouti	Senegal	0
-Djibouti	Somalia	95
+Djibouti	Somalia	10
 Djibouti	South Africa	0
 Djibouti	Spain	0
 Djibouti	Sudan	0
@@ -5817,7 +5817,7 @@ Dominican Republic	Guam	0
 Dominican Republic	Guatemala	16
 Dominican Republic	Guinea	0
 Dominican Republic	Guyana	1
-Dominican Republic	Haiti	10475
+Dominican Republic	Haiti	1160
 Dominican Republic	Honduras	14
 Dominican Republic	Hong Kong	2
 Dominican Republic	Hungary	0
@@ -5933,7 +5933,7 @@ Ecuador	Canada	8
 Ecuador	Cayman Islands	0
 Ecuador	Chile	223
 Ecuador	China	51
-Ecuador	Colombia	5038
+Ecuador	Colombia	578
 Ecuador	Congo, Democratic Republic of the	0
 Ecuador	Congo, Republic of the	0
 Ecuador	Costa Rica	2
@@ -6011,7 +6011,7 @@ Ecuador	Oman	0
 Ecuador	Pakistan	0
 Ecuador	Panama	57
 Ecuador	Paraguay	0
-Ecuador	Peru	10870
+Ecuador	Peru	1240
 Ecuador	Philippines	0
 Ecuador	Poland	8
 Ecuador	Portugal	3
@@ -6114,7 +6114,7 @@ Egypt	Finland	1
 Egypt	France	77
 Egypt	Gabon	1
 Egypt	Gambia, The	0
-Egypt	Gaza Strip	432
+Egypt	Gaza Strip	43
 Egypt	Georgia	1
 Egypt	Germany	51
 Egypt	Ghana	6
@@ -6133,7 +6133,7 @@ Egypt	Indonesia	8
 Egypt	Iran	2
 Egypt	Iraq	59
 Egypt	Ireland	2
-Egypt	Israel	6924
+Egypt	Israel	696
 Egypt	Italy	216
 Egypt	Jamaica	0
 Egypt	Japan	37
@@ -6146,7 +6146,7 @@ Egypt	Latvia	1
 Egypt	Lebanon	51
 Egypt	Lesotho	0
 Egypt	Liberia	3
-Egypt	Libya	37195
+Egypt	Libya	3811
 Egypt	Lithuania	2
 Egypt	Luxembourg	0
 Egypt	Macedonia	0
@@ -6199,7 +6199,7 @@ Egypt	Somalia	2
 Egypt	South Africa	6
 Egypt	Spain	51
 Egypt	Sri Lanka	2
-Egypt	Sudan	42493
+Egypt	Sudan	4288
 Egypt	Suriname	0
 Egypt	Swaziland	1
 Egypt	Sweden	3
@@ -6276,10 +6276,10 @@ El Salvador	Gambia, The	0
 El Salvador	Germany	5
 El Salvador	Greece	0
 El Salvador	Grenada	0
-El Salvador	Guatemala	2125
+El Salvador	Guatemala	266
 El Salvador	Guyana	0
 El Salvador	Haiti	1
-El Salvador	Honduras	4124
+El Salvador	Honduras	471
 El Salvador	Hong Kong	0
 El Salvador	Hungary	0
 El Salvador	India	1
@@ -6341,13 +6341,13 @@ El Salvador	Venezuela	1
 El Salvador	Vietnam	0
 El Salvador	Zambia	0
 El Salvador	Zimbabwe	0
-Equatorial Guinea	Cameroon	250
-Equatorial Guinea	Gabon	472
+Equatorial Guinea	Cameroon	25
+Equatorial Guinea	Gabon	47
 Eritrea	Armenia	0
 Eritrea	Australia	0
 Eritrea	China	0
-Eritrea	Djibouti	433
-Eritrea	Ethiopia	3582
+Eritrea	Djibouti	43
+Eritrea	Ethiopia	358
 Eritrea	France	1
 Eritrea	Germany	1
 Eritrea	Greece	3
@@ -6367,7 +6367,7 @@ Eritrea	Singapore	5
 Eritrea	South Africa	1
 Eritrea	Spain	0
 Eritrea	Sri Lanka	1
-Eritrea	Sudan	2373
+Eritrea	Sudan	245
 Eritrea	Sweden	0
 Eritrea	Switzerland	0
 Eritrea	Turkey	0
@@ -6464,7 +6464,7 @@ Estonia	Korea, South	10
 Estonia	Kuwait	0
 Estonia	Kyrgyzstan	1
 Estonia	Laos	0
-Estonia	Latvia	760
+Estonia	Latvia	186
 Estonia	Lebanon	0
 Estonia	Liberia	0
 Estonia	Libya	0
@@ -6505,7 +6505,7 @@ Estonia	Poland	20
 Estonia	Portugal	1
 Estonia	Qatar	0
 Estonia	Romania	1
-Estonia	Russia	858
+Estonia	Russia	300
 Estonia	Rwanda	0
 Estonia	Saint Kitts and Nevis	0
 Estonia	Saint Vincent and the Grenadines	0
@@ -6590,12 +6590,12 @@ Ethiopia	Cyprus	0
 Ethiopia	Czech Republic	0
 Ethiopia	Dem. People's Korea, South	0
 Ethiopia	Denmark	0
-Ethiopia	Djibouti	5589
+Ethiopia	Djibouti	569
 Ethiopia	Ecuador	0
 Ethiopia	Egypt	5
 Ethiopia	El Salvador	0
 Ethiopia	Equatorial Guinea	0
-Ethiopia	Eritrea	16848
+Ethiopia	Eritrea	1685
 Ethiopia	Estonia	0
 Ethiopia	Finland	1
 Ethiopia	France	5
@@ -6622,7 +6622,7 @@ Ethiopia	Jamaica	0
 Ethiopia	Japan	8
 Ethiopia	Jordan	4
 Ethiopia	Kazakhstan	0
-Ethiopia	Kenya	14141
+Ethiopia	Kenya	1415
 Ethiopia	Korea, South	2
 Ethiopia	Kuwait	0
 Ethiopia	Laos	0
@@ -6670,12 +6670,12 @@ Ethiopia	Sierra Leone	0
 Ethiopia	Singapore	0
 Ethiopia	Slovakia	0
 Ethiopia	Slovenia	0
-Ethiopia	Somalia	26774
+Ethiopia	Somalia	2702
 Ethiopia	South Africa	1
-Ethiopia	South Sudan	21186
+Ethiopia	South Sudan	2119
 Ethiopia	Spain	2
 Ethiopia	Sri Lanka	0
-Ethiopia	Sudan	12151
+Ethiopia	Sudan	1230
 Ethiopia	Swaziland	0
 Ethiopia	Sweden	3
 Ethiopia	Switzerland	0
@@ -7006,7 +7006,7 @@ Finland	New Zealand	8
 Finland	Nicaragua	0
 Finland	Niger	0
 Finland	Nigeria	4
-Finland	Norway	1652
+Finland	Norway	340
 Finland	Oman	2
 Finland	Pakistan	4
 Finland	Panama	1
@@ -7018,7 +7018,7 @@ Finland	Poland	164
 Finland	Portugal	14
 Finland	Qatar	3
 Finland	Romania	18
-Finland	Russia	3337
+Finland	Russia	915
 Finland	Rwanda	0
 Finland	Saint Kitts and Nevis	0
 Finland	Saint Lucia	0
@@ -7044,7 +7044,7 @@ Finland	Sri Lanka	1
 Finland	Sudan	1
 Finland	Suriname	2
 Finland	Swaziland	0
-Finland	Sweden	1903
+Finland	Sweden	895
 Finland	Switzerland	53
 Finland	Syria	1
 Finland	Tajikistan	0
@@ -7075,7 +7075,7 @@ France	Afghanistan	3
 France	Albania	4
 France	Algeria	699
 France	American Samoa	0
-France	Andorra	1349
+France	Andorra	156
 France	Angola	55
 France	Anguilla	0
 France	Antarctica	0
@@ -7091,7 +7091,7 @@ France	Bahrain	16
 France	Bangladesh	16
 France	Barbados	2
 France	Belarus	22
-France	Belgium	17271
+France	Belgium	5219
 France	Belize	0
 France	Benin	32
 France	Bermuda	0
@@ -7153,7 +7153,7 @@ France	French Polynesia	54
 France	Gabon	86
 France	Gambia, The	1
 France	Georgia	18
-France	Germany	18356
+France	Germany	9295
 France	Ghana	37
 France	Gibraltar	46
 France	Greece	263
@@ -7176,7 +7176,7 @@ France	Iran	58
 France	Iraq	59
 France	Ireland	286
 France	Israel	143
-France	Italy	14982
+France	Italy	4663
 France	Jamaica	2
 France	Japan	805
 France	Jordan	45
@@ -7193,7 +7193,7 @@ France	Lesotho	0
 France	Liberia	3
 France	Libya	95
 France	Lithuania	60
-France	Luxembourg	1907
+France	Luxembourg	411
 France	Macau	14
 France	Macedonia	5
 France	Madagascar	35
@@ -7207,7 +7207,7 @@ France	Mauritania	26
 France	Mauritius	39
 France	Mexico	290
 France	Moldova	7
-France	Monaco	145
+France	Monaco	14
 France	Mongolia	4
 France	Montenegro	2
 France	Montserrat	0
@@ -7260,13 +7260,13 @@ France	Somalia	2
 France	South Africa	211
 France	South Georgia and the South Sandwich Islands	0
 France	South Sudan	2
-France	Spain	18938
+France	Spain	4935
 France	Sri Lanka	10
 France	Sudan	10
 France	Suriname	5
 France	Swaziland	0
 France	Sweden	550
-France	Switzerland	14172
+France	Switzerland	2791
 France	Syria	19
 France	Tajikistan	1
 France	Tanzania	10
@@ -7381,14 +7381,14 @@ Gabon	Brazil	0
 Gabon	Burkina Faso	0
 Gabon	Burundi	0
 Gabon	Cabo Verde	0
-Gabon	Cameroon	182
+Gabon	Cameroon	21
 Gabon	Canada	0
 Gabon	Central African Republic	1
 Gabon	Chad	0
 Gabon	China	68
 Gabon	Colombia	0
 Gabon	Congo, Democratic Republic of the	0
-Gabon	Congo, Republic of the	1330
+Gabon	Congo, Republic of the	145
 Gabon	Cote d'Ivoire	0
 Gabon	Cyprus	0
 Gabon	Dem. People's Korea, South	0
@@ -7397,7 +7397,7 @@ Gabon	Djibouti	0
 Gabon	Dominican Republic	0
 Gabon	Ecuador	0
 Gabon	Egypt	0
-Gabon	Equatorial Guinea	179
+Gabon	Equatorial Guinea	20
 Gabon	Ethiopia	0
 Gabon	Finland	0
 Gabon	France	39
@@ -7515,7 +7515,7 @@ Gambia, The	Nigeria	0
 Gambia, The	Panama	0
 Gambia, The	Peru	0
 Gambia, The	Russia	0
-Gambia, The	Senegal	1928
+Gambia, The	Senegal	195
 Gambia, The	Serbia	0
 Gambia, The	Sierra Leone	0
 Gambia, The	Singapore	0
@@ -7534,17 +7534,17 @@ Gambia, The	Vanuatu	0
 Gambia, The	Venezuela	0
 Gambia, The	Vietnam	0
 Gambia, The	Zimbabwe	0
-Gaza Strip	Egypt	328
-Gaza Strip	Israel	1488
+Gaza Strip	Egypt	33
+Gaza Strip	Israel	149
 Georgia	Afghanistan	1
 Georgia	Albania	0
 Georgia	Algeria	0
 Georgia	Andorra	0
 Georgia	Argentina	0
-Georgia	Armenia	621
+Georgia	Armenia	85
 Georgia	Australia	0
 Georgia	Austria	0
-Georgia	Azerbaijan	1222
+Georgia	Azerbaijan	173
 Georgia	Belarus	3
 Georgia	Belgium	5
 Georgia	Bolivia	0
@@ -7615,7 +7615,7 @@ Georgia	Poland	1
 Georgia	Portugal	0
 Georgia	Qatar	0
 Georgia	Romania	0
-Georgia	Russia	2448
+Georgia	Russia	258
 Georgia	Rwanda	0
 Georgia	Saudi Arabia	0
 Georgia	Serbia	0
@@ -7636,7 +7636,7 @@ Georgia	Tanzania	0
 Georgia	Thailand	0
 Georgia	Trinidad and Tobago	0
 Georgia	Tunisia	0
-Georgia	Turkey	758
+Georgia	Turkey	89
 Georgia	Turkmenistan	1
 Georgia	Ukraine	15
 Georgia	United Arab Emirates	5
@@ -7658,14 +7658,14 @@ Germany	Argentina	345
 Germany	Armenia	16
 Germany	Aruba	1
 Germany	Australia	1042
-Germany	Austria	24201
+Germany	Austria	8394
 Germany	Azerbaijan	103
 Germany	Bahamas, The	10
 Germany	Bahrain	43
 Germany	Bangladesh	55
 Germany	Barbados	2
 Germany	Belarus	283
-Germany	Belgium	7920
+Germany	Belgium	5296
 Germany	Belize	2
 Germany	Benin	11
 Germany	Bermuda	149
@@ -7702,9 +7702,9 @@ Germany	Croatia	244
 Germany	Cuba	22
 Germany	Curaçao	2
 Germany	Cyprus	105
-Germany	Czech Republic	19102
+Germany	Czech Republic	5210
 Germany	Dem. People's Korea, South	1
-Germany	Denmark	4938
+Germany	Denmark	2175
 Germany	Djibouti	2
 Germany	Dominica	0
 Germany	Dominican Republic	23
@@ -7721,7 +7721,7 @@ Germany	Faroe Islands	4
 Germany	Fiji	1
 Germany	Finland	982
 Germany	Fr. South Antarctic Terr.	0
-Germany	France	21111
+Germany	France	12863
 Germany	French Polynesia	3
 Germany	Gabon	11
 Germany	Gambia, The	1
@@ -7765,7 +7765,7 @@ Germany	Lesotho	1
 Germany	Liberia	9
 Germany	Libya	126
 Germany	Lithuania	297
-Germany	Luxembourg	3422
+Germany	Luxembourg	896
 Germany	Macau	20
 Germany	Macedonia	67
 Germany	Madagascar	5
@@ -7788,7 +7788,7 @@ Germany	N. Mariana Islands	0
 Germany	Namibia	20
 Germany	Nauru	0
 Germany	Nepal	4
-Germany	Netherlands	20821
+Germany	Netherlands	9474
 Germany	New Caledonia	6
 Germany	New Zealand	130
 Germany	Nicaragua	5
@@ -7805,7 +7805,7 @@ Germany	Paraguay	15
 Germany	Peru	117
 Germany	Philippines	211
 Germany	Pitcairn	0
-Germany	Poland	14874
+Germany	Poland	6053
 Germany	Portugal	759
 Germany	Qatar	153
 Germany	Romania	1157
@@ -7839,7 +7839,7 @@ Germany	Sudan	27
 Germany	Suriname	4
 Germany	Swaziland	1
 Germany	Sweden	2477
-Germany	Switzerland	13077
+Germany	Switzerland	6210
 Germany	Syria	9
 Germany	Tajikistan	4
 Germany	Tanzania	18
@@ -7890,7 +7890,7 @@ Ghana	Bosnia and Herzegovina	0
 Ghana	Botswana	0
 Ghana	Brazil	6
 Ghana	Bulgaria	0
-Ghana	Burkina Faso	6434
+Ghana	Burkina Faso	667
 Ghana	Burma	0
 Ghana	Burundi	0
 Ghana	Cabo Verde	0
@@ -7904,7 +7904,7 @@ Ghana	Colombia	0
 Ghana	Congo, Democratic Republic of the	0
 Ghana	Congo, Republic of the	1
 Ghana	Costa Rica	0
-Ghana	Cote d'Ivoire	7671
+Ghana	Cote d'Ivoire	773
 Ghana	Croatia	0
 Ghana	Cuba	0
 Ghana	Curaçao	0
@@ -7998,7 +7998,7 @@ Ghana	Switzerland	2
 Ghana	Syria	0
 Ghana	Tanzania	0
 Ghana	Thailand	1
-Ghana	Togo	11696
+Ghana	Togo	1178
 Ghana	Trinidad and Tobago	0
 Ghana	Tunisia	1
 Ghana	Turkey	7
@@ -8012,9 +8012,9 @@ Ghana	Vietnam	5
 Ghana	Yemen	0
 Ghana	Zambia	0
 Ghana	Zimbabwe	0
-Gibraltar	Spain	29
+Gibraltar	Spain	3
 Greece	Afghanistan	0
-Greece	Albania	2093
+Greece	Albania	241
 Greece	Algeria	36
 Greece	Andorra	0
 Greece	Angola	1
@@ -8041,7 +8041,7 @@ Greece	Bosnia and Herzegovina	8
 Greece	Botswana	0
 Greece	Br. Virgin Islands	2
 Greece	Brazil	13
-Greece	Bulgaria	4725
+Greece	Bulgaria	601
 Greece	Burkina Faso	0
 Greece	Burma	0
 Greece	Burundi	0
@@ -8122,7 +8122,7 @@ Greece	Libya	77
 Greece	Lithuania	3
 Greece	Luxembourg	0
 Greece	Macau	0
-Greece	Macedonia	2348
+Greece	Macedonia	303
 Greece	Madagascar	0
 Greece	Malawi	0
 Greece	Malaysia	1
@@ -8189,7 +8189,7 @@ Greece	Thailand	3
 Greece	Togo	3
 Greece	Trinidad and Tobago	0
 Greece	Tunisia	8
-Greece	Turkey	2192
+Greece	Turkey	514
 Greece	Turkmenistan	1
 Greece	Turks and Caicos Islands	0
 Greece	Uganda	0
@@ -8237,7 +8237,7 @@ Guatemala	Bahrain	0
 Guatemala	Bangladesh	1
 Guatemala	Barbados	2
 Guatemala	Belgium	6
-Guatemala	Belize	2343
+Guatemala	Belize	240
 Guatemala	Benin	0
 Guatemala	Bermuda	0
 Guatemala	Bolivia	0
@@ -8268,7 +8268,7 @@ Guatemala	Dominica	0
 Guatemala	Dominican Republic	11
 Guatemala	Ecuador	2
 Guatemala	Egypt	1
-Guatemala	El Salvador	1848
+Guatemala	El Salvador	274
 Guatemala	Estonia	0
 Guatemala	Ethiopia	0
 Guatemala	Finland	0
@@ -8281,7 +8281,7 @@ Guatemala	Grenada	0
 Guatemala	Guinea	1
 Guatemala	Guyana	0
 Guatemala	Haiti	3
-Guatemala	Honduras	2215
+Guatemala	Honduras	285
 Guatemala	Hong Kong	1
 Guatemala	Hungary	0
 Guatemala	Iceland	0
@@ -8308,7 +8308,7 @@ Guatemala	Macedonia	0
 Guatemala	Malaysia	0
 Guatemala	Malta	0
 Guatemala	Mauritania	0
-Guatemala	Mexico	8459
+Guatemala	Mexico	884
 Guatemala	Montserrat	0
 Guatemala	Morocco	0
 Guatemala	Mozambique	0
@@ -8379,7 +8379,7 @@ Guinea	Canada	7
 Guinea	China	2
 Guinea	Congo, Democratic Republic of the	0
 Guinea	Congo, Republic of the	0
-Guinea	Cote d'Ivoire	2314
+Guinea	Cote d'Ivoire	231
 Guinea	Dem. People's Korea, South	0
 Guinea	Denmark	1
 Guinea	Egypt	0
@@ -8392,7 +8392,7 @@ Guinea	Germany	10
 Guinea	Ghana	0
 Guinea	Greece	0
 Guinea	Guam	0
-Guinea	Guinea-Bissau	1194
+Guinea	Guinea-Bissau	119
 Guinea	Hong Kong	0
 Guinea	Hungary	0
 Guinea	Iceland	0
@@ -8403,10 +8403,10 @@ Guinea	Italy	1
 Guinea	Japan	0
 Guinea	Korea, South	0
 Guinea	Lebanon	0
-Guinea	Liberia	1673
+Guinea	Liberia	167
 Guinea	Madagascar	0
 Guinea	Malaysia	1
-Guinea	Mali	3013
+Guinea	Mali	302
 Guinea	Mauritania	0
 Guinea	Mexico	0
 Guinea	Morocco	0
@@ -8420,8 +8420,8 @@ Guinea	Poland	0
 Guinea	Portugal	0
 Guinea	Qatar	0
 Guinea	Russia	18
-Guinea	Senegal	1029
-Guinea	Sierra Leone	2252
+Guinea	Senegal	103
+Guinea	Sierra Leone	225
 Guinea	Singapore	0
 Guinea	South Africa	0
 Guinea	Spain	16
@@ -8439,13 +8439,13 @@ Guinea	Vietnam	0
 Guinea-Bissau	Cabo Verde	0
 Guinea-Bissau	Dem. People's Korea, South	0
 Guinea-Bissau	Gambia, The	0
-Guinea-Bissau	Guinea	936
+Guinea-Bissau	Guinea	94
 Guinea-Bissau	India	11
 Guinea-Bissau	Netherlands	0
 Guinea-Bissau	Pakistan	0
 Guinea-Bissau	Panama	0
 Guinea-Bissau	Portugal	0
-Guinea-Bissau	Senegal	758
+Guinea-Bissau	Senegal	76
 Guinea-Bissau	Singapore	2
 Guinea-Bissau	United States	0
 Guyana	Anguilla	0
@@ -8461,7 +8461,7 @@ Guyana	Belize	0
 Guyana	Bermuda	0
 Guyana	Bosnia and Herzegovina	0
 Guyana	Br. Virgin Islands	0
-Guyana	Brazil	328
+Guyana	Brazil	33
 Guyana	Burma	0
 Guyana	Canada	3
 Guyana	Cayman Islands	0
@@ -8526,7 +8526,7 @@ Guyana	Saudi Arabia	0
 Guyana	Singapore	1
 Guyana	South Africa	0
 Guyana	Spain	1
-Guyana	Suriname	212
+Guyana	Suriname	23
 Guyana	Syria	0
 Guyana	Tanzania	0
 Guyana	Thailand	0
@@ -8539,7 +8539,7 @@ Guyana	United Kingdom	18
 Guyana	United States	21
 Guyana	United States Minor Outlying Islands	0
 Guyana	Uzbekistan	0
-Guyana	Venezuela	218
+Guyana	Venezuela	40
 Guyana	Vietnam	0
 Haiti	Antigua and Barbuda	0
 Haiti	Aruba	0
@@ -8549,7 +8549,7 @@ Haiti	Barbados	0
 Haiti	Belgium	3
 Haiti	Canada	1
 Haiti	Cayman Islands	0
-Haiti	Dominican Republic	9997
+Haiti	Dominican Republic	1000
 Haiti	Ecuador	0
 Haiti	Egypt	0
 Haiti	France	4
@@ -8574,7 +8574,7 @@ Haiti	Switzerland	0
 Haiti	Turks and Caicos Islands	0
 Haiti	United Kingdom	0
 Haiti	United States	66
-Holy See (Vatican City)	Italy	1
+Holy See (Vatican City)	Italy	0
 Honduras	Albania	0
 Honduras	Andorra	0
 Honduras	Angola	0
@@ -8609,7 +8609,7 @@ Honduras	Dominica	0
 Honduras	Dominican Republic	6
 Honduras	Ecuador	1
 Honduras	Egypt	0
-Honduras	El Salvador	2167
+Honduras	El Salvador	245
 Honduras	Estonia	0
 Honduras	Fiji	0
 Honduras	Finland	2
@@ -8617,7 +8617,7 @@ Honduras	France	8
 Honduras	Georgia	0
 Honduras	Germany	73
 Honduras	Greece	0
-Honduras	Guatemala	1359
+Honduras	Guatemala	160
 Honduras	Guinea	0
 Honduras	Guyana	0
 Honduras	Haiti	1
@@ -8645,7 +8645,7 @@ Honduras	Montserrat	0
 Honduras	Morocco	0
 Honduras	Netherlands	22
 Honduras	New Zealand	0
-Honduras	Nicaragua	5154
+Honduras	Nicaragua	535
 Honduras	Nigeria	0
 Honduras	Norway	0
 Honduras	Pakistan	0
@@ -8720,7 +8720,7 @@ Hong Kong	Canada	284
 Hong Kong	Central African Republic	0
 Hong Kong	Chad	0
 Hong Kong	Chile	55
-Hong Kong	China	29002
+Hong Kong	China	22600
 Hong Kong	Colombia	30
 Hong Kong	Comoros	0
 Hong Kong	Congo, Democratic Republic of the	2
@@ -8887,7 +8887,7 @@ Hungary	Argentina	4
 Hungary	Armenia	2
 Hungary	Aruba	0
 Hungary	Australia	18
-Hungary	Austria	1961
+Hungary	Austria	600
 Hungary	Azerbaijan	5
 Hungary	Bahamas, The	0
 Hungary	Bahrain	1
@@ -8923,7 +8923,7 @@ Hungary	Congo, Republic of the	0
 Hungary	Cook Islands	0
 Hungary	Costa Rica	0
 Hungary	Cote d'Ivoire	1
-Hungary	Croatia	1750
+Hungary	Croatia	275
 Hungary	Cuba	0
 Hungary	Curaçao	0
 Hungary	Cyprus	6
@@ -9020,7 +9020,7 @@ Hungary	Philippines	1
 Hungary	Poland	314
 Hungary	Portugal	21
 Hungary	Qatar	2
-Hungary	Romania	2454
+Hungary	Romania	657
 Hungary	Russia	252
 Hungary	Rwanda	0
 Hungary	Saint Lucia	0
@@ -9029,13 +9029,13 @@ Hungary	San Marino	0
 Hungary	Sao Tome and Principe	0
 Hungary	Saudi Arabia	12
 Hungary	Senegal	0
-Hungary	Serbia	894
+Hungary	Serbia	199
 Hungary	Seychelles	0
 Hungary	Sierra Leone	0
 Hungary	Singapore	21
 Hungary	Sint Maarten	0
-Hungary	Slovakia	3386
-Hungary	Slovenia	536
+Hungary	Slovakia	728
+Hungary	Slovenia	137
 Hungary	Somalia	0
 Hungary	South Africa	36
 Hungary	South Georgia and the South Sandwich Islands	0
@@ -9055,7 +9055,7 @@ Hungary	Tunisia	6
 Hungary	Turkey	141
 Hungary	Turkmenistan	8
 Hungary	Uganda	0
-Hungary	Ukraine	797
+Hungary	Ukraine	254
 Hungary	United Arab Emirates	77
 Hungary	United Kingdom	313
 Hungary	United States	245
@@ -9211,14 +9211,14 @@ India	Austria	31
 India	Azerbaijan	10
 India	Bahamas, The	65
 India	Bahrain	58
-India	Bangladesh	369234
+India	Bangladesh	37376
 India	Barbados	1
 India	Belarus	5
 India	Belgium	575
 India	Belize	2
 India	Benin	73
 India	Bermuda	0
-India	Bhutan	58680
+India	Bhutan	5881
 India	Bolivia	5
 India	Bosnia and Herzegovina	1
 India	Botswana	5
@@ -9226,7 +9226,7 @@ India	Br. Virgin Islands	0
 India	Brazil	513
 India	Bulgaria	16
 India	Burkina Faso	10
-India	Burma	130747
+India	Burma	13131
 India	Burundi	3
 India	Cabo Verde	0
 India	Cambodia	11
@@ -9236,7 +9236,7 @@ India	Cayman Islands	0
 India	Central African Republic	1
 India	Chad	6
 India	Chile	59
-India	China	238088
+India	China	25048
 India	Cocos Islands	0
 India	Colombia	88
 India	Comoros	1
@@ -9333,7 +9333,7 @@ India	Mozambique	136
 India	N. Mariana Islands	0
 India	Namibia	19
 India	Nauru	0
-India	Nepal	157836
+India	Nepal	16023
 India	Netherlands	769
 India	New Caledonia	1
 India	New Zealand	25
@@ -9344,7 +9344,7 @@ India	Niue	0
 India	Norfolk Islands	0
 India	Norway	21
 India	Oman	271
-India	Pakistan	284165
+India	Pakistan	28581
 India	Palau	0
 India	Panama	19
 India	Papua New Guinea	4
@@ -9531,7 +9531,7 @@ Indonesia	Macau	1
 Indonesia	Macedonia	0
 Indonesia	Madagascar	6
 Indonesia	Malawi	1
-Indonesia	Malaysia	162215
+Indonesia	Malaysia	17071
 Indonesia	Maldives	2
 Indonesia	Mali	1
 Indonesia	Malta	0
@@ -9560,7 +9560,7 @@ Indonesia	Oman	19
 Indonesia	Pakistan	125
 Indonesia	Palau	0
 Indonesia	Panama	13
-Indonesia	Papua New Guinea	70663
+Indonesia	Papua New Guinea	7081
 Indonesia	Paraguay	2
 Indonesia	Peru	16
 Indonesia	Philippines	338
@@ -9598,7 +9598,7 @@ Indonesia	Syria	3
 Indonesia	Tajikistan	0
 Indonesia	Tanzania	17
 Indonesia	Thailand	536
-Indonesia	Timor-Leste	21713
+Indonesia	Timor-Leste	2191
 Indonesia	Togo	6
 Indonesia	Tokelau	0
 Indonesia	Tonga	0
@@ -9624,16 +9624,16 @@ Indonesia	West Bank	0
 Indonesia	Yemen	14
 Indonesia	Zambia	0
 Indonesia	Zimbabwe	0
-Iran	Afghanistan	12956
+Iran	Afghanistan	1587
 Iran	Albania	0
 Iran	Algeria	2
 Iran	Angola	1
 Iran	Anguilla	0
 Iran	Argentina	1
-Iran	Armenia	621
+Iran	Armenia	78
 Iran	Australia	11
 Iran	Austria	3
-Iran	Azerbaijan	9525
+Iran	Azerbaijan	1020
 Iran	Bahrain	2
 Iran	Bangladesh	4
 Iran	Belarus	1
@@ -9683,7 +9683,7 @@ Iran	Hong Kong	44
 Iran	Hungary	1
 Iran	India	446
 Iran	Indonesia	196
-Iran	Iraq	22731
+Iran	Iraq	2992
 Iran	Ireland	0
 Iran	Italy	45
 Iran	Jamaica	0
@@ -9722,7 +9722,7 @@ Iran	Niger	0
 Iran	Nigeria	4
 Iran	Norway	0
 Iran	Oman	11
-Iran	Pakistan	13252
+Iran	Pakistan	1414
 Iran	Panama	0
 Iran	Peru	0
 Iran	Philippines	30
@@ -9755,8 +9755,8 @@ Iran	Thailand	16
 Iran	Togo	1
 Iran	Trinidad and Tobago	0
 Iran	Tunisia	1
-Iran	Turkey	7566
-Iran	Turkmenistan	15828
+Iran	Turkey	974
+Iran	Turkmenistan	1657
 Iran	Uganda	1
 Iran	Ukraine	10
 Iran	United Arab Emirates	734
@@ -9772,19 +9772,19 @@ Iran	Zimbabwe	0
 Iraq	Canada	6
 Iraq	Egypt	137
 Iraq	Germany	1
-Iraq	Iran	14317
+Iraq	Iran	2006
 Iraq	Italy	32
-Iraq	Jordan	2876
+Iraq	Jordan	1498
 Iraq	Korea, South	3
-Iraq	Kuwait	2173
+Iraq	Kuwait	217
 Iraq	Lebanon	49
 Iraq	Malaysia	1
 Iraq	Morocco	191
 Iraq	Qatar	0
-Iraq	Saudi Arabia	6938
+Iraq	Saudi Arabia	694
 Iraq	Sweden	0
-Iraq	Syria	10125
-Iraq	Turkey	3693
+Iraq	Syria	5513
+Iraq	Turkey	867
 Iraq	United Kingdom	1
 Iraq	United States	1
 Ireland	Afghanistan	1
@@ -9981,7 +9981,7 @@ Ireland	Turks and Caicos Islands	0
 Ireland	Uganda	2
 Ireland	Ukraine	8
 Ireland	United Arab Emirates	33
-Ireland	United Kingdom	6426
+Ireland	United Kingdom	2076
 Ireland	United States	2094
 Ireland	United States Minor Outlying Islands	0
 Ireland	Uruguay	2
@@ -10050,7 +10050,7 @@ Israel	Djibouti	1
 Israel	Dominica	0
 Israel	Dominican Republic	2
 Israel	Ecuador	3
-Israel	Egypt	1533
+Israel	Egypt	162
 Israel	El Salvador	0
 Israel	Equatorial Guinea	1
 Israel	Eritrea	0
@@ -10064,7 +10064,7 @@ Israel	France	131
 Israel	French Polynesia	0
 Israel	Gabon	0
 Israel	Gambia, The	0
-Israel	Gaza Strip	432
+Israel	Gaza Strip	43
 Israel	Georgia	5
 Israel	Germany	147
 Israel	Ghana	10
@@ -10089,7 +10089,7 @@ Israel	Ireland	13
 Israel	Italy	96
 Israel	Jamaica	0
 Israel	Japan	61
-Israel	Jordan	2256
+Israel	Jordan	233
 Israel	Kazakhstan	7
 Israel	Kenya	7
 Israel	Kiribati	0
@@ -10098,7 +10098,7 @@ Israel	Kuwait	0
 Israel	Kyrgyzstan	0
 Israel	Laos	0
 Israel	Latvia	5
-Israel	Lebanon	593
+Israel	Lebanon	59
 Israel	Lesotho	0
 Israel	Liberia	0
 Israel	Libya	0
@@ -10167,7 +10167,7 @@ Israel	Suriname	0
 Israel	Swaziland	0
 Israel	Sweden	14
 Israel	Switzerland	113
-Israel	Syria	609
+Israel	Syria	62
 Israel	Tajikistan	0
 Israel	Tanzania	2
 Israel	Thailand	45
@@ -10188,7 +10188,7 @@ Israel	Uzbekistan	2
 Israel	Venezuela	2
 Israel	Vietnam	57
 Israel	Wallis and Futuna Islands	0
-Israel	West Bank	2417
+Israel	West Bank	242
 Israel	Yemen	0
 Israel	Zambia	0
 Israel	Zimbabwe	0
@@ -10204,7 +10204,7 @@ Italy	Argentina	117
 Italy	Armenia	12
 Italy	Aruba	1
 Italy	Australia	407
-Italy	Austria	14487
+Italy	Austria	2272
 Italy	Azerbaijan	56
 Italy	Bahamas, The	7
 Italy	Bahrain	17
@@ -10268,7 +10268,7 @@ Italy	Faroe Islands	0
 Italy	Fiji	0
 Italy	Finland	151
 Italy	Fr. South Antarctic Terr.	0
-Italy	France	20489
+Italy	France	6097
 Italy	French Polynesia	3
 Italy	Gabon	11
 Italy	Gambia, The	1
@@ -10285,7 +10285,7 @@ Italy	Guinea	5
 Italy	Guinea-Bissau	0
 Italy	Guyana	1
 Italy	Haiti	1
-Italy	Holy See (Vatican City)	105
+Italy	Holy See (Vatican City)	14
 Italy	Honduras	4
 Italy	Hong Kong	514
 Italy	Hungary	382
@@ -10364,7 +10364,7 @@ Italy	Saint Lucia	0
 Italy	Saint Pierre and Miquelon	0
 Italy	Saint Vincent and the Grenadines	2
 Italy	Samoa	0
-Italy	San Marino	1248
+Italy	San Marino	129
 Italy	Sao Tome and Principe	0
 Italy	Saudi Arabia	483
 Italy	Senegal	19
@@ -10374,7 +10374,7 @@ Italy	Sierra Leone	1
 Italy	Singapore	206
 Italy	Sint Maarten	1
 Italy	Slovakia	247
-Italy	Slovenia	7708
+Italy	Slovenia	1116
 Italy	Solomon Islands	0
 Italy	Somalia	1
 Italy	South Africa	205
@@ -10386,7 +10386,7 @@ Italy	Sudan	15
 Italy	Suriname	16
 Italy	Swaziland	0
 Italy	Sweden	412
-Italy	Switzerland	25276
+Italy	Switzerland	4172
 Italy	Syria	14
 Italy	Tajikistan	2
 Italy	Tanzania	7
@@ -10800,9 +10800,9 @@ Jordan	Iceland	0
 Jordan	India	48
 Jordan	Indonesia	22
 Jordan	Iran	1
-Jordan	Iraq	950
+Jordan	Iraq	217
 Jordan	Ireland	0
-Jordan	Israel	1407
+Jordan	Israel	151
 Jordan	Italy	5
 Jordan	Jamaica	0
 Jordan	Japan	4
@@ -10849,7 +10849,7 @@ Jordan	Qatar	13
 Jordan	Romania	1
 Jordan	Russia	1
 Jordan	Rwanda	0
-Jordan	Saudi Arabia	3419
+Jordan	Saudi Arabia	427
 Jordan	Senegal	0
 Jordan	Serbia	0
 Jordan	Seychelles	0
@@ -10864,7 +10864,7 @@ Jordan	Sri Lanka	0
 Jordan	Sudan	8
 Jordan	Sweden	0
 Jordan	Switzerland	0
-Jordan	Syria	1738
+Jordan	Syria	187
 Jordan	Tajikistan	0
 Jordan	Tanzania	0
 Jordan	Thailand	3
@@ -10880,7 +10880,7 @@ Jordan	Uruguay	0
 Jordan	Uzbekistan	0
 Jordan	Venezuela	0
 Jordan	Vietnam	1
-Jordan	West Bank	684
+Jordan	West Bank	78
 Jordan	Yemen	5
 Jordan	Zambia	0
 Jordan	Zimbabwe	0
@@ -10907,7 +10907,7 @@ Kazakhstan	Burundi	0
 Kazakhstan	Cameroon	0
 Kazakhstan	Canada	243
 Kazakhstan	Chad	0
-Kazakhstan	China	3690
+Kazakhstan	China	1556
 Kazakhstan	Colombia	0
 Kazakhstan	Congo, Republic of the	0
 Kazakhstan	Cote d'Ivoire	0
@@ -10943,7 +10943,7 @@ Kazakhstan	Jordan	1
 Kazakhstan	Kenya	0
 Kazakhstan	Korea, South	12
 Kazakhstan	Kuwait	0
-Kazakhstan	Kyrgyzstan	1688
+Kazakhstan	Kyrgyzstan	223
 Kazakhstan	Latvia	33
 Kazakhstan	Lebanon	0
 Kazakhstan	Libya	0
@@ -10973,7 +10973,7 @@ Kazakhstan	Poland	63
 Kazakhstan	Portugal	86
 Kazakhstan	Qatar	0
 Kazakhstan	Romania	208
-Kazakhstan	Russia	10800
+Kazakhstan	Russia	1561
 Kazakhstan	Saudi Arabia	0
 Kazakhstan	Senegal	0
 Kazakhstan	Serbia	0
@@ -10991,13 +10991,13 @@ Kazakhstan	Thailand	0
 Kazakhstan	Trinidad and Tobago	0
 Kazakhstan	Tunisia	1
 Kazakhstan	Turkey	239
-Kazakhstan	Turkmenistan	571
+Kazakhstan	Turkmenistan	71
 Kazakhstan	Uganda	0
 Kazakhstan	Ukraine	187
 Kazakhstan	United Arab Emirates	3
 Kazakhstan	United Kingdom	138
 Kazakhstan	United States	36
-Kazakhstan	Uzbekistan	3233
+Kazakhstan	Uzbekistan	417
 Kazakhstan	Venezuela	0
 Kazakhstan	Vietnam	0
 Kazakhstan	Yemen	0
@@ -11050,7 +11050,7 @@ Kenya	Ecuador	0
 Kenya	Egypt	26
 Kenya	El Salvador	0
 Kenya	Eritrea	1
-Kenya	Ethiopia	11294
+Kenya	Ethiopia	1135
 Kenya	Fiji	0
 Kenya	Finland	3
 Kenya	France	7
@@ -11135,9 +11135,9 @@ Kenya	Sierra Leone	0
 Kenya	Singapore	1
 Kenya	Slovakia	0
 Kenya	Slovenia	0
-Kenya	Somalia	8925
+Kenya	Somalia	910
 Kenya	South Africa	4
-Kenya	South Sudan	4127
+Kenya	South Sudan	413
 Kenya	Spain	3
 Kenya	Sri Lanka	1
 Kenya	Sudan	27
@@ -11145,14 +11145,14 @@ Kenya	Swaziland	0
 Kenya	Sweden	4
 Kenya	Switzerland	2
 Kenya	Syria	0
-Kenya	Tanzania	10138
+Kenya	Tanzania	1057
 Kenya	Thailand	2
 Kenya	Togo	0
 Kenya	Trinidad and Tobago	0
 Kenya	Tunisia	0
 Kenya	Turkey	1
 Kenya	Tuvalu	0
-Kenya	Uganda	10673
+Kenya	Uganda	1135
 Kenya	Ukraine	0
 Kenya	United Arab Emirates	18
 Kenya	United Kingdom	58
@@ -11178,9 +11178,9 @@ Kiribati	Switzerland	0
 Kiribati	Tuvalu	0
 Kiribati	United States	0
 Kiribati	Vietnam	0
-Korea, North	China	20908
-Korea, North	Korea, South	3665
-Korea, North	Russia	278
+Korea, North	China	2091
+Korea, North	Korea, South	367
+Korea, North	Russia	28
 Korea, South	Afghanistan	6
 Korea, South	Albania	1
 Korea, South	Algeria	91
@@ -11290,7 +11290,7 @@ Korea, South	Jordan	117
 Korea, South	Kazakhstan	95
 Korea, South	Kenya	23
 Korea, South	Kiribati	2
-Korea, South	Korea, North	49040
+Korea, South	Korea, North	4904
 Korea, South	Kuwait	101
 Korea, South	Kyrgyzstan	15
 Korea, South	Laos	17
@@ -11403,10 +11403,10 @@ Korea, South	West Bank	7
 Korea, South	Yemen	16
 Korea, South	Zambia	2
 Korea, South	Zimbabwe	2
-Kosovo	Albania	292
-Kosovo	Macedonia	417
-Kosovo	Montenegro	198
-Kosovo	Serbia	953
+Kosovo	Albania	29
+Kosovo	Macedonia	42
+Kosovo	Montenegro	20
+Kosovo	Serbia	95
 Kuwait	Afghanistan	12
 Kuwait	Albania	0
 Kuwait	Algeria	13
@@ -11469,7 +11469,7 @@ Kuwait	Iceland	0
 Kuwait	India	632
 Kuwait	Indonesia	280
 Kuwait	Iran	180
-Kuwait	Iraq	1719
+Kuwait	Iraq	399
 Kuwait	Ireland	0
 Kuwait	Italy	62
 Kuwait	Jamaica	0
@@ -11514,7 +11514,7 @@ Kuwait	Qatar	283
 Kuwait	Romania	1
 Kuwait	Russia	3
 Kuwait	Rwanda	0
-Kuwait	Saudi Arabia	2126
+Kuwait	Saudi Arabia	978
 Kuwait	Senegal	1
 Kuwait	Serbia	0
 Kuwait	Seychelles	0
@@ -11566,7 +11566,7 @@ Kyrgyzstan	Br. Virgin Islands	0
 Kyrgyzstan	Bulgaria	1
 Kyrgyzstan	Canada	0
 Kyrgyzstan	Chile	0
-Kyrgyzstan	China	1309
+Kyrgyzstan	China	136
 Kyrgyzstan	Croatia	0
 Kyrgyzstan	Cyprus	0
 Kyrgyzstan	Czech Republic	0
@@ -11590,7 +11590,7 @@ Kyrgyzstan	Israel	0
 Kyrgyzstan	Italy	0
 Kyrgyzstan	Japan	0
 Kyrgyzstan	Jordan	0
-Kyrgyzstan	Kazakhstan	1545
+Kyrgyzstan	Kazakhstan	209
 Kyrgyzstan	Korea, South	0
 Kyrgyzstan	Kuwait	0
 Kyrgyzstan	Latvia	0
@@ -11625,7 +11625,7 @@ Kyrgyzstan	Sudan	1
 Kyrgyzstan	Sweden	0
 Kyrgyzstan	Switzerland	0
 Kyrgyzstan	Syria	0
-Kyrgyzstan	Tajikistan	1214
+Kyrgyzstan	Tajikistan	129
 Kyrgyzstan	Thailand	0
 Kyrgyzstan	Turkey	13
 Kyrgyzstan	Turkmenistan	1
@@ -11633,13 +11633,13 @@ Kyrgyzstan	Ukraine	2
 Kyrgyzstan	United Arab Emirates	2
 Kyrgyzstan	United Kingdom	0
 Kyrgyzstan	United States	1
-Kyrgyzstan	Uzbekistan	1635
+Kyrgyzstan	Uzbekistan	186
 Kyrgyzstan	Vietnam	0
-Laos	Burma	307
-Laos	Cambodia	716
-Laos	China	613
-Laos	Thailand	2380
-Laos	Vietnam	2788
+Laos	Burma	31
+Laos	Cambodia	72
+Laos	China	61
+Laos	Thailand	238
+Laos	Vietnam	279
 Latvia	Afghanistan	2
 Latvia	Albania	0
 Latvia	Algeria	11
@@ -11656,7 +11656,7 @@ Latvia	Bahamas, The	0
 Latvia	Bahrain	0
 Latvia	Bangladesh	0
 Latvia	Barbados	0
-Latvia	Belarus	275
+Latvia	Belarus	46
 Latvia	Belgium	13
 Latvia	Belize	0
 Latvia	Benin	0
@@ -11697,7 +11697,7 @@ Latvia	Ecuador	0
 Latvia	Egypt	4
 Latvia	El Salvador	0
 Latvia	Equatorial Guinea	0
-Latvia	Estonia	666
+Latvia	Estonia	193
 Latvia	Ethiopia	0
 Latvia	Falkland Islands (Malvinas)	0
 Latvia	Faroe Islands	0
@@ -11743,7 +11743,7 @@ Latvia	Laos	0
 Latvia	Lebanon	0
 Latvia	Liberia	0
 Latvia	Libya	0
-Latvia	Lithuania	1051
+Latvia	Lithuania	277
 Latvia	Luxembourg	1
 Latvia	Macau	0
 Latvia	Macedonia	0
@@ -11783,7 +11783,7 @@ Latvia	Poland	75
 Latvia	Portugal	1
 Latvia	Qatar	0
 Latvia	Romania	2
-Latvia	Russia	655
+Latvia	Russia	182
 Latvia	Rwanda	0
 Latvia	Saint Helena	0
 Latvia	Saint Kitts and Nevis	0
@@ -11912,7 +11912,7 @@ Lebanon	Indonesia	0
 Lebanon	Iran	1
 Lebanon	Iraq	41
 Lebanon	Ireland	0
-Lebanon	Israel	984
+Lebanon	Israel	98
 Lebanon	Italy	6
 Lebanon	Jamaica	0
 Lebanon	Japan	4
@@ -11980,7 +11980,7 @@ Lebanon	Suriname	0
 Lebanon	Swaziland	0
 Lebanon	Sweden	2
 Lebanon	Switzerland	2
-Lebanon	Syria	4977
+Lebanon	Syria	569
 Lebanon	Tajikistan	0
 Lebanon	Tanzania	1
 Lebanon	Thailand	0
@@ -12023,7 +12023,7 @@ Lesotho	Mozambique	0
 Lesotho	Netherlands	0
 Lesotho	Russia	0
 Lesotho	Singapore	0
-Lesotho	South Africa	1982
+Lesotho	South Africa	234
 Lesotho	Swaziland	0
 Lesotho	Switzerland	0
 Lesotho	United Kingdom	0
@@ -12034,7 +12034,7 @@ Liberia	Belgium	4
 Liberia	Benin	0
 Liberia	Cameroon	0
 Liberia	Canada	0
-Liberia	Cote d'Ivoire	1910
+Liberia	Cote d'Ivoire	191
 Liberia	Denmark	0
 Liberia	Dominican Republic	0
 Liberia	Egypt	0
@@ -12044,7 +12044,7 @@ Liberia	Gambia, The	0
 Liberia	Germany	24
 Liberia	Ghana	0
 Liberia	Greece	0
-Liberia	Guinea	1448
+Liberia	Guinea	145
 Liberia	Hong Kong	0
 Liberia	India	0
 Liberia	Ireland	0
@@ -12067,7 +12067,7 @@ Liberia	Portugal	0
 Liberia	Romania	1
 Liberia	Saudi Arabia	0
 Liberia	Senegal	0
-Liberia	Sierra Leone	734
+Liberia	Sierra Leone	73
 Liberia	Slovenia	1
 Liberia	Spain	2
 Liberia	Sweden	0
@@ -12077,19 +12077,19 @@ Liberia	Togo	0
 Liberia	Turkey	0
 Liberia	United Kingdom	1
 Liberia	United States	16
-Libya	Algeria	1424
+Libya	Algeria	143
 Libya	Argentina	1
 Libya	Austria	4
 Libya	Belgium	2
 Libya	Brazil	18
 Libya	Bulgaria	1
 Libya	Canada	21
-Libya	Chad	1511
+Libya	Chad	151
 Libya	China	311
 Libya	Croatia	10
 Libya	Cyprus	2
 Libya	Denmark	5
-Libya	Egypt	1633
+Libya	Egypt	188
 Libya	France	517
 Libya	Georgia	2
 Libya	Germany	85
@@ -12109,7 +12109,7 @@ Libya	Mauritania	0
 Libya	Mexico	0
 Libya	Morocco	3
 Libya	Netherlands	112
-Libya	Niger	492
+Libya	Niger	49
 Libya	Oman	1
 Libya	Portugal	54
 Libya	Romania	4
@@ -12117,18 +12117,18 @@ Libya	Saudi Arabia	0
 Libya	Singapore	7
 Libya	Slovenia	2
 Libya	Spain	307
-Libya	Sudan	550
+Libya	Sudan	55
 Libya	Sweden	2
 Libya	Syria	1
 Libya	Thailand	1
-Libya	Tunisia	675
+Libya	Tunisia	78
 Libya	Turkey	18
 Libya	United Arab Emirates	12
 Libya	United Kingdom	36
 Libya	United States	84
 Libya	Vietnam	0
-Liechtenstein	Austria	17
-Liechtenstein	Switzerland	20
+Liechtenstein	Austria	2
+Liechtenstein	Switzerland	2
 Lithuania	Afghanistan	3
 Lithuania	Albania	0
 Lithuania	Algeria	11
@@ -12144,7 +12144,7 @@ Lithuania	Bahamas, The	0
 Lithuania	Bahrain	0
 Lithuania	Bangladesh	0
 Lithuania	Barbados	0
-Lithuania	Belarus	1884
+Lithuania	Belarus	312
 Lithuania	Belgium	32
 Lithuania	Belize	0
 Lithuania	Benin	1
@@ -12225,7 +12225,7 @@ Lithuania	Korea, South	3
 Lithuania	Kuwait	0
 Lithuania	Kyrgyzstan	10
 Lithuania	Laos	0
-Lithuania	Latvia	1748
+Lithuania	Latvia	412
 Lithuania	Lebanon	0
 Lithuania	Lesotho	0
 Lithuania	Liberia	0
@@ -12262,7 +12262,7 @@ Lithuania	Papua New Guinea	0
 Lithuania	Paraguay	0
 Lithuania	Peru	0
 Lithuania	Philippines	0
-Lithuania	Poland	468
+Lithuania	Poland	222
 Lithuania	Portugal	6
 Lithuania	Qatar	0
 Lithuania	Romania	7
@@ -12326,7 +12326,7 @@ Luxembourg	Bahrain	0
 Luxembourg	Bangladesh	1
 Luxembourg	Barbados	0
 Luxembourg	Belarus	2
-Luxembourg	Belgium	392
+Luxembourg	Belgium	206
 Luxembourg	Benin	0
 Luxembourg	Bermuda	0
 Luxembourg	Bolivia	0
@@ -12371,12 +12371,12 @@ Luxembourg	Ethiopia	0
 Luxembourg	Faroe Islands	0
 Luxembourg	Fiji	0
 Luxembourg	Finland	5
-Luxembourg	France	315
+Luxembourg	France	216
 Luxembourg	French Polynesia	0
 Luxembourg	Gabon	1
 Luxembourg	Gambia, The	0
 Luxembourg	Georgia	0
-Luxembourg	Germany	591
+Luxembourg	Germany	407
 Luxembourg	Ghana	1
 Luxembourg	Gibraltar	1
 Luxembourg	Greece	3
@@ -12501,7 +12501,7 @@ Macau	Brazil	0
 Macau	Cambodia	0
 Macau	Canada	0
 Macau	Chile	0
-Macau	China	605
+Macau	China	76
 Macau	Cote d'Ivoire	0
 Macau	Croatia	0
 Macau	Czech Republic	0
@@ -12546,7 +12546,7 @@ Macau	United Kingdom	1
 Macau	United States	7
 Macau	Vietnam	0
 Macedonia	Afghanistan	0
-Macedonia	Albania	459
+Macedonia	Albania	52
 Macedonia	Algeria	0
 Macedonia	Argentina	0
 Macedonia	Armenia	0
@@ -12560,7 +12560,7 @@ Macedonia	Belgium	6
 Macedonia	Belize	0
 Macedonia	Bosnia and Herzegovina	8
 Macedonia	Brazil	0
-Macedonia	Bulgaria	432
+Macedonia	Bulgaria	68
 Macedonia	Cameroon	0
 Macedonia	Canada	0
 Macedonia	China	9
@@ -12581,7 +12581,7 @@ Macedonia	France	2
 Macedonia	Georgia	0
 Macedonia	Germany	133
 Macedonia	Ghana	0
-Macedonia	Greece	602
+Macedonia	Greece	76
 Macedonia	Guinea	0
 Macedonia	Haiti	0
 Macedonia	Hong Kong	0
@@ -12599,7 +12599,7 @@ Macedonia	Jordan	0
 Macedonia	Kazakhstan	0
 Macedonia	Kenya	0
 Macedonia	Korea, South	0
-Macedonia	Kosovo	399
+Macedonia	Kosovo	40
 Macedonia	Kuwait	0
 Macedonia	Latvia	0
 Macedonia	Lebanon	0
@@ -12633,7 +12633,7 @@ Macedonia	Russia	3
 Macedonia	San Marino	0
 Macedonia	Saudi Arabia	0
 Macedonia	Senegal	0
-Macedonia	Serbia	299
+Macedonia	Serbia	72
 Macedonia	Seychelles	0
 Macedonia	Sierra Leone	0
 Macedonia	Singapore	0
@@ -12864,7 +12864,7 @@ Malawi	Mauritius	0
 Malawi	Mexico	0
 Malawi	Moldova	0
 Malawi	Morocco	0
-Malawi	Mozambique	9114
+Malawi	Mozambique	914
 Malawi	Namibia	0
 Malawi	Netherlands	5
 Malawi	New Zealand	0
@@ -12895,7 +12895,7 @@ Malawi	Sudan	0
 Malawi	Swaziland	0
 Malawi	Sweden	0
 Malawi	Switzerland	2
-Malawi	Tanzania	3117
+Malawi	Tanzania	314
 Malawi	Thailand	0
 Malawi	Togo	0
 Malawi	Tunisia	0
@@ -12907,7 +12907,7 @@ Malawi	United Kingdom	7
 Malawi	United States	8
 Malawi	Uruguay	0
 Malawi	Vietnam	0
-Malawi	Zambia	5156
+Malawi	Zambia	519
 Malawi	Zimbabwe	5
 Malaysia	Afghanistan	4
 Malaysia	Albania	0
@@ -12940,7 +12940,7 @@ Malaysia	Botswana	0
 Malaysia	Br. Indian Ocean Terr.	0
 Malaysia	Br. Virgin Islands	0
 Malaysia	Brazil	110
-Malaysia	Brunei	2917
+Malaysia	Brunei	292
 Malaysia	Bulgaria	4
 Malaysia	Burkina Faso	0
 Malaysia	Burma	65
@@ -13009,7 +13009,7 @@ Malaysia	Hong Kong	895
 Malaysia	Hungary	20
 Malaysia	Iceland	0
 Malaysia	India	739
-Malaysia	Indonesia	21581
+Malaysia	Indonesia	3014
 Malaysia	Iran	90
 Malaysia	Iraq	8
 Malaysia	Ireland	13
@@ -13106,7 +13106,7 @@ Malaysia	Switzerland	21
 Malaysia	Syria	4
 Malaysia	Tajikistan	0
 Malaysia	Tanzania	19
-Malaysia	Thailand	7673
+Malaysia	Thailand	1800
 Malaysia	Timor-Leste	2
 Malaysia	Togo	30
 Malaysia	Tonga	0
@@ -13168,7 +13168,7 @@ Maldives	United Kingdom	2
 Maldives	United States	1
 Maldives	Vietnam	0
 Mali	Afghanistan	0
-Mali	Algeria	2828
+Mali	Algeria	283
 Mali	Andorra	0
 Mali	Angola	0
 Mali	Argentina	0
@@ -13181,7 +13181,7 @@ Mali	Belize	0
 Mali	Benin	1
 Mali	Brazil	0
 Mali	Bulgaria	0
-Mali	Burkina Faso	2780
+Mali	Burkina Faso	299
 Mali	Burundi	0
 Mali	Cameroon	0
 Mali	Canada	0
@@ -13189,7 +13189,7 @@ Mali	Central African Republic	0
 Mali	China	50
 Mali	Congo, Democratic Republic of the	0
 Mali	Congo, Republic of the	0
-Mali	Cote d'Ivoire	1274
+Mali	Cote d'Ivoire	153
 Mali	Czech Republic	0
 Mali	Dem. People's Korea, South	0
 Mali	Denmark	0
@@ -13205,7 +13205,7 @@ Mali	Germany	2
 Mali	Ghana	1
 Mali	Grenada	0
 Mali	Guatemala	0
-Mali	Guinea	2213
+Mali	Guinea	224
 Mali	Guinea-Bissau	0
 Mali	Honduras	0
 Mali	Hong Kong	0
@@ -13226,13 +13226,13 @@ Mali	Lithuania	0
 Mali	Madagascar	0
 Mali	Malawi	0
 Mali	Malaysia	32
-Mali	Mauritania	4655
+Mali	Mauritania	467
 Mali	Mauritius	0
 Mali	Mexico	0
 Mali	Morocco	2
 Mali	Netherlands	0
 Mali	New Zealand	0
-Mali	Niger	1745
+Mali	Niger	175
 Mali	Nigeria	1
 Mali	Pakistan	0
 Mali	Philippines	0
@@ -13243,7 +13243,7 @@ Mali	Russia	5
 Mali	Rwanda	0
 Mali	Saint Helena	0
 Mali	Saudi Arabia	0
-Mali	Senegal	1034
+Mali	Senegal	118
 Mali	Sierra Leone	0
 Mali	Singapore	0
 Mali	South Africa	4
@@ -13428,7 +13428,7 @@ Malta	West Bank	0
 Malta	Yemen	1
 Malta	Zambia	0
 Mauritania	Afghanistan	0
-Mauritania	Algeria	323
+Mauritania	Algeria	32
 Mauritania	Angola	0
 Mauritania	Australia	0
 Mauritania	Belarus	0
@@ -13468,7 +13468,7 @@ Mauritania	Liberia	0
 Mauritania	Libya	0
 Mauritania	Lithuania	0
 Mauritania	Malaysia	0
-Mauritania	Mali	1572
+Mauritania	Mali	157
 Mauritania	Mexico	0
 Mauritania	Moldova	0
 Mauritania	Morocco	0
@@ -13482,7 +13482,7 @@ Mauritania	Portugal	1
 Mauritania	Romania	0
 Mauritania	Russia	5
 Mauritania	Saudi Arabia	0
-Mauritania	Senegal	522
+Mauritania	Senegal	52
 Mauritania	Singapore	0
 Mauritania	South Africa	0
 Mauritania	Spain	8
@@ -13498,7 +13498,7 @@ Mauritania	United Kingdom	1
 Mauritania	United States	0
 Mauritania	Venezuela	0
 Mauritania	Vietnam	1
-Mauritania	Western Sahara	1100
+Mauritania	Western Sahara	110
 Mauritania	Yemen	0
 Mauritania	Zimbabwe	0
 Mauritius	Angola	0
@@ -13669,7 +13669,7 @@ Mexico	Bangladesh	0
 Mexico	Barbados	1
 Mexico	Belarus	0
 Mexico	Belgium	91
-Mexico	Belize	7577
+Mexico	Belize	769
 Mexico	Benin	0
 Mexico	Bermuda	0
 Mexico	Bolivia	17
@@ -13727,7 +13727,7 @@ Mexico	Gibraltar	0
 Mexico	Greece	3
 Mexico	Grenada	0
 Mexico	Guam	0
-Mexico	Guatemala	26404
+Mexico	Guatemala	2775
 Mexico	Guinea	0
 Mexico	Guinea-Bissau	0
 Mexico	Guyana	1
@@ -13833,7 +13833,7 @@ Mexico	Uganda	0
 Mexico	Ukraine	4
 Mexico	United Arab Emirates	40
 Mexico	United Kingdom	101
-Mexico	United States	111895
+Mexico	United States	34075
 Mexico	Uruguay	26
 Mexico	Uzbekistan	1
 Mexico	Venezuela	185
@@ -13922,7 +13922,7 @@ Moldova	Peru	0
 Moldova	Philippines	0
 Moldova	Poland	7
 Moldova	Portugal	0
-Moldova	Romania	1334
+Moldova	Romania	166
 Moldova	Russia	55
 Moldova	San Marino	0
 Moldova	Saudi Arabia	0
@@ -13944,7 +13944,7 @@ Moldova	Thailand	0
 Moldova	Tunisia	0
 Moldova	Turkey	11
 Moldova	Turkmenistan	0
-Moldova	Ukraine	2297
+Moldova	Ukraine	240
 Moldova	United Arab Emirates	0
 Moldova	United Kingdom	9
 Moldova	United States	2
@@ -13953,7 +13953,7 @@ Moldova	Uzbekistan	1
 Moldova	Venezuela	0
 Moldova	Vietnam	0
 Moldova	Yemen	0
-Monaco	France	31
+Monaco	France	3
 Mongolia	Angola	0
 Mongolia	Australia	1
 Mongolia	Austria	0
@@ -13964,7 +13964,7 @@ Mongolia	Belgium	0
 Mongolia	Brazil	0
 Mongolia	Bulgaria	0
 Mongolia	Canada	0
-Mongolia	China	2039
+Mongolia	China	516
 Mongolia	Colombia	0
 Mongolia	Czech Republic	0
 Mongolia	Dem. People's Korea, South	0
@@ -13995,7 +13995,7 @@ Mongolia	Philippines	0
 Mongolia	Poland	0
 Mongolia	Qatar	0
 Mongolia	Romania	0
-Mongolia	Russia	1267
+Mongolia	Russia	132
 Mongolia	Seychelles	0
 Mongolia	Singapore	1
 Mongolia	South Africa	0
@@ -14013,14 +14013,14 @@ Mongolia	United States	0
 Mongolia	Uzbekistan	0
 Mongolia	Vietnam	0
 Montenegro	Afghanistan	0
-Montenegro	Albania	179
+Montenegro	Albania	19
 Montenegro	Australia	0
 Montenegro	Austria	0
 Montenegro	Bahamas, The	0
 Montenegro	Bangladesh	0
 Montenegro	Belgium	0
 Montenegro	Bermuda	0
-Montenegro	Bosnia and Herzegovina	233
+Montenegro	Bosnia and Herzegovina	25
 Montenegro	Br. Virgin Islands	0
 Montenegro	Brazil	0
 Montenegro	Bulgaria	0
@@ -14029,7 +14029,7 @@ Montenegro	Canada	0
 Montenegro	Cayman Islands	0
 Montenegro	China	0
 Montenegro	Costa Rica	0
-Montenegro	Croatia	25
+Montenegro	Croatia	9
 Montenegro	Cyprus	0
 Montenegro	Czech Republic	1
 Montenegro	Denmark	0
@@ -14050,7 +14050,7 @@ Montenegro	Jordan	0
 Montenegro	Kazakhstan	0
 Montenegro	Kenya	0
 Montenegro	Korea, South	0
-Montenegro	Kosovo	73
+Montenegro	Kosovo	7
 Montenegro	Lebanon	0
 Montenegro	Liberia	0
 Montenegro	Libya	1
@@ -14075,7 +14075,7 @@ Montenegro	Portugal	0
 Montenegro	Romania	0
 Montenegro	Russia	1
 Montenegro	Saint Vincent and the Grenadines	0
-Montenegro	Serbia	166
+Montenegro	Serbia	31
 Montenegro	Sierra Leone	0
 Montenegro	Singapore	0
 Montenegro	Slovakia	0
@@ -14106,7 +14106,7 @@ Montserrat	Trinidad and Tobago	0
 Montserrat	United Kingdom	0
 Montserrat	United States	0
 Morocco	Albania	0
-Morocco	Algeria	26755
+Morocco	Algeria	2690
 Morocco	Andorra	0
 Morocco	Angola	3
 Morocco	Anguilla	0
@@ -14263,7 +14263,7 @@ Morocco	Venezuela	2
 Morocco	Vietnam	0
 Morocco	Wallis and Futuna Islands	0
 Morocco	West Bank	0
-Morocco	Western Sahara	6248
+Morocco	Western Sahara	625
 Morocco	Yemen	1
 Morocco	Zambia	0
 Morocco	Zimbabwe	0
@@ -14333,7 +14333,7 @@ Mozambique	Lithuania	0
 Mozambique	Luxembourg	0
 Mozambique	Macedonia	0
 Mozambique	Madagascar	0
-Mozambique	Malawi	7737
+Mozambique	Malawi	777
 Mozambique	Malaysia	2
 Mozambique	Marshall Islands	0
 Mozambique	Mauritius	1
@@ -14359,14 +14359,14 @@ Mozambique	Senegal	0
 Mozambique	Serbia	0
 Mozambique	Singapore	3
 Mozambique	Slovenia	0
-Mozambique	South Africa	2637
+Mozambique	South Africa	332
 Mozambique	Spain	6
 Mozambique	Sri Lanka	0
 Mozambique	Sudan	0
-Mozambique	Swaziland	558
+Mozambique	Swaziland	56
 Mozambique	Sweden	0
 Mozambique	Switzerland	7
-Mozambique	Tanzania	4342
+Mozambique	Tanzania	440
 Mozambique	Thailand	0
 Mozambique	Tokelau	0
 Mozambique	Tonga	0
@@ -14381,13 +14381,13 @@ Mozambique	United States Minor Outlying Islands	1
 Mozambique	Uzbekistan	0
 Mozambique	Vanuatu	1
 Mozambique	Vietnam	1
-Mozambique	Zambia	2266
-Mozambique	Zimbabwe	7244
+Mozambique	Zambia	227
+Mozambique	Zimbabwe	730
 Namibia	Albania	0
 Namibia	Algeria	0
 Namibia	American Samoa	0
 Namibia	Andorra	0
-Namibia	Angola	777
+Namibia	Angola	108
 Namibia	Anguilla	0
 Namibia	Antarctica	0
 Namibia	Antigua and Barbuda	0
@@ -14403,7 +14403,7 @@ Namibia	Benin	0
 Namibia	Bhutan	0
 Namibia	Bolivia	0
 Namibia	Bosnia and Herzegovina	0
-Namibia	Botswana	868
+Namibia	Botswana	144
 Namibia	Br. Indian Ocean Terr.	0
 Namibia	Brazil	0
 Namibia	Bulgaria	0
@@ -14515,7 +14515,7 @@ Namibia	Singapore	9
 Namibia	Slovakia	0
 Namibia	Slovenia	0
 Namibia	Somalia	0
-Namibia	South Africa	642
+Namibia	South Africa	170
 Namibia	Spain	16
 Namibia	Sri Lanka	0
 Namibia	Sudan	0
@@ -14541,7 +14541,7 @@ Namibia	Uruguay	0
 Namibia	Uzbekistan	0
 Namibia	Vanuatu	0
 Namibia	Vietnam	1
-Namibia	Zambia	136
+Namibia	Zambia	22
 Namibia	Zimbabwe	4
 Nepal	Afghanistan	0
 Nepal	Andorra	0
@@ -14566,7 +14566,7 @@ Nepal	Canada	1
 Nepal	Central African Republic	0
 Nepal	Chad	0
 Nepal	Chile	0
-Nepal	China	13626
+Nepal	China	1363
 Nepal	Colombia	0
 Nepal	Congo, Republic of the	0
 Nepal	Costa Rica	0
@@ -14595,7 +14595,7 @@ Nepal	Haiti	0
 Nepal	Hong Kong	0
 Nepal	Hungary	0
 Nepal	Iceland	0
-Nepal	India	17424
+Nepal	India	1798
 Nepal	Indonesia	0
 Nepal	Iran	0
 Nepal	Iraq	0
@@ -14694,7 +14694,7 @@ Netherlands	Bahrain	16
 Netherlands	Bangladesh	18
 Netherlands	Barbados	1
 Netherlands	Belarus	42
-Netherlands	Belgium	13353
+Netherlands	Belgium	6458
 Netherlands	Belize	1
 Netherlands	Benin	13
 Netherlands	Bermuda	1
@@ -14757,7 +14757,7 @@ Netherlands	French Polynesia	1
 Netherlands	Gabon	23
 Netherlands	Gambia, The	3
 Netherlands	Georgia	10
-Netherlands	Germany	21827
+Netherlands	Germany	13533
 Netherlands	Ghana	119
 Netherlands	Gibraltar	115
 Netherlands	Greece	256
@@ -15197,7 +15197,7 @@ Nicaragua	China	1
 Nicaragua	Colombia	1
 Nicaragua	Congo, Democratic Republic of the	0
 Nicaragua	Congo, Republic of the	0
-Nicaragua	Costa Rica	1467
+Nicaragua	Costa Rica	152
 Nicaragua	Cuba	0
 Nicaragua	Curaçao	0
 Nicaragua	Cyprus	0
@@ -15220,7 +15220,7 @@ Nicaragua	Guatemala	4
 Nicaragua	Guyana	0
 Nicaragua	Haiti	1
 Nicaragua	Holy See (Vatican City)	0
-Nicaragua	Honduras	4395
+Nicaragua	Honduras	446
 Nicaragua	Hong Kong	0
 Nicaragua	Hungary	0
 Nicaragua	Iceland	0
@@ -15288,18 +15288,18 @@ Nicaragua	United States	98
 Nicaragua	Uruguay	0
 Nicaragua	Venezuela	20
 Nicaragua	Vietnam	0
-Niger	Algeria	2847
+Niger	Algeria	285
 Niger	Argentina	0
 Niger	Austria	0
 Niger	Bangladesh	0
 Niger	Belgium	0
-Niger	Benin	829
+Niger	Benin	83
 Niger	Bolivia	0
 Niger	Brazil	1
-Niger	Burkina Faso	1885
+Niger	Burkina Faso	209
 Niger	Cameroon	0
 Niger	Canada	0
-Niger	Chad	3581
+Niger	Chad	358
 Niger	Chile	0
 Niger	China	9
 Niger	Colombia	0
@@ -15327,10 +15327,10 @@ Niger	Japan	0
 Niger	Kenya	0
 Niger	Korea, South	0
 Niger	Kuwait	0
-Niger	Libya	1024
+Niger	Libya	102
 Niger	Madagascar	0
 Niger	Malaysia	1
-Niger	Mali	2509
+Niger	Mali	251
 Niger	Mexico	0
 Niger	Morocco	0
 Niger	Namibia	0
@@ -15338,7 +15338,7 @@ Niger	Nauru	0
 Niger	Netherlands	2
 Niger	New Zealand	0
 Niger	Nicaragua	0
-Niger	Nigeria	4835
+Niger	Nigeria	502
 Niger	Norfolk Islands	0
 Niger	Pakistan	0
 Niger	Poland	0
@@ -15378,7 +15378,7 @@ Nigeria	Bangladesh	28
 Nigeria	Barbados	217
 Nigeria	Belgium	60
 Nigeria	Belize	0
-Nigeria	Benin	32012
+Nigeria	Benin	3201
 Nigeria	Bermuda	1
 Nigeria	Bhutan	0
 Nigeria	Bolivia	0
@@ -15389,10 +15389,10 @@ Nigeria	Bulgaria	0
 Nigeria	Burkina Faso	0
 Nigeria	Cabo Verde	0
 Nigeria	Cambodia	0
-Nigeria	Cameroon	78205
+Nigeria	Cameroon	7869
 Nigeria	Canada	124
 Nigeria	Central African Republic	1
-Nigeria	Chad	3364
+Nigeria	Chad	337
 Nigeria	Chile	0
 Nigeria	China	458
 Nigeria	Cocos Islands	0
@@ -15455,7 +15455,7 @@ Nigeria	Namibia	0
 Nigeria	Netherlands	567
 Nigeria	New Zealand	0
 Nigeria	Nicaragua	2
-Nigeria	Niger	63629
+Nigeria	Niger	6363
 Nigeria	Norfolk Islands	0
 Nigeria	Norway	14
 Nigeria	Pakistan	2
@@ -15574,7 +15574,7 @@ Norway	Ethiopia	0
 Norway	Falkland Islands (Malvinas)	0
 Norway	Faroe Islands	24
 Norway	Fiji	0
-Norway	Finland	1562
+Norway	Finland	282
 Norway	France	981
 Norway	French Polynesia	0
 Norway	Gabon	1
@@ -15658,7 +15658,7 @@ Norway	Poland	240
 Norway	Portugal	44
 Norway	Qatar	4
 Norway	Romania	22
-Norway	Russia	510
+Norway	Russia	165
 Norway	Rwanda	0
 Norway	Saint Kitts and Nevis	0
 Norway	Saint Lucia	0
@@ -15683,7 +15683,7 @@ Norway	Sri Lanka	1
 Norway	Sudan	0
 Norway	Suriname	0
 Norway	Swaziland	0
-Norway	Sweden	4120
+Norway	Sweden	1112
 Norway	Switzerland	34
 Norway	Syria	0
 Norway	Tajikistan	0
@@ -15823,7 +15823,7 @@ Oman	Qatar	83
 Oman	Romania	2
 Oman	Russia	3
 Oman	Rwanda	0
-Oman	Saudi Arabia	1851
+Oman	Saudi Arabia	630
 Oman	Senegal	1
 Oman	Serbia	0
 Oman	Seychelles	1
@@ -15850,7 +15850,7 @@ Oman	Turkey	38
 Oman	Turkmenistan	0
 Oman	Uganda	0
 Oman	Ukraine	1
-Oman	United Arab Emirates	2303
+Oman	United Arab Emirates	1173
 Oman	United Kingdom	18
 Oman	United States	116
 Oman	United States Minor Outlying Islands	0
@@ -15858,10 +15858,10 @@ Oman	Uruguay	0
 Oman	Venezuela	0
 Oman	Vietnam	14
 Oman	West Bank	0
-Oman	Yemen	655
+Oman	Yemen	110
 Oman	Zambia	0
 Oman	Zimbabwe	0
-Pakistan	Afghanistan	72351
+Pakistan	Afghanistan	7392
 Pakistan	Albania	0
 Pakistan	Algeria	3
 Pakistan	Angola	3
@@ -15897,7 +15897,7 @@ Pakistan	Canada	20
 Pakistan	Cayman Islands	0
 Pakistan	Chad	0
 Pakistan	Chile	7
-Pakistan	China	12070
+Pakistan	China	1414
 Pakistan	Colombia	4
 Pakistan	Comoros	2
 Pakistan	Congo, Democratic Republic of the	1
@@ -15948,9 +15948,9 @@ Pakistan	Honduras	0
 Pakistan	Hong Kong	35
 Pakistan	Hungary	1
 Pakistan	Iceland	0
-Pakistan	India	86268
+Pakistan	India	8658
 Pakistan	Indonesia	13
-Pakistan	Iran	25929
+Pakistan	Iran	2597
 Pakistan	Iraq	2
 Pakistan	Ireland	4
 Pakistan	Italy	56
@@ -16098,9 +16098,9 @@ Panama	Brazil	5
 Panama	Canada	6
 Panama	Chile	20
 Panama	China	119
-Panama	Colombia	1804
+Panama	Colombia	201
 Panama	Congo, Democratic Republic of the	0
-Panama	Costa Rica	1944
+Panama	Costa Rica	299
 Panama	Croatia	1
 Panama	Cuba	6
 Panama	Curaçao	7
@@ -16201,7 +16201,7 @@ Papua New Guinea	Guam	0
 Papua New Guinea	Honduras	0
 Papua New Guinea	Hong Kong	2
 Papua New Guinea	India	21
-Papua New Guinea	Indonesia	6557
+Papua New Guinea	Indonesia	659
 Papua New Guinea	Iran	0
 Papua New Guinea	Ireland	0
 Papua New Guinea	Italy	6
@@ -16253,7 +16253,7 @@ Papua New Guinea	Wallis and Futuna Islands	0
 Paraguay	Albania	0
 Paraguay	Algeria	12
 Paraguay	Angola	4
-Paraguay	Argentina	3742
+Paraguay	Argentina	461
 Paraguay	Armenia	0
 Paraguay	Aruba	4
 Paraguay	Australia	0
@@ -16263,8 +16263,8 @@ Paraguay	Bangladesh	15
 Paraguay	Belgium	5
 Paraguay	Belize	0
 Paraguay	Benin	0
-Paraguay	Bolivia	1094
-Paraguay	Brazil	2358
+Paraguay	Bolivia	118
+Paraguay	Brazil	581
 Paraguay	Bulgaria	0
 Paraguay	Cabo Verde	0
 Paraguay	Canada	1
@@ -16383,9 +16383,9 @@ Peru	Belgium	75
 Peru	Belize	0
 Peru	Benin	0
 Peru	Bermuda	0
-Peru	Bolivia	5237
+Peru	Bolivia	580
 Peru	Br. Virgin Islands	0
-Peru	Brazil	11534
+Peru	Brazil	1318
 Peru	Bulgaria	33
 Peru	Burkina Faso	0
 Peru	Burma	0
@@ -16395,9 +16395,9 @@ Peru	Cambodia	0
 Peru	Cameroon	0
 Peru	Canada	76
 Peru	Cayman Islands	0
-Peru	Chile	896
+Peru	Chile	251
 Peru	China	789
-Peru	Colombia	6469
+Peru	Colombia	729
 Peru	Congo, Republic of the	0
 Peru	Costa Rica	5
 Peru	Cote d'Ivoire	0
@@ -16410,7 +16410,7 @@ Peru	Dem. People's Korea, South	0
 Peru	Denmark	11
 Peru	Dominica	0
 Peru	Dominican Republic	8
-Peru	Ecuador	6629
+Peru	Ecuador	755
 Peru	Egypt	1
 Peru	El Salvador	4
 Peru	Equatorial Guinea	0
@@ -16751,7 +16751,7 @@ Poland	Bahamas, The	27
 Poland	Bahrain	1
 Poland	Bangladesh	3
 Poland	Barbados	1
-Poland	Belarus	5669
+Poland	Belarus	760
 Poland	Belgium	381
 Poland	Belize	2
 Poland	Benin	4
@@ -16790,7 +16790,7 @@ Poland	Croatia	38
 Poland	Cuba	1
 Poland	Curaçao	0
 Poland	Cyprus	22
-Poland	Czech Republic	11242
+Poland	Czech Republic	2091
 Poland	Dem. People's Korea, South	0
 Poland	Denmark	283
 Poland	Djibouti	0
@@ -16813,7 +16813,7 @@ Poland	French Polynesia	0
 Poland	Gabon	1
 Poland	Gambia, The	0
 Poland	Georgia	9
-Poland	Germany	10857
+Poland	Germany	5004
 Poland	Ghana	3
 Poland	Gibraltar	11
 Poland	Greece	63
@@ -16852,7 +16852,7 @@ Poland	Lebanon	7
 Poland	Lesotho	0
 Poland	Liberia	30
 Poland	Libya	8
-Poland	Lithuania	1713
+Poland	Lithuania	403
 Poland	Luxembourg	19
 Poland	Macau	0
 Poland	Macedonia	6
@@ -16908,7 +16908,7 @@ Poland	Seychelles	0
 Poland	Sierra Leone	1
 Poland	Singapore	65
 Poland	Sint Maarten	0
-Poland	Slovakia	7976
+Poland	Slovakia	1207
 Poland	Slovenia	55
 Poland	Somalia	0
 Poland	South Africa	54
@@ -16933,7 +16933,7 @@ Poland	Tunisia	10
 Poland	Turkey	268
 Poland	Turkmenistan	4
 Poland	Uganda	2
-Poland	Ukraine	7748
+Poland	Ukraine	1228
 Poland	United Arab Emirates	66
 Poland	United Kingdom	1145
 Poland	United States	394
@@ -17115,7 +17115,7 @@ Portugal	Slovenia	3
 Portugal	Somalia	0
 Portugal	South Africa	19
 Portugal	South Sudan	0
-Portugal	Spain	12099
+Portugal	Spain	2366
 Portugal	Sri Lanka	0
 Portugal	Sudan	1
 Portugal	Suriname	0
@@ -17254,7 +17254,7 @@ Qatar	Portugal	2
 Qatar	Romania	0
 Qatar	Russia	0
 Qatar	Saint Lucia	0
-Qatar	Saudi Arabia	2132
+Qatar	Saudi Arabia	221
 Qatar	Senegal	0
 Qatar	Serbia	0
 Qatar	Seychelles	0
@@ -17316,7 +17316,7 @@ Romania	Bosnia and Herzegovina	10
 Romania	Botswana	0
 Romania	Br. Virgin Islands	22
 Romania	Brazil	33
-Romania	Bulgaria	4818
+Romania	Bulgaria	657
 Romania	Burkina Faso	1
 Romania	Burma	0
 Romania	Burundi	0
@@ -17372,7 +17372,7 @@ Romania	Guyana	0
 Romania	Haiti	0
 Romania	Honduras	0
 Romania	Hong Kong	5
-Romania	Hungary	3522
+Romania	Hungary	606
 Romania	Iceland	0
 Romania	India	26
 Romania	Indonesia	1
@@ -17408,7 +17408,7 @@ Romania	Marshall Islands	3
 Romania	Mauritania	3
 Romania	Mauritius	0
 Romania	Mexico	18
-Romania	Moldova	5301
+Romania	Moldova	604
 Romania	Mongolia	1
 Romania	Montenegro	2
 Romania	Morocco	45
@@ -17439,7 +17439,7 @@ Romania	Saint Vincent and the Grenadines	0
 Romania	San Marino	4
 Romania	Saudi Arabia	40
 Romania	Senegal	1
-Romania	Serbia	4121
+Romania	Serbia	470
 Romania	Seychelles	0
 Romania	Sierra Leone	0
 Romania	Singapore	4
@@ -17468,7 +17468,7 @@ Romania	Turkey	293
 Romania	Turkmenistan	1
 Romania	Turks and Caicos Islands	0
 Romania	Uganda	0
-Romania	Ukraine	4703
+Romania	Ukraine	570
 Romania	United Arab Emirates	27
 Romania	United Kingdom	234
 Romania	United States	95
@@ -17491,12 +17491,12 @@ Russia	Argentina	40
 Russia	Armenia	46
 Russia	Australia	7
 Russia	Austria	28
-Russia	Azerbaijan	2491
+Russia	Azerbaijan	511
 Russia	Bahamas, The	1
 Russia	Bahrain	1
 Russia	Bangladesh	25
 Russia	Barbados	12
-Russia	Belarus	10210
+Russia	Belarus	2525
 Russia	Belgium	765
 Russia	Belize	2
 Russia	Benin	0
@@ -17517,7 +17517,7 @@ Russia	Canada	47
 Russia	Central African Republic	0
 Russia	Chad	0
 Russia	Chile	5
-Russia	China	30426
+Russia	China	6218
 Russia	Colombia	23
 Russia	Comoros	0
 Russia	Congo, Democratic Republic of the	0
@@ -17540,15 +17540,15 @@ Russia	Egypt	248
 Russia	El Salvador	1
 Russia	Equatorial Guinea	0
 Russia	Eritrea	0
-Russia	Estonia	2480
+Russia	Estonia	582
 Russia	Ethiopia	5
 Russia	Falkland Islands (Malvinas)	1
 Russia	Faroe Islands	1
 Russia	Fiji	0
-Russia	Finland	9709
+Russia	Finland	2042
 Russia	France	587
 Russia	Gabon	0
-Russia	Georgia	5900
+Russia	Georgia	664
 Russia	Germany	2274
 Russia	Ghana	7
 Russia	Gibraltar	47
@@ -17573,14 +17573,14 @@ Russia	Israel	206
 Russia	Italy	2887
 Russia	Japan	1948
 Russia	Jordan	17
-Russia	Kazakhstan	51453
+Russia	Kazakhstan	6680
 Russia	Kenya	20
-Russia	Korea, North	117
+Russia	Korea, North	12
 Russia	Korea, South	1472
 Russia	Kuwait	3
 Russia	Kyrgyzstan	201
 Russia	Laos	4
-Russia	Latvia	3135
+Russia	Latvia	1190
 Russia	Lebanon	51
 Russia	Lesotho	0
 Russia	Liberia	0
@@ -17599,7 +17599,7 @@ Russia	Mauritania	2
 Russia	Mauritius	0
 Russia	Mexico	85
 Russia	Moldova	41
-Russia	Mongolia	22622
+Russia	Mongolia	2403
 Russia	Montenegro	2
 Russia	Morocco	85
 Russia	Mozambique	8
@@ -17611,7 +17611,7 @@ Russia	New Zealand	33
 Russia	Nicaragua	4
 Russia	Niger	0
 Russia	Nigeria	27
-Russia	Norway	1323
+Russia	Norway	204
 Russia	Oman	6
 Russia	Pakistan	20
 Russia	Panama	6
@@ -17655,7 +17655,7 @@ Russia	Tunisia	22
 Russia	Turkey	1498
 Russia	Turkmenistan	142
 Russia	Uganda	2
-Russia	Ukraine	14159
+Russia	Ukraine	2772
 Russia	United Arab Emirates	160
 Russia	United Kingdom	1216
 Russia	United States	1107
@@ -17679,7 +17679,7 @@ Rwanda	Bosnia and Herzegovina	0
 Rwanda	Brazil	0
 Rwanda	Burkina Faso	0
 Rwanda	Burma	0
-Rwanda	Burundi	4181
+Rwanda	Burundi	420
 Rwanda	Cambodia	0
 Rwanda	Cameroon	0
 Rwanda	Canada	0
@@ -17687,7 +17687,7 @@ Rwanda	Central African Republic	0
 Rwanda	China	0
 Rwanda	Colombia	0
 Rwanda	Comoros	0
-Rwanda	Congo, Democratic Republic of the	2942
+Rwanda	Congo, Democratic Republic of the	303
 Rwanda	Congo, Republic of the	0
 Rwanda	Cote d'Ivoire	0
 Rwanda	Dem. People's Korea, South	0
@@ -17743,12 +17743,12 @@ Rwanda	Sri Lanka	0
 Rwanda	Sudan	0
 Rwanda	Sweden	0
 Rwanda	Switzerland	0
-Rwanda	Tanzania	2964
+Rwanda	Tanzania	313
 Rwanda	Thailand	0
 Rwanda	Tokelau	0
 Rwanda	Tunisia	0
 Rwanda	Turkey	0
-Rwanda	Uganda	2289
+Rwanda	Uganda	235
 Rwanda	United Arab Emirates	1
 Rwanda	United Kingdom	0
 Rwanda	United States	0
@@ -17877,7 +17877,7 @@ Saint Lucia	United Kingdom	3
 Saint Lucia	United States	6
 Saint Lucia	Venezuela	0
 Saint Lucia	Vietnam	0
-Saint Martin	Sint Maarten	32
+Saint Martin	Sint Maarten	3
 Saint Pierre and Miquelon	Belgium	0
 Saint Pierre and Miquelon	Canada	0
 Saint Pierre and Miquelon	France	0
@@ -17964,7 +17964,7 @@ Samoa	United Kingdom	0
 Samoa	United States	0
 Samoa	Vanuatu	0
 Samoa	Vietnam	0
-San Marino	Italy	33
+San Marino	Italy	3
 Sao Tome and Principe	Angola	0
 Sao Tome and Principe	Armenia	0
 Sao Tome and Principe	Belgium	0
@@ -18054,15 +18054,15 @@ Saudi Arabia	Iceland	1
 Saudi Arabia	India	1706
 Saudi Arabia	Indonesia	346
 Saudi Arabia	Iran	50
-Saudi Arabia	Iraq	5522
+Saudi Arabia	Iraq	850
 Saudi Arabia	Ireland	2
 Saudi Arabia	Italy	493
 Saudi Arabia	Japan	417
-Saudi Arabia	Jordan	5839
+Saudi Arabia	Jordan	1628
 Saudi Arabia	Kazakhstan	3
 Saudi Arabia	Kenya	185
 Saudi Arabia	Korea, South	851
-Saudi Arabia	Kuwait	2417
+Saudi Arabia	Kuwait	1143
 Saudi Arabia	Latvia	3
 Saudi Arabia	Lebanon	269
 Saudi Arabia	Lesotho	3
@@ -18091,7 +18091,7 @@ Saudi Arabia	Nicaragua	1
 Saudi Arabia	Niger	3
 Saudi Arabia	Nigeria	147
 Saudi Arabia	Norway	3
-Saudi Arabia	Oman	4771
+Saudi Arabia	Oman	980
 Saudi Arabia	Pakistan	544
 Saudi Arabia	Panama	0
 Saudi Arabia	Paraguay	4
@@ -18099,7 +18099,7 @@ Saudi Arabia	Peru	72
 Saudi Arabia	Philippines	47
 Saudi Arabia	Poland	238
 Saudi Arabia	Portugal	20
-Saudi Arabia	Qatar	1489
+Saudi Arabia	Qatar	988
 Saudi Arabia	Romania	3
 Saudi Arabia	Russia	23
 Saudi Arabia	Rwanda	0
@@ -18130,7 +18130,7 @@ Saudi Arabia	Turkey	1130
 Saudi Arabia	Turkmenistan	3
 Saudi Arabia	Uganda	18
 Saudi Arabia	Ukraine	28
-Saudi Arabia	United Arab Emirates	6921
+Saudi Arabia	United Arab Emirates	4289
 Saudi Arabia	United Kingdom	515
 Saudi Arabia	United States	922
 Saudi Arabia	Uruguay	8
@@ -18138,7 +18138,7 @@ Saudi Arabia	Uzbekistan	1
 Saudi Arabia	Venezuela	1
 Saudi Arabia	Vietnam	399
 Saudi Arabia	West Bank	2
-Saudi Arabia	Yemen	8976
+Saudi Arabia	Yemen	1447
 Saudi Arabia	Zambia	0
 Saudi Arabia	Zimbabwe	0
 Senegal	Afghanistan	0
@@ -18189,13 +18189,13 @@ Senegal	Ethiopia	0
 Senegal	Finland	0
 Senegal	France	13
 Senegal	Gabon	1
-Senegal	Gambia, The	3816
+Senegal	Gambia, The	392
 Senegal	Georgia	0
 Senegal	Germany	1
 Senegal	Ghana	5
 Senegal	Greece	2
-Senegal	Guinea	1859
-Senegal	Guinea-Bissau	1740
+Senegal	Guinea	199
+Senegal	Guinea-Bissau	181
 Senegal	Guyana	0
 Senegal	Honduras	0
 Senegal	Hong Kong	0
@@ -18221,9 +18221,9 @@ Senegal	Macau	0
 Senegal	Madagascar	0
 Senegal	Malaysia	0
 Senegal	Maldives	0
-Senegal	Mali	2531
+Senegal	Mali	295
 Senegal	Malta	0
-Senegal	Mauritania	3780
+Senegal	Mauritania	387
 Senegal	Mauritius	0
 Senegal	Mexico	0
 Senegal	Montenegro	0
@@ -18294,11 +18294,11 @@ Serbia	Belgium	15
 Serbia	Belize	0
 Serbia	Benin	0
 Serbia	Bolivia	0
-Serbia	Bosnia and Herzegovina	1175
+Serbia	Bosnia and Herzegovina	211
 Serbia	Botswana	0
 Serbia	Br. Virgin Islands	0
 Serbia	Brazil	2
-Serbia	Bulgaria	1097
+Serbia	Bulgaria	136
 Serbia	Burkina Faso	0
 Serbia	Burma	1
 Serbia	Burundi	0
@@ -18312,7 +18312,7 @@ Serbia	Congo, Democratic Republic of the	0
 Serbia	Congo, Republic of the	0
 Serbia	Costa Rica	0
 Serbia	Cote d'Ivoire	0
-Serbia	Croatia	1011
+Serbia	Croatia	133
 Serbia	Cuba	0
 Serbia	Cyprus	6
 Serbia	Czech Republic	28
@@ -18340,7 +18340,7 @@ Serbia	Guyana	0
 Serbia	Haiti	0
 Serbia	Honduras	0
 Serbia	Hong Kong	4
-Serbia	Hungary	544
+Serbia	Hungary	86
 Serbia	Iceland	0
 Serbia	India	1
 Serbia	Indonesia	0
@@ -18355,7 +18355,7 @@ Serbia	Jordan	1
 Serbia	Kazakhstan	1
 Serbia	Kenya	1
 Serbia	Korea, South	0
-Serbia	Kosovo	1136
+Serbia	Kosovo	114
 Serbia	Kuwait	0
 Serbia	Kyrgyzstan	0
 Serbia	Laos	0
@@ -18366,7 +18366,7 @@ Serbia	Libya	3
 Serbia	Lithuania	2
 Serbia	Luxembourg	0
 Serbia	Macau	0
-Serbia	Macedonia	364
+Serbia	Macedonia	81
 Serbia	Madagascar	0
 Serbia	Malawi	0
 Serbia	Malaysia	0
@@ -18379,7 +18379,7 @@ Serbia	Mauritius	0
 Serbia	Mexico	0
 Serbia	Moldova	1
 Serbia	Mongolia	0
-Serbia	Montenegro	561
+Serbia	Montenegro	123
 Serbia	Morocco	0
 Serbia	Mozambique	0
 Serbia	Namibia	0
@@ -18400,7 +18400,7 @@ Serbia	Philippines	0
 Serbia	Poland	24
 Serbia	Portugal	2
 Serbia	Qatar	0
-Serbia	Romania	1717
+Serbia	Romania	233
 Serbia	Russia	92
 Serbia	Rwanda	0
 Serbia	San Marino	0
@@ -18523,10 +18523,10 @@ Sierra Leone	Cote d'Ivoire	3
 Sierra Leone	Ecuador	10
 Sierra Leone	France	4
 Sierra Leone	Germany	4
-Sierra Leone	Guinea	4172
+Sierra Leone	Guinea	417
 Sierra Leone	India	1
 Sierra Leone	Japan	3
-Sierra Leone	Liberia	1571
+Sierra Leone	Liberia	157
 Sierra Leone	Qatar	9
 Sierra Leone	Russia	10
 Sierra Leone	Saudi Arabia	22
@@ -18748,7 +18748,7 @@ Singapore	Wallis and Futuna Islands	0
 Singapore	Yemen	19
 Singapore	Zambia	1
 Singapore	Zimbabwe	1
-Sint Maarten	Saint Martin	40
+Sint Maarten	Saint Martin	4
 Slovakia	Afghanistan	0
 Slovakia	Albania	5
 Slovakia	Algeria	6
@@ -18759,7 +18759,7 @@ Slovakia	Argentina	5
 Slovakia	Armenia	0
 Slovakia	Aruba	0
 Slovakia	Australia	25
-Slovakia	Austria	795
+Slovakia	Austria	471
 Slovakia	Azerbaijan	3
 Slovakia	Bahamas, The	0
 Slovakia	Bahrain	1
@@ -18798,7 +18798,7 @@ Slovakia	Croatia	27
 Slovakia	Cuba	0
 Slovakia	Curaçao	0
 Slovakia	Cyprus	8
-Slovakia	Czech Republic	1799
+Slovakia	Czech Republic	1055
 Slovakia	Denmark	64
 Slovakia	Djibouti	0
 Slovakia	Dominican Republic	0
@@ -18829,7 +18829,7 @@ Slovakia	Guyana	0
 Slovakia	Haiti	0
 Slovakia	Honduras	0
 Slovakia	Hong Kong	5
-Slovakia	Hungary	2599
+Slovakia	Hungary	663
 Slovakia	Iceland	1
 Slovakia	India	4
 Slovakia	Indonesia	1
@@ -18885,7 +18885,7 @@ Slovakia	Panama	1
 Slovakia	Paraguay	0
 Slovakia	Peru	1
 Slovakia	Philippines	0
-Slovakia	Poland	2365
+Slovakia	Poland	769
 Slovakia	Portugal	15
 Slovakia	Qatar	2
 Slovakia	Romania	144
@@ -18923,7 +18923,7 @@ Slovakia	Turkey	107
 Slovakia	Turkmenistan	0
 Slovakia	Turks and Caicos Islands	0
 Slovakia	Uganda	0
-Slovakia	Ukraine	386
+Slovakia	Ukraine	86
 Slovakia	United Arab Emirates	14
 Slovakia	United Kingdom	332
 Slovakia	United States	130
@@ -18947,7 +18947,7 @@ Slovenia	Argentina	3
 Slovenia	Armenia	1
 Slovenia	Aruba	0
 Slovenia	Australia	9
-Slovenia	Austria	707
+Slovenia	Austria	265
 Slovenia	Azerbaijan	2
 Slovenia	Bahamas, The	0
 Slovenia	Bahrain	0
@@ -18980,7 +18980,7 @@ Slovenia	Congo, Democratic Republic of the	0
 Slovenia	Congo, Republic of the	1
 Slovenia	Costa Rica	0
 Slovenia	Cote d'Ivoire	0
-Slovenia	Croatia	1157
+Slovenia	Croatia	271
 Slovenia	Cuba	0
 Slovenia	Curaçao	0
 Slovenia	Cyprus	2
@@ -19017,7 +19017,7 @@ Slovenia	Haiti	0
 Slovenia	Heard Island and McDonald Islands	0
 Slovenia	Honduras	0
 Slovenia	Hong Kong	4
-Slovenia	Hungary	227
+Slovenia	Hungary	88
 Slovenia	Iceland	0
 Slovenia	India	8
 Slovenia	Indonesia	1
@@ -19025,7 +19025,7 @@ Slovenia	Iran	3
 Slovenia	Iraq	2
 Slovenia	Ireland	3
 Slovenia	Israel	4
-Slovenia	Italy	645
+Slovenia	Italy	323
 Slovenia	Jamaica	0
 Slovenia	Japan	4
 Slovenia	Jordan	1
@@ -19173,9 +19173,9 @@ Somalia	Belgium	0
 Somalia	Canada	0
 Somalia	China	0
 Somalia	Denmark	0
-Somalia	Djibouti	267
+Somalia	Djibouti	27
 Somalia	Egypt	0
-Somalia	Ethiopia	7171
+Somalia	Ethiopia	717
 Somalia	France	0
 Somalia	Germany	0
 Somalia	Hong Kong	0
@@ -19185,7 +19185,7 @@ Somalia	Ireland	0
 Somalia	Italy	2
 Somalia	Jamaica	0
 Somalia	Jordan	0
-Somalia	Kenya	2991
+Somalia	Kenya	299
 Somalia	Netherlands	0
 Somalia	Oman	0
 Somalia	Pakistan	0
@@ -19224,7 +19224,7 @@ South Africa	Belize	0
 South Africa	Benin	3
 South Africa	Bolivia	0
 South Africa	Bosnia and Herzegovina	0
-South Africa	Botswana	18583
+South Africa	Botswana	2235
 South Africa	Br. Indian Ocean Terr.	0
 South Africa	Br. Virgin Islands	2
 South Africa	Brazil	60
@@ -19310,7 +19310,7 @@ South Africa	Kyrgyzstan	0
 South Africa	Laos	0
 South Africa	Latvia	1
 South Africa	Lebanon	1
-South Africa	Lesotho	10332
+South Africa	Lesotho	1149
 South Africa	Liberia	1
 South Africa	Libya	2
 South Africa	Lithuania	1
@@ -19331,9 +19331,9 @@ South Africa	Moldova	0
 South Africa	Mongolia	0
 South Africa	Montenegro	0
 South Africa	Morocco	4
-South Africa	Mozambique	4834
+South Africa	Mozambique	716
 South Africa	N. Mariana Islands	0
-South Africa	Namibia	9657
+South Africa	Namibia	1313
 South Africa	Nepal	0
 South Africa	Netherlands	280
 South Africa	New Caledonia	0
@@ -19379,7 +19379,7 @@ South Africa	Spain	74
 South Africa	Sri Lanka	3
 South Africa	Sudan	3
 South Africa	Suriname	0
-South Africa	Swaziland	4179
+South Africa	Swaziland	542
 South Africa	Sweden	22
 South Africa	Switzerland	193
 South Africa	Syria	0
@@ -19410,18 +19410,18 @@ South Africa	Wallis and Futuna Islands	0
 South Africa	West Bank	0
 South Africa	Yemen	8
 South Africa	Zambia	247
-South Africa	Zimbabwe	2340
-South Sudan	Central African Republic	2027
-South Sudan	Congo, Democratic Republic of the	1372
-South Sudan	Ethiopia	2496
-South Sudan	Kenya	609
-South Sudan	Sudan	4146
-South Sudan	Uganda	913
+South Africa	Zimbabwe	430
+South Sudan	Central African Republic	203
+South Sudan	Congo, Democratic Republic of the	137
+South Sudan	Ethiopia	250
+South Sudan	Kenya	61
+South Sudan	Sudan	415
+South Sudan	Uganda	91
 Spain	Afghanistan	2
 Spain	Albania	8
 Spain	Algeria	687
 Spain	American Samoa	0
-Spain	Andorra	1690
+Spain	Andorra	291
 Spain	Angola	65
 Spain	Anguilla	0
 Spain	Antarctica	0
@@ -19492,14 +19492,14 @@ Spain	Faroe Islands	0
 Spain	Fiji	0
 Spain	Finland	126
 Spain	Fr. South Antarctic Terr.	0
-Spain	France	22638
+Spain	France	8287
 Spain	French Polynesia	2
 Spain	Gabon	10
 Spain	Gambia, The	2
 Spain	Georgia	14
 Spain	Germany	4193
 Spain	Ghana	32
-Spain	Gibraltar	372
+Spain	Gibraltar	349
 Spain	Greece	263
 Spain	Greenland	0
 Spain	Grenada	0
@@ -19576,7 +19576,7 @@ Spain	Paraguay	14
 Spain	Peru	114
 Spain	Philippines	55
 Spain	Poland	676
-Spain	Portugal	33325
+Spain	Portugal	6133
 Spain	Qatar	38
 Spain	Romania	228
 Spain	Russia	502
@@ -19852,8 +19852,8 @@ Sudan	Burundi	0
 Sudan	Cambodia	0
 Sudan	Cameroon	0
 Sudan	Canada	0
-Sudan	Central African Republic	905
-Sudan	Chad	7301
+Sudan	Central African Republic	91
+Sudan	Chad	731
 Sudan	China	99
 Sudan	Comoros	0
 Sudan	Congo, Republic of the	0
@@ -19863,12 +19863,12 @@ Sudan	Czech Republic	0
 Sudan	Denmark	0
 Sudan	Djibouti	0
 Sudan	Ecuador	0
-Sudan	Egypt	6668
+Sudan	Egypt	692
 Sudan	El Salvador	0
 Sudan	Equatorial Guinea	0
-Sudan	Eritrea	3549
+Sudan	Eritrea	355
 Sudan	Estonia	0
-Sudan	Ethiopia	3871
+Sudan	Ethiopia	387
 Sudan	Falkland Islands (Malvinas)	0
 Sudan	Fiji	0
 Sudan	Finland	0
@@ -19901,7 +19901,7 @@ Sudan	Kuwait	1
 Sudan	Laos	0
 Sudan	Lebanon	7
 Sudan	Liberia	0
-Sudan	Libya	1988
+Sudan	Libya	199
 Sudan	Lithuania	0
 Sudan	Macau	0
 Sudan	Malaysia	0
@@ -19940,7 +19940,7 @@ Sudan	Slovakia	0
 Sudan	Solomon Islands	0
 Sudan	Somalia	0
 Sudan	South Africa	0
-Sudan	South Sudan	11232
+Sudan	South Sudan	1126
 Sudan	Spain	5
 Sudan	Sri Lanka	0
 Sudan	Suriname	0
@@ -19979,7 +19979,7 @@ Suriname	Bahrain	0
 Suriname	Barbados	9
 Suriname	Belgium	22
 Suriname	Bolivia	0
-Suriname	Brazil	156
+Suriname	Brazil	16
 Suriname	Bulgaria	0
 Suriname	Burundi	0
 Suriname	Canada	40
@@ -20003,7 +20003,7 @@ Suriname	France	3
 Suriname	Germany	0
 Suriname	Ghana	1
 Suriname	Grenada	0
-Suriname	Guyana	263
+Suriname	Guyana	37
 Suriname	Haiti	0
 Suriname	Hong Kong	0
 Suriname	Hungary	0
@@ -20073,12 +20073,12 @@ Swaziland	Madagascar	0
 Swaziland	Malawi	0
 Swaziland	Mauritius	0
 Swaziland	Morocco	0
-Swaziland	Mozambique	284
+Swaziland	Mozambique	31
 Swaziland	Namibia	4
 Swaziland	Netherlands	0
 Swaziland	New Zealand	0
 Swaziland	Senegal	0
-Swaziland	South Africa	1250
+Swaziland	South Africa	225
 Swaziland	Switzerland	0
 Swaziland	Tanzania	0
 Swaziland	United Arab Emirates	1
@@ -20157,7 +20157,7 @@ Sweden	FS Micronesia	0
 Sweden	Falkland Islands (Malvinas)	0
 Sweden	Faroe Islands	3
 Sweden	Fiji	0
-Sweden	Finland	3543
+Sweden	Finland	1386
 Sweden	Fr. South Antarctic Terr.	0
 Sweden	France	729
 Sweden	French Polynesia	0
@@ -20233,7 +20233,7 @@ Sweden	New Zealand	17
 Sweden	Nicaragua	1
 Sweden	Niger	1
 Sweden	Nigeria	33
-Sweden	Norway	9053
+Sweden	Norway	2459
 Sweden	Oman	20
 Sweden	Pakistan	23
 Sweden	Panama	4
@@ -20314,7 +20314,7 @@ Switzerland	Argentina	71
 Switzerland	Armenia	3
 Switzerland	Aruba	1
 Switzerland	Australia	225
-Switzerland	Austria	1301
+Switzerland	Austria	653
 Switzerland	Azerbaijan	22
 Switzerland	Bahamas, The	7
 Switzerland	Bahrain	30
@@ -20377,12 +20377,12 @@ Switzerland	Faroe Islands	0
 Switzerland	Fiji	0
 Switzerland	Finland	73
 Switzerland	Fr. South Antarctic Terr.	0
-Switzerland	France	3815
+Switzerland	France	1663
 Switzerland	French Polynesia	0
 Switzerland	Gabon	0
 Switzerland	Gambia, The	0
 Switzerland	Georgia	4
-Switzerland	Germany	5233
+Switzerland	Germany	3806
 Switzerland	Ghana	3
 Switzerland	Gibraltar	1
 Switzerland	Greece	87
@@ -20406,7 +20406,7 @@ Switzerland	Iran	32
 Switzerland	Iraq	41
 Switzerland	Ireland	80
 Switzerland	Israel	105
-Switzerland	Italy	4598
+Switzerland	Italy	1737
 Switzerland	Jamaica	1
 Switzerland	Japan	589
 Switzerland	Jordan	26
@@ -20422,7 +20422,7 @@ Switzerland	Lebanon	51
 Switzerland	Lesotho	0
 Switzerland	Liberia	4
 Switzerland	Libya	33
-Switzerland	Liechtenstein	187
+Switzerland	Liechtenstein	19
 Switzerland	Lithuania	17
 Switzerland	Luxembourg	23
 Switzerland	Macau	4
@@ -20593,19 +20593,19 @@ Syria	Hungary	0
 Syria	India	0
 Syria	Indonesia	0
 Syria	Iran	0
-Syria	Iraq	4599
+Syria	Iraq	503
 Syria	Ireland	0
-Syria	Israel	631
+Syria	Israel	63
 Syria	Italy	32
 Syria	Japan	1
-Syria	Jordan	2887
+Syria	Jordan	296
 Syria	Kazakhstan	0
 Syria	Kenya	0
 Syria	Korea, South	3
 Syria	Kuwait	3
 Syria	Kyrgyzstan	0
 Syria	Latvia	0
-Syria	Lebanon	3071
+Syria	Lebanon	315
 Syria	Liberia	0
 Syria	Libya	3
 Syria	Lithuania	0
@@ -20661,7 +20661,7 @@ Syria	Thailand	0
 Syria	Togo	0
 Syria	Trinidad and Tobago	0
 Syria	Tunisia	1
-Syria	Turkey	6843
+Syria	Turkey	696
 Syria	Turkmenistan	0
 Syria	Uganda	0
 Syria	Ukraine	1
@@ -20673,14 +20673,14 @@ Syria	Venezuela	0
 Syria	Vietnam	0
 Syria	Yemen	2
 Syria	Zimbabwe	0
-Tajikistan	Afghanistan	2645
+Tajikistan	Afghanistan	265
 Tajikistan	Austria	0
 Tajikistan	Azerbaijan	0
 Tajikistan	Belarus	0
 Tajikistan	Belgium	1
 Tajikistan	Bulgaria	0
 Tajikistan	Canada	0
-Tajikistan	China	930
+Tajikistan	China	93
 Tajikistan	Congo, Republic of the	0
 Tajikistan	Djibouti	0
 Tajikistan	Egypt	0
@@ -20693,7 +20693,7 @@ Tajikistan	Greece	1
 Tajikistan	Hungary	0
 Tajikistan	Italy	3
 Tajikistan	Kazakhstan	1
-Tajikistan	Kyrgyzstan	1918
+Tajikistan	Kyrgyzstan	192
 Tajikistan	Latvia	2
 Tajikistan	Malta	0
 Tajikistan	Netherlands	27
@@ -20710,7 +20710,7 @@ Tajikistan	Turkmenistan	1
 Tajikistan	Ukraine	0
 Tajikistan	United Kingdom	1
 Tajikistan	United States	0
-Tajikistan	Uzbekistan	2573
+Tajikistan	Uzbekistan	271
 Tanzania	Albania	0
 Tanzania	Algeria	0
 Tanzania	Andorra	0
@@ -20734,7 +20734,7 @@ Tanzania	Brazil	0
 Tanzania	Bulgaria	0
 Tanzania	Burkina Faso	1
 Tanzania	Burma	0
-Tanzania	Burundi	7035
+Tanzania	Burundi	711
 Tanzania	Cambodia	0
 Tanzania	Cameroon	0
 Tanzania	Canada	2
@@ -20745,7 +20745,7 @@ Tanzania	Chile	0
 Tanzania	China	54
 Tanzania	Colombia	0
 Tanzania	Comoros	0
-Tanzania	Congo, Democratic Republic of the	5757
+Tanzania	Congo, Democratic Republic of the	614
 Tanzania	Congo, Republic of the	14
 Tanzania	Cote d'Ivoire	0
 Tanzania	Croatia	0
@@ -20787,7 +20787,7 @@ Tanzania	Italy	10
 Tanzania	Jamaica	0
 Tanzania	Japan	40
 Tanzania	Jordan	0
-Tanzania	Kenya	9286
+Tanzania	Kenya	966
 Tanzania	Kiribati	0
 Tanzania	Korea, South	1
 Tanzania	Kuwait	0
@@ -20799,7 +20799,7 @@ Tanzania	Lithuania	0
 Tanzania	Luxembourg	0
 Tanzania	Macau	0
 Tanzania	Madagascar	0
-Tanzania	Malawi	6115
+Tanzania	Malawi	618
 Tanzania	Malaysia	0
 Tanzania	Mali	0
 Tanzania	Malta	0
@@ -20808,7 +20808,7 @@ Tanzania	Mauritius	0
 Tanzania	Mexico	0
 Tanzania	Moldova	0
 Tanzania	Morocco	0
-Tanzania	Mozambique	10033
+Tanzania	Mozambique	1014
 Tanzania	N. Mariana Islands	0
 Tanzania	Namibia	1
 Tanzania	Nauru	0
@@ -20829,7 +20829,7 @@ Tanzania	Portugal	3
 Tanzania	Qatar	0
 Tanzania	Romania	0
 Tanzania	Russia	2
-Tanzania	Rwanda	2663
+Tanzania	Rwanda	280
 Tanzania	Saint Helena	0
 Tanzania	Sao Tome and Principe	0
 Tanzania	Saudi Arabia	2
@@ -20859,14 +20859,14 @@ Tanzania	Trinidad and Tobago	0
 Tanzania	Tunisia	0
 Tanzania	Turkey	1
 Tanzania	Tuvalu	0
-Tanzania	Uganda	4676
+Tanzania	Uganda	478
 Tanzania	Ukraine	0
 Tanzania	United Arab Emirates	15
 Tanzania	United Kingdom	10
 Tanzania	United States	11
 Tanzania	Vietnam	6
 Tanzania	Yemen	0
-Tanzania	Zambia	4227
+Tanzania	Zambia	437
 Tanzania	Zimbabwe	1
 Thailand	Afghanistan	16
 Thailand	Albania	1
@@ -20900,10 +20900,10 @@ Thailand	Br. Virgin Islands	0
 Thailand	Brazil	199
 Thailand	Bulgaria	3
 Thailand	Burkina Faso	2
-Thailand	Burma	29184
+Thailand	Burma	3219
 Thailand	Burundi	0
 Thailand	Cabo Verde	1
-Thailand	Cambodia	10107
+Thailand	Cambodia	1327
 Thailand	Cameroon	14
 Thailand	Canada	131
 Thailand	Cayman Islands	0
@@ -20980,7 +20980,7 @@ Thailand	Kiribati	0
 Thailand	Korea, South	405
 Thailand	Kuwait	37
 Thailand	Kyrgyzstan	0
-Thailand	Laos	22361
+Thailand	Laos	2533
 Thailand	Latvia	3
 Thailand	Lebanon	19
 Thailand	Lesotho	0
@@ -20992,7 +20992,7 @@ Thailand	Macau	2
 Thailand	Macedonia	0
 Thailand	Madagascar	4
 Thailand	Malawi	0
-Thailand	Malaysia	8254
+Thailand	Malaysia	1859
 Thailand	Maldives	7
 Thailand	Mali	1
 Thailand	Malta	2
@@ -21103,7 +21103,7 @@ Timor-Leste	Germany	0
 Timor-Leste	Haiti	0
 Timor-Leste	Hong Kong	0
 Timor-Leste	India	0
-Timor-Leste	Indonesia	1203
+Timor-Leste	Indonesia	121
 Timor-Leste	Italy	0
 Timor-Leste	Japan	0
 Timor-Leste	Kenya	0
@@ -21136,8 +21136,8 @@ Togo	Algeria	0
 Togo	Angola	0
 Togo	Bangladesh	1
 Togo	Belgium	0
-Togo	Benin	2557
-Togo	Burkina Faso	529
+Togo	Benin	266
+Togo	Burkina Faso	68
 Togo	Cameroon	0
 Togo	Canada	0
 Togo	Central African Republic	0
@@ -21155,7 +21155,7 @@ Togo	France	4
 Togo	Gabon	5
 Togo	Gambia, The	0
 Togo	Germany	1
-Togo	Ghana	4303
+Togo	Ghana	438
 Togo	Greece	0
 Togo	Guinea	0
 Togo	Guinea-Bissau	0
@@ -21380,7 +21380,7 @@ Trinidad and Tobago	Zambia	0
 Trinidad and Tobago	Zimbabwe	1
 Tunisia	Afghanistan	0
 Tunisia	Albania	0
-Tunisia	Algeria	7610
+Tunisia	Algeria	801
 Tunisia	Angola	1
 Tunisia	Antigua and Barbuda	0
 Tunisia	Argentina	1
@@ -21464,7 +21464,7 @@ Tunisia	Laos	0
 Tunisia	Latvia	0
 Tunisia	Lebanon	1
 Tunisia	Liberia	0
-Tunisia	Libya	3453
+Tunisia	Libya	417
 Tunisia	Lithuania	0
 Tunisia	Luxembourg	0
 Tunisia	Macau	0
@@ -21543,11 +21543,11 @@ Turkey	Angola	26
 Turkey	Anguilla	0
 Turkey	Antigua and Barbuda	1
 Turkey	Argentina	32
-Turkey	Armenia	9014
+Turkey	Armenia	901
 Turkey	Aruba	0
 Turkey	Australia	46
 Turkey	Austria	105
-Turkey	Azerbaijan	787
+Turkey	Azerbaijan	343
 Turkey	Bahamas, The	1
 Turkey	Bahrain	20
 Turkey	Bangladesh	19
@@ -21564,7 +21564,7 @@ Turkey	Botswana	0
 Turkey	Br. Indian Ocean Terr.	0
 Turkey	Br. Virgin Islands	6
 Turkey	Brazil	93
-Turkey	Bulgaria	6659
+Turkey	Bulgaria	842
 Turkey	Burkina Faso	2
 Turkey	Burma	3
 Turkey	Burundi	0
@@ -21611,11 +21611,11 @@ Turkey	France	634
 Turkey	French Polynesia	0
 Turkey	Gabon	9
 Turkey	Gambia, The	3
-Turkey	Georgia	8037
+Turkey	Georgia	915
 Turkey	Germany	1357
 Turkey	Ghana	18
 Turkey	Gibraltar	12
-Turkey	Greece	5708
+Turkey	Greece	699
 Turkey	Greenland	0
 Turkey	Grenada	0
 Turkey	Guam	0
@@ -21631,8 +21631,8 @@ Turkey	Hungary	65
 Turkey	Iceland	1
 Turkey	India	58
 Turkey	Indonesia	23
-Turkey	Iran	15730
-Turkey	Iraq	11825
+Turkey	Iran	1800
+Turkey	Iraq	2252
 Turkey	Ireland	38
 Turkey	Israel	263
 Turkey	Italy	667
@@ -21719,7 +21719,7 @@ Turkey	Suriname	0
 Turkey	Swaziland	0
 Turkey	Sweden	114
 Turkey	Switzerland	80
-Turkey	Syria	26159
+Turkey	Syria	2708
 Turkey	Tajikistan	28
 Turkey	Tanzania	14
 Turkey	Thailand	22
@@ -21746,7 +21746,7 @@ Turkey	West Bank	8
 Turkey	Yemen	60
 Turkey	Zambia	2
 Turkey	Zimbabwe	1
-Turkmenistan	Afghanistan	1023
+Turkmenistan	Afghanistan	123
 Turkmenistan	Armenia	1
 Turkmenistan	Austria	3
 Turkmenistan	Azerbaijan	22
@@ -21771,11 +21771,11 @@ Turkmenistan	Greece	1
 Turkmenistan	Hong Kong	0
 Turkmenistan	Hungary	0
 Turkmenistan	India	0
-Turkmenistan	Iran	1573
+Turkmenistan	Iran	288
 Turkmenistan	Ireland	0
 Turkmenistan	Israel	0
 Turkmenistan	Italy	241
-Turkmenistan	Kazakhstan	517
+Turkmenistan	Kazakhstan	54
 Turkmenistan	Kyrgyzstan	14
 Turkmenistan	Latvia	3
 Turkmenistan	Lithuania	0
@@ -21800,7 +21800,7 @@ Turkmenistan	Turks and Caicos Islands	0
 Turkmenistan	Ukraine	99
 Turkmenistan	United Arab Emirates	37
 Turkmenistan	United States	8
-Turkmenistan	Uzbekistan	2234
+Turkmenistan	Uzbekistan	227
 Turks and Caicos Islands	Curaçao	0
 Turks and Caicos Islands	Dominican Republic	0
 Turks and Caicos Islands	Haiti	0
@@ -21834,7 +21834,7 @@ Uganda	Chile	0
 Uganda	China	5
 Uganda	Colombia	0
 Uganda	Comoros	0
-Uganda	Congo, Democratic Republic of the	11575
+Uganda	Congo, Democratic Republic of the	1186
 Uganda	Costa Rica	0
 Uganda	Cote d'Ivoire	0
 Uganda	Cuba	0
@@ -21874,7 +21874,7 @@ Uganda	Jamaica	0
 Uganda	Japan	1
 Uganda	Jordan	0
 Uganda	Kazakhstan	0
-Uganda	Kenya	10752
+Uganda	Kenya	1109
 Uganda	Korea, South	0
 Uganda	Kuwait	1
 Uganda	Latvia	0
@@ -21910,7 +21910,7 @@ Uganda	Portugal	1
 Uganda	Qatar	0
 Uganda	Romania	0
 Uganda	Russia	1
-Uganda	Rwanda	2290
+Uganda	Rwanda	252
 Uganda	Saudi Arabia	0
 Uganda	Senegal	0
 Uganda	Serbia	0
@@ -21922,7 +21922,7 @@ Uganda	Slovenia	0
 Uganda	Solomon Islands	0
 Uganda	Somalia	1
 Uganda	South Africa	1
-Uganda	South Sudan	6273
+Uganda	South Sudan	646
 Uganda	Spain	4
 Uganda	Sri Lanka	0
 Uganda	Sudan	29
@@ -21931,7 +21931,7 @@ Uganda	Sweden	0
 Uganda	Switzerland	19
 Uganda	Syria	0
 Uganda	Tajikistan	0
-Uganda	Tanzania	5152
+Uganda	Tanzania	521
 Uganda	Thailand	0
 Uganda	Togo	0
 Uganda	Tunisia	1
@@ -21962,7 +21962,7 @@ Ukraine	Bahamas, The	0
 Ukraine	Bahrain	1
 Ukraine	Bangladesh	14
 Ukraine	Barbados	0
-Ukraine	Belarus	9011
+Ukraine	Belarus	1076
 Ukraine	Belgium	39
 Ukraine	Belize	17
 Ukraine	Benin	3
@@ -22025,7 +22025,7 @@ Ukraine	Guyana	0
 Ukraine	Haiti	0
 Ukraine	Honduras	0
 Ukraine	Hong Kong	2
-Ukraine	Hungary	1168
+Ukraine	Hungary	254
 Ukraine	Iceland	0
 Ukraine	India	193
 Ukraine	Indonesia	31
@@ -22061,7 +22061,7 @@ Ukraine	Marshall Islands	0
 Ukraine	Mauritania	2
 Ukraine	Mauritius	0
 Ukraine	Mexico	13
-Ukraine	Moldova	9627
+Ukraine	Moldova	1042
 Ukraine	Mongolia	4
 Ukraine	Montenegro	0
 Ukraine	Morocco	29
@@ -22083,11 +22083,11 @@ Ukraine	Papua New Guinea	0
 Ukraine	Paraguay	0
 Ukraine	Peru	3
 Ukraine	Philippines	8
-Ukraine	Poland	4201
+Ukraine	Poland	644
 Ukraine	Portugal	26
 Ukraine	Qatar	1
-Ukraine	Romania	4824
-Ukraine	Russia	16900
+Ukraine	Romania	531
+Ukraine	Russia	3015
 Ukraine	Rwanda	0
 Ukraine	Saint Kitts and Nevis	0
 Ukraine	Saint Lucia	0
@@ -22100,7 +22100,7 @@ Ukraine	Serbia	12
 Ukraine	Seychelles	0
 Ukraine	Sierra Leone	0
 Ukraine	Singapore	23
-Ukraine	Slovakia	843
+Ukraine	Slovakia	150
 Ukraine	Slovenia	1
 Ukraine	Somalia	0
 Ukraine	South Africa	15
@@ -22259,7 +22259,7 @@ United Arab Emirates	Nicaragua	0
 United Arab Emirates	Niger	5
 United Arab Emirates	Nigeria	127
 United Arab Emirates	Norway	5
-United Arab Emirates	Oman	3739
+United Arab Emirates	Oman	845
 United Arab Emirates	Pakistan	310
 United Arab Emirates	Panama	2
 United Arab Emirates	Papua New Guinea	2
@@ -22274,7 +22274,7 @@ United Arab Emirates	Russia	155
 United Arab Emirates	Rwanda	51
 United Arab Emirates	San Marino	0
 United Arab Emirates	Sao Tome and Principe	0
-United Arab Emirates	Saudi Arabia	2895
+United Arab Emirates	Saudi Arabia	723
 United Arab Emirates	Senegal	33
 United Arab Emirates	Serbia	1
 United Arab Emirates	Seychelles	9
@@ -22420,7 +22420,7 @@ United Kingdom	India	1204
 United Kingdom	Indonesia	165
 United Kingdom	Iran	19
 United Kingdom	Iraq	97
-United Kingdom	Ireland	68066
+United Kingdom	Ireland	10697
 United Kingdom	Israel	329
 United Kingdom	Italy	1997
 United Kingdom	Jamaica	11
@@ -22578,7 +22578,7 @@ United States	Burundi	2
 United States	Cabo Verde	1
 United States	Cambodia	22
 United States	Cameroon	30
-United States	Canada	262155
+United States	Canada	50309
 United States	Cayman Islands	61
 United States	Central African Republic	0
 United States	Chad	4
@@ -22673,7 +22673,7 @@ United States	Malta	48
 United States	Marshall Islands	6
 United States	Mauritania	22
 United States	Mauritius	4
-United States	Mexico	103800
+United States	Mexico	28643
 United States	Moldova	4
 United States	Mongolia	25
 United States	Montenegro	2
@@ -22769,7 +22769,7 @@ Uruguay	Algeria	7
 Uruguay	Angola	1
 Uruguay	Anguilla	0
 Uruguay	Antigua and Barbuda	0
-Uruguay	Argentina	1193
+Uruguay	Argentina	173
 Uruguay	Armenia	0
 Uruguay	Aruba	1
 Uruguay	Australia	0
@@ -22786,7 +22786,7 @@ Uruguay	Bermuda	0
 Uruguay	Bolivia	4
 Uruguay	Bosnia and Herzegovina	0
 Uruguay	Botswana	0
-Uruguay	Brazil	2407
+Uruguay	Brazil	427
 Uruguay	Bulgaria	1
 Uruguay	Burma	0
 Uruguay	Cabo Verde	0
@@ -22922,11 +22922,11 @@ Uruguay	Vietnam	6
 Uruguay	Yemen	0
 Uruguay	Zambia	0
 Uruguay	Zimbabwe	0
-Uzbekistan	Afghanistan	604
-Uzbekistan	Kazakhstan	9779
-Uzbekistan	Kyrgyzstan	5515
-Uzbekistan	Tajikistan	5506
-Uzbekistan	Turkmenistan	7525
+Uzbekistan	Afghanistan	60
+Uzbekistan	Kazakhstan	978
+Uzbekistan	Kyrgyzstan	551
+Uzbekistan	Tajikistan	551
+Uzbekistan	Turkmenistan	753
 Vanuatu	Andorra	0
 Vanuatu	Australia	0
 Vanuatu	Belgium	0
@@ -22993,14 +22993,14 @@ Venezuela	Belgium	248
 Venezuela	Bolivia	2
 Venezuela	Bosnia and Herzegovina	0
 Venezuela	Br. Virgin Islands	0
-Venezuela	Brazil	12581
+Venezuela	Brazil	2039
 Venezuela	Bulgaria	17
 Venezuela	Cameroon	0
 Venezuela	Canada	117
 Venezuela	Chile	134
 Venezuela	China	1183
 Venezuela	Cocos Islands	0
-Venezuela	Colombia	13866
+Venezuela	Colombia	2318
 Venezuela	Congo, Republic of the	0
 Venezuela	Costa Rica	70
 Venezuela	Croatia	0
@@ -23023,7 +23023,7 @@ Venezuela	Germany	56
 Venezuela	Ghana	0
 Venezuela	Grenada	0
 Venezuela	Guatemala	31
-Venezuela	Guyana	4336
+Venezuela	Guyana	443
 Venezuela	Haiti	0
 Venezuela	Honduras	8
 Venezuela	Hong Kong	25
@@ -23104,11 +23104,11 @@ Vietnam	Brazil	72
 Vietnam	Bulgaria	4
 Vietnam	Burkina Faso	0
 Vietnam	Burma	12
-Vietnam	Cambodia	23730
+Vietnam	Cambodia	2638
 Vietnam	Cameroon	6
 Vietnam	Canada	116
 Vietnam	Chile	17
-Vietnam	China	27538
+Vietnam	China	3913
 Vietnam	Colombia	11
 Vietnam	Congo, Republic of the	2
 Vietnam	Costa Rica	2
@@ -23151,7 +23151,7 @@ Vietnam	Kazakhstan	7
 Vietnam	Kenya	6
 Vietnam	Korea, South	560
 Vietnam	Kuwait	3
-Vietnam	Laos	43779
+Vietnam	Laos	4417
 Vietnam	Latvia	7
 Vietnam	Lebanon	5
 Vietnam	Lesotho	2
@@ -23246,10 +23246,10 @@ West Bank	Hungary	0
 West Bank	Indonesia	0
 West Bank	Iraq	0
 West Bank	Ireland	0
-West Bank	Israel	1937
+West Bank	Israel	241
 West Bank	Italy	0
 West Bank	Japan	0
-West Bank	Jordan	849
+West Bank	Jordan	88
 West Bank	Korea, South	0
 West Bank	Kuwait	0
 West Bank	Libya	0
@@ -23284,9 +23284,9 @@ West Bank	United Arab Emirates	0
 West Bank	United Kingdom	0
 West Bank	United States	1
 West Bank	Yemen	0
-Western Sahara	Algeria	11
-Western Sahara	Mauritania	423
-Western Sahara	Morocco	120
+Western Sahara	Algeria	1
+Western Sahara	Mauritania	42
+Western Sahara	Morocco	12
 Yemen	Algeria	0
 Yemen	Andorra	0
 Yemen	Angola	0
@@ -23350,7 +23350,7 @@ Yemen	Netherlands	2
 Yemen	New Zealand	0
 Yemen	Nigeria	0
 Yemen	Norway	0
-Yemen	Oman	4785
+Yemen	Oman	479
 Yemen	Pakistan	0
 Yemen	Philippines	10
 Yemen	Poland	0
@@ -23358,7 +23358,7 @@ Yemen	Portugal	0
 Yemen	Qatar	1
 Yemen	Romania	0
 Yemen	Russia	0
-Yemen	Saudi Arabia	21287
+Yemen	Saudi Arabia	2145
 Yemen	Seychelles	0
 Yemen	Sierra Leone	0
 Yemen	Singapore	18
@@ -23385,7 +23385,7 @@ Yemen	Zambia	0
 Yemen	Zimbabwe	0
 Zambia	Algeria	0
 Zambia	Andorra	0
-Zambia	Angola	2580
+Zambia	Angola	258
 Zambia	Antigua and Barbuda	0
 Zambia	Argentina	0
 Zambia	Armenia	0
@@ -23406,7 +23406,7 @@ Zambia	Chile	0
 Zambia	China	160
 Zambia	Colombia	0
 Zambia	Comoros	0
-Zambia	Congo, Democratic Republic of the	5733
+Zambia	Congo, Democratic Republic of the	649
 Zambia	Congo, Republic of the	0
 Zambia	Costa Rica	0
 Zambia	Cote d'Ivoire	0
@@ -23447,7 +23447,7 @@ Zambia	Lesotho	0
 Zambia	Liberia	0
 Zambia	Lithuania	0
 Zambia	Luxembourg	4
-Zambia	Malawi	2068
+Zambia	Malawi	221
 Zambia	Malaysia	0
 Zambia	Maldives	0
 Zambia	Mali	0
@@ -23456,8 +23456,8 @@ Zambia	Mauritius	4
 Zambia	Mexico	0
 Zambia	Moldova	0
 Zambia	Morocco	0
-Zambia	Mozambique	1065
-Zambia	Namibia	598
+Zambia	Mozambique	108
+Zambia	Namibia	66
 Zambia	Nepal	0
 Zambia	Netherlands	1
 Zambia	New Zealand	0
@@ -23492,7 +23492,7 @@ Zambia	Sudan	0
 Zambia	Swaziland	0
 Zambia	Sweden	0
 Zambia	Switzerland	278
-Zambia	Tanzania	861
+Zambia	Tanzania	92
 Zambia	Thailand	0
 Zambia	Togo	0
 Zambia	Tokelau	0
@@ -23506,13 +23506,13 @@ Zambia	United States	1
 Zambia	United States Minor Outlying Islands	0
 Zambia	Venezuela	0
 Zambia	Vietnam	0
-Zambia	Zimbabwe	1868
+Zambia	Zimbabwe	205
 Zimbabwe	Afghanistan	0
 Zimbabwe	Andorra	0
 Zimbabwe	Australia	0
 Zimbabwe	Austria	0
 Zimbabwe	Belgium	2
-Zimbabwe	Botswana	3561
+Zimbabwe	Botswana	360
 Zimbabwe	Brazil	0
 Zimbabwe	Burkina Faso	0
 Zimbabwe	Canada	0
@@ -23551,7 +23551,7 @@ Zimbabwe	Malaysia	0
 Zimbabwe	Mali	0
 Zimbabwe	Mauritius	0
 Zimbabwe	Mexico	0
-Zimbabwe	Mozambique	6013
+Zimbabwe	Mozambique	631
 Zimbabwe	Namibia	1
 Zimbabwe	Netherlands	0
 Zimbabwe	New Zealand	0
@@ -23567,7 +23567,7 @@ Zimbabwe	Saudi Arabia	0
 Zimbabwe	Senegal	0
 Zimbabwe	Serbia	0
 Zimbabwe	Singapore	0
-Zimbabwe	South Africa	1172
+Zimbabwe	South Africa	289
 Zimbabwe	Spain	0
 Zimbabwe	Sudan	0
 Zimbabwe	Swaziland	0
@@ -23585,4 +23585,4 @@ Zimbabwe	United States	0
 Zimbabwe	Uruguay	0
 Zimbabwe	Vietnam	0
 Zimbabwe	Yemen	0
-Zimbabwe	Zambia	3264
+Zimbabwe	Zambia	335

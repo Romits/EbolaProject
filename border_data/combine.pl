@@ -6,8 +6,8 @@ use Math::Round;
 my $pop_file = 'cia_wfb_population.tsv';
 my $borders_file = '-';
 
-# We assume 50% of the population works and .2% of them commute internationally.
-my $POPULATION_COMMUTER_FRACTION = 0.001;
+# We assume 50% of the population works and .02% of them commute internationally.
+my $POPULATION_COMMUTER_FRACTION = 0.0001;
 
 my %pop_map;
 open(FILE, "< $pop_file") or die $!;
