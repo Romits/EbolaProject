@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{20}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -30,6 +30,12 @@ Gerardo Chowell, Nick~W Hengartner, Carlos Castillo-Chavez, Paul~W Fenimore,
 \newblock \emph{Journal of Theoretical Biology}, 229\penalty0 (1):\penalty0
   119--126, 2004.
 
+\bibitem[{GNU Parallel }(2014)]{GNU-Parallel}
+{GNU Parallel }.
+\newblock {GNU Parallel }.
+\newblock online, 2014.
+\newblock URL \url{http://www.gnu.org/software/parallel/}.
+
 \bibitem[Gomes et~al.(2014)Gomes, Piontti, Rossi, Chao, Longini, Halloran, and
   Vespignani]{gomes2014assessing}
 MF~Gomes, AP~Piontti, Luca Rossi, Dennis Chao, Ira Longini, M~Elizabeth
@@ -37,6 +43,13 @@ MF~Gomes, AP~Piontti, Luca Rossi, Dennis Chao, Ira Longini, M~Elizabeth
 \newblock {Assessing the international spreading risk associated with the 2014
   West African Ebola outbreak}.
 \newblock \emph{PLoS Currents Outbreaks}, 2014.
+
+\bibitem[Grais et~al.(2003)Grais, Ellis, and Glass]{grais2003assessing}
+Rebecca~F Grais, J~Hugh Ellis, and Gregory~E Glass.
+\newblock Assessing the impact of airline travel on the geographic spread of
+  pandemic influenza.
+\newblock \emph{European journal of epidemiology}, 18\penalty0 (11):\penalty0
+  1065--1072, 2003.
 
 \bibitem[Jung et~al.(2008)Jung, Wang, and Stanley]{jung2008gravity}
 Woo-Sung Jung, Fengzhong Wang, and H~Eugene Stanley.
