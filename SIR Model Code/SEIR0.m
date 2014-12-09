@@ -9,7 +9,7 @@ p0  = [b0 k0 g0];
 
 % Redeclare initial conditions and N
 N = 1000000;
-x0 = [N-2 1 0 1];
+x0 = [N-1 1 0 0];
 
 % Set up the parameter vector to be passed
 p = [N p0];
