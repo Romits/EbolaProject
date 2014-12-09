@@ -6,6 +6,7 @@ save dataLiberia death infected
 end
 
 function death = updatedVar(death)
+    death = double(death);
     death(1:4) = 0;
     death(end:-1:end-2) = [];
     indP = find(death>=0);
