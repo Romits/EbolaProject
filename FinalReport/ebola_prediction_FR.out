@@ -1,9 +1,18 @@
-\BOOKMARK [1][-]{section.1}{Introduction/Motivation/Problem Definition \(15\045\)}{}% 1
+\BOOKMARK [1][-]{section.1}{Introduction and Motivation}{}% 1
 \BOOKMARK [1][-]{section.2}{Related Work}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Compartmental Epidemiological model}{section.2}% 3
 \BOOKMARK [2][-]{subsection.2.2}{Network based Epidemiological model}{section.2}% 4
 \BOOKMARK [2][-]{subsection.2.3}{Combination of Compartmental and Network based Epidemiological model}{section.2}% 5
-\BOOKMARK [1][-]{section.3}{Modeling localized epidemic spread using a random mixing model}{}% 6
-\BOOKMARK [1][-]{section.4}{Mapping the compartmental model to the network based model}{}% 7
-\BOOKMARK [1][-]{section.5}{Predicting worldwide spread}{}% 8
-\BOOKMARK [1][-]{section*.17}{Appendix}{}% 9
+\BOOKMARK [1][-]{section.3}{Modeling and Analysis of Intra-country Spread of Epidemic}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{System Model and Algorithms}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Results and Findings}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Analysis of Network based Epidemiological Model}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Problem Definition and Algorithms}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Results and Conclusion}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Predicting worldwide spread}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Problem Definition - needs updating}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Trade network data preparation}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.3}{Supplementing the trade network}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.4}{System Model and Algorithms}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.5}{Results and Findings}{section.5}% 17
+\BOOKMARK [1][-]{section*.9}{Appendix}{}% 18

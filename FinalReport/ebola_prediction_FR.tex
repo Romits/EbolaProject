@@ -23,13 +23,6 @@
 
 \newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
 
-
-% Allow paragraph indents inside lists.
-%\usepackage{enumitem}
-%\setenumerate{listparindent=\parindent}
-
-%\usepackage{kbordermatrix}
-
 \hypersetup{
   colorlinks   = true, %Colours links instead of ugly boxes
   urlcolor     = blue, %Colour for external hyperlinks
@@ -62,47 +55,34 @@
 
 \renewcommand\Authands{ and }
 
-
 \begin{document}
 
 \maketitle
 
-\begin{abstract}
-The current Ebola outbreak in West Africa is the worst in history.
-Most traditional epidemiological models are compartmental models that have a random-mixing
-assumption, calculating the effective reproductive rate of an outbreak.
-We survey three of these models: the classic
-SIR (Susceptible, Infectious, Recovered) model and two extensions used in Ebola research.
 
-Network models allow for avoiding the random-mixing
-assumption inherent in compartmental models.
-This is done by assigning each individual a finite set of permanent contacts.
-We review generated contact network models for SARS, including an urban network, a random network, and
-a scale-free network.
-We then propose a worldwide network model that takes an alternate approach to modeling
-the flow of people based on economic trade data and attempt to predict the future
-of the Ebola outbreak.
+%I%%%%%%%%%%%%%%%% INTRODUCTION %%%%%%%%%%%%%%%%%%%%%%
 
-\end{abstract}
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Introduction/Motivation/Problem Definition (15\%)}
+\section{{Introduction and Motivation}}
 \label{sec:Introduction}
 
-In this paper we explore predicting an Ebola outbreak using a worldwide network of trading countries.
+The 2014 Ebola epidemic in the West African nations of Guinea, Sierra Leone and Liberia is the largest in history. The outbreak is still ongoing.  As of writing this report, more than 17000 suspected cases has been reported by WHO (World Health Organization). In this project, we explore the time-series data available for current Ebola epidemic, perform analysis, model-fitting and short-term forecasting of epidemic spread in local country level as well as world-wide scale by incorporating economic trade network data with the aid network and epidemiological theories.
+
+Traditional epidemiological analysis are typically based on sub-dividing the population under consideration into different compartments based on the stage of the disease for each individual. The classic SIR model are based on three compartments - Susceptible, Infectious, Recovered. The underlying assumption of such analysis is  random-mixing among population. Based on this assumption, each infected individual can infect any other individuals in the entire population with equal probability. The compartmental model is a very useful tool for epidemiological analysis and is based on well established theories. Such analysis can provide sufficient insight of the temporal progression of the epidemic. However, due to the random mixing assumption, the application of such theory is somewhat limited when a large-scale world-wide analysis of an epidemic is required.
+
+Network models in contrast allow for avoiding the random-mixing assumption inherent in compartmental models. This is done by assigning each individual a finite set of permanent contacts. Each individual in a network model can be represented as a node in a network while the edges represent the potential direct contacts between any pair of such nodes. For epidemiological analysis, clusters in a network model can be thought of a group on individuals belonging to same local geographical areas (e.g. cities, countries etc.). Such modeling, therefore, inherently limits the number of direct contacts between individuals located in different clusters. The actual modeling of an individual's contact tracing is however a very difficult and time-consuming task and almost impossible at a large scale. The application of such contact network modeling is therefore limited to index case (patient zero) tracing of an post epidemiological investigation. An an alternative approach is to use some network with known characteristics - e.g. random network, scale-free network etc. as a contact network of a population. Unlike compartmental models, however, the theory of network model for epidemiological analysis in not well-defined and is not suitable for analyzing temporal progression of an epidemic.
+
+The third option and current state of the art in epidemiological analysis is a combination of compartmental model with network models. Such model is useful in analyzing and forecasting large-scale spread of an epidemic. In local scale, i.e. within a city or a country, a compartmental model is used to track the temporal progression of the city. A weighted network inter-connects cities, countries to create the global model. The weight of the edges are proportional to the population inter-city/country migration. To capture the weight vector in the local compartmental model, a transportation operator is used.
+
+The rest of the paper is organized as follows. In Section \ref{sec:RelatedWork}, we review existing works on epidemiological and network theory related to our project. In Section \ref{sec:IntraCountry}, we present local country level analysis of the 2014 Ebola outbreak. We present relevant compartmental model for Ebola, perform model fitting and provide short-term forecast on the number of infected individuals in the three major Ebola infected countries in West Africa - Guinea, Sierra Leone and Liberia. In Section \ref{sec:NetworkModel}, we present our analysis on the effect of epidemic spread on several large scale networks. Finally, In Section \ref{sec:Worldwide}, we presented a large-scale world-wide analysis of current outbreak. We use economic trade data and country border information to create a world-wide population migration network and applied these network on compartmental model from Section \ref{sec:IntraCountry} to provide a world-wide forecast of Ebola spread.
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%% RELATED WORK %%%%%%%%%%%%%%%%%%%%%%%
 
-%(10\%) of marks
-\section{Related Work}
+\section{{Related Work}}
 \label{sec:RelatedWork}
 
-\subsection{\textbf{Compartmental Epidemiological model}}
+\subsection{Compartmental Epidemiological model}
 \label{SubSec:SIR}
 
 The majority of research in epidemiological theory is based on the compartmental model. To model the progress of an epidemic in a large population, the individuals in the population are compartmentalized according to the state of the disease. The most widely used such model is the SIR model introduced in \citep{very_old_paper}:
@@ -154,7 +134,7 @@ as the SEIHFR model.
 
 A CDC (Centers for Disease Control and Prevention) report \citep{meltzer2014estimating} published in September 26, 2014 make use of the SEIHFR model to provide an estimate of the future number of cases of current Ebola epidemic. While SEIHFR model provides finer grained modeling of the behavior of Ebola, it is also complex and the link to a network-based model becomes tenuous. In addition, current 2014 Ebola epidemic is still in progress and we do not have the entire picture of the epidemic cycle. Given the limited number of data points, trying to fit a model will large number of parameters may lead to overfitting.  Because of these reasons, we do not plan to use the SEIHFR model in our work.
 
-\subsection{\textbf{Network based Epidemiological model}}
+\subsection{{Network based Epidemiological model}}
 
 In the compartmental models described in previous section, the underlying assumption is random mixing among population. Therefore, an infected individual can infect any other individuals in the population. Even though \citep{legrand2007understanding} modified the SEIR model to reflect the heterogeneity of infection states, the underlying assumption is still random mixing. However, contagious diseases like Ebola spread via networks formed by physical contacts among individuals. While an individual may have the same number of contacts per unit time in either a random mixing model or a network contact model, within a static network model the set of
 contacts is fixed, versus a random-mixing model wherein it is continually changing. A static network model thus captures the permanence of many human relationships. 
@@ -189,27 +169,23 @@ Neither \citep{meyers2005network, newman2002spread} captured the temporal progre
 \item In general, it is almost impossible to model the actual contacts among individuals. Therefore, in most network model, additional assumptions are made to model the contact network.
 \end{enumerate}
 
-\subsection{\textbf{Combination of Compartmental and Network based Epidemiological model}}
+\subsection{{Combination of Compartmental and Network based Epidemiological model}}
 
 As discussed in previous sections, a compartmental model is convenient in analyzing the temporal progression of a contagious disease in a localized population. However, due to the underlying assumption of random mixing among populations, such model is not suitable to analyze large scale outbreak of contagious diseases in a world-wide scale. A much attractive alternative solution in analyzing the progression of disease in a world-wide scale is a combination of compartmental and network model. In such formulation, compartmental model is used on a local scale to track the progression of disease in individual countries (cities or continents). To capture the dynamics of inter-country (city or continent) spread of disease, some form of network data can be used. Such network data are usually converted to inter-country (city or continent) transfer of population per unit time.
 
 In \citep{balcan2010modeling} the authors model the inter-country and inter-city spread of population using airport network data and commuting network data. The authors then use such model in conjunction of stochastic compartmental model to analyze the  2001-2002 seasonal influenza spreading. A similar works  \citep{gomes2014assessing}  attempts to predict the spread of Ebola to different parts of the world based on a model that incorporates both the compartmental approach and the use of world-wide air traffic flows. In this model, the world is divided into geographcal regions defining a subpopulation network, modeling connections among subpopulations representing traffic flows due to transportation infrastructure.
 
-\bigskip
-
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%% INTRA COUNTRY COMPARTMENTAL %%%%%%%%%%%%%%%
 
 %   Model/Algorithm/Method (30%) + Results and findings (35%)
 
-\section{Modeling localized epidemic spread using a random mixing model}
+\section{{Modeling and Analysis of Intra-country Spread of Epidemic}}
 \label{sec:IntraCountry}
 
+\subsection{System Model and Algorithms}
 In first phase of the project, to calculate the basic reproductive number of the current Ebola
 epidemic spread in different countries, we performed model fitting on the data we gathered from
-\cite{cmriversdata}. We considered the SEIR model described in \cite{chowell2004basic}. The following set of differential equations are used to represent this model \cite{chowell2004basic}:
+\citep{cmriversdata}. We considered the SEIR model described in \citep{chowell2004basic}. The following set of differential equations are used to represent this model \citep{chowell2004basic}:
 
 \begin{equation}
 \dfrac{dS}{dt}	=	\dfrac{-\beta SI}{N},
@@ -236,14 +212,15 @@ number of infected cases from the time of the onset of the outbreak. In order to
 \label{Eq:Beta}
 \end{equation}
 
-Where $\tau$ is the time when interventions begin and $q$ controls how quickly the rate
-of transmission changes from $\beta_0$ to $\beta_1$.
-The SEIR model under consideration is a non-linear model with six parameters. The current Ebola epidemic is
+\noindent where $\tau$ is the time when interventions begin and $q$ controls how quickly the rate
+of transmission changes from $\beta_0$ to $\beta_1$. The SEIR model under consideration is a non-linear model with six parameters. 
+
+The current Ebola epidemic is
 still spreading and depending on the preventative measures  taken, the underlying dynamics of the
 spread can change drastically any time. The Ebola data for three most affected countries in West Africa - Guinea, Sierra Leone and Libera were represented as $(t_i,y_i)$, $i=1,2,\ldots,n$ where $t_i$ represents $i$th reporting time and $y_i$ the cumulative number of infectious cases from the beginning of the outbreak of to time $t_i$.  The model parameters $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for these three countries were estimated using a non-linear least-square procedure by fitting these data to the cumulative number of cases $C(t,\Theta)$ in Equations \eqref{Eq:SEIR},\eqref{Eq:Beta}. In addition, we performed model fitting for the West Africa region
-by adding up the data from these three countries. The paramter estimates are presented in Table \ref{Table:parameter}, \ref{Table:parameter2} in Appendix.
+by adding up the data from these three countries. 
 
-Given the limited number of data available, instead of fitting all six parameters to the model, we decided to fix some of the parameters based on studies on previous Ebola epidemics. In \cite{chowell2004basic}, the incubation time of the Ebola virus $1/k$ is found to vary between 1 and 21 days, with a mean time of 6.3 days for previous Ebola outbreaks. For ease of data fitting, we set this parameter value to the mean value of 6.3 days.
+Given the limited number of data available, instead of fitting all six parameters to the model, we decided to fix some of the parameters based on studies on previous Ebola epidemics. In \citep{chowell2004basic}, the incubation time of the Ebola virus $1/k$ is found to vary between 1 and 21 days, with a mean time of 6.3 days for previous Ebola outbreaks. For ease of data fitting, we set this parameter value to the mean value of 6.3 days.
 We note that the dynamics of the current epidemic may differ from previous ones, and therefore
 fixing a value based on the prior estimate may lead to some inaccuracy.  The choice of selecting initial outbreak time $t_0$ and intervention time $\tau$ is a difficult problem. To this end, we looked into different sources like WHO (World Health Organization) and CDC websites to learn more about the timeline of the spread. In Guinea, a 2-year-old boy died on December 2, 2013, later diagnosed as an Ebola patient. We consider this
 incident as the index case for Guinea and set $t_0$ to December 2. On March 2, the Government of
@@ -285,8 +262,9 @@ interval of the estimated parameter, we performed bootstrapping based on residua
 \end{figure}
 
 
+\subsection{Results and Findings}
 The estimated parameters for the SEIR model of Guinea, Sierra Leone, Liberia, and the overall West Africa 
-region is presented in the Appendix. In Figure \ref{Fig:figurePrediction}, we presented the number of incidents at different compartments of the SEIR model, as well as the cumulative number of infectious cases over time. In our project milestone report, our model fit was based on the last data we collected on Oct. 21, 2014. At the time of writing this final report, we have additional data points available. Based on data collected till November 9, 2014, we have updated our parameter estimation for Sierra Leone and Liberia. We, however, kept the same model for Guinea as in our milestone report, since we have the most amount of data available for Guinea already due to an earlier outbreak date in Guinea (Dec. 2, 2013). We extrapolated the graph up to Dec. 31, 2014.  We note that forecasting future cases may not be accurate as the underlying factors of the epidemic are changing rapidly with the increase in safety measures. The unused data for Guinea (Oct. 21 - Dec. 5), Sierra Leone (Nov. 10 - Dec. 5) and Liberia (Nov. 10 - Dec. 5) are used for calculating test error. These values are also plotted in Figure \ref{Fig:figurePrediction} (points represented with `.' sign are used for training, points represented with `x' sign are used for testing). We observe that the predictions of the model to the cases up to Dec. 5 are mostly on par with the observed data for Guinea, Sierra Leone and Liberia. For the Guinea epidemic, we have data for the longest range of days and the estimated model, therefore, captures most of the
+region is presented in Table \ref{Table:parameter}, \ref{Table:parameter2} in Appendix. The basic reproductive number of epidemic before and after intervention, $R_0 \approx \frac{\beta_0}{\gamma}$  and $R_1 \approx \frac{\beta_1}{\gamma}$ for the three countries are also presented in the tables. In Figure \ref{Fig:figurePrediction}, we presented the number of incidents at different compartments of the SEIR model, as well as the cumulative number of infectious cases over time. In our project milestone report, our model fit was based on the last data we collected on Oct. 21, 2014. At the time of writing this final report, we have additional data points available. Based on data collected till November 9, 2014, we have updated our parameter estimation for Sierra Leone and Liberia. We, however, kept the same model for Guinea as in our milestone report, since we have the most amount of data available for Guinea already due to an earlier outbreak date in Guinea (Dec. 2, 2013). We extrapolated the graph up to Dec. 31, 2014.  We note that forecasting future cases may not be accurate as the underlying factors of the epidemic are changing rapidly with the increase in safety measures. The unused data for Guinea (Oct. 21 - Dec. 5), Sierra Leone (Nov. 10 - Dec. 5) and Liberia (Nov. 10 - Dec. 5) are used for calculating test error. These values are also plotted in Figure \ref{Fig:figurePrediction} (points represented with `.' sign are used for training, points represented with `x' sign are used for testing). We observe that the predictions of the model to the cases up to Dec. 5 are mostly on par with the observed data for Guinea, Sierra Leone and Liberia. For the Guinea epidemic, we have data for the longest range of days and the estimated model, therefore, captures most of the
 dynamics of the spread in contrast to the other cases.  
 
 For the West Africa region plot, our prediction number is much higher than the actual data. This is understandable, as the underlying assumption behind the SEIR model is random mixing.  Within a country without any movement restriction, this model is somewhat appropriate. However, for the aggregated model among multiple countries, this assumption is no longer valid due to stricter movement regulations between country borders. Therefore, a model with a random mixing assumption will overestimate the number of infectious cases.
@@ -314,57 +292,29 @@ Liberia & 9500 & 350.3 & 504.24\tabularnewline
 
 In Table \ref{Tb:prediction}, we presented our estimate of the total number of people who could get infected by December 31, 2014 as well as root mean square cross-validation error of our model fit and test error on the unused data. 
 
-%As an extension of the above approach, for finding parameters for the model based on the current data,
-%we designed and ran a simulation using an MCMC approach with input as time series data for the
-%various infected regions. Initial values for the various parameters were assumed as above for the
-%prior distribution, but a range based on the literature was used to find the most appropriate
-%values for the current outbreak. For example $\beta_0$  had a range of $[0,1]$,  $\beta_1$ had a range of
-%$[0,1]$, infection time $1/\gamma$ had a range of $[3.5,10.7]$, incubation time $1/k$ had a range of $[5,22]$,
-%and $\tau$ had a range of $[100,150]$. This simulation is running and we will
-%have results in the final report.
+
+\section{Analysis of Network based Epidemiological Model}
+\label{sec:NetworkModel}
 
 
+\subsection{{Problem Definition and Algorithms}}
 
+In Phase II of our project, we attempt  to map the compartmental model to network based model  using percolation theory to model the spread of Ebola in West Africa. The mapping between a compartmental model and a network based model is defined in \citep{meyers2005network}.Transmissibility $T$ of a disease is defined as the average probability that an infectious individual will transmit the disease to an individual with whom they have contact. Critical transmissibility or epidemic threshold $T_c$ is the value of transmissibility above which a population is vulnerable to large scale  epidemics when the basic reproductive number $R_0$ is 1. For our analysis, we reused the following expression from \citep{meyers2005network}:
 
-\section{Mapping the compartmental model to the network based model}
-
-
-
-\subsection*{\textbf{Approach}}
-Since the compartmental models used in predicting spread of epidemics have a random mixing assumption which may not model the real world appropriately. In this section we made an attempt  to map the compartmental model to network based model  using percolation theory to model the spread of Ebola in West Africa.
-
-
-
-The mapping between a compartment mode and a network based model is defined in the paper by \cite{meyers2005network}.The transmissibility $T$ of a disease which is defined as the average probability that an infectious
-individual will transmit the disease to an individual with whom they have contact. 
-Reproductive number $R_0$  is calculated using the compartmental model and 
-Transmissibility(T) is calculated using the relationship between the basic reproductive number
- and the transmissibility defined by Meyers as:
-
-\[
-R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1}
-\]
-
-
-We also calculate the value of epidemic threshold $T_c$, which is defined by Meyers as:
-
-\[
+\begin{equation}
+R_0 = T  \dfrac{\left\langle k^2 \right\rangle}{\left\langle k \right\rangle-1},
+\qquad\qquad
 T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left\langle k \right\rangle}
-\]
+\label{eq:transmissibility}
+\end{equation}
 
-These numbers are used in modeling and analysis of our contact networks.
+For simulating a contact network for Ebola in various infected countries we used a data set from a social networking site available on \citep{topcoderdata}. The undirected network has 4,846,609 nodes and 42,851,237 edges and average degree of $8.841$. The network exhibit a power law degree distribution after a degree of approximately 50. We also generated three other datasets  for a preferential attachment network, random network and a small-world network with approximately same number of nodes and average degree as the real network for comparison purposes.
+
+Transmissibility values for each of three infected countries Liberia, Guinea and Sierra Leone in West Africa are calculated using Equations \eqref{eq:transmissibility}  and the reproductive number from Table \ref{Table:parameter}, \ref{Table:parameter2}. These values are presented in Table \ref{tab:T}.  We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these values for  running the simulations on the  network datasets.
 
 
-\subsection*{\textbf{Data Preparation}}
-
-For simulating a contact network for Ebola in various infected countries we used a data set from a social networking site available on
-the \cite{topcoderdata}.
-This undirected network has 4,846,609 nodes and 42,851,237 edges and average degree of $8.841$.
-It is clearly a scale-free network because the degree distribution follows a power law after a degree of
-approximately 50.
-
-We calculated the transmissibility values for each of the countries Liberia, Guinea and Sierra Leone in West Africa  using the formulas described above. 
-
+\begin{table}[h]
+\caption{Transmissibility values for  Liberia, Guinea and Sierra Leone}
 \begin{center}
     \begin{tabular}{ | l | l | l | p{5cm} |}
     \hline
@@ -375,40 +325,30 @@ We calculated the transmissibility values for each of the countries Liberia, Gui
     Sierra Leone & 1.24 & 0.1243  \\ \hline
     \end{tabular}
 \end{center}
+\label{tab:T}
+\end{table}
 
-We also generated three other datasets  for a preferential attachment network, random network and a small-world network with approximately same number of nodes and average degree as the real network for comparison purposes. We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these values for  running the simulations on the  network datasets.
+Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine so we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for multiple values  of transmissibility so we developed a test harness written in python using \citep{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also ran another simulation to see the impact of minimum degree for patient zero for a given transmissibility value for two different networks. 
 
-\subsection*{\textbf{Simulation}}
-
-Since our datasets were  large and simulation using a percolation model is a compute intensive process so it was not possible to run the simulations in the reasonable time on a local machine so we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for multiple values  of transmissibility so we developed a test harness written in python using \cite{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also ran another simulation to see the impact of minimum degree for patient zero for a given transmissibility value for two different networks. 
-
-\subsection*{\textbf{Results and Conclusion}}
-
+\subsection{{Results and Conclusion}}
 
 \begin{figure}[ht]
 \centering
-\includegraphics[scale=.8]{EbolaNetworkSpread.pdf}
-\caption{Network Simulation for Transmissibility}
-\label{Fig:Network_Transmissibility}
+\subfigure[Transmissibility]{
+\includegraphics[width=0.47\textwidth]{EbolaNetworkSpread.pdf}
+\label{Fig:Network_Transmissibility}}
+\quad
+\subfigure[Patient Zero Minimum Degree]{
+\includegraphics[width=0.47\textwidth]{EbolaMinDeg.pdf}
+\label{Fig:Network_MinDegree}}
+\caption{Network Simulation for (a) Transmissibility, (b) Patient Zero Minimum Degree}
 \end{figure}
-
-
 
 In Figure  \ref{Fig:Network_Transmissibility}, we show the fraction of network infected for different values of transmissibility for  various network types.  The simulation captures the overall fraction of network infected  but does not capture any temporal progression for Ebola. Above the epidemic threshold the rate at which the  fraction of the network gets infected increases for all network types and the rate is higher for other networks in comparison to power law networks which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these networks . This is contrary to the compartmental model assumption that an outbreak will always become an epidemic when reproductive number is greater than 1. For preferential attachment, small-world and random networks for value of T in the range of 0.35-0.40 nearly the entire network gets infected but not the real network.
 
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=.8]{EbolaMinDeg.pdf}
-\caption{Network Simulation for Patient Zero Minimum Degree}
-\label{Fig:Network_MinDegree}
-\end{figure}
-
-
-
 In Figure \ref{Fig:Network_MinDegree}, we show that  for networks with power law degree distribution[also know as scale free networks], the fraction of the network getting infected is not entirely dependent on the minimum degree of the  initial node[patient zero] but also on transmissibility value. This is owning of the fact that the power law networks have majority  of nodes with few edges or low degrees and small minority of nodes with high degrees or super spreaders. Since these high degree nodes are rare, outbreak at low transmissibility values  may fail to reach these nodes. At higher transmissibility values above epidemic threshold, probability of reaching the super spreaders is higher leading to higher fraction of network getting impacted.The fraction become constant after a certain degree distribution, in our simulation around 50 since our real network follows the power law distribution approximately at degree 50. 
 
-
-We did have access to the  contact network for the countries  severely impacted by Ebola in 2014 to compare our result with actual values.  It will be  very interesting to infer the hidden network using the cascade diffusion model based on the data available. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used for future analysis.
+We did not have access to the  contact network for the countries  severely impacted by Ebola in 2014 to compare our result with actual values.  It will be  very interesting to infer the hidden network using the cascade diffusion model based on the data available. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used for future analysis.
 
 
 
@@ -416,7 +356,7 @@ We did have access to the  contact network for the countries  severely impacted 
 \section{Predicting worldwide spread}
 \label{sec:Worldwide}
 
-\subsection*{\textbf{Approach}}
+\subsection{{Problem Definition} - needs updating}
 In order to simulate how the Ebola epidemic might spread across the world, we have assembled a
 worldwide network based on international trade. Because the trade numbers are in US dollars,
 we have assumed a linear relationship between exports in dollars and travelers going abroad.
@@ -425,7 +365,7 @@ We are using this as a long-range network representing trade-based population mo
 connecting localized subnetworks with these trade-driven edges. We are developing a simulation
 framework to run in discrete time steps and predict the spread of Ebola across this worldwide network.
 
-\subsection*{\textbf{Trade network data preparation}}
+\subsection{{Trade network data preparation}}
 
 The trade network dataset we are using is based on data retrieved from the web service API to the
 UN Comtrade database \citep{uncomtradedata} via their web service API.
@@ -449,7 +389,7 @@ modern-day predictions, we performed the following transformations on the data (
 \end{itemize}
 
 We then needed to make the per-country exports sum up to the latest available export data.
-The United States \cite{ciatotalexports} World Factbook contains up-to-date export totals
+The United States \citep{ciatotalexports} World Factbook contains up-to-date export totals
 for most countries in the world. Using the above data set, on the (admittedly strong) assumption
 that the export distribution
 from country-to-country in the UN Comtrade data set has remained the same between the last year a
@@ -463,11 +403,11 @@ Once we had a ``renormalized'' dataset including detailed export edges and total
 the latest available data, we needed to map these numbers to theoretical international travelers.
 We could not find complete, or even nearly complete, publicly available data on the number of
 international outgoing travelers per country. While inbound tourism numbers are available from
-\cite{worldbankinboundtourism}, for the outbound tourism numbers from \cite{worldbankoutboundtourism},
+\citep{worldbankinboundtourism}, for the outbound tourism numbers from \citep{worldbankoutboundtourism},
 many countries are missing,
 especially the African nations that we care so much about from an Ebola outbreak perspective.
-Some data are available from the \cite{unwtooutboundtourism}, however they appear to be behind a paywall.
-Data for total air travellers are available from \cite{worldbankairpassengers},
+Some data are available from the \citep{unwtooutboundtourism}, however they appear to be behind a paywall.
+Data for total air travellers are available from \citep{worldbankairpassengers},
 however this total includes domestic flights and so is less useful for our purposes.
 
 Our current approach to map outbound dollars to outbound travelers is to assume a linear relationship
@@ -475,14 +415,14 @@ between these numbers, and also to assume that the same linear relationship hold
 inbound tourists to a country.
 We currently use the United States as a model and use the ratio of
 imports to the United States per year to the number of tourists visiting the United States per year.
-Based on data from the \cite{usinboundtourists}, 69.77 million people visited the United States in 2013.
+Based on data from the \citep{usinboundtourists}, 69.77 million people visited the United States in 2013.
 According to our renormalized data set, total imports into the United States were
 \$$2.21$ trillion during the same period. Dividing imports by visitors (an admittedly
 simplistic approach) gives us a scaling factor of approx. $31,665$. Therefore we have applied this
 scaling factor to all edges in our international exports network, giving us some approximation of
 outbound travellers from country to country based on export numbers.
 
-\subsection*{\textbf{Supplementing the trade network}}
+\subsection{{Supplementing the trade network}}
 
 Using a trade network has its flaws, even discounting errors stemming from poor approximations.
 For one, a trade-centric network ignores activity with low economic impact, such as
@@ -495,7 +435,7 @@ and certainly it is safe to assume that that trade activity correlates with trav
 
 Due to the above drawbacks, we plan to supplement our trade network with a generated network that
 captures local commute-related movement as well. One approach to generating such a network is the gravity law,
-used for example to study traffic on Korean highways by \cite{jung2008gravity}. The gravity law
+used for example to study traffic on Korean highways by \citep{jung2008gravity}. The gravity law
 claims that the number of trips from point A to point B is inversely proportional to the square
 of the distance between them.
 
@@ -507,7 +447,8 @@ of the distance between them.
 \end{figure}
 
 
-\subsection*{\textbf{Simulation model}}
+\subsection{{System Model and Algorithms}}
+\label{SubSec:WorldSystem}
 
 To incorporate inter-country spreading behavior, we modified the SEIR differential equations in \eqref{Eq:SEIR} to include a transportation operator $\Omega$ term. Similar approaches have been used in previous literatures on epidemiolgoical theory \citep{grais2003assessing, balcan2010modeling}. We assume that an individuals who is in susceptible or effective stages of Ebola can travel. Due to the severe nature of Ebola, an individual who is in the infected stage of the disease will most likely not be able to travel. Even if such individual travel to another country, due to stricter regulations and monitoring, such individual will most likely to be quarantined, and therefore will not likely to spread disease among the population of the country traveled. We therefore, do not  include transportation operator in the differential equation corresponding to the infected stage. We define $\sigma_{i,j}$ as the number of people travelled from country $i$ to country $j$ everyday. We acquire the exact value of  $\sigma_{i,j}$ from the trade network described in previous section.  Using this value, the modified differential equations are presented below:
 
@@ -524,18 +465,17 @@ To incorporate inter-country spreading behavior, we modified the SEIR differenti
 
 In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia, we have an weighted edge to the selected countries with most amount of population movement. Although not shown in the figure, in our simulation, we also consider the weighted edges between the countries which are reachable from any of the three countries -  Guinea, Sierra Leone,  Liberia.  The parameter values $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for Guinea, Sierra Leone and Libera are set to the estimates from Phase 1 result from Table \ref{Table:parameter}, \ref{Table:parameter2} in Appendix. The parameters for the rest of the countries are unknown. For these countries, we reuse the estimated value of West Africa from Table \ref{Table:parameter2}. We set $t_0$ to December 2, 2013 - the initial outbreak date in Guinea and initial number of infected individual at Guinea to one and to the rest of the countries to zero. We then run the simulation based on the differential equations in \eqref{Eq:SEIR_world} for the duration up to December 31, 2014.
 
-In Figure \ref{Fig:worldtrade}, we presented the potential number of infected people by December 31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in Table \ref{Tb:prediction} in Phase 1 as expected. We note that, the modified trade network data that we used is a simplistic realization of the very complex human migration pattern and does not take into account intricacies involving border restriction, enhanced monitoring etc. Therefore, the result obtained from our simulation result will rather represent  an upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as a measure of relative risk of disease spreads in different countries. It is, however, interesting to see that the result obtained from such simplistic model represents the reality fairly well. So far, in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United States and Spain. Our simulation result identified all of these countries. In our simulation, Cote d'Ivoire is identified as the country with the highest risk of spread. However, so far Cote d'Ivoire is Ebola free, even though it shares border will all of the three countries - Guinea, Sierra Leone and Liberia. The exact reason of Ebola not spreading in Cote d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas 20 peoples got infected in reality. The reason behind such small number is the lack of trade as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. However, Nigerian airport is the busiest hub in West Africa - therefore, disease may spread through airport transporation, which was not captured in our model.
+\subsection{Results and Findings}
+\label{SubSec:WorldResult}
 
 \begin{figure}[ht]
 \centering
 \includegraphics[scale=.5]{countriesinfected.pdf}
 \caption{Potential countries that could get infected and potential number of infected by December 31, 2014}
-\label{Fig:worldtrade}
+\label{Fig:world_infected}
 \end{figure}
 
-
-
-
+In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December 31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in Table \ref{Tb:prediction} in Phase 1 as expected. We note that, the modified trade network data that we used is a simplistic realization of the very complex human migration pattern and does not take into account intricacies involving border restriction, enhanced monitoring, religious and cultural missions etc. Therefore, the result obtained from our simulation result will rather represent  an upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as a measure of relative risk of disease spreads in different countries. It is, however, interesting to see that the result obtained from such simplistic model represents the reality fairly well. So far, in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United States and Spain. Our simulation result identified all of these countries successfully. In our simulation, Cote d'Ivoire is identified as the country with the highest risk of spread. However, so far Cote d'Ivoire is Ebola free, even though it shares border will all of the three infected countries - Guinea, Sierra Leone and Liberia. The exact reason of Ebola not spreading in Cote d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas 20 peoples got infected in reality. The reason behind such small number is the lack of sufficient trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos region of Nigeria has been affected mostly by Ebola. The airport located in the Lagos is the busiest hub in West Africa. It is possible that migration through Lagos airport may be related to the spread of disease in that region, which is not captured in our model.
 
 
 
@@ -575,7 +515,7 @@ $\tau$ &110 & & -\\
 \cmidrule{2-4}
 \textbf{Estimated Parameters} & \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
 \midrule
-Incubation Time $1/k$ &6.3 & - & based on previous works \cite{}\\
+Incubation Time $1/k$ &6.3 & - & based on previous works\\
 Infection Time $1/\gamma$ &5.4957 & [5.43, 5.545] & -\\
 $\beta_0$ &0.2407 & [0.2374, 0.244] & -\\
 $\beta_1$ &0.2084 & [0.2033, 0.2135] & -\\
@@ -610,7 +550,7 @@ June 12, 2014 &  & Country declared emergency\\
 \cmidrule{1-3}
 \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
 \midrule
-6.3 & - & based on previous works \cite{}\\
+6.3 & - & based on previous works\\
 6.386 & [6.2112, 6.4733] & -\\
 0.356 & [0.3391, 0.3643] & -\\
 0.195 & [0.1926, 0.1988] & -\\
@@ -707,11 +647,15 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 
 \end{appendix}
 
-\subsection*{\textbf{Contribution}}
+\subsection*{Contribution from individual team member}
+\begin{itemize}
+\item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
-Romit Singhai: Initial project idea and research,  contribution to project proposal and milestone report specifically for mapping the compartmental model to network based model. Exploring the MCMC approach for compartmental model  and developing code.
+\item{Mike: } 
+
+\item {Romit: } Initial project idea and research,  contribution to project proposal and milestone report specifically for mapping the compartmental model to network based model. Exploring the MCMC approach for compartmental model  and developing code.
 I worked on data collection, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs. I also wrote the part to map the compartmental model to contact network of the final  paper including results and conclusions.
-
+\end{itemize}
 
 
 
