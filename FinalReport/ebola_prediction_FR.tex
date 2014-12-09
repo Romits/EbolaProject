@@ -88,11 +88,11 @@ The rest of the paper is organized as follows. In Section \ref{sec:RelatedWork},
 The majority of research in epidemiological theory is based on the compartmental model. To model the progress of an epidemic in a large population, the individuals in the population are compartmentalized according to the state of the disease. The most widely used such model is the SIR model introduced in \citep{very_old_paper}:
 
 \begin{itemize}
-\item \textbf{S (Susceptible):} Individuals who have not yet caught the disease from contact with an infectious
+\item {S (Susceptible):} Individuals who have not yet caught the disease from contact with an infectious
   individual.
-\item \textbf{I (Infectious):} Individuals who have the disease. They have some probability of
+\item {I (Infectious):} Individuals who have the disease. They have some probability of
   infecting susceptible people.
-\item \textbf{R (Recovered):} Individuals who have experienced the full infectious period, and are
+\item {R (Recovered):} Individuals who have experienced the full infectious period, and are
   now non-infectious and immune.
 \end{itemize}
 
@@ -105,10 +105,7 @@ susceptible individuals, and is an estimate of epidemic growth at the start of a
 everyone is susceptible. Almost all existing literatures \citep{chowell2004basic,legrand2007understanding,gomes2014assessing} on Ebola epidemic prediction are based on the modification of the basic SIR model.
 
 In \citep{chowell2004basic}, the authors model the effect of Ebola outbreaks in 1995 in Congo and in
-2000 in Uganda using a compartmental model similar to the SIR model in Section \ref{SubSec:SIR}. However, a
-distinct feature of Ebola is that individuals exposed to the virus who become infectious do so
-after a mean incubation period. In order to reflect this feature, in the SIR model is extended with
-an additional ``Exposed'' compartment state. This SEIR model is reproduced in
+2000 in Uganda using a variation of the original SIR model. A distinct feature of Ebola is that individuals exposed to the virus who become infectious do so after a mean incubation period. In order to reflect this feature, in the SIR model is extended with an additional ``Exposed'' compartment state. This SEIR model is reproduced in
 Figure \ref{fig:SEIR_model}:
 
 \begin{figure}[h!]
