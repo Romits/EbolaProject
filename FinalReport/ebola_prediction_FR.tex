@@ -384,12 +384,6 @@ Since our datasets were  large and simulation using a percolation model is a com
 
 \subsection*{\textbf{Results and Conclusion}}
 
-%\begin{figure}[ht]
-%\centering
-%\subfigure[Network Simulation for Transmissibility]{
-  %\includegraphics[height=0.6\textwidth]{EbolaNetworkSpread.pdf}
-  %\label{fig:Network Simulation for Tran}}
-%\end{figure}
 
 \begin{figure}[ht]
 \centering
@@ -397,6 +391,10 @@ Since our datasets were  large and simulation using a percolation model is a com
 \caption{Network Simulation for Transmissibility}
 \label{Fig:Network_Transmissibility}
 \end{figure}
+
+
+
+In Figure  \ref{Fig:Network_Transmissibility}, we show the fraction of network infected for different values of transmissibility for  various network types.  The simulation captures the overall fraction of network infected  but does not capture any temporal progression for Ebola. Above the epidemic threshold the rate at which the  fraction of the network gets infected increases for all network types and the rate is higher for other networks in comparison to power law networks which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these networks . This is contrary to the compartmental model assumption that an outbreak will always become an epidemic when reproductive number is greater than 1. For preferential attachment, small-world and random networks for value of T in the range of 0.35-0.40 nearly the entire network gets infected but not the real network.
 
 \begin{figure}[ht]
 \centering
@@ -407,22 +405,10 @@ Since our datasets were  large and simulation using a percolation model is a com
 
 
 
-In Figure  \ref{Fig:Network_Transmissibility}, we show the fraction of network infected for different values of transmissibility for  various network types.  The simulation captures the overall fraction of network infected  but does not capture any temporal progression for Ebola. Above the epidemic threshold the rate at which the  fraction of the network gets infected increases for all network types and the rate is higher for other networks in comparison to power law networks which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these networks contrary to the compartmental model assumption that an outbreak will always become an epidemic when reproductive number is greater than 1.For Preferential attachment, Small World and Random Networks for value of T in the range of 0.35-0.40 nearly the entire network gets infected but not for real network.
-
 In Figure \ref{Fig:Network_MinDegree}, we show that  for networks with power law degree distribution[also know as scale free networks], the fraction of the network getting infected is not entirely dependent on the minimum degree of the  initial node[patient zero] but also on transmissibility value. This is owning of the fact that the power law networks have majority  of nodes with few edges or low degrees and small minority of nodes with high degrees or super spreaders. Since these high degree nodes are rare, outbreak at low transmissibility values  may fail to reach these nodes. At higher transmissibility values above epidemic threshold, probability of reaching the super spreaders is higher leading to higher fraction of network getting impacted.The fraction become constant after a certain degree distribution, in our simulation around 50 since our real network follows the power law distribution approximately at degree 50. 
 
 
-Since the countries  severely impacted by Ebola in 2014, are not technologically  advanced  it will be  very interesting to infer the hidden network using the cascade diffusion model. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used for future analysis.
-
-%\begin{figure}[ht]
-%\centering
-%\subfigure[Network Simulation for Patient Zero Minimum Degree]{
- % \includegraphics[height=0.6\textwidth]{EbolaMinDeg.pdf}
-  %\label{fig:Network Simulation for Ebola}}
-%\end{figure}
-
-
-
+We did have access to the  contact network for the countries  severely impacted by Ebola in 2014 to compare our result with actual values.  It will be  very interesting to infer the hidden network using the cascade diffusion model based on the data available. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used for future analysis.
 
 
 
@@ -724,7 +710,7 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 \subsection*{\textbf{Contribution}}
 
 Romit Singhai: Initial project idea and research,  contribution to project proposal and milestone report specifically for mapping the compartmental model to network based model. Exploring the MCMC approach for compartmental model  and developing code.
-I worked on data collection, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs. I also wrote the part to map the compartmental model to contact network of the final  paper including conclusion and future work.
+I worked on data collection, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs. I also wrote the part to map the compartmental model to contact network of the final  paper including results and conclusions.
 
 
 
