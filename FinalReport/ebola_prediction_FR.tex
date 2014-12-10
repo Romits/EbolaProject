@@ -386,7 +386,7 @@ framework to run in discrete time steps and predict the spread of Ebola across t
 \subsection{{Trade network data preparation}}
 \label{SubSec:TradeData}
 
-The trade network dataset we are using is based on data retrieved from the web service API to the
+The trade network dataset we are using is based on data retrieved from the
 UN Comtrade database \citep{uncomtradedata} via their web service API.
 The data queried for were country-to-country SITC-1 exports from the latest data available
 for each country.
@@ -505,6 +505,50 @@ To incorporate inter-country spreading behavior, we modified the SEIR differenti
 \end{eqnarray}
 
 In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia, we have an weighted edge to the selected countries with most amount of population movement. Although not shown in the figure, in our simulation, we also consider the weighted edges between the countries which are reachable from any of the three countries -  Guinea, Sierra Leone,  Liberia.  The parameter values $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for Guinea, Sierra Leone and Libera are set to the estimates from Phase 1 result from Table \ref{Table:parameter}, \ref{Table:parameter2} in Appendix. The parameters for the rest of the countries are unknown. For these countries, we reuse the estimated value of West Africa from Table \ref{Table:parameter2}. We set $t_0$ to December 2, 2013 - the initial outbreak date in Guinea and initial number of infected individual at Guinea to one and to the rest of the countries to zero. We then run the simulation based on the differential equations in \eqref{Eq:SEIR_world} for the duration up to December 31, 2014.
+
+\subsection{{Network Simulation using the SEIR Model}}
+\label{SubSec:GraphX}
+
+We also did large-scale experiments on two 25M node "global" networks representing the population
+of the Earth, with subnetworks per country. This networks represent a scaled-down version of the
+population of the Earth, with a subgraph for each country, number of nodes per subgraph proportional
+to the population of that country, and number of edges connecting each subgraph based on the
+international migration numbers calculated in Sections \ref{SubSec:TradeData} and \ref{SubSec:LocalData}.
+
+The first global network we built was based on the real-world network from \citep{topcoderdata},
+which is a 4.8 million node undirected social network with an average degree of 10. We built each country
+as a subgraph based on this network. China, the most populous country with 1.36 billion people
+\citep{ciapopulation}, was represented as the full social network, without removing any nodes.
+This scale-down factor, of 1.3 billion to 4.8 million, was 279.72.
+For each successive country we removed random
+nodes from the social network to get it to the right scale relative to China (for example, India
+was represented by 4.4 million nodes. The final global graph ended had 25,649,313 nodes.
+We then wrote scripts to renumber the nodes in these subgraphs to form a unified global graph.
+We added edges beween each subgraph according to the migration numbers calculated previously
+(the sum of the trade network and border numbers),
+selecting nodes from within each country's respective subgraph randomly.
+Finally, we added a self-edge for each node, which allowed us to implement time-stepping and
+state-based node transitions without receiving a message from another node within the simulation
+environment's Pregel-like algorithm \citep{malewicz2010pregel}.
+The resulting number of edges for this global network, including self-edges, was 117,537,887.
+
+For comparison, we built a second network, this one fully synthetic and based on preferential attachment.
+The primary difference in construction was that we generated each country's subgraph from scratch
+(no node deletion) to achieve the desired number of nodes (same as above), while maintaining an average
+degree of 20. Subgraph connection and additional postprocessing was done in the same way as above.
+The number of edges in this graph was 233,017,479 (this is due to the preferential attachment generation
+script incorrectly assuming undirected edges - an oversight).
+
+We carried out experiments on this data using a discrete time-step SEIR simulation model,
+where each time step represents one day. In order to minimize the number of variables considered,
+we chose an exposed / incubating period of 11 days, which is consistent with ranges available
+from \citep{whoebolafacts}, and an infectious period of 11 days as well. At each time step, each
+infectious individual has some probability of infecting each one of his susceptible contacts, which
+will cause that individual to transition from the susceptible to the exposed stage, after which
+they will eventually transition to the infectious stage. To handle this larger-scale model, we chose
+to implement the simulation using the GraphX library \citep{xin2013graphx} for Spark
+\citep{zaharia2010spark}. These simulations were run on a 12-node Spark cluster on Amazon EC2.
+
 
 \subsection{Results and Findings}
 \label{SubSec:WorldResult}
@@ -690,11 +734,11 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 
 
 
-\subsection*{Contribution from individual team member}
+\subsection*{Contribution from individual team members}
 \begin{itemize}
 \item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
-\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country model using percolation theory(Section \ref{sec:NetworkModel}), implementation of global network-based SEIR simulation (Section TBD), proof-reading of report.
+\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country percolation model (Section \ref{sec:NetworkModel}), generation of global networks, implementation and execution of global network-based SEIR simulation (Section \ref{SubSec:GraphX}), proof-reading of report.
 
 \item {Romit: } Project idea and research, introduction (Section \ref{sec:Introduction}), exploring the MCMC approach for compartmental model  and developed code.
 Data collection and analysis, coding the two simulation model based on percolation theory and running the simulations on EC2, analyzing results and plotting the graphs and generating prediction numbers (Section \ref{sec:NetworkModel})
