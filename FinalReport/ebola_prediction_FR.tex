@@ -725,13 +725,13 @@ script incorrectly assuming undirected edges - an oversight).
 
 We carried out experiments on this data using a discrete time-step SEIR simulation model,
 where each time step represents one day. In order to minimize the number of variables considered,
-we chose an exposed / incubating period of 11 days, which is consistent with ranges available
-from \citep{whoebolafacts}, and an infectious period of 11 days as well. At each time step, each
+we chose an exposed / incubating period of 11 days and also an infectious period of 11 days.
+At each time step, each
 infectious individual has some probability of infecting each one of his susceptible contacts, which
 will cause that individual to transition from the susceptible to the exposed stage, after which
 they will eventually transition to the infectious stage. To handle this larger-scale model, we chose
-to implement the simulation using the GraphX library \citep{xin2013graphx} for Spark
-\citep{zaharia2010spark}. These simulations were run on a 12-node Spark cluster on Amazon EC2.
+to implement the simulation using the GraphX library \citep{xin2013graphx}.
+These simulations were run on a 12-node Spark cluster on Amazon EC2.
 
 \subsection{{Global Network Simulation Results}}
 
@@ -1079,6 +1079,7 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 
 
 \subsection*{Contribution from individual team members}
+{\small
 \begin{itemize}
 \item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
@@ -1089,8 +1090,8 @@ Data collection and analysis, coding the two simulation model based on percolati
 Figures \ref{Fig:Network_Transmissibility}, \ref{Fig:Network_MinDegree}
 Tables \ref{Tb:Transmissibility}, \ref{Tb:prediction_networkm}
 \end{itemize}
+}
+
 \end{appendix}
-
-
 
 \end{document}
