@@ -344,7 +344,28 @@ Since our datasets were  large and simulation using a percolation model is a com
 
 In Figure  \ref{Fig:Network_Transmissibility}, we show the fraction of network infected for different values of transmissibility for  various network types.  The simulation captures the overall fraction of network infected  but does not capture any temporal progression for Ebola. Above the epidemic threshold the rate at which the  fraction of the network gets infected increases for all network types and the rate is higher for other networks in comparison to power law networks which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these networks . This is contrary to the compartmental model assumption that an outbreak will always become an epidemic when reproductive number is greater than 1. For preferential attachment, small-world and random networks for value of T in the range of 0.35-0.40 nearly the entire network gets infected but not the real network.
 
-In Figure \ref{Fig:Network_MinDegree}, we show that  for networks with power law degree distribution[also know as scale free networks], the fraction of the network getting infected is not entirely dependent on the minimum degree of the  initial node[patient zero] but also on transmissibility value. This is owning of the fact that the power law networks have majority  of nodes with few edges or low degrees and small minority of nodes with high degrees or super spreaders. Since these high degree nodes are rare, outbreak at low transmissibility values  may fail to reach these nodes. At higher transmissibility values above epidemic threshold, probability of reaching the super spreaders is higher leading to higher fraction of network getting impacted.The fraction become constant after a certain degree distribution, in our simulation around 50 since our real network follows the power law distribution approximately at degree 50. 
+In Figure \ref{Fig:Network_MinDegree}, we show that  for networks with power law degree distribution[also know as scale free networks], the fraction of the network getting infected is not entirely dependent on the minimum degree of the  initial node[patient zero] but also on transmissibility value. This is owning of the fact that the power law networks have majority  of nodes with few edges or low degrees and small minority of nodes with high degrees or super spreaders. Since these high degree nodes are rare, outbreak at low transmissibility values  may fail to reach these nodes. At higher transmissibility values above epidemic threshold, probability of reaching the super spreaders is higher leading to higher fraction of network getting impacted.The fraction become constant after a certain degree distribution, in our simulation around 50 since our real network follows the power law distribution approximately at degree 50. For predicting the total number of cases based on the network simulation for the real network we can assume that a similar network exists in Guinea and Sierra Leone and using the scaling factor proportional to the population we can predict the total number of people infected at the current transmissibility value.
+
+\begin{table}[h]
+\caption{Estimated total number infected people} 
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline 
+Country[Poulation] & Scaling-Factor & Fraction-of-Network-Infected & Total-Infected-People 
+\tabularnewline
+\hline 
+\hline 
+Guinea[11.75M] & 0.6545 & 0.178 & 136,889\tabularnewline
+\hline 
+Sierra Leone[6.2M] & 0.3454 & 0.192 & 41,117\tabularnewline
+\hline 
+\end{tabular}
+\label{Tb:prediction}
+
+\end{table}
+
+
+
 
 We did not have access to the  contact network for the countries  severely impacted by Ebola in 2014 to compare our result with actual values.  It will be  very interesting to infer the hidden network using the cascade diffusion model based on the data available. Running simulations on  the inferred network and comparing  with the actual results can provide better insights into the spread of  current epidemic. The transmission probabilities and other heuristics developed can be used for future analysis.
 
