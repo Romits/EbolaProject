@@ -161,7 +161,7 @@ compartment state. This SEIR model is reproduced in Figure \ref{fig:SEIR_model}:
 
 \begin{figure}[h!]
 \captionsetup{justification=centering}
-\includegraphics[scale=0.4]{seir_model_fig}
+\includegraphics[scale=0.3]{seir_model_fig}
 \centering\caption{SEIR model}
 \label{fig:SEIR_model}
 \end{figure}
@@ -373,18 +373,18 @@ the estimated parameter, we performed bootstrapping based on residual error.
 \begin{figure}[ht]
 \centering
 \subfigure[Guinea]{
-  \includegraphics[width=0.45\textwidth]{Guinea1.pdf}
+  \includegraphics[width=0.4\textwidth]{Guinea1.pdf}
   \label{fig:subfigure1}}
 \quad
 \subfigure[Sierra Leone]{
-  \includegraphics[width=0.45\textwidth]{SierraLeon1.pdf}
+  \includegraphics[width=0.4\textwidth]{SierraLeon1.pdf}
   \label{fig:subfigure2}}
 \subfigure[Liberia]{
-  \includegraphics[width=0.45\textwidth]{Liberia1.pdf}
+  \includegraphics[width=0.4\textwidth]{Liberia1.pdf}
   \label{fig:subfigure3}}
 \quad
 \subfigure[West Africa]{
-  \includegraphics[width=0.45\textwidth]{WestAfrica1.pdf}
+  \includegraphics[width=0.4\textwidth]{WestAfrica1.pdf}
   \label{fig:subfigure4}}
 
 \caption{SEIR model fit results for 2014 Ebola epidemic data}
@@ -481,21 +481,7 @@ from Table \ref{Table:parameter}, \ref{Table:parameter2}. These values are prese
 \ref{tab:T}.  We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these
 values for  running the simulations on the  network datasets.
 
-\begin{table}[h]
-\caption{Transmissibility values for  Liberia, Guinea and Sierra Leone}
-\begin{center}
-    \begin{tabular}{ | l | l | l | p{5cm} |}
-    \hline
-    Country & $R_0$ & Transmissibility(T) \\ \hline
-    \hline
-    Liberia & 0.001 & 0.001  \\ \hline
-    Guinea & 1.145 & 0.1148 \\ \hline
-    Sierra Leone & 1.24 & 0.1243  \\ \hline
-    \end{tabular}
-\end{center}
-\label{tab:T}
-\end{table}
-\label{Tb:Transmissibility}
+
 
 Since our datasets were  large and simulation using a percolation model is a compute intensive
 process, it was not possible to run the simulations in a reasonable time on a local machine so
@@ -546,9 +532,29 @@ number of cases based on the network simulation we assume that a  network simila
 network exists in Guinea and Sierra Leone.Using a scaling factor proportional to the population we
 predict the total number of people infected at the current transmissibility value using the product
 of population, scaling factor and fraction of network infected.
-In Table \ref{Tb:prediction_networkm} we present our results. \begin{table}[h]
-\caption{Estimated total number infected people}
+In Table \ref{Tb:prediction_networkm} we present our results. 
+
+\begin{table}[h]
+\parbox{.3\linewidth}{
 \centering
+  \begin{tabular}{ | l | l | l | p{5cm} |}
+    \hline
+    Country & $R_0$ & Transmissibility(T) \\ 
+    \hline
+    \hline
+    Liberia & 0.001 & 0.001  \\ \hline
+    Guinea & 1.145 & 0.1148 \\ \hline
+    Sierra Leone & 1.24 & 0.1243  \\
+    \hline
+  \end{tabular}
+  \caption{Transmissibility }
+      \label{tab:T}
+
+  }
+\quad
+\parbox{.6\linewidth}{
+\centering
+
 \begin{tabular}{|c|c|c|c|}
 \hline
 Country[Population] & Scaling-Factor & Fraction-of-Network-Infected & Total-Infected-People
@@ -560,8 +566,10 @@ Guinea[11.75M] & 0.6545 & 0.178 & 136,889\tabularnewline
 Sierra Leone[6.2M] & 0.3454 & 0.192 & 41,117\tabularnewline
 \hline
 \end{tabular}
-\label{Tb:prediction_networkm}
+ \caption{Estimated  infected  people}
+ \label{Tb:prediction_networkm}
 
+}
 \end{table}
 
 
@@ -662,7 +670,7 @@ networks with edges corresponding to that many commuters.
 
 \begin{figure}[ht]
 \centering
-\includegraphics[scale=1.1]{world1.pdf}
+\includegraphics[scale=.9]{world1.pdf}
 \caption{World-wide trade network from Guinea, Sierra Leone and Liberia}
 \label{Fig:worldtrade}
 \end{figure}
@@ -1006,7 +1014,7 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 \subsection*{Contribution from individual team members}
 {\small
 \begin{itemize}
-\item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
+\item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected}, \ref{Fig:WorldPredictNetwork} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
 \item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country percolation model (Section \ref{sec:NetworkModel}), generation of global networks, implementation and execution of global network-based SEIR simulation (Section \ref{SubSec:GraphX}), proof-reading of report.
 
