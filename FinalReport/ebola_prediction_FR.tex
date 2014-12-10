@@ -182,19 +182,19 @@ dynamics, the infectious phase is subdivided into three stages: infection in a c
 (I), infection in a hospital setting (H), and infection after death assuming a traditional funeral
 (F). The resulting model is known as the SEIHFR model.
 
-A CDC (Centers for Disease Control and Prevention) report \citep{meltzer2014estimating} published in
-September 26, 2014 make use of the SEIHFR model to provide an estimate of the future number of cases
-of current Ebola epidemic. While SEIHFR model provides finer grained modeling of the behavior of
-Ebola, it is also complex and the link to a network-based model becomes tenuous. In addition,
+A CDC (Centers for Disease Control and Prevention) report \citep{meltzer2014estimating} published
+September 26, 2014 makes use of the SEIHFR model to provide an estimate of the future number of cases
+of the current Ebola epidemic. While the SEIHFR model provides finer grained modeling of the behavior of
+Ebola, it is also complex and the link to a network-based model becomes tenuous. In addition, the
 current 2014 Ebola epidemic is still in progress and we do not have the entire picture of the
-epidemic cycle. Given the limited number of data points, trying to fit a model will large number of
+epidemic cycle. Given the limited number of data points, trying to fit a model with a large number of
 parameters may lead to overfitting.  Because of these reasons, we do not plan to use the SEIHFR
 model in our work.
 
-\subsection{{Network based Epidemiological model}}
+\subsection{{Network-based epidemiological model}}
 
-In the compartmental models described in previous section, the underlying assumption is random
-mixing among population. Therefore, an infected individual can infect any other individuals in the
+In the compartmental models described in the previous section, the underlying assumption is random
+mixing among the population. Therefore, an infected individual can infect any other individual in the
 population. Even though \citep{legrand2007understanding} modified the SEIR model to reflect the
 heterogeneity of infection states, the underlying assumption is still random mixing. However,
 contagious diseases like Ebola spread via networks formed by physical contacts among individuals.
@@ -203,13 +203,13 @@ model or a network contact model, within a static network model the set of conta
 a random-mixing model wherein it is continually changing. A static network model thus captures the
 permanence of many human relationships.
 
-In our search for existing literature on networks based model on spreading of Ebola, we haven't come
+In our search for existing literature on a network-based model for the spread of Ebola, we haven't come
 across any previous work that precisely does this, possibly due to the lack of detailed data in the
 locations historically affected by the disease.  In \citep{newman2002spread}, the authors provide
-the relation between the compartmental SIR model and a random network model. The author introduces
+the relationship between the compartmental SIR model and a random network model. The author introduces
 the concept of transmissibility in a network model. Transmissibility of a disease in a network model
 is defined as the average probability that an infectious individual will transmit the disease to a
-susceptible individual with whom they have contact. The authors also provide equations that connects
+susceptible individual with whom they have contact. The authors also provide equations that connect
 the transmissibility and degree distribution of a random network with the basic reproductive number
 of an SIR model.
 
@@ -243,38 +243,38 @@ who are unusually effective at excreting the virus into the environment they sha
 %where, $\left\langle k \right\rangle$ and $\left\langle k^2 \right\rangle$ are the mean degree and
 %mean square degree of the network.
 %
-Neither \citep{meyers2005network, newman2002spread} captured the temporal progression of the
-epidemic using network model. Instead, the authors provide the final number of infected nodes in a
-network for a given value of $T$. Compare to the compartmental model, there are two major drawbacks
-in the network based model
+Neither of \citep{meyers2005network, newman2002spread} captured the temporal progression of the
+epidemic using a network model. Instead, the authors provide the final number of infected nodes in a
+network for a given value of $T$. Compared to the compartmental model, there are two major drawbacks
+in a network-based model:
 
-\begin{enumerate}[(a)] \item Compartmental model is well-established model and can generally capture
+\begin{enumerate}[(a)] \item The compartmental model is a well-established model and can generally capture
       the temporal progression of disease spread in a localized population fairly well. In contrast,
       with a contact  network, it is hard to model the spread of disease over time. In general,
       percolation theory is used in conjunction with a contact network to predict the final number
       of individuals that can get affected in a given network. However, it is generally hard to
-      predict the stage of the disease at a given time with a network model.
+      reliably predict the stage of the disease at a given time with a network model.
 
 \item In general, it is almost impossible to model the actual contacts among individuals. Therefore,
-in most network model, additional assumptions are made to model the contact network. \end{enumerate}
+in most network model, many assumptions are made to model the contact network. \end{enumerate}
 
-\subsection{{Combination of Compartmental and Network based Epidemiological model}}
+\subsection{{Combination of a compartmental and a network-based epidemiological model}}
 
 As discussed in previous sections, a compartmental model is convenient in analyzing the temporal
 progression of a contagious disease in a localized population. However, due to the underlying
-assumption of random mixing among populations, such model is not suitable to analyze large scale
-outbreak of contagious diseases in a world-wide scale. A much attractive alternative solution in
-analyzing the progression of disease in a world-wide scale is a combination of compartmental and
-network model. In such formulation, compartmental model is used on a local scale to track the
-progression of disease in individual countries (cities or continents). To capture the dynamics of
+assumption of random mixing among the population, such a model is not suitable for analyzing a large-scale
+outbreak of a contagious disease at a world-wide scale. An attractive alternative solution in
+analyzing the progression of disease in a world-wide scale is by combining a compartmental and
+network model. In such a formulation, the compartmental model is used on a local scale to track the
+progression of disease in individual countries (or cities or continents). To capture the dynamics of
 inter-country (city or continent) spread of disease, some form of network data can be used. Such
-network data are usually converted to inter-country (city or continent) transfer of population per
+network data are usually converted to inter-country (or city or continent) transfer of population per
 unit time.
 
 In \citep{balcan2010modeling} the authors model the inter-country and inter-city spread of
-population using airport network data and commuting network data. The authors then use such model in
-conjunction of stochastic compartmental model to analyze the  2001-2002 seasonal influenza
-spreading. A similar works  \citep{gomes2014assessing}  attempts to predict the spread of Ebola to
+population using airport network data and commuting network data. The authors then use such a model in
+conjunction with a stochastic compartmental model to analyze the 2001-2002 seasonal influenza
+outbreak. A similar work \citep{gomes2014assessing} attempts to predict the spread of Ebola to
 different parts of the world based on a model that incorporates both the compartmental approach and
 the use of world-wide air traffic flows. In this model, the world is divided into geographcal
 regions defining a subpopulation network, modeling connections among subpopulations representing
@@ -284,11 +284,11 @@ traffic flows due to transportation infrastructure.
 
 %   Model/Algorithm/Method (30%) + Results and findings (35%)
 
-\section{{Modeling and Analysis of Intra-country Spread of Epidemic}}
+\section{{Modeling and Analysis of Intra-country Spread of an Epidemic}}
 \label{sec:IntraCountry}
 
 \subsection{System Model and Algorithms}
-In first phase of the project, to calculate the basic reproductive number of the current Ebola
+In the first phase of the project, to calculate the basic reproductive number of the current Ebola
 epidemic spread in different countries, we performed model fitting on the data we gathered from
 \citep{cmriversdata}. We considered the SEIR model described in \citep{chowell2004basic}. The
 following set of differential equations are used to represent this model \citep{chowell2004basic}:
@@ -327,13 +327,13 @@ transmission changes from $\beta_0$ to $\beta_1$. The SEIR model under considera
 model with six parameters.
 
 The current Ebola epidemic is still spreading and depending on the preventative measures  taken, the
-underlying dynamics of the spread can change drastically any time. The Ebola data for three most
-affected countries in West Africa - Guinea, Sierra Leone and Libera were represented as $(t_i,y_i)$,
-$i=1,2,\ldots,n$ where $t_i$ represents $i$th reporting time and $y_i$ the cumulative number of
+underlying dynamics of the spread can change drastically any time. The Ebola data for the three
+most-affected countries in West Africa - Guinea, Sierra Leone and Liberia - were represented as $(t_i,y_i)$,
+$i=1,2,\ldots,n$ where $t_i$ represents the $i$th reporting time and $y_i$ the cumulative number of
 infectious cases from the beginning of the outbreak of to time $t_i$.  The model parameters
 $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for these three countries were estimated using a
-non-linear least-square procedure by fitting these data to the cumulative number of cases
-$C(t,\Theta)$ in Equations \eqref{Eq:SEIR},\eqref{Eq:Beta}. In addition, we performed model fitting
+non-linear least-squares procedure by fitting these data to the cumulative number of cases
+$C(t,\Theta)$ in Equations \eqref{Eq:SEIR}, \eqref{Eq:Beta}. In addition, we performed model fitting
 for the West Africa region by adding up the data from these three countries.
 
 Given the limited number of data available, instead of fitting all six parameters to the model, we
@@ -360,9 +360,10 @@ date as the date of intervention in Liberia and set $\tau$ to 120.
 %We use the reported data $(t_i, c_i)$ for $i=1,2,\ldots,n$ where $t_i$ denotes the $i-th$ reporting
 %time and $c_i$ the cumulative number of infectious cases from the beginning of the outbreak at time
 %$t_0$ to time $t_i$.
-The optimization problem involving the model fitting of SEIR model is a non-linear least square
+
+The optimization problem involving the model fitting of the SEIR model is a non-linear least squares
 regression problem and contains a large number of local minima. Therefore, the choice of initial
-parameter estimate is an important consideration to get the globally optimal solution. In order to
+parameter estimate is an important consideration to get a globally optimal solution. In order to
 find a good initial choice of the parameters as input to the non-linear least squares solver, we
 first perform a Latin hypercube sampling on the  4-dimensional parameter space.  We grid up the
 hypercube with a number of grid points in each dimension.  We then choose the sample that minimizes
@@ -392,8 +393,8 @@ the estimated parameter, we performed bootstrapping based on residual error.
 
 
 \subsection{Results and Findings} The estimated parameters for the SEIR model of Guinea, Sierra
-Leone, Liberia, and the overall West Africa region is presented in Table \ref{Table:parameter},
-\ref{Table:parameter2} in Appendix. The basic reproductive number of epidemic before and after
+Leone, Liberia, and the overall West Africa region is presented in Tables \ref{Table:parameter} and
+\ref{Table:parameter2} in the Appendix. The basic reproductive number of the epidemic before and after
 intervention, $R_0 \approx \frac{\beta_0}{\gamma}$  and $R_1 \approx \frac{\beta_1}{\gamma}$ for the
 three countries are also presented in the tables. In Figure \ref{Fig:figurePrediction}, we presented
 the number of incidents at different compartments of the SEIR model, as well as the cumulative
