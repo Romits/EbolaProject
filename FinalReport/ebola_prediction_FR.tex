@@ -651,19 +651,15 @@ While this is a coarse approach, one benefit of this simple method is that it ma
 travel. Interestingly, the trade network-based approach turned out to be fairly useful and helped us generate
 some interesting results.
 
+We show a subset of the trade network in Figure \ref{Fig:worldtrade}, specifically the top 10
+trading partners for the three countries currently affected by the epidemic: Guinea, Sierra Leone,
+and Liberia.
+
 \subsection{{Supplementing the trade network with local migration}}
 \label{SubSec:LocalData}
 
-Using a trade network has its flaws, even discounting errors stemming from poor approximations.
-For one, a trade-centric network ignores activity with low economic impact, such as
-a vegetable farmer traveling to a nearby country to sell his products at the market, or someone
-driving across the border to visit a family member. Relative to the economic impact of the industrial
-diamond or rubber trade (exports of Liberia) for example, these potentially disease-spreading behaviors
-simply are not represented equitably if at all in the model. On the other hand, economic trade data is
-widely accessible and is likely to be fairly accurate,
-and certainly it is safe to assume that that trade activity correlates with travel between two countries.
-
-In order to model local movement across land borders, we also approximate population movement across land borders.
+In order to model local migration for cases where the economic impact is low,
+we also approximate population movement across land borders.
 The length of the land border between each country is available from
 \citep{cialandboundaries}, and the population of each country is available from \citep{ciapopulation}.
 We wrote scripts to normalize the country names and come up with an estimate of population movement
@@ -821,16 +817,16 @@ counts due to this, however that may be due to being new to GraphX.
 
 To incorporate inter-country spreading behavior, we modified the SEIR differential equations in
 \eqref{Eq:SEIR} to include a transportation operator $\Omega$ term. Similar approaches have been
-used in previous literatures on epidemiolgoical theory \citep{grais2003assessing,
-balcan2010modeling}. We assume that an individuals who is in susceptible or effective stages of
-Ebola can travel. Due to the severe nature of Ebola, an individual who is in the infected stage of
-the disease will most likely not be able to travel. Even if such individual travel to another
-country, due to stricter regulations and monitoring, such individual will most likely to be
-quarantined, and therefore will not likely to spread disease among the population of the country
-traveled. We therefore, do not  include transportation operator in the differential equation
-corresponding to the infected stage. We define $\sigma_{i,j}$ as the number of people travelled from
-country $i$ to country $j$ everyday. We acquire the exact value of  $\sigma_{i,j}$ from the trade
-network described in previous section.  Using this value, the modified differential equations are
+used in previous literature on epidemiolgoical theory \citep{grais2003assessing,
+balcan2010modeling}. We assume that an individual who is in the Susceptible or Exposed stages of
+Ebola can travel. Due to the severe nature of Ebola, an individual who is in the Infected stage of
+the disease may not be able to travel. Even if such an individual travels to another
+country, due to strict regulations and monitoring at this time, such an individual will most likely be
+quarantined, and therefore will not likely spread the disease among the population of the country
+traveled. We therefore do not include the transportation operator in the differential equation
+corresponding to the infected stage. We define $\sigma_{i,j}$ as the number of people travelling from
+country $i$ to country $j$ every day. We acquire the exact value of  $\sigma_{i,j}$ from the trade
+network described above. Using this value, the modified differential equations are
 presented below:
 
 \begin{eqnarray}
@@ -844,7 +840,7 @@ presented below:
 \label{Eq:SEIR_world}
 \end{eqnarray}
 
-In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for
+In Figure \ref{Fig:worldtrade}, we present the world-wide network under consideration. Here, for
 each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia,
 we have an weighted edge to the selected countries with most amount of population movement. Although
 not shown in the figure, in our simulation, we also consider the weighted edges between the
