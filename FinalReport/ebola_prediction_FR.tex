@@ -506,6 +506,19 @@ To incorporate inter-country spreading behavior, we modified the SEIR differenti
 
 In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia, we have an weighted edge to the selected countries with most amount of population movement. Although not shown in the figure, in our simulation, we also consider the weighted edges between the countries which are reachable from any of the three countries -  Guinea, Sierra Leone,  Liberia.  The parameter values $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for Guinea, Sierra Leone and Libera are set to the estimates from Phase 1 result from Table \ref{Table:parameter}, \ref{Table:parameter2} in Appendix. The parameters for the rest of the countries are unknown. For these countries, we reuse the estimated value of West Africa from Table \ref{Table:parameter2}. We set $t_0$ to December 2, 2013 - the initial outbreak date in Guinea and initial number of infected individual at Guinea to one and to the rest of the countries to zero. We then run the simulation based on the differential equations in \eqref{Eq:SEIR_world} for the duration up to December 31, 2014.
 
+\subsection{Results and Findings}
+\label{SubSec:WorldResult}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=.6]{countriesInfected.pdf}
+\caption{Potential countries that could get infected and potential number of infected by December 31, 2014}
+\label{Fig:world_infected}
+\end{figure}
+
+In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December 31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in Table \ref{Tb:prediction} in Phase 1 as is expected. We note that, the modified trade network data that we used is a simplistic realization of the very complex human migration pattern and does not take into account intricacies involving border restriction, enhanced monitoring, religious and cultural missions etc. Therefore, result obtained from our simulation  will rather represent  an upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as a measure of relative risk of disease spreads in different countries. It is, however, interesting to see that the result obtained from such simplistic model represents the reality fairly well. So far, in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United States and Spain. Our simulation result identified all of these countries successfully. In our simulation, Cote d'Ivoire is identified as the country with the highest risk of spread apart from Guinea, Sierra Leone and Liberia. However, so far Cote d'Ivoire is Ebola free, even though it shares border will all of these three infected countries. The reason of Ebola not spreading in Cote d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas 20 peoples got infected in reality. The reason behind such small number is the lack of sufficient trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos region of Nigeria has been affected the most by Ebola. The airport located in the Lagos region is the busiest hub in West Africa. It is possible that migration through Lagos airport may be related to the spread of disease in that region, which is not captured in our model.
+
+
 \subsection{{Network Simulation using the SEIR Model}}
 \label{SubSec:GraphX}
 
@@ -549,18 +562,86 @@ they will eventually transition to the infectious stage. To handle this larger-s
 to implement the simulation using the GraphX library \citep{xin2013graphx} for Spark
 \citep{zaharia2010spark}. These simulations were run on a 12-node Spark cluster on Amazon EC2.
 
+\subsection{{Global Network Simulation Results}}
 
-\subsection{Results and Findings}
-\label{SubSec:WorldResult}
+The first thing we noticed regarding the social network-based global network was that, when seeing
+with an initial patient zero in Guinea, an epidemic usually did not occur. Actually less than 5\%
+of the simulations, even run with large transmission probabilities, ended up spreading to other
+countries. On the one hand, we think aspects of this are realistic - Ebola occurs naturally, yet we
+do not often hear of an epidemic. On the other hand, it's possible that the network became excessively
+fragmented due to the graph generation procedure.
 
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=.6]{countriesInfected.pdf}
-\caption{Potential countries that could get infected and potential number of infected by December 31, 2014}
-\label{Fig:world_infected}
-\end{figure}
+The fully synthetic global network based on preferential attachment, on the other hand, became an
+epidemic every time. In fact, we repeatedly ran into memory errors on the cluster at larger iteration
+counts due to this, however that may be due to being new to GraphX.
 
-In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December 31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in Table \ref{Tb:prediction} in Phase 1 as is expected. We note that, the modified trade network data that we used is a simplistic realization of the very complex human migration pattern and does not take into account intricacies involving border restriction, enhanced monitoring, religious and cultural missions etc. Therefore, result obtained from our simulation  will rather represent  an upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as a measure of relative risk of disease spreads in different countries. It is, however, interesting to see that the result obtained from such simplistic model represents the reality fairly well. So far, in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United States and Spain. Our simulation result identified all of these countries successfully. In our simulation, Cote d'Ivoire is identified as the country with the highest risk of spread apart from Guinea, Sierra Leone and Liberia. However, so far Cote d'Ivoire is Ebola free, even though it shares border will all of these three infected countries. The reason of Ebola not spreading in Cote d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas 20 peoples got infected in reality. The reason behind such small number is the lack of sufficient trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos region of Nigeria has been affected the most by Ebola. The airport located in the Lagos region is the busiest hub in West Africa. It is possible that migration through Lagos airport may be related to the spread of disease in that region, which is not captured in our model.
+    \begin{tabular}{ |c|c|c| }
+      \hline
+      \textbf{Country} & \textbf{90 days} & \textbf{180 days} \\
+      \hline
+      Austria	& 1 & 2 \\
+      Belgium	& 1 & 2 \\
+      Cote d'Ivoire	& 10 & 20 \\
+      Denmark	& 1 & 2 \\
+      France	& 8 & 16 \\
+      Gambia, The	& 1 & 2 \\
+      Germany	& 1 & 2 \\
+      Guinea	& 500 & 730 \\
+      Guinea-Bissau	& 2 & 4 \\
+      Italy	& 2 & 4 \\
+      Liberia	& 2 & 4 \\
+      Mali	& 9 & 12 \\
+      Netherlands	& 1 & 2 \\
+      Saudi Arabia	& 2 & 2 \\
+      Senegal	& 4 & 8 \\
+      Sierra Leone	& 7 & 10 \\
+      Spain	& 2 & 2 \\
+      Togo	& 1 & 2 \\
+      \hline
+    \end{tabular}
+
+    \begin{tabular}{ |c|c|c| }
+      \hline
+      \textbf{Country} & \textbf{90 days} & \textbf{180 days} \\
+      \hline
+      Belgium	& 0 & 11 \\
+      Brazil	& 0 & 8 \\
+      Burkina Faso	& 0 & 10 \\
+      Canada	& 0 & 1239 \\
+      China	& 0 & 438 \\
+      Cote d'Ivoire	& 10 & 14769 \\
+      France	& 0 & 19 \\
+      Gambia, The	& 0 & 4 \\
+      Germany	& 0 & 32 \\
+      Ghana	& 0 & 28 \\
+      Guinea	& 5560 & 27314 \\
+      Guinea-Bissau	& 0 & 832 \\
+      Hungary	& 0 & 7 \\
+      India	& 0 & 3 \\
+      Italy	& 0 & 7 \\
+      Japan	& 0 & 79 \\
+      Korea, South	& 0 & 41 \\
+      Liberia	& 58 & 8194 \\
+      Mali	& 3 & 3056 \\
+      Morocco	& 0 & 571 \\
+      Netherlands	& 0 & 58 \\
+      Nigeria	& 2 & 1591 \\
+      Poland	& 0 & 7 \\
+      Saudi Arabia	& 0 & 16 \\
+      Senegal	& 1 & 902 \\
+      Sierra Leone	& 13 & 7150 \\
+      Singapore	& 0 & 109 \\
+      Spain	& 0 & 5 \\
+      Switzerland	& 0 & 5 \\
+      Thailand	& 0 & 4 \\
+      Trinidad and Tobago	& 0 & 3 \\
+      Turkey	& 0 & 244 \\
+      United Kingdom	& 5 & 18 \\
+      United States	& 0 & 29 \\
+      \hline
+    \end{tabular}
+
+
 
 \section{Conclusion}
 In this project, we analyzed 2014 Ebola epidemic in West Africa using epidemiological and network theories. We divided our work in three phases. In phase 1, we analyzed the data sets of number of Ebola infected individuals to fit  SEIR model for Guinea, Sierra Leone, Liberia as well as the West African region. We then used these models to perform short-term prediction of temporal progression of Ebola epidemic in  Guinea, Sierra Leone, Liberia. In phase 2 of our project, we analyzed the spread of disease in four large scale networks - preferential attachment network, real world social network, small world network and random network with the aid of Percolation Theory. In addition to that, we created a very large scale world-wide contact network and attempt to see the progression of disease among different countries from a single infected initial node in Guinea. In phase 3 of our project, we created a world-wide human migration network using a combination of economic trade data and country border information. We then combined this migration network with the SEIR models from phase 1. We then run the combined network to watch the temporal progression of disease over the course of one year using a single initial infection in Guinea and provided short-term prediction of world-wide outbreak of Ebola. Our simulation results match the real world data fairly well.
@@ -659,7 +740,8 @@ June 12, 2014 &  & Country declared emergency\\
 \caption{Parameter estimation for Ebola SEIR model (Liberia \& West Africa overall)} 
 \centering
 \tiny
-\parbox{.55\linewidth}{\centering
+\parbox{.55\linewidth}
+{\centering
 \ra{1.3}
 \begin{tabular}{@{}crccc@{}}%\toprule
 & \multicolumn{3}{c}{\textbf{Liberia}} &  \\
@@ -692,7 +774,8 @@ $R_1$ &0.001 & - &-\\
 %\bottomrule
 \end{tabular}
 }
-\parbox{.3\linewidth}{\centering
+\parbox{.3\linewidth}
+{\centering
 \ra{1.3}
 \begin{tabular}{@{}crccc@{}}%\toprule
 \multicolumn{3}{c}{\textbf{West Africa}} &  \\
