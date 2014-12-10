@@ -498,6 +498,8 @@ In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consid
 
 In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December 31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in Table \ref{Tb:prediction} in Phase 1 as is expected. We note that, the modified trade network data that we used is a simplistic realization of the very complex human migration pattern and does not take into account intricacies involving border restriction, enhanced monitoring, religious and cultural missions etc. Therefore, result obtained from our simulation  will rather represent  an upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as a measure of relative risk of disease spreads in different countries. It is, however, interesting to see that the result obtained from such simplistic model represents the reality fairly well. So far, in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United States and Spain. Our simulation result identified all of these countries successfully. In our simulation, Cote d'Ivoire is identified as the country with the highest risk of spread apart from Guinea, Sierra Leone and Liberia. However, so far Cote d'Ivoire is Ebola free, even though it shares border will all of these three infected countries. The reason of Ebola not spreading in Cote d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas 20 peoples got infected in reality. The reason behind such small number is the lack of sufficient trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos region of Nigeria has been affected the most by Ebola. The airport located in the Lagos region is the busiest hub in West Africa. It is possible that migration through Lagos airport may be related to the spread of disease in that region, which is not captured in our model.
 
+\section{Conclusion}
+In this project, we analyzed 2014 Ebola epidemic in West Africa using epidemiological and network theories. We divided our work in three phases. In phase 1, we analyzed the data sets of number of Ebola infected individuals to fit  SEIR model for Guinea, Sierra Leone, Liberia as well as the West African region. We then used these models to perform short-term prediction of temporal progression of Ebola epidemic in  Guinea, Sierra Leone, Liberia. In phase 2 of our project, we analyzed the spread of disease in four large scale networks - preferential attachment network, real world social network, small world network and random network with the aid of Percolation Theory. In addition to that, we created a very large scale world-wide contact network and attempt to see the progression of disease among different countries from a single infected initial node in Guinea. In phase 3 of our project, we created a world-wide human migration network using a combination of economic trade data and country border information. We then combined this migration network with the SEIR models from phase 1. We then run the combined network to watch the temporal progression of disease over the course of one year using a single initial infection in Guinea and provided short-term prediction of world-wide outbreak of Ebola. Our simulation results match the real world data fairly well.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -666,13 +668,13 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 
 %%%%%%%%%%%%
 
-\end{appendix}
+
 
 \subsection*{Contribution from individual team member}
 \begin{itemize}
 \item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
-\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country MCMC model (Section \ref{sec:NetworkModel}), implementation of global network-based SEIR simulation (Section TBD), proof-reading of report.
+\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country model using percolation theory(Section \ref{sec:NetworkModel}), implementation of global network-based SEIR simulation (Section TBD), proof-reading of report.
 
 \item {Romit: } Project idea and research, introduction (Section \ref{sec:Introduction}), exploring the MCMC approach for compartmental model  and developed code.
 Data collection and analysis, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs.(Section \ref{sec:NetworkModel})
@@ -680,6 +682,7 @@ Figures \ref{Fig:Network_Transmissibility}, \ref{Fig:Network_MinDegree}
 Tables \ref{Tb:Transmissibility}
 \end{itemize}
 
+\end{appendix}
 
 
 
