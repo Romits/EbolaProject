@@ -746,72 +746,18 @@ The fully synthetic global network based on preferential attachment, on the othe
 epidemic every time. In fact, we repeatedly ran into memory errors on the cluster at larger iteration
 counts due to this, however that may be due to being new to GraphX.
 
-    \begin{tabular}{ |c|c|c| }
-      \hline
-      \textbf{Country} & \textbf{90 days} & \textbf{180 days} \\
-      \hline
-      Austria	& 1 & 2 \\
-      Belgium	& 1 & 2 \\
-      Cote d'Ivoire	& 10 & 20 \\
-      Denmark	& 1 & 2 \\
-      France	& 8 & 16 \\
-      Gambia, The	& 1 & 2 \\
-      Germany	& 1 & 2 \\
-      Guinea	& 500 & 730 \\
-      Guinea-Bissau	& 2 & 4 \\
-      Italy	& 2 & 4 \\
-      Liberia	& 2 & 4 \\
-      Mali	& 9 & 12 \\
-      Netherlands	& 1 & 2 \\
-      Saudi Arabia	& 2 & 2 \\
-      Senegal	& 4 & 8 \\
-      Sierra Leone	& 7 & 10 \\
-      Spain	& 2 & 2 \\
-      Togo	& 1 & 2 \\
-      \hline
-    \end{tabular}
-
-    \begin{tabular}{ |c|c|c| }
-      \hline
-      \textbf{Country} & \textbf{90 days} & \textbf{180 days} \\
-      \hline
-      Belgium	& 0 & 11 \\
-      Brazil	& 0 & 8 \\
-      Burkina Faso	& 0 & 10 \\
-      Canada	& 0 & 1239 \\
-      China	& 0 & 438 \\
-      Cote d'Ivoire	& 10 & 14769 \\
-      France	& 0 & 19 \\
-      Gambia, The	& 0 & 4 \\
-      Germany	& 0 & 32 \\
-      Ghana	& 0 & 28 \\
-      Guinea	& 5560 & 27314 \\
-      Guinea-Bissau	& 0 & 832 \\
-      Hungary	& 0 & 7 \\
-      India	& 0 & 3 \\
-      Italy	& 0 & 7 \\
-      Japan	& 0 & 79 \\
-      Korea, South	& 0 & 41 \\
-      Liberia	& 58 & 8194 \\
-      Mali	& 3 & 3056 \\
-      Morocco	& 0 & 571 \\
-      Netherlands	& 0 & 58 \\
-      Nigeria	& 2 & 1591 \\
-      Poland	& 0 & 7 \\
-      Saudi Arabia	& 0 & 16 \\
-      Senegal	& 1 & 902 \\
-      Sierra Leone	& 13 & 7150 \\
-      Singapore	& 0 & 109 \\
-      Spain	& 0 & 5 \\
-      Switzerland	& 0 & 5 \\
-      Thailand	& 0 & 4 \\
-      Trinidad and Tobago	& 0 & 3 \\
-      Turkey	& 0 & 244 \\
-      United Kingdom	& 5 & 18 \\
-      United States	& 0 & 29 \\
-      \hline
-    \end{tabular}
-
+\begin{figure}[ht]
+\centering
+\subfigure[Real World Network]{
+  \includegraphics[width=0.4\textwidth]{realWorld.pdf}
+  \label{fig:subfigure1}}
+\quad
+\subfigure[Preferential Attachment Network]{
+  \includegraphics[width=0.5\textwidth]{prefAttach.pdf}
+  \label{fig:subfigure2}}
+  \caption{90 days and 180 days Prediction using World-wide Network Model}
+  \label{Fig:WorldPredictNetwork}
+\end{figure}
 
 \subsection{{System Model and Algorithms}}
 \label{SubSec:WorldSystem}
