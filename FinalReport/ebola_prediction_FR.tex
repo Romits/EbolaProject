@@ -66,56 +66,59 @@
 \label{sec:Introduction}
 
 The 2014 Ebola epidemic in the West African nations of Guinea, Sierra Leone and Liberia is the
-largest in history. The outbreak is still ongoing.  As of writing this report, more than 17000
-suspected cases has been reported by WHO (World Health Organization). In this project, we explore
-the time-series data available for current Ebola epidemic, perform analysis, model-fitting and
-short-term forecasting of epidemic spread in local country level as well as world-wide scale by
-incorporating economic trade network data with the aid network and epidemiological theories.
+largest in history. As of writing this report, more than 17,000
+suspected cases have been reported by the WHO (World Health Organization) and the numbers continue
+to rise. In this project, we explore
+the time-series data available for the current Ebola epidemic and perform analysis, model-fitting and
+short-term forecasting of epidemic spread at the local (country) level as well as at a world-wide scale by
+using economic trade network, geographical, and population data in concert with network and epidemiological theory.
 
-Traditional epidemiological analysis are typically based on sub-dividing the population under
+Traditional epidemiological analysis is typically based on subdividing the population under
 consideration into different compartments based on the stage of the disease for each individual. The
-classic SIR model are based on three compartments - Susceptible, Infectious, Recovered. The
-underlying assumption of such analysis is  random-mixing among population. Based on this assumption,
-each infected individual can infect any other individuals in the entire population with equal
-probability. The compartmental model is a very useful tool for epidemiological analysis and is based
-on well established theories. Such analysis can provide sufficient insight of the temporal
-progression of the epidemic. However, due to the random mixing assumption, the application of such
+classic SIR model is based on three compartments - Susceptible, Infectious, Recovered. The
+underlying assumption of such analysis is random mixing among the population. Based on this assumption,
+each infected individual can infect any other susceptible individual in the population with equal
+probability. This compartmental model is a very useful tool for epidemiological analysis and is based
+on well established theory, and such analysis can provide sufficient insight into the temporal
+progression of an epidemic. However, due to the random mixing assumption, the application of such
 theory is somewhat limited when a large-scale world-wide analysis of an epidemic is required.
 
-Network models in contrast allow for avoiding the random-mixing assumption inherent in compartmental
+Network models, in contrast, allow for avoiding the random-mixing assumption inherent in compartmental
 models. This is done by assigning each individual a finite set of permanent contacts. Each
 individual in a network model can be represented as a node in a network while the edges represent
 the potential direct contacts between any pair of such nodes. For epidemiological analysis, clusters
-in a network model can be thought of a group on individuals belonging to same local geographical
+in a network model can be thought of as a group of individuals belonging to same local geographical
 areas (e.g. cities, countries etc.). Such modeling, therefore, inherently limits the number of
 direct contacts between individuals located in different clusters. The actual modeling of an
 individual's contact tracing is however a very difficult and time-consuming task and almost
-impossible at a large scale. The application of such contact network modeling is therefore limited
-to index case (patient zero) tracing of an post epidemiological investigation. An an alternative
-approach is to use some network with known characteristics - e.g. random network, scale-free network
-etc. as a contact network of a population. Unlike compartmental models, however, the theory of
-network model for epidemiological analysis in not well-defined and is not suitable for analyzing
-temporal progression of an epidemic.
+impossible at a large scale (for physical contact networks).
+The application of such contact network modeling is therefore limited
+to index case (patient zero) tracing in an post-epidemiological investigation. An alternative
+approach is to use some network with known characteristics - a random network, scale-free network,
+etc. - as a contact network for a population. Unlike compartmental models, however, the theory of
+network models for epidemiological analysis is still very young. We have explored using a
+simulation approach, however the theoretical underpinnings of such an approach are not yet well defined.
 
-The third option and current state of the art in epidemiological analysis is a combination of
-compartmental model with network models. Such model is useful in analyzing and forecasting
-large-scale spread of an epidemic. In local scale, i.e. within a city or a country, a compartmental
-model is used to track the temporal progression of the city. A weighted network inter-connects
-cities, countries to create the global model. The weight of the edges are proportional to the
+The third option, the current state of the art in epidemiological analysis, is a combination of the
+compartmental model a with network model. Such a model is useful in analyzing and forecasting
+large-scale spread of an epidemic. At a local scale, i.e. within a city or a country, a compartmental
+model is used to track the temporal progression of the city. A weighted network interconnects
+cities and countries to create the global model. The weight of the edges are proportional to the
 population inter-city/country migration. To capture the weight vector in the local compartmental
 model, a transportation operator is used.
 
 The rest of the paper is organized as follows. In Section \ref{sec:RelatedWork}, we review existing
-works on epidemiological and network theory related to our project. In Section
+work on epidemiological and network theory related to our project. In Section
 \ref{sec:IntraCountry}, we present local country level analysis of the 2014 Ebola outbreak. We
-present relevant compartmental model for Ebola, perform model fitting and provide short-term
-forecast on the number of infected individuals in the three major Ebola infected countries in West
-Africa - Guinea, Sierra Leone and Liberia. In Section \ref{sec:NetworkModel}, we present our
-analysis on the effect of epidemic spread on several large scale networks. Finally, In Section
-\ref{sec:Worldwide}, we presented a large-scale world-wide analysis of current outbreak. We use
-economic trade data and country border information to create a world-wide population migration
-network and applied these network on compartmental model from Section \ref{sec:IntraCountry} to
-provide a world-wide forecast of Ebola spread.
+present the relevant compartmental model for Ebola, perform model fitting, and provide a short-term
+forecast on the number of infected individuals in the three major Ebola-infected countries in West
+Africa: Guinea, Sierra Leone, and Liberia. In Section \ref{sec:NetworkModel}, we present our
+analysis on the effect of epidemic spread in several intra-country scenarios. Finally, In Section
+\ref{sec:Worldwide}, we present two approaches to large-scale worldwide analysis of the current outbreak.
+We use economic trade data and country border information to create a world-wide population migration
+network, and in one approach, use a compartmental simulation approach, and in another, use an
+analytical compartmental approach from Section \ref{sec:IntraCountry} to
+provide world-wide forecasts of Ebola spread.
 
 
 
