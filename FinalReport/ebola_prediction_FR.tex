@@ -499,10 +499,11 @@ values for  running the simulations on the  network datasets.
 \label{Tb:Transmissibility}
 
 Since our datasets were  large and simulation using a percolation model is a compute intensive
-process so it was not possible to run the simulations in the reasonable time on a local machine so
-we ran our simulations on  extra large EC2 instance (c3.8xlarge). Our simulations needed to run for
-multiple values  of transmissibility so we developed a test harness written in python using
-\citep{GNU-Parallel} to leverage  multiple  cores of the EC2 instance.  Our simulation using  all
+process, it was not possible to run the simulations in a reasonable time on a local machine so
+we ran our simulations on a c3.8xlarge Amazon EC2 instance. Our simulations needed to run for
+multiple values  of transmissibility so we developed a test harness written in python
+to parallelize computation process-wise and leverage multiple cores on the machine.
+Our simulation using  all
 four datasets and 20 different values of T  completed in  about 7 hrs for 200 iterations. We also
 ran another simulation to see the impact of minimum degree for patient zero for a given
 transmissibility value for two different networks.
