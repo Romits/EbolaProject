@@ -693,82 +693,6 @@ networks with edges corresponding to that many commuters.
 \end{figure}
 
 
-\subsection{{System Model and Algorithms}}
-\label{SubSec:WorldSystem}
-
-To incorporate inter-country spreading behavior, we modified the SEIR differential equations in
-\eqref{Eq:SEIR} to include a transportation operator $\Omega$ term. Similar approaches have been
-used in previous literatures on epidemiolgoical theory \citep{grais2003assessing,
-balcan2010modeling}. We assume that an individuals who is in susceptible or effective stages of
-Ebola can travel. Due to the severe nature of Ebola, an individual who is in the infected stage of
-the disease will most likely not be able to travel. Even if such individual travel to another
-country, due to stricter regulations and monitoring, such individual will most likely to be
-quarantined, and therefore will not likely to spread disease among the population of the country
-traveled. We therefore, do not  include transportation operator in the differential equation
-corresponding to the infected stage. We define $\sigma_{i,j}$ as the number of people travelled from
-country $i$ to country $j$ everyday. We acquire the exact value of  $\sigma_{i,j}$ from the trade
-network described in previous section.  Using this value, the modified differential equations are
-presented below:
-
-\begin{eqnarray}
-\dfrac{dS_{i}}{dt}&=&\dfrac{-\beta S_{i}I_{i}}{N_{i}}+\underset{\Omega}{\underbrace{\sum_{j=1,j\neq i}^{K}\left(\dfrac{\sigma_{j,i}}{N_{j}}S_{j}-\dfrac{\sigma_{i,j}}{N_{i}}S_{i}\right)}},\nonumber \\
-\dfrac{dE_{i}}{dt}&=&\dfrac{\beta S_{i}I_{i}}{N_{i}}-kE_{i}+\underset{\Omega}{\underbrace{\sum_{j=1,j\neq i}^{K}\left(\dfrac{\sigma_{j,i}}{N_{j}}E_{j}-\dfrac{\sigma_{i,j}}{N_{i}}E_{i}\right)}},\nonumber \\
-\dfrac{dI_{i}}{dt}&=& kE_{i}-\gamma I_{i},
-\quad
-\dfrac{dR_i}{dt}	=	\gamma I_i,
-\quad
-\dfrac{dC_i}{dt}	=	kE_i, \text{  for } i=1,\ldots, K
-\label{Eq:SEIR_world}
-\end{eqnarray}
-
-In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for
-each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia,
-we have an weighted edge to the selected countries with most amount of population movement. Although
-not shown in the figure, in our simulation, we also consider the weighted edges between the
-countries which are reachable from any of the three countries -  Guinea, Sierra Leone,  Liberia.
-The parameter values $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for Guinea, Sierra Leone and Libera
-are set to the estimates from Phase 1 result from Table \ref{Table:parameter},
-\ref{Table:parameter2} in Appendix. The parameters for the rest of the countries are unknown. For
-these countries, we reuse the estimated value of West Africa from Table \ref{Table:parameter2}. We
-set $t_0$ to December 2, 2013 - the initial outbreak date in Guinea and initial number of infected
-individual at Guinea to one and to the rest of the countries to zero. We then run the simulation
-based on the differential equations in \eqref{Eq:SEIR_world} for the duration up to December 31,
-2014.
-
-\subsection{Results and Findings}
-\label{SubSec:WorldResult}
-
-\begin{figure}[ht]
-\centering
-\includegraphics[scale=.6]{countriesInfected.pdf}
-\caption{Potential countries that could get infected and potential number of infected by December 31, 2014}
-\label{Fig:world_infected}
-\end{figure}
-
-In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December
-31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide
-simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in
-Table \ref{Tb:prediction} in Phase 1 as is expected. We note that, the modified trade network data
-that we used is a simplistic realization of the very complex human migration pattern and does not
-take into account intricacies involving border restriction, enhanced monitoring, religious and
-cultural missions etc. Therefore, result obtained from our simulation  will rather represent  an
-upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as
-a measure of relative risk of disease spreads in different countries. It is, however, interesting to
-see that the result obtained from such simplistic model represents the reality fairly well. So far,
-in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United
-States and Spain. Our simulation result identified all of these countries successfully. In our
-simulation, Cote d'Ivoire is identified as the country with the highest risk of spread apart from
-Guinea, Sierra Leone and Liberia. However, so far Cote d'Ivoire is Ebola free, even though it shares
-border will all of these three infected countries. The reason of Ebola not spreading in Cote
-d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are
-credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas
-20 peoples got infected in reality. The reason behind such small number is the lack of sufficient
-trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos
-region of Nigeria has been affected the most by Ebola. The airport located in the Lagos region is
-the busiest hub in West Africa. It is possible that migration through Lagos airport may be related
-to the spread of disease in that region, which is not captured in our model.
-
-
 \subsection{{Network Simulation using the SEIR Model}}
 \label{SubSec:GraphX}
 
@@ -890,6 +814,83 @@ counts due to this, however that may be due to being new to GraphX.
       United States	& 0 & 29 \\
       \hline
     \end{tabular}
+
+
+\subsection{{System Model and Algorithms}}
+\label{SubSec:WorldSystem}
+
+To incorporate inter-country spreading behavior, we modified the SEIR differential equations in
+\eqref{Eq:SEIR} to include a transportation operator $\Omega$ term. Similar approaches have been
+used in previous literatures on epidemiolgoical theory \citep{grais2003assessing,
+balcan2010modeling}. We assume that an individuals who is in susceptible or effective stages of
+Ebola can travel. Due to the severe nature of Ebola, an individual who is in the infected stage of
+the disease will most likely not be able to travel. Even if such individual travel to another
+country, due to stricter regulations and monitoring, such individual will most likely to be
+quarantined, and therefore will not likely to spread disease among the population of the country
+traveled. We therefore, do not  include transportation operator in the differential equation
+corresponding to the infected stage. We define $\sigma_{i,j}$ as the number of people travelled from
+country $i$ to country $j$ everyday. We acquire the exact value of  $\sigma_{i,j}$ from the trade
+network described in previous section.  Using this value, the modified differential equations are
+presented below:
+
+\begin{eqnarray}
+\dfrac{dS_{i}}{dt}&=&\dfrac{-\beta S_{i}I_{i}}{N_{i}}+\underset{\Omega}{\underbrace{\sum_{j=1,j\neq i}^{K}\left(\dfrac{\sigma_{j,i}}{N_{j}}S_{j}-\dfrac{\sigma_{i,j}}{N_{i}}S_{i}\right)}},\nonumber \\
+\dfrac{dE_{i}}{dt}&=&\dfrac{\beta S_{i}I_{i}}{N_{i}}-kE_{i}+\underset{\Omega}{\underbrace{\sum_{j=1,j\neq i}^{K}\left(\dfrac{\sigma_{j,i}}{N_{j}}E_{j}-\dfrac{\sigma_{i,j}}{N_{i}}E_{i}\right)}},\nonumber \\
+\dfrac{dI_{i}}{dt}&=& kE_{i}-\gamma I_{i},
+\quad
+\dfrac{dR_i}{dt}	=	\gamma I_i,
+\quad
+\dfrac{dC_i}{dt}	=	kE_i, \text{  for } i=1,\ldots, K
+\label{Eq:SEIR_world}
+\end{eqnarray}
+
+In Figure \ref{Fig:worldtrade}, we presented the world-wide network under consideration. Here, for
+each of the three major Ebola affected countries in West Africa - Guinea, Sierra Leone and Liberia,
+we have an weighted edge to the selected countries with most amount of population movement. Although
+not shown in the figure, in our simulation, we also consider the weighted edges between the
+countries which are reachable from any of the three countries -  Guinea, Sierra Leone,  Liberia.
+The parameter values $\Theta=(\beta_0,\beta_1,k,q,\gamma, \tau)$ for Guinea, Sierra Leone and Libera
+are set to the estimates from Phase 1 result from Table \ref{Table:parameter},
+\ref{Table:parameter2} in Appendix. The parameters for the rest of the countries are unknown. For
+these countries, we reuse the estimated value of West Africa from Table \ref{Table:parameter2}. We
+set $t_0$ to December 2, 2013 - the initial outbreak date in Guinea and initial number of infected
+individual at Guinea to one and to the rest of the countries to zero. We then run the simulation
+based on the differential equations in \eqref{Eq:SEIR_world} for the duration up to December 31,
+2014.
+
+\subsection{Results and Findings}
+\label{SubSec:WorldResult}
+
+\begin{figure}[ht]
+\centering
+\includegraphics[scale=.6]{countriesInfected.pdf}
+\caption{Potential countries that could get infected and potential number of infected by December 31, 2014}
+\label{Fig:world_infected}
+\end{figure}
+
+In Figure \ref{Fig:world_infected}, we presented the potential number of infected people by December
+31, 2014 in countries other than Guinea, Sierra Leone and Liberia based on our world-wide
+simulations. The number for Guinea, Sierra Leone and Liberia are similar to the result presented in
+Table \ref{Tb:prediction} in Phase 1 as is expected. We note that, the modified trade network data
+that we used is a simplistic realization of the very complex human migration pattern and does not
+take into account intricacies involving border restriction, enhanced monitoring, religious and
+cultural missions etc. Therefore, result obtained from our simulation  will rather represent  an
+upper bound on the potential outbreak of the disease. Alternatively, we can interpret the results as
+a measure of relative risk of disease spreads in different countries. It is, however, interesting to
+see that the result obtained from such simplistic model represents the reality fairly well. So far,
+in addition to  Guinea, Sierra Leone and Liberia, Ebola has spread to Mali, Senegal, Nigeria, United
+States and Spain. Our simulation result identified all of these countries successfully. In our
+simulation, Cote d'Ivoire is identified as the country with the highest risk of spread apart from
+Guinea, Sierra Leone and Liberia. However, so far Cote d'Ivoire is Ebola free, even though it shares
+border will all of these three infected countries. The reason of Ebola not spreading in Cote
+d'Ivoire in not clear. Several speculations e.g. very strict border patrol, trade ban etc. are
+credited in the media. Our simulation result indicated 3 people to be infected in Nigeria, whereas
+20 peoples got infected in reality. The reason behind such small number is the lack of sufficient
+trades as well as no shared border between Guinea, Sierra Leone, Liberia and Nigeria. So far Lagos
+region of Nigeria has been affected the most by Ebola. The airport located in the Lagos region is
+the busiest hub in West Africa. It is possible that migration through Lagos airport may be related
+to the spread of disease in that region, which is not captured in our model.
+
 
 
 
