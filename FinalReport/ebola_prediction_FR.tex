@@ -364,6 +364,7 @@ connecting localized subnetworks with these trade-driven edges. We are developin
 framework to run in discrete time steps and predict the spread of Ebola across this worldwide network.
 
 \subsection{{Trade network data preparation}}
+\label{SubSec:TradeData}
 
 The trade network dataset we are using is based on data retrieved from the web service API to the
 UN Comtrade database \citep{uncomtradedata} via their web service API.
@@ -407,8 +408,10 @@ especially the African nations that we care so much about from an Ebola outbreak
 Some data are available from the \citep{unwtooutboundtourism}, however they appear to be behind a paywall.
 Data for total air travellers are available from \citep{worldbankairpassengers},
 however this total includes domestic flights and so is less useful for our purposes.
+While it may have been possible to attempt to get this proprietary data via some other route,
+we chose to spend our time getting local data and running simulations instead.
 
-Our current approach to map outbound dollars to outbound travelers is to assume a linear relationship
+Our approach to map outbound dollars to outbound travelers is to assume a linear relationship
 between these numbers, and also to assume that the same linear relationship holds for imports to
 inbound tourists to a country.
 We currently use the United States as a model and use the ratio of
@@ -419,8 +422,12 @@ According to our renormalized data set, total imports into the United States wer
 simplistic approach) gives us a scaling factor of approx. $31,665$. Therefore we have applied this
 scaling factor to all edges in our international exports network, giving us some approximation of
 outbound travellers from country to country based on export numbers.
+While this is a coarse approach, one benefit of this simple method is that it may help capture non-flight-related
+travel. Interestingly, the trade network-based approach turned out to be fairly useful and helped us generate
+some interesting results.
 
-\subsection{{Supplementing the trade network}}
+\subsection{{Supplementing the trade network with local migration}}
+\label{SubSec:LocalData}
 
 Using a trade network has its flaws, even discounting errors stemming from poor approximations.
 For one, a trade-centric network ignores activity with low economic impact, such as
@@ -431,11 +438,27 @@ simply are not represented equitably if at all in the model. On the other hand, 
 widely accessible and is likely to be fairly accurate,
 and certainly it is safe to assume that that trade activity correlates with travel between two countries.
 
-Due to the above drawbacks, we plan to supplement our trade network with a generated network that
-captures local commute-related movement as well. One approach to generating such a network is the gravity law,
-used for example to study traffic on Korean highways by \citep{jung2008gravity}. The gravity law
-claims that the number of trips from point A to point B is inversely proportional to the square
-of the distance between them.
+In order to model local movement across land borders, we also approximate population movement across land borders.
+The length of the land border between each country is available from
+\citep{cialandboundaries}, and the population of each country is available from \citep{ciapopulation}.
+We wrote scripts to normalize the country names and come up with an estimate of population movement
+across borders for each country due to commuting. Commute data between two given countries is not very
+readily available, except for certain regions with a high amount of cross-border commuting.
+One such data source is \citep{statnord}, which provides cross-border commute statistics for Nordic countries.
+This database shows that approximately .12\% of Denmark workers commute to Norway, while approx. .01\% of
+Norwegian commuters commute to Denmark. Due to the open borders between these countries, the number for
+Denmark to Norway is probably on the high side overall, and due to the disparity in numbers, the traffic seems
+clearly one-way. Based on looking at the generated data, we assumed that the average number of workers worldwide
+that commute to another country is 0.02\%.
+We assume roughly 50\% of a population of a country is employed;the rest are
+children, the retired, homemakers, the unemployed, etc.
+
+Based on the above assumptions, for each country we multiply population times .5 * .0002
+= .0001, giving us the number of daily commuters, and then we split that across neighboring
+countries proportional to their share of land border lengths. This provides an estimate
+of daily cross-border commuters per country, which we use to connect neighboring per-country
+networks with edges corresponding to that many commuters.
+
 
 \begin{figure}[ht]
 \centering
@@ -649,7 +672,7 @@ December 2, 2013 &  & one person fell ill in Guinea\\
 \begin{itemize}
 \item{Shafi: } Project idea and research, introduction (Section \ref{sec:Introduction}), literature review (Section \ref{sec:RelatedWork}), country level analysis and prediction using compartmental model (Section \ref{sec:IntraCountry}), world-wide analysis and prediction (Section \ref{sec:Worldwide} - subsection \ref{SubSec:WorldSystem} and \ref{SubSec:WorldResult}). Coding, simulation and plots related to Figures \ref{Fig:figurePrediction}, \ref{Fig:worldtrade}, \ref{Fig:world_infected} and Tables \ref{Tb:prediction}, \ref{Table:parameter}, \ref{Table:parameter2}.
 
-\item{Mike: } 
+\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers (Sections \ref{SubSec:TradeData}, \ref{SubSec:LocalData}), helped with performance optimization, parallelization, and EC2 simulation of intra-country MCMC model (Section \ref{sec:NetworkModel}), implementation of global network-based SEIR simulation (Section TBD), proof-reading of report.
 
 \item {Romit: } Project idea and research, introduction (Section \ref{sec:Introduction}), exploring the MCMC approach for compartmental model  and developed code.
 Data collection and analysis, coding the simulation model and running the simulations on EC2, analyzing results and plotting the graphs.(Section \ref{sec:NetworkModel})
