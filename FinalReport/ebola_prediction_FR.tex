@@ -454,7 +454,7 @@ and test error on the unused data.
 
 In Phase II of our project, we attempt  to map the compartmental model to network based model  using
 percolation theory to model the spread of Ebola in West Africa. The mapping between a compartmental
-model and a network based model is defined in \citep{meyers2005network}.Transmissibility $T$ of a
+model and a network based model is defined in \citep{meyers2005network}. Transmissibility $T$ of a
 disease is defined as the average probability that an infectious individual will transmit the
 disease to an individual with whom they have contact. Critical transmissibility or epidemic
 threshold $T_c$ is the value of transmissibility above which a population is vulnerable to large
@@ -470,7 +470,7 @@ T_c =\dfrac{\left\langle k \right\rangle}{\left\langle k^2 \right\rangle - \left
 
 For simulating a contact network for Ebola in various infected countries we used a data set from a
 social networking site available on \citep{topcoderdata}. The undirected network has 4,846,609 nodes
-and 42,851,237 edges and average degree of $8.841$. The network exhibit a power law degree
+and 42,851,237 edges and average degree of $8.841$. The network exhibits a power law degree
 distribution after a degree of approximately 50. We also generated three other datasets  for a
 preferential attachment network, random network and a small-world network with approximately same
 number of nodes and average degree as the real network for comparison purposes.
@@ -480,7 +480,6 @@ West Africa are calculated using Equations \eqref{eq:transmissibility}  and the 
 from Table \ref{Table:parameter}, \ref{Table:parameter2}. These values are presented in Table
 \ref{tab:T}.  We calculated the epidemic threshold  $T_c=0.1275$  using k=8.841 and used these
 values for  running the simulations on the  network datasets.
-
 
 \begin{table}[h]
 \caption{Transmissibility values for  Liberia, Guinea and Sierra Leone}
@@ -528,7 +527,7 @@ overall fraction of network infected  but does not capture any temporal progress
 the epidemic threshold the rate at which the  fraction of the network gets infected increases for
 all network types and the rate is higher for other networks in comparison to power law networks
 which leads to a conclusion that Ebola outbreak is less likely to become an epidemic in these
-networks . This is contrary to the compartmental model assumption that an outbreak will always
+networks. This is contrary to the compartmental model assumption that an outbreak will always
 become an epidemic when reproductive number is greater than 1. For preferential attachment,
 small-world and random networks for value of T in the range of 0.35-0.40 nearly the entire network
 gets infected but not the real network.
@@ -566,8 +565,6 @@ Sierra Leone[6.2M] & 0.3454 & 0.192 & 41,117\tabularnewline
 \end{table}
 
 
-
-
 We did not have access to the  contact network for the countries  severely impacted by Ebola in 2014
 to compare our result with actual values.  It will be  very interesting to infer the hidden network
 using the cascade diffusion model based on the data available. Running simulations on  the inferred
@@ -580,14 +577,10 @@ future analysis.
 \section{Predicting worldwide spread}
 \label{sec:Worldwide}
 
-\subsection{{Problem Definition} - needs updating}
+\subsection{{Problem Definition}}
+
 In order to simulate how the Ebola epidemic might spread across the world, we have assembled a
-worldwide network based on international trade. Because the trade numbers are in US dollars,
-we have assumed a linear relationship between exports in dollars and travelers going abroad.
-This is a strong assumption, and we are considering more sophisticated mappings.
-We are using this as a long-range network representing trade-based population movement and
-connecting localized subnetworks with these trade-driven edges. We are developing a simulation
-framework to run in discrete time steps and predict the spread of Ebola across this worldwide network.
+worldwide network based on international trade and border data.
 
 \subsection{{Trade network data preparation}}
 \label{SubSec:TradeData}
@@ -602,16 +595,7 @@ Many war-torn countries such as Liberia have not reported detailed export data
 to the UN in decades (Liberia last reported in 1984). As a result of this, the export totals
 are incorrect for the present day. In addition, this old data reports exports to countries that
 no longer exist, including East Germany and Yugoslavia. In order to make the dataset usable for
-modern-day predictions, we performed the following transformations on the data (using Perl scripts):
-
-\begin{itemize}
-\item Manually remapped non-existent countries to their modern equivalents.
-      In a few cases, we had to do a best-effort mapping. For example, Yugoslavia split into many
-      states, so we assign exports to historical Yugoslavia to modern-day Slovakia,
-      since Slovakia currently has the largest economy of the states that once comprised Yugoslavia.
-\item Removed exports from states that no longer exist, preferring export data from
-      modern equivalents.
-\end{itemize}
+modern-day predictions, we performed several transformations on the data (using Perl scripts).
 
 We then needed to make the per-country exports sum up to the latest available export data.
 The United States \citep{ciatotalexports} World Factbook contains up-to-date export totals
@@ -627,13 +611,7 @@ the CIA dataset.
 Once we had a ``renormalized'' dataset including detailed export edges and totals matching
 the latest available data, we needed to map these numbers to theoretical international travelers.
 We could not find complete, or even nearly complete, publicly available data on the number of
-international outgoing travelers per country. While inbound tourism numbers are available from
-\citep{worldbankinboundtourism}, for the outbound tourism numbers from \citep{worldbankoutboundtourism},
-many countries are missing,
-especially the African nations that we care so much about from an Ebola outbreak perspective.
-Some data are available from the \citep{unwtooutboundtourism}, however they appear to be behind a paywall.
-Data for total air travellers are available from \citep{worldbankairpassengers},
-however this total includes domestic flights and so is less useful for our purposes.
+international outgoing travelers per country, especially for Ebola-affected countries.
 While it may have been possible to attempt to get this proprietary data via some other route,
 we chose to spend our time getting local data and running simulations instead.
 
@@ -648,7 +626,7 @@ According to our renormalized data set, total imports into the United States wer
 simplistic approach) gives us a scaling factor of approx. $31,665$. Therefore we have applied this
 scaling factor to all edges in our international exports network, giving us some approximation of
 outbound travellers from country to country based on export numbers.
-While this is a coarse approach, one benefit of this simple method is that it may help capture non-flight-related
+One benefit of this coarse method is that it may help capture non-flight-related
 travel. Interestingly, the trade network-based approach turned out to be fairly useful and helped us generate
 some interesting results.
 
