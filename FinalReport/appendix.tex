@@ -1,0 +1,243 @@
+\documentclass[10pt, journal,onecolumn]{IEEEtran}
+\usepackage{cite}
+\usepackage{graphicx}
+\graphicspath{{figure/}}
+\usepackage{array}
+\usepackage{subfigure}
+\usepackage{stfloats}
+\usepackage{url}
+\usepackage{nicefrac}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{relsize}
+\usepackage[pdfpagelabels]{hyperref}
+\usepackage{float}
+\usepackage[round]{natbib}
+\usepackage{color}
+\usepackage{authblk}
+\usepackage{caption}
+\usepackage{enumerate}
+
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = red, %Colour of internal links
+  citecolor   = red %Colour of citations
+}
+
+\floatstyle{ruled}
+\newfloat{algorithm}{tbp}{loa}
+\floatname{algorithm}{Algorithm}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newtheorem{lemma}{Lemma}
+
+\newcommand{\norm}[1]{\left\lVert#1\right\rVert}
+\newcommand{\abs}[1]{\left\lvert#1\right\rvert}
+\newcommand{\inner}[1]{\left\langle#1\right\rangle}
+\def\b#1{\mathbf{#1}}
+\def\t#1{\text{#1}}
+
+
+\title{Predicting the 2014 Ebola Outbreak in West Africa using Network Analysis}
+
+\author{Shafi Bashar, Mike Percy, Romit  Singhai}
+\affil{\textit {\{shafiab, mp81, romit\}@stanford.edu}}
+
+\renewcommand\Authands{ and }
+
+\begin{document}
+
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{appendix}
+
+
+\begin{table}[h]
+
+\caption{Parameter estimation for Ebola SEIR model (Guinea \& Sierra Leone)}
+%\hrule
+\centering
+\tiny
+\parbox{.55\linewidth}{\centering
+\ra{1.3}
+\begin{tabular}{@{}crccc@{}}%\toprule
+& \multicolumn{3}{c}{\textbf{Guinea}} &  \\
+\cmidrule{2-4}
+\textbf{Incidence Dependent Parameters} & \textit{Value} && \textit{Comments} \\
+\midrule
+Initial Case $t_0$ & December 2, 2013 &  & one person fell ill\\
+$S_0$ & 0& & -\\
+$E_0$ & 0& & -\\
+$I_0$ & 1& & -\\
+$R_0$ & 0& & -\\
+$C_0$ & 1& &-\\
+Intervention time & March 2, 2014 &  & Gov. of Guinea informed WHO\\
+$\tau$ &110 & & -\\
+\cmidrule{2-4}
+\textbf{Estimated Parameters} & \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+\midrule
+Incubation Time $1/k$ &6.3 & - & based on previous works\\
+Infection Time $1/\gamma$ &5.4957 & [5.43, 5.545] & -\\
+$\beta_0$ &0.2407 & [0.2374, 0.244] & -\\
+$\beta_1$ &0.2084 & [0.2033, 0.2135] & -\\
+$q$ &32 & [0.1, 100] & -\\
+Fatality Rate &0.67 & - & -\\
+$R_0$ &1.323 &[1.295, 1.341] &-\\
+$R_1$ &1.145 & - &-\\
+\end{tabular}
+}
+%\end{table*}
+\parbox{.3\linewidth}{
+%\begin{table*}
+\centering
+\ra{1.3}
+\begin{tabular}{@{}crccc@{}}%\toprule
+\multicolumn{3}{c}{\textbf{Sierra Leone}} &  \\
+\cmidrule{1-3}
+%\multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+%\midrule
+\textit{Value} && \textit{Comments} \\
+\cmidrule{1-3}
+April 23, 2014 &  & one person fell ill \cite{}\\
+0& & -\\
+0& & -\\
+1& & -\\
+0& & -\\
+1& &-\\
+June 12, 2014 &  & Country declared emergency\\
+50 & & -\\
+%\midrule
+%\multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+\cmidrule{1-3}
+\textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+\midrule
+6.3 & - & based on previous works\\
+6.386 & [6.2112, 6.4733] & -\\
+0.356 & [0.3391, 0.3643] & -\\
+0.195 & [0.1926, 0.1988] & -\\
+0.47 & [0.1, 7.07] & -\\
+0.289 & - & -\\
+2.27 & - &-\\
+1.24 & - &-\\
+%\bottomrule
+\end{tabular}
+%\caption{Caption}
+}
+%\bottomrule
+\label{Table:parameter}
+\end{table}
+
+%%%%%%%%%%%%
+
+\begin{table}[h]
+\caption{Parameter estimation for Ebola SEIR model (Liberia \& West Africa overall)}
+\centering
+\tiny
+\parbox{.55\linewidth}
+{\centering
+\ra{1.3}
+\begin{tabular}{@{}crccc@{}}%\toprule
+& \multicolumn{3}{c}{\textbf{Liberia}} &  \\
+%\toprule Liberia Liberia
+%& \multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+\cmidrule{2-4}
+\textbf{Incidenced Dependent Parameters} & \textit{Value} && \textit{Comments} \\
+\midrule
+Initial Case $t_0$ & March 31, 2014 &  & official confirmation two infected \cite{}\\
+$S_0$ & 0& & -\\
+$E_0$ & 0& & -\\
+$I_0$ & 2& & -\\
+$R_0$ & 0& & -\\
+$C_0$ & 2& &-\\
+Intervention time & July 30, 2014 &  & School shutdown\\
+$\tau$ &120 & & -\\
+\midrule
+%& \multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+%\midrule
+\textbf{Estimated Parameters} & \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+\midrule
+Incubation Time $1/k$ &6.3 & - & based on previous works \cite{}\\
+Infection Time $1/\gamma$ &10.5 & [8.32,10.7] & -\\
+$\beta_0$ &0.1697 & [0.167, 0.199] & -\\
+$\beta_1$ &0.0001 & [0.0001, 0.097] & -\\
+$q$ &0.0068 & [0.0059-0.0187] & -\\
+Fatality Rate &0.575 & - & -\\
+$R_0$ &1.78 &- &-\\
+$R_1$ &0.001 & - &-\\
+%\bottomrule
+\end{tabular}
+}
+\parbox{.3\linewidth}
+{\centering
+\ra{1.3}
+\begin{tabular}{@{}crccc@{}}%\toprule
+\multicolumn{3}{c}{\textbf{West Africa}} &  \\
+\cmidrule{1-3}
+%& \multicolumn{3}{c}{ {Incidence Dependent Parameters}} &  \\
+%\midrule
+ \textit{Value} && \textit{Comments} \\
+\midrule
+December 2, 2013 &  & one person fell ill in Guinea\\
+ 0& & -\\
+ 0& & -\\
+ 1& & -\\
+ 0& & -\\
+ 1& &-\\
+ March 2, 2014 &  & Gov. of Guinea informed WHO\\
+110 & & -\\
+\midrule
+%& \multicolumn{3}{c}{ {Estimated Parameters}} &  \\
+%\midrule
+ \textit{Value} & \textit{95\% CI} & \textit{Comments} \\
+\midrule
+6.3 & - & based on previous works \cite{}\\
+6.8 & - & -\\
+0.2 & - & -\\
+0 & - & -\\
+0 & - & -\\
+ & - & -\\
+1.36 &- &-\\
+- & - &-\\
+%\bottomrule
+\end{tabular}
+}
+%\bottomrule
+%\hrule
+\label{Table:parameter2}
+\end{table}
+
+%%%%%%%%%%%%
+
+
+
+\subsection*{Contribution from individual team members}
+{\small
+\begin{itemize}
+\item{Shafi: } Project idea and research, introduction (Section I), literature review (Section II), country level analysis and prediction using
+               compartmental model (Section III), world-wide analysis and prediction (Section V - subsection V-F and V-G). Coding, simulation and
+               plots related to Figures 2, 4, 6 and Tables I, IV, V.
+\item{Mike: } Project idea and research, helped with literature review, data processing and generation of inter-country migration numbers
+(Sections V-B, V-C), helped with performance optimization, parallelization, and EC2 simulation of intra-country percolation model
+(Section IV), generation of global networks, implementation and execution of global network-based SEIR simulation (Section V-D),
+proof-reading of report.
+\item {Romit: } Project idea and research, introduction (Section I), exploring the MCMC approach for compartmental model and developed
+code. Data collection and analysis, coding the two simulation model based on percolation theory and running the simulations on EC2,
+analyzing results and plotting the graphs and generating prediction numbers (Section IV) Figures 3(a), 3(b) Tables IV-A, III.
+\end{itemize}
+}
+
+\end{appendix}
+
+\end{document}
